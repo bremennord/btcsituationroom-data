@@ -1,7 +1,61 @@
 {
- "generated_at": "2026-10-01T06:27:23.629114+00:00",
- "btc_price": 84291.3,
+ "generated_at": "2026-10-01T11:06:37.941889+00:00",
+ "btc_price": 83868.3,
  "predictions": [
+  {
+   "id": 38,
+   "account": "xapa03",
+   "tweet_id": "2105590833873404225",
+   "prediction_date": "2026-10-01T09:29:09+00:00",
+   "asset_or_metric": "BTC",
+   "prediction_type": "PRICE_TARGET",
+   "direction": "DOWN",
+   "target": 78000.0,
+   "target_low": null,
+   "target_high": null,
+   "deadline": null,
+   "time_horizon": null,
+   "conditions": null,
+   "status": "OPEN",
+   "status_note": null,
+   "btc_price_when_prediction_made": 83916.2,
+   "evidence": "Should Bitcoin fall, I expect the range between $78,000 and $80,000 to hold.",
+   "label": "BTC DOWN $78.000",
+   "url": "https://x.com/xapa03/status/2105590833873404225",
+   "verifiable": true,
+   "resolved_at": null,
+   "distance_to_target_pct": -7.0,
+   "updated_by": null,
+   "updates": 35,
+   "change_type": "TARGET_CHANGED"
+  },
+  {
+   "id": 37,
+   "account": "tedpillows",
+   "tweet_id": "2105579134676090890",
+   "prediction_date": "2026-10-01T08:42:40+00:00",
+   "asset_or_metric": "BTC",
+   "prediction_type": "PRICE_TARGET",
+   "direction": "DOWN",
+   "target": null,
+   "target_low": 79000.0,
+   "target_high": 80000.0,
+   "deadline": null,
+   "time_horizon": "soon",
+   "conditions": null,
+   "status": "OPEN",
+   "status_note": null,
+   "btc_price_when_prediction_made": 83916.2,
+   "evidence": "IMO, Bitcoin could tap the $79,000-$80,000 zone soon before any uptrend.",
+   "label": "BTC DOWN $79.000–80.000 (soon)",
+   "url": "https://x.com/tedpillows/status/2105579134676090890",
+   "verifiable": true,
+   "resolved_at": null,
+   "distance_to_target_pct": -5.2,
+   "updated_by": null,
+   "updates": 28,
+   "change_type": "TARGET_CHANGED"
+  },
   {
    "id": 34,
    "account": "xapa03",
@@ -24,7 +78,7 @@
    "url": "https://x.com/xapa03/status/2105404255138206114",
    "verifiable": true,
    "resolved_at": "2026-10-01T06:12:00.942685+00:00",
-   "distance_to_target_pct": -1.5,
+   "distance_to_target_pct": -1.0,
    "updated_by": null,
    "updates": 31,
    "change_type": "CONDITION_CHANGED"
@@ -43,18 +97,18 @@
    "deadline": null,
    "time_horizon": "vor dem nächsten Ziel",
    "conditions": "If Bitcoin is not below 83k/82k by friday 2am",
-   "status": "OPEN",
-   "status_note": null,
+   "status": "UPDATED",
+   "status_note": "BTC DOWN $82.000 (vor dem nächsten Ziel) → BTC DOWN $78.000",
    "btc_price_when_prediction_made": 83564.7,
    "evidence": "If Bitcoin is not below 83k/82k by friday 2am, utc+2 i think we will gonna hit 86 to max 89k and then dump",
    "label": "BTC DOWN $82.000 (vor dem nächsten Ziel)",
    "url": "https://x.com/xapa03/status/2105404255138206114",
    "verifiable": true,
-   "resolved_at": null,
-   "distance_to_target_pct": -2.7,
-   "updated_by": null,
+   "resolved_at": "2026-10-01T09:29:09+00:00",
+   "distance_to_target_pct": -2.2,
+   "updated_by": 38,
    "updates": 32,
-   "change_type": "CONDITION_CHANGED"
+   "change_type": "TARGET_CHANGED"
   },
   {
    "id": 36,
@@ -78,7 +132,7 @@
    "url": "https://x.com/xapa03/status/2105404255138206114",
    "verifiable": true,
    "resolved_at": null,
-   "distance_to_target_pct": 5.6,
+   "distance_to_target_pct": 6.1,
    "updated_by": null,
    "updates": 33,
    "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -105,7 +159,7 @@
    "url": "https://x.com/xapa03/status/2105385190939926892",
    "verifiable": true,
    "resolved_at": "2026-09-30T21:07:45+00:00",
-   "distance_to_target_pct": 1.0,
+   "distance_to_target_pct": 1.5,
    "updated_by": 34,
    "updates": 25,
    "change_type": "CONDITION_CHANGED"
@@ -132,7 +186,7 @@
    "url": "https://x.com/xapa03/status/2105385190939926892",
    "verifiable": true,
    "resolved_at": "2026-09-30T21:07:45+00:00",
-   "distance_to_target_pct": -5.1,
+   "distance_to_target_pct": -4.6,
    "updated_by": 35,
    "updates": 26,
    "change_type": "CONDITION_CHANGED"
@@ -159,7 +213,7 @@
    "url": "https://x.com/xapa03/status/2105385190939926892",
    "verifiable": true,
    "resolved_at": "2026-09-30T21:07:45+00:00",
-   "distance_to_target_pct": 0.4,
+   "distance_to_target_pct": 0.9,
    "updated_by": 36,
    "updates": 21,
    "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -186,7 +240,7 @@
    "url": "https://x.com/killaxbt/status/2105313570669941147",
    "verifiable": true,
    "resolved_at": null,
-   "distance_to_target_pct": -40.7,
+   "distance_to_target_pct": -40.4,
    "updated_by": null,
    "updates": 17,
    "change_type": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -213,7 +267,7 @@
    "url": "https://x.com/killaxbt/status/2105313570669941147",
    "verifiable": true,
    "resolved_at": null,
-   "distance_to_target_pct": 18.6,
+   "distance_to_target_pct": 19.2,
    "updated_by": null,
    "updates": null,
    "change_type": null
@@ -232,18 +286,18 @@
    "deadline": null,
    "time_horizon": null,
    "conditions": null,
-   "status": "OPEN",
-   "status_note": null,
+   "status": "UPDATED",
+   "status_note": "BTC RANGE $85.500 → BTC DOWN $79.000–80.000 (soon)",
    "btc_price_when_prediction_made": 83564.7,
    "evidence": "Until Bitcoin breaks above the $85,500 level, the sideways action will continue.",
    "label": "BTC RANGE $85.500",
    "url": "https://x.com/tedpillows/status/2105239228913488367",
    "verifiable": true,
-   "resolved_at": null,
-   "distance_to_target_pct": 1.4,
-   "updated_by": null,
+   "resolved_at": "2026-10-01T08:42:40+00:00",
+   "distance_to_target_pct": 1.9,
+   "updated_by": 37,
    "updates": null,
-   "change_type": null
+   "change_type": "TARGET_CHANGED"
   },
   {
    "id": 27,
@@ -267,7 +321,7 @@
    "url": "https://x.com/tedpillows/status/2105226143477514542",
    "verifiable": true,
    "resolved_at": null,
-   "distance_to_target_pct": 1.4,
+   "distance_to_target_pct": 1.9,
    "updated_by": null,
    "updates": null,
    "change_type": null
@@ -294,7 +348,7 @@
    "url": "https://x.com/xapa03/status/2105224884272120167",
    "verifiable": true,
    "resolved_at": "2026-09-30T19:52:00+00:00",
-   "distance_to_target_pct": -8.7,
+   "distance_to_target_pct": -8.2,
    "updated_by": 31,
    "updates": 19,
    "change_type": "TARGET_CHANGED"
@@ -321,7 +375,7 @@
    "url": "https://x.com/xapa03/status/2105224884272120167",
    "verifiable": true,
    "resolved_at": "2026-09-30T19:52:00+00:00",
-   "distance_to_target_pct": -12.6,
+   "distance_to_target_pct": -12.2,
    "updated_by": 32,
    "updates": 20,
    "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -348,7 +402,7 @@
    "url": "https://x.com/xapa03/status/2105206747300253876",
    "verifiable": true,
    "resolved_at": "2026-09-30T09:15:00+00:00",
-   "distance_to_target_pct": 0.4,
+   "distance_to_target_pct": 0.9,
    "updated_by": 25,
    "updates": 13,
    "change_type": "TARGET_CHANGED"
@@ -375,7 +429,7 @@
    "url": "https://x.com/xapa03/status/2105206747300253876",
    "verifiable": true,
    "resolved_at": "2026-09-30T09:15:00+00:00",
-   "distance_to_target_pct": -1.8,
+   "distance_to_target_pct": -1.3,
    "updated_by": 26,
    "updates": 14,
    "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -402,7 +456,7 @@
    "url": "https://x.com/xapa03/status/2105206747300253876",
    "verifiable": true,
    "resolved_at": "2026-09-30T19:52:00+00:00",
-   "distance_to_target_pct": -5.4,
+   "distance_to_target_pct": -5.0,
    "updated_by": 33,
    "updates": 9,
    "change_type": "TARGET_CHANGED"
@@ -429,7 +483,7 @@
    "url": "https://x.com/xapa03/status/2105206747300253876",
    "verifiable": true,
    "resolved_at": null,
-   "distance_to_target_pct": -6.3,
+   "distance_to_target_pct": -5.8,
    "updated_by": null,
    "updates": null,
    "change_type": null
@@ -456,7 +510,7 @@
    "url": "https://x.com/xapa03/status/2105206747300253876",
    "verifiable": true,
    "resolved_at": null,
-   "distance_to_target_pct": -11.0,
+   "distance_to_target_pct": -10.6,
    "updated_by": null,
    "updates": null,
    "change_type": null
@@ -483,7 +537,7 @@
    "url": "https://x.com/xapa03/status/2105206747300253876",
    "verifiable": true,
    "resolved_at": null,
-   "distance_to_target_pct": 18.6,
+   "distance_to_target_pct": 19.2,
    "updated_by": null,
    "updates": 10,
    "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -536,7 +590,7 @@
    "url": "https://x.com/killaxbt/status/2105005838540915006",
    "verifiable": true,
    "resolved_at": "2026-09-30T15:07:24+00:00",
-   "distance_to_target_pct": 3.2,
+   "distance_to_target_pct": 3.7,
    "updated_by": 29,
    "updates": 16,
    "change_type": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -563,7 +617,7 @@
    "url": "https://x.com/killaxbt/status/2104946217700446260",
    "verifiable": true,
    "resolved_at": "2026-09-29T18:44:35+00:00",
-   "distance_to_target_pct": -70.3,
+   "distance_to_target_pct": -70.2,
    "updated_by": 17,
    "updates": null,
    "change_type": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -590,7 +644,7 @@
    "url": "https://x.com/tedpillows/status/2104930892951212154",
    "verifiable": true,
    "resolved_at": null,
-   "distance_to_target_pct": -0.3,
+   "distance_to_target_pct": 0.2,
    "updated_by": null,
    "updates": 7,
    "change_type": "TARGET_CHANGED"
@@ -617,7 +671,7 @@
    "url": "https://x.com/xapa03/status/2104844094950293997",
    "verifiable": true,
    "resolved_at": "2026-09-30T08:02:56+00:00",
-   "distance_to_target_pct": -5.9,
+   "distance_to_target_pct": -5.4,
    "updated_by": 19,
    "updates": null,
    "change_type": "TARGET_CHANGED"
@@ -644,7 +698,7 @@
    "url": "https://x.com/xapa03/status/2104844094950293997",
    "verifiable": true,
    "resolved_at": "2026-09-30T08:02:56+00:00",
-   "distance_to_target_pct": -11.0,
+   "distance_to_target_pct": -10.6,
    "updated_by": 20,
    "updates": 8,
    "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED,CONDITION_CHANGED"
@@ -671,7 +725,7 @@
    "url": "https://x.com/killaxbt/status/2104584345407136029",
    "verifiable": true,
    "resolved_at": "2026-09-28T22:53:04+00:00",
-   "distance_to_target_pct": 18.6,
+   "distance_to_target_pct": 19.2,
    "updated_by": null,
    "updates": null,
    "change_type": null
@@ -698,7 +752,7 @@
    "url": "https://x.com/xapa03/status/2104534467310174210",
    "verifiable": true,
    "resolved_at": "2026-09-29T08:01:53+00:00",
-   "distance_to_target_pct": -5.9,
+   "distance_to_target_pct": -5.4,
    "updated_by": 14,
    "updates": 5,
    "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -725,7 +779,7 @@
    "url": "https://x.com/xapa03/status/2104534467310174210",
    "verifiable": true,
    "resolved_at": "2026-09-30T08:02:56+00:00",
-   "distance_to_target_pct": -11.0,
+   "distance_to_target_pct": -10.6,
    "updated_by": 21,
    "updates": 6,
    "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -752,7 +806,7 @@
    "url": "https://x.com/xapa03/status/2104534467310174210",
    "verifiable": true,
    "resolved_at": "2026-09-30T08:02:56+00:00",
-   "distance_to_target_pct": -8.7,
+   "distance_to_target_pct": -8.2,
    "updated_by": 24,
    "updates": null,
    "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -779,7 +833,7 @@
    "url": "https://x.com/xapa03/status/2104534467310174210",
    "verifiable": true,
    "resolved_at": null,
-   "distance_to_target_pct": -6.9,
+   "distance_to_target_pct": -6.4,
    "updated_by": null,
    "updates": null,
    "change_type": null
@@ -806,7 +860,7 @@
    "url": "https://x.com/tedpillows/status/2104490051350786412",
    "verifiable": true,
    "resolved_at": "2026-09-29T13:46:47+00:00",
-   "distance_to_target_pct": -5.7,
+   "distance_to_target_pct": -5.2,
    "updated_by": 15,
    "updates": 1,
    "change_type": "TARGET_CHANGED"
@@ -833,7 +887,7 @@
    "url": "https://x.com/xapa03/status/2104457211585909164",
    "verifiable": true,
    "resolved_at": "2026-09-28T11:31:32+00:00",
-   "distance_to_target_pct": -6.9,
+   "distance_to_target_pct": -6.4,
    "updated_by": 8,
    "updates": 3,
    "change_type": "TIMEFRAME_CHANGED"
@@ -860,7 +914,7 @@
    "url": "https://x.com/xapa03/status/2104457211585909164",
    "verifiable": true,
    "resolved_at": "2026-09-28T11:31:32+00:00",
-   "distance_to_target_pct": -22.9,
+   "distance_to_target_pct": -22.5,
    "updated_by": 9,
    "updates": 4,
    "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -887,7 +941,7 @@
    "url": "https://x.com/xapa03/status/2104149049431445757",
    "verifiable": true,
    "resolved_at": "2026-09-28T06:24:32+00:00",
-   "distance_to_target_pct": 18.6,
+   "distance_to_target_pct": 19.2,
    "updated_by": 5,
    "updates": null,
    "change_type": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -914,7 +968,7 @@
    "url": "https://x.com/xapa03/status/2104149049431445757",
    "verifiable": true,
    "resolved_at": "2026-09-28T06:24:32+00:00",
-   "distance_to_target_pct": -6.9,
+   "distance_to_target_pct": -6.4,
    "updated_by": 6,
    "updates": null,
    "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -941,7 +995,7 @@
    "url": "https://x.com/tedpillows/status/2104134266426974275",
    "verifiable": true,
    "resolved_at": "2026-09-28T08:35:02+00:00",
-   "distance_to_target_pct": -1.5,
+   "distance_to_target_pct": -1.0,
    "updated_by": 7,
    "updates": null,
    "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -968,7 +1022,7 @@
    "url": "https://x.com/tedpillows/status/2104134266426974275",
    "verifiable": true,
    "resolved_at": "2026-10-01T06:12:00.942685+00:00",
-   "distance_to_target_pct": 1.2,
+   "distance_to_target_pct": 1.7,
    "updated_by": null,
    "updates": null,
    "change_type": null
