@@ -1,0 +1,25 @@
+{
+ "state": "ONLINE",
+ "last_run": "2026-10-01T06:34:20.773542+00:00",
+ "last_success": "2026-10-01T06:34:20.773542+00:00",
+ "accounts_ok": 12,
+ "accounts_total": 12,
+ "accounts_failed": [],
+ "stats": {
+  "posts_new": 0,
+  "posts_relevant": 0,
+  "predictions_new": 0,
+  "predictions_updated": 0,
+  "invalidated": 0,
+  "posts_analysed": 0,
+  "evaluated": 0
+ },
+ "errors": [],
+ "analysis": "rules",
+ "schedule": [
+  "07:00",
+  "13:00",
+  "19:00"
+ ],
+ "timezone": "Europe/Berlin"
+}
