@@ -1,0 +1,8 @@
+.env
+data/x_storage_state.json
+data/*.session
+data/intelligence.db
+secrets/
+logs/
+playwright/.auth/
+x-intel/

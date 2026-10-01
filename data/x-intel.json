@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-01T06:34:20.773542+00:00",
- "btc_price": 84161.8,
+ "generated_at": "2026-10-01T06:41:37.186833+00:00",
+ "btc_price": 84076.1,
  "outlook": {
   "BTC": {
    "horizons": {
@@ -32,7 +32,7 @@
      "accounts": 6
     }
    },
-   "scenario": "Mehrheit (7 T): neutral / gemischt. Wahrscheinlichste Zone laut Quellen: $83k bis $85k; Ausbruch über $85k wäre das nächste Signal.",
+   "scenario": "Mehrheit (7 T): neutral / gemischt. Wahrscheinlichste Zone laut Quellen: $83k bis $85k–86k; Ausbruch über $85k–86k wäre das nächste Signal.",
    "risk": "Bruch unter $83k (genannt von @tedpillows, @xapa03)",
    "consensus": {
     "pos": 2,
@@ -42,7 +42,7 @@
    "confidence": "Niedrig",
    "levels": {
     "support": "$83k",
-    "resistance": "$85k"
+    "resistance": "$85k–86k"
    },
    "n_posts": 32,
    "sources": [
@@ -361,7 +361,7 @@
   }
  },
  "changed": {
-  "since": "2026-10-01T06:27:25.423916+00:00",
+  "since": "2026-10-01T06:34:25.336349+00:00",
   "new": [],
   "changed": [],
   "new_consensus": [],
@@ -470,7 +470,7 @@
    "deadline": null,
    "time_horizon": "vor dem nächsten Ziel",
    "prediction_date": "2026-09-30T21:07:45+00:00",
-   "distance_pct": -2.6,
+   "distance_pct": -2.5,
    "conditions": "If Bitcoin is not below 83k/82k by friday 2am",
    "evidence": "If Bitcoin is not below 83k/82k by friday 2am, utc+2 i think we will gonna hit 86 to max 89k and then dump"
   },
@@ -481,7 +481,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-09-30T21:07:45+00:00",
-   "distance_pct": 5.7,
+   "distance_pct": 5.8,
    "conditions": "If Bitcoin is not below 83k/82k by friday 2am",
    "evidence": "If Bitcoin is not below 83k/82k by friday 2am, utc+2 i think we will gonna hit 86 to max 89k and then dump"
   },
@@ -503,7 +503,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-09-30T15:07:24+00:00",
-   "distance_pct": 18.8,
+   "distance_pct": 18.9,
    "conditions": null,
    "evidence": "BREAKING: Odds Bitcoin drops to $50k before $100k plummet to 5%"
   },
@@ -514,7 +514,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-09-30T10:12:00+00:00",
-   "distance_pct": 1.6,
+   "distance_pct": 1.7,
    "conditions": null,
    "evidence": "Until Bitcoin breaks above the $85,500 level, the sideways action will continue."
   }
@@ -629,11 +629,11 @@
  },
  "daily": {
   "report_date": "2026-10-01",
-  "generated_at": "2026-10-01T06:33:45.839646+00:00",
+  "generated_at": "2026-10-01T06:40:35.235302+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-09-30T06:33:45.833980+00:00",
-   "to": "2026-10-01T06:33:45.839646+00:00"
+   "from": "2026-09-30T06:40:35.229452+00:00",
+   "to": "2026-10-01T06:40:35.235302+00:00"
   },
   "key_points": [
    {
