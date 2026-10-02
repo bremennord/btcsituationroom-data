@@ -1,20 +1,16 @@
 {
  "state": "DEGRADED",
- "last_run": "2026-10-02T11:06:40.884203+00:00",
- "last_success": "2026-10-02T11:06:40.884203+00:00",
- "accounts_ok": 7,
+ "last_run": "2026-10-02T17:06:50.569626+00:00",
+ "last_success": "2026-10-02T17:06:50.569626+00:00",
+ "accounts_ok": 8,
  "accounts_total": 12,
  "accounts_failed": [
   {
-   "handle": "killaxbt",
+   "handle": "zerohedge",
    "error": "Account nicht verfügbar (HTTP 404)"
   },
   {
-   "handle": "osint613",
-   "error": "Account nicht verfügbar (HTTP 404)"
-  },
-  {
-   "handle": "tuurdemeester",
+   "handle": "tedpillows",
    "error": "Account nicht verfügbar (HTTP 404)"
   },
   {
@@ -22,17 +18,17 @@
    "error": "Account nicht verfügbar (HTTP 404)"
   },
   {
-   "handle": "timevalueofbtc",
+   "handle": "nolimitgains",
    "error": "Account nicht verfügbar (HTTP 404)"
   }
  ],
  "stats": {
-  "posts_new": 28,
-  "posts_relevant": 4,
-  "predictions_new": 3,
-  "predictions_updated": 2,
+  "posts_new": 73,
+  "posts_relevant": 10,
+  "predictions_new": 2,
+  "predictions_updated": 1,
   "invalidated": 0,
-  "posts_analysed": 28,
+  "posts_analysed": 73,
   "evaluated": 0
  },
  "errors": [],
