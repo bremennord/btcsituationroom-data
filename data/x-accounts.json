@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-03T17:04:52.505037+00:00",
+ "generated_at": "2026-10-04T05:07:18.363777+00:00",
  "accounts": [
   {
    "handle": "killaxbt",
    "display_name": "Killa",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-10-03T11:02:05.865197+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-10-04T05:02:00.543165+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
@@ -55,7 +55,7 @@
      "url": "https://x.com/killaxbt/status/2106071714186866781",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": 14.3,
+     "distance_to_target_pct": 14.4,
      "updated_by": null,
      "updates": 48,
      "change_type": "TARGET_CHANGED"
@@ -108,7 +108,7 @@
      "url": "https://x.com/killaxbt/status/2106071714186866781",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": 17.8,
+     "distance_to_target_pct": 17.9,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -164,7 +164,7 @@
      "url": "https://x.com/killaxbt/status/2105711354665714108",
      "verifiable": true,
      "resolved_at": "2026-10-02T15:26:38+00:00",
-     "distance_to_target_pct": 17.8,
+     "distance_to_target_pct": 17.9,
      "updated_by": 48,
      "updates": 29,
      "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -191,7 +191,7 @@
      "url": "https://x.com/killaxbt/status/2105711354665714108",
      "verifiable": true,
      "resolved_at": "2026-10-02T17:20:00+00:00",
-     "distance_to_target_pct": 100.3,
+     "distance_to_target_pct": 100.4,
      "updated_by": 54,
      "updates": 30,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -245,7 +245,7 @@
      "url": "https://x.com/killaxbt/status/2105313570669941147",
      "verifiable": true,
      "resolved_at": "2026-10-01T17:28:03+00:00",
-     "distance_to_target_pct": 17.8,
+     "distance_to_target_pct": 17.9,
      "updated_by": 40,
      "updates": null,
      "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -272,7 +272,7 @@
      "url": "https://x.com/killaxbt/status/2105005838540915006",
      "verifiable": true,
      "resolved_at": "2026-09-30T15:07:24+00:00",
-     "distance_to_target_pct": 2.5,
+     "distance_to_target_pct": 2.6,
      "updated_by": 29,
      "updates": 16,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -326,7 +326,7 @@
      "url": "https://x.com/killaxbt/status/2104584345407136029",
      "verifiable": true,
      "resolved_at": "2026-09-28T22:53:04+00:00",
-     "distance_to_target_pct": 17.8,
+     "distance_to_target_pct": 17.9,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -365,19 +365,19 @@
    "handle": "xapa03",
    "display_name": "XAPA",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-10-03T11:02:05.865197+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-10-04T05:02:00.543165+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
-     "stance": "neutral",
-     "posts": 15,
+     "stance": "bearish",
+     "posts": 16,
      "last": {
-      "tweet_id": "2106317322612859164",
-      "text": "Measured from the last weekly candle inside the green zone of the TEM, ETH found its peak within 35 days.\n\nThe top occurred exactly after 35 days (on the weekly timeframe), and the attempt to break out that week resulted",
-      "url": "https://x.com/xapa03/status/2106317322612859164",
-      "timestamp": "2026-10-03T09:35:57+00:00"
+      "tweet_id": "2106354737733935369",
+      "text": "#ShortTermSaturday Episode 2 (10/03/26)📈\n\n\n\n✒️My dear followers,\n\n\n\nI have been astonished by your feedback and the resonance my first #ShortTermSaturday post has brought me in. I think, I really hit the nail in the coff",
+      "url": "https://x.com/thebtcfrontierx/status/2106354737733935369",
+      "timestamp": "2026-10-03T12:04:38+00:00"
      }
     },
     "LIQUIDITY": {
@@ -450,7 +450,7 @@
      "url": "https://x.com/xapa03/status/2105712489413349696",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": 17.8,
+     "distance_to_target_pct": 17.9,
      "updated_by": null,
      "updates": 36,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -531,7 +531,7 @@
      "url": "https://x.com/xapa03/status/2105206747300253876",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": 17.8,
+     "distance_to_target_pct": 17.9,
      "updated_by": null,
      "updates": 10,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -614,7 +614,7 @@
      "url": "https://x.com/xapa03/status/2105590833873404225",
      "verifiable": true,
      "resolved_at": "2026-10-01T17:32:34+00:00",
-     "distance_to_target_pct": -8.1,
+     "distance_to_target_pct": -8.0,
      "updated_by": 41,
      "updates": 35,
      "change_type": "TARGET_CHANGED"
@@ -641,7 +641,7 @@
      "url": "https://x.com/xapa03/status/2105404255138206114",
      "verifiable": true,
      "resolved_at": "2026-10-01T06:12:00.942685+00:00",
-     "distance_to_target_pct": -2.2,
+     "distance_to_target_pct": -2.1,
      "updated_by": null,
      "updates": 31,
      "change_type": "CONDITION_CHANGED"
@@ -668,7 +668,7 @@
      "url": "https://x.com/xapa03/status/2105404255138206114",
      "verifiable": true,
      "resolved_at": "2026-10-01T09:29:09+00:00",
-     "distance_to_target_pct": -3.4,
+     "distance_to_target_pct": -3.3,
      "updated_by": 38,
      "updates": 32,
      "change_type": "TARGET_CHANGED"
@@ -803,7 +803,7 @@
      "url": "https://x.com/xapa03/status/2105224884272120167",
      "verifiable": true,
      "resolved_at": "2026-09-30T19:52:00+00:00",
-     "distance_to_target_pct": -9.3,
+     "distance_to_target_pct": -9.2,
      "updated_by": 31,
      "updates": 19,
      "change_type": "TARGET_CHANGED"
@@ -870,18 +870,18 @@
    "display_name": "Open Source Intel",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-03T17:01:51.290724+00:00",
+    "last_ok_at": "2026-10-04T05:02:00.543165+00:00",
     "error": null
    },
    "bias": {
     "GEO": {
      "stance": "elevated",
-     "posts": 64,
+     "posts": 79,
      "last": {
-      "tweet_id": "2106427488071209328",
-      "text": "Two Palestinian Islamic Jihad commanders were killed in Israeli airstrikes in Gaza City yesterday, according to the IDF. Ahmed Mahmoud Khar Ramlaoui commanded a rocket unit in the group's Shejaiya Battalion. Munir Ibrahi",
-      "url": "https://x.com/osint613/status/2106427488071209328",
-      "timestamp": "2026-10-03T16:53:43+00:00"
+      "tweet_id": "2106512330838151289",
+      "text": "NOW: A large fire (~51 megawatts) was detected at the Saudi Aramco’s Yanbu oil refinery approximately 40mins ago.\n\n\n\nThis comes after unconfirmed reports of missile launches from Yemen.\n\n\n\nContributed by: @BeamTracker_",
+      "url": "https://x.com/osint613/status/2106512330838151289",
+      "timestamp": "2026-10-03T22:30:51+00:00"
      }
     }
    },
@@ -922,7 +922,7 @@
    "display_name": "Tuur Demeester",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-03T17:01:51.290724+00:00",
+    "last_ok_at": "2026-10-04T05:02:00.543165+00:00",
     "error": null
    },
    "bias": {},
@@ -963,7 +963,7 @@
    "display_name": "Tyler",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-03T17:01:51.290724+00:00",
+    "last_ok_at": "2026-10-04T05:02:00.543165+00:00",
     "error": null
    },
    "bias": {
@@ -1015,7 +1015,7 @@
    "display_name": "zerohedge",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-03T17:01:51.290724+00:00",
+    "last_ok_at": "2026-10-04T05:02:00.543165+00:00",
     "error": null
    },
    "bias": {
@@ -1051,12 +1051,12 @@
     },
     "GEO": {
      "stance": "elevated",
-     "posts": 17,
+     "posts": 18,
      "last": {
-      "tweet_id": "2106417772037107854",
-      "text": "US Again Rebuffs Riyadh's Yemen Plea As 100,000-Man Force Readies For War https://www.zerohedge.com/geopolitical/us-again-rebuffs-riyadhs-yemen-plea-100000-man-force-readies-war",
-      "url": "https://x.com/zerohedge/status/2106417772037107854",
-      "timestamp": "2026-10-03T16:15:06+00:00"
+      "tweet_id": "2106523400311366143",
+      "text": "gonna need a bigger diesel emergency reserve release...\nIn an exclusive interview with Reuters, President Volodymyr Zelenskiy said Ukraine will step up attacks on Russian oil refineries in response to Moscow's new policy",
+      "url": "https://x.com/zerohedge/status/2106523400311366143",
+      "timestamp": "2026-10-03T23:14:50+00:00"
      }
     }
    },
@@ -1097,7 +1097,7 @@
    "display_name": "Emanuel Boeminghaus",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-03T17:01:51.290724+00:00",
+    "last_ok_at": "2026-10-04T05:02:00.543165+00:00",
     "error": null
    },
    "bias": {
@@ -1149,7 +1149,7 @@
    "display_name": "Ted",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-03T17:01:51.290724+00:00",
+    "last_ok_at": "2026-10-04T05:02:00.543165+00:00",
     "error": null
    },
    "bias": {
@@ -1273,7 +1273,7 @@
      "url": "https://x.com/tedpillows/status/2106316577616363767",
      "verifiable": true,
      "resolved_at": "2026-10-03T14:44:18+00:00",
-     "distance_to_target_pct": 2.5,
+     "distance_to_target_pct": 2.6,
      "updated_by": 58,
      "updates": null,
      "change_type": "CONDITION_CHANGED"
@@ -1327,7 +1327,7 @@
      "url": "https://x.com/tedpillows/status/2106022448911065199",
      "verifiable": true,
      "resolved_at": "2026-10-02T17:30:56+00:00",
-     "distance_to_target_pct": 3.1,
+     "distance_to_target_pct": 3.2,
      "updated_by": 52,
      "updates": 44,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -1407,7 +1407,7 @@
      "url": "https://x.com/tedpillows/status/2105942922063749240",
      "verifiable": true,
      "resolved_at": "2026-10-02T14:04:14+00:00",
-     "distance_to_target_pct": 2.5,
+     "distance_to_target_pct": 2.6,
      "updated_by": 50,
      "updates": 15,
      "change_type": "CONDITION_CHANGED"
@@ -1434,7 +1434,7 @@
      "url": "https://x.com/tedpillows/status/2105942922063749240",
      "verifiable": true,
      "resolved_at": "2026-10-02T14:04:14+00:00",
-     "distance_to_target_pct": 3.1,
+     "distance_to_target_pct": 3.2,
      "updated_by": 51,
      "updates": null,
      "change_type": "TARGET_CHANGED"
@@ -1461,7 +1461,7 @@
      "url": "https://x.com/tedpillows/status/2105712992130122208",
      "verifiable": true,
      "resolved_at": "2026-10-02T05:02:04.823996+00:00",
-     "distance_to_target_pct": 1.3,
+     "distance_to_target_pct": 1.4,
      "updated_by": null,
      "updates": 37,
      "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -1554,11 +1554,31 @@
    "handle": "jameslavish",
    "display_name": "James Lavish",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-10-03T11:02:05.865197+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-10-04T05:02:00.543165+00:00",
+    "error": null
    },
    "bias": {
+    "BTC": {
+     "stance": "bullish",
+     "posts": 1,
+     "last": {
+      "tweet_id": "2106434376301166768",
+      "text": "IMPORTANT POST\n\n\n\nOur industry became too focused on protecting downside risk and inadequately focused on maximizing Total Returns to the upside.\n\n\n\nIn my view, the entire purpose of our structured finance business model",
+      "url": "https://x.com/colemacro/status/2106434376301166768",
+      "timestamp": "2026-10-03T17:21:05+00:00"
+     }
+    },
+    "LIQUIDITY": {
+     "stance": "expanding",
+     "posts": 1,
+     "last": {
+      "tweet_id": "2106434376301166768",
+      "text": "IMPORTANT POST\n\n\n\nOur industry became too focused on protecting downside risk and inadequately focused on maximizing Total Returns to the upside.\n\n\n\nIn my view, the entire purpose of our structured finance business model",
+      "url": "https://x.com/colemacro/status/2106434376301166768",
+      "timestamp": "2026-10-03T17:21:05+00:00"
+     }
+    },
     "FED": {
      "stance": "tightening",
      "posts": 1,
@@ -1571,7 +1591,8 @@
     }
    },
    "thesis_changes": [],
-   "open_predictions": [
+   "open_predictions": [],
+   "previous_predictions": [
     {
      "id": 56,
      "account": "jameslavish",
@@ -1586,43 +1607,42 @@
      "deadline": "2026-10-03T20:12:41+00:00",
      "time_horizon": "today",
      "conditions": "If you were selling gold and bitcoin today",
-     "status": "OPEN",
-     "status_note": null,
+     "status": "WRONG",
+     "status_note": "Seitwärts (+0.1 %)",
      "btc_price_when_prediction_made": 84624.9,
      "evidence": "If you were selling gold and bitcoin today, it will prove to have been a massive mistake.",
      "label": "BTC DOWN (today)",
      "url": "https://x.com/jameslavish/status/2106205769683370247",
      "verifiable": true,
-     "resolved_at": null,
+     "resolved_at": "2026-10-04T05:02:00.852453+00:00",
      "updated_by": null,
      "updates": null,
      "change_type": null
     }
    ],
-   "previous_predictions": [],
    "track_record": {
     "total": 1,
-    "open": 1,
+    "open": 0,
     "correct": 0,
     "partially_correct": 0,
-    "wrong": 0,
+    "wrong": 1,
     "expired": 0,
     "updated": 0,
     "invalidated": 0,
-    "closed": 0,
+    "closed": 1,
     "hit_30d": {
      "rate": null,
-     "n": 0,
+     "n": 1,
      "label": "INSUFFICIENT SAMPLE SIZE"
     },
     "hit_90d": {
      "rate": null,
-     "n": 0,
+     "n": 1,
      "label": "INSUFFICIENT SAMPLE SIZE"
     },
     "hit_all": {
      "rate": null,
-     "n": 0,
+     "n": 1,
      "label": "INSUFFICIENT SAMPLE SIZE"
     }
    },
@@ -1634,7 +1654,7 @@
    "display_name": "Nik Bhatia",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-03T17:01:51.290724+00:00",
+    "last_ok_at": "2026-10-04T05:02:00.543165+00:00",
     "error": null
    },
    "bias": {
@@ -1695,9 +1715,9 @@
    "handle": "danheld",
    "display_name": "Dan Held",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-10-03T11:02:05.865197+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-10-04T05:02:00.543165+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
@@ -1748,7 +1768,7 @@
    "display_name": "NoLimit",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-03T17:01:51.290724+00:00",
+    "last_ok_at": "2026-10-04T05:02:00.543165+00:00",
     "error": null
    },
    "bias": {

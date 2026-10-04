@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-03T17:04:52.505037+00:00",
- "btc_price": 84859.7,
+ "generated_at": "2026-10-04T05:07:18.363777+00:00",
+ "btc_price": 84823.4,
  "predictions": [
   {
    "id": 58,
@@ -51,7 +51,7 @@
    "url": "https://x.com/tedpillows/status/2106316577616363767",
    "verifiable": true,
    "resolved_at": "2026-10-03T14:44:18+00:00",
-   "distance_to_target_pct": 2.5,
+   "distance_to_target_pct": 2.6,
    "updated_by": 58,
    "updates": null,
    "change_type": "CONDITION_CHANGED"
@@ -70,14 +70,14 @@
    "deadline": "2026-10-03T20:12:41+00:00",
    "time_horizon": "today",
    "conditions": "If you were selling gold and bitcoin today",
-   "status": "OPEN",
-   "status_note": null,
+   "status": "WRONG",
+   "status_note": "Seitwärts (+0.1 %)",
    "btc_price_when_prediction_made": 84624.9,
    "evidence": "If you were selling gold and bitcoin today, it will prove to have been a massive mistake.",
    "label": "BTC DOWN (today)",
    "url": "https://x.com/jameslavish/status/2106205769683370247",
    "verifiable": true,
-   "resolved_at": null,
+   "resolved_at": "2026-10-04T05:02:00.852453+00:00",
    "updated_by": null,
    "updates": null,
    "change_type": null
@@ -131,7 +131,7 @@
    "url": "https://x.com/killaxbt/status/2106071714186866781",
    "verifiable": true,
    "resolved_at": null,
-   "distance_to_target_pct": 14.3,
+   "distance_to_target_pct": 14.4,
    "updated_by": null,
    "updates": 48,
    "change_type": "TARGET_CHANGED"
@@ -184,7 +184,7 @@
    "url": "https://x.com/killaxbt/status/2106071714186866781",
    "verifiable": true,
    "resolved_at": null,
-   "distance_to_target_pct": 17.8,
+   "distance_to_target_pct": 17.9,
    "updated_by": null,
    "updates": null,
    "change_type": null
@@ -265,7 +265,7 @@
    "url": "https://x.com/tedpillows/status/2106022448911065199",
    "verifiable": true,
    "resolved_at": "2026-10-02T17:30:56+00:00",
-   "distance_to_target_pct": 3.1,
+   "distance_to_target_pct": 3.2,
    "updated_by": 52,
    "updates": 44,
    "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -371,7 +371,7 @@
    "url": "https://x.com/tedpillows/status/2105942922063749240",
    "verifiable": true,
    "resolved_at": "2026-10-02T14:04:14+00:00",
-   "distance_to_target_pct": 2.5,
+   "distance_to_target_pct": 2.6,
    "updated_by": 50,
    "updates": 15,
    "change_type": "CONDITION_CHANGED"
@@ -398,7 +398,7 @@
    "url": "https://x.com/tedpillows/status/2105942922063749240",
    "verifiable": true,
    "resolved_at": "2026-10-02T14:04:14+00:00",
-   "distance_to_target_pct": 3.1,
+   "distance_to_target_pct": 3.2,
    "updated_by": 51,
    "updates": null,
    "change_type": "TARGET_CHANGED"
@@ -425,7 +425,7 @@
    "url": "https://x.com/tedpillows/status/2105712992130122208",
    "verifiable": true,
    "resolved_at": "2026-10-02T05:02:04.823996+00:00",
-   "distance_to_target_pct": 1.3,
+   "distance_to_target_pct": 1.4,
    "updated_by": null,
    "updates": 37,
    "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -479,7 +479,7 @@
    "url": "https://x.com/xapa03/status/2105712489413349696",
    "verifiable": true,
    "resolved_at": null,
-   "distance_to_target_pct": 17.8,
+   "distance_to_target_pct": 17.9,
    "updated_by": null,
    "updates": 36,
    "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -506,7 +506,7 @@
    "url": "https://x.com/killaxbt/status/2105711354665714108",
    "verifiable": true,
    "resolved_at": "2026-10-02T15:26:38+00:00",
-   "distance_to_target_pct": 17.8,
+   "distance_to_target_pct": 17.9,
    "updated_by": 48,
    "updates": 29,
    "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -533,7 +533,7 @@
    "url": "https://x.com/killaxbt/status/2105711354665714108",
    "verifiable": true,
    "resolved_at": "2026-10-02T17:20:00+00:00",
-   "distance_to_target_pct": 100.3,
+   "distance_to_target_pct": 100.4,
    "updated_by": 54,
    "updates": 30,
    "change_type": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -560,7 +560,7 @@
    "url": "https://x.com/xapa03/status/2105590833873404225",
    "verifiable": true,
    "resolved_at": "2026-10-01T17:32:34+00:00",
-   "distance_to_target_pct": -8.1,
+   "distance_to_target_pct": -8.0,
    "updated_by": 41,
    "updates": 35,
    "change_type": "TARGET_CHANGED"
@@ -614,7 +614,7 @@
    "url": "https://x.com/xapa03/status/2105404255138206114",
    "verifiable": true,
    "resolved_at": "2026-10-01T06:12:00.942685+00:00",
-   "distance_to_target_pct": -2.2,
+   "distance_to_target_pct": -2.1,
    "updated_by": null,
    "updates": 31,
    "change_type": "CONDITION_CHANGED"
@@ -641,7 +641,7 @@
    "url": "https://x.com/xapa03/status/2105404255138206114",
    "verifiable": true,
    "resolved_at": "2026-10-01T09:29:09+00:00",
-   "distance_to_target_pct": -3.4,
+   "distance_to_target_pct": -3.3,
    "updated_by": 38,
    "updates": 32,
    "change_type": "TARGET_CHANGED"
@@ -803,7 +803,7 @@
    "url": "https://x.com/killaxbt/status/2105313570669941147",
    "verifiable": true,
    "resolved_at": "2026-10-01T17:28:03+00:00",
-   "distance_to_target_pct": 17.8,
+   "distance_to_target_pct": 17.9,
    "updated_by": 40,
    "updates": null,
    "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -884,7 +884,7 @@
    "url": "https://x.com/xapa03/status/2105224884272120167",
    "verifiable": true,
    "resolved_at": "2026-09-30T19:52:00+00:00",
-   "distance_to_target_pct": -9.3,
+   "distance_to_target_pct": -9.2,
    "updated_by": 31,
    "updates": 19,
    "change_type": "TARGET_CHANGED"
@@ -992,7 +992,7 @@
    "url": "https://x.com/xapa03/status/2105206747300253876",
    "verifiable": true,
    "resolved_at": "2026-09-30T19:52:00+00:00",
-   "distance_to_target_pct": -6.1,
+   "distance_to_target_pct": -6.0,
    "updated_by": 33,
    "updates": 9,
    "change_type": "TARGET_CHANGED"
@@ -1073,7 +1073,7 @@
    "url": "https://x.com/xapa03/status/2105206747300253876",
    "verifiable": true,
    "resolved_at": null,
-   "distance_to_target_pct": 17.8,
+   "distance_to_target_pct": 17.9,
    "updated_by": null,
    "updates": 10,
    "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -1126,7 +1126,7 @@
    "url": "https://x.com/killaxbt/status/2105005838540915006",
    "verifiable": true,
    "resolved_at": "2026-09-30T15:07:24+00:00",
-   "distance_to_target_pct": 2.5,
+   "distance_to_target_pct": 2.6,
    "updated_by": 29,
    "updates": 16,
    "change_type": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -1207,7 +1207,7 @@
    "url": "https://x.com/xapa03/status/2104844094950293997",
    "verifiable": true,
    "resolved_at": "2026-09-30T08:02:56+00:00",
-   "distance_to_target_pct": -6.6,
+   "distance_to_target_pct": -6.5,
    "updated_by": 19,
    "updates": null,
    "change_type": "TARGET_CHANGED"
@@ -1261,7 +1261,7 @@
    "url": "https://x.com/killaxbt/status/2104584345407136029",
    "verifiable": true,
    "resolved_at": "2026-09-28T22:53:04+00:00",
-   "distance_to_target_pct": 17.8,
+   "distance_to_target_pct": 17.9,
    "updated_by": null,
    "updates": null,
    "change_type": null
@@ -1288,7 +1288,7 @@
    "url": "https://x.com/xapa03/status/2104534467310174210",
    "verifiable": true,
    "resolved_at": "2026-09-29T08:01:53+00:00",
-   "distance_to_target_pct": -6.6,
+   "distance_to_target_pct": -6.5,
    "updated_by": 14,
    "updates": 5,
    "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -1342,7 +1342,7 @@
    "url": "https://x.com/xapa03/status/2104534467310174210",
    "verifiable": true,
    "resolved_at": "2026-09-30T08:02:56+00:00",
-   "distance_to_target_pct": -9.3,
+   "distance_to_target_pct": -9.2,
    "updated_by": 24,
    "updates": null,
    "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -1477,7 +1477,7 @@
    "url": "https://x.com/xapa03/status/2104149049431445757",
    "verifiable": true,
    "resolved_at": "2026-09-28T06:24:32+00:00",
-   "distance_to_target_pct": 17.8,
+   "distance_to_target_pct": 17.9,
    "updated_by": 5,
    "updates": null,
    "change_type": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -1531,7 +1531,7 @@
    "url": "https://x.com/tedpillows/status/2104134266426974275",
    "verifiable": true,
    "resolved_at": "2026-09-28T08:35:02+00:00",
-   "distance_to_target_pct": -2.2,
+   "distance_to_target_pct": -2.1,
    "updated_by": 7,
    "updates": null,
    "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -1558,7 +1558,7 @@
    "url": "https://x.com/tedpillows/status/2104134266426974275",
    "verifiable": true,
    "resolved_at": "2026-10-01T06:12:00.942685+00:00",
-   "distance_to_target_pct": 0.5,
+   "distance_to_target_pct": 0.6,
    "updated_by": null,
    "updates": null,
    "change_type": null
