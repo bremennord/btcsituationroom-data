@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-04T17:07:39.521628+00:00",
- "btc_price": 85378.6,
+ "generated_at": "2026-10-05T05:11:13.606049+00:00",
+ "btc_price": 85500.9,
  "outlook": {
   "BTC": {
    "horizons": {
@@ -44,7 +44,7 @@
     "support": "$78k–85k",
     "resistance": "$86k–88k"
    },
-   "n_posts": 50,
+   "n_posts": 48,
    "sources": [
     {
      "account": "tedpillows",
@@ -137,18 +137,25 @@
    },
    "drivers": [
     "Fed restriktiv (8)",
-    "steigende Renditen (7)",
-    "wachsende Liquidität (6)"
+    "wachsende Liquidität (7)",
+    "steigende Renditen (7)"
    ],
-   "risk": "Anstehende Termine in den Posts: EARNINGS (6×), PCE (6×), FOMC (3×)",
+   "risk": "Anstehende Termine in den Posts: EARNINGS (7×), PCE (6×), FOMC (3×)",
    "consensus": {
     "pos": 2,
     "neu": 0,
     "neg": 6
    },
    "confidence": "Hoch",
-   "n_posts": 28,
+   "n_posts": 29,
    "sources": [
+    {
+     "account": "osint613",
+     "tweet_id": "2106805528219312265",
+     "url": "https://x.com/osint613/status/2106805528219312265",
+     "summary": "German Chancellor Merz: \"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14%…",
+     "timestamp": "2026-10-04T17:55:55+00:00"
+    },
     {
      "account": "xapa03",
      "tweet_id": "2106317322612859164",
@@ -197,13 +204,6 @@
      "url": "https://x.com/tedpillows/status/2105203348563800357",
      "summary": "🇺🇸 Fed is no longer projected to hike rates next month.",
      "timestamp": "2026-09-30T07:49:25+00:00"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2104512188681765128",
-     "url": "https://x.com/tedpillows/status/2104512188681765128",
-     "summary": "Big Week Ahead For Crypto Holders 🚨 ▫️ 28th September: The US market opens after Trump rejected Iran's deal. ▫️ 29th September: JOLTs Job Opening data ▫️ 30th September: US Q2 GDP…",
-     "timestamp": "2026-09-28T10:03:00+00:00"
     }
    ]
   },
@@ -243,8 +243,15 @@
     "neg": 1
    },
    "confidence": "Mittel",
-   "n_posts": 9,
+   "n_posts": 10,
    "sources": [
+    {
+     "account": "osint613",
+     "tweet_id": "2106805528219312265",
+     "url": "https://x.com/osint613/status/2106805528219312265",
+     "summary": "German Chancellor Merz: \"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14%…",
+     "timestamp": "2026-10-04T17:55:55+00:00"
+    },
     {
      "account": "xapa03",
      "tweet_id": "2106317322612859164",
@@ -293,13 +300,6 @@
      "url": "https://x.com/osint613/status/2106769695877779914",
      "summary": "Energy Secretary Wright: \"We've got increasing supplies coming out of the Strait of Hormuz, and they've continued to rise.\" Media",
      "timestamp": "2026-10-04T15:33:32+00:00"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2106786821413699673",
-     "url": "https://x.com/osint613/status/2106786821413699673",
-     "summary": "A female NCO from Unit 8200, identified only as V., was awarded a certificate of appreciation by IDF Chief of Staff Eyal Zamir. Before October 7 she warned that Hamas was ready to…",
-     "timestamp": "2026-10-04T16:41:35+00:00"
     }
    ]
   },
@@ -308,7 +308,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 64,
+     "posts": 57,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -318,7 +318,7 @@
     },
     {
      "name": "Russland / Ukraine",
-     "posts": 27,
+     "posts": 23,
      "impact": [
       "Energie ↑",
       "Europa-Risiko ↑",
@@ -326,21 +326,21 @@
      ]
     }
    ],
-   "n_posts": 116,
+   "n_posts": 101,
    "sources": [
+    {
+     "account": "osint613",
+     "tweet_id": "2106805528219312265",
+     "url": "https://x.com/osint613/status/2106805528219312265",
+     "summary": "German Chancellor Merz: \"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14%…",
+     "timestamp": "2026-10-04T17:55:55+00:00"
+    },
     {
      "account": "jameslavish",
      "tweet_id": "2106205769683370247",
      "url": "https://x.com/jameslavish/status/2106205769683370247",
      "summary": "Good evening. If you were selling gold and bitcoin today, it will prove to have been a massive mistake. Have a great night. BREAKING: President Trump says higher US inflation will…",
      "timestamp": "2026-10-03T02:12:41+00:00"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2105722141576479191",
-     "url": "https://x.com/osint613/status/2105722141576479191",
-     "summary": "Treasury Secretary Scott Bessent has sanctioned the Russia-linked A7 Network, a shadow bank the IRGC used to evade U.S. sanctions, and cut into Iran's industrial base by targeting…",
-     "timestamp": "2026-10-01T18:10:55+00:00"
     },
     {
      "account": "timevalueofbtc",
@@ -355,13 +355,6 @@
      "url": "https://x.com/osint613/status/2106438785206788101",
      "summary": "Treasury Secretary Scott Bessent says Iran will be left with no revenues. \"For the first time in history, since they started pumping oil, they will have no oil on the water this…",
      "timestamp": "2026-10-03T17:38:36+00:00"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2105733176320491887",
-     "url": "https://x.com/tedpillows/status/2105733176320491887",
-     "summary": "BTC is up today. Stocks are up today. Gold is up today. Silver is up today. Oil is up today. DXY is up today. Even bonds are up today. Nothing makes sense here.",
-     "timestamp": "2026-10-01T18:54:46+00:00"
     },
     {
      "account": "zerohedge",
@@ -383,35 +376,48 @@
      "url": "https://x.com/osint613/status/2106424878664413413",
      "summary": "A video was also released by locals, showing the facility burning. At least three oil storage tanks were targeted in the attacks. Media Overnight, Houthi forces struck the Aramco…",
      "timestamp": "2026-10-03T16:43:21+00:00"
+    },
+    {
+     "account": "osint613",
+     "tweet_id": "2106424245253247340",
+     "url": "https://x.com/osint613/status/2106424245253247340",
+     "summary": "Overnight, Houthi forces struck the Aramco Oil facility in Riyadh, Saudi Arabia, with ballistic missiles. Satellite imagery shows a large plume of smoke originating from the…",
+     "timestamp": "2026-10-03T16:40:50+00:00"
     }
    ],
    "impact_kind": "Typisches Marktmuster (Systemeinschätzung, keine Prognose)"
   }
  },
  "changed": {
-  "since": "2026-10-04T11:07:03.928208+00:00",
+  "since": "2026-10-04T17:07:48.748334+00:00",
   "new": [
    {
-    "account": "tedpillows",
-    "text": "BTC UP $87.500",
-    "url": "https://x.com/tedpillows/status/2106752701367500983"
-   },
-   {
-    "account": "tedpillows",
-    "text": "$BTC has large sell orders in the $87,500-$90,000 zone. If spot demand picks up, Bitcoin could quickly rally above $87,500. Media",
-    "url": "https://x.com/tedpillows/status/2106752701367500983"
+    "account": "osint613",
+    "text": "German Chancellor Merz: \"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14%…",
+    "url": "https://x.com/osint613/status/2106805528219312265"
    }
   ],
   "changed": [],
-  "new_consensus": [
-   "Makro: Risk-Off → leicht Risk-Off"
-  ],
+  "new_consensus": [],
   "no_change": [
    "Bitcoin bleibt bullisch",
-   "Liquidität bleibt leicht expandierend"
+   "Makro bleibt leicht Risk-Off",
+   "Liquidität bleibt leicht expandierend",
+   "Geopolitisches Risiko bleibt Hoch"
   ]
  },
  "important_posts": [
+  {
+   "account": "osint613",
+   "tweet_id": "2106805528219312265",
+   "url": "https://x.com/osint613/status/2106805528219312265",
+   "summary": "German Chancellor Merz: \"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14%…",
+   "timestamp": "2026-10-04T17:55:55+00:00",
+   "category": "INFLATION",
+   "relevance": 100,
+   "text": "German Chancellor Merz:\n\n\n\n\"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14% central-bank rate, falling oil and gas revenues and an increasingly large state deficit.\"",
+   "why": "Mögliche Wirkung auf Öl, Gold, Risiko-Assets"
+  },
   {
    "account": "tedpillows",
    "tweet_id": "2106752701367500983",
@@ -488,17 +494,6 @@
    "relevance": 100,
    "text": "Bitcoin rejected after a 5,6% pump, exactly like 2023.\n\nA clear reason for me to enter the short trade and close my long positions.\n\nI am very bullish and i will start to build my swing long position soon, because i expect the bullish crossover between 5.10 and 12.10. ⌛️\n\nClean entry, clean exit.\n\n\n\nDo not miss any live trades and join XAPA's WORLD\n\n\n\nhttp://discord.gg/xapa\n\n\n\nbitcoin:native\n\n\nThe HTF weekly pattern ",
    "why": "Konkrete Prognose: BTC DOWN $75.000"
-  },
-  {
-   "account": "osint613",
-   "tweet_id": "2105722141576479191",
-   "url": "https://x.com/osint613/status/2105722141576479191",
-   "summary": "Treasury Secretary Scott Bessent has sanctioned the Russia-linked A7 Network, a shadow bank the IRGC used to evade U.S. sanctions, and cut into Iran's industrial base by targeting…",
-   "timestamp": "2026-10-01T18:10:55+00:00",
-   "category": "US_TREASURIES",
-   "relevance": 85,
-   "text": "Treasury Secretary Scott Bessent has sanctioned the Russia-linked A7 Network, a shadow bank the IRGC used to evade U.S. sanctions, and cut into Iran's industrial base by targeting its rail and auto giants under Operation Economic Outcast.\n\n\n\nFinCEN found A7 sub-agents moved more than $17 billion in 18 months. A proposed rule would cut off those payments.\n\n\n\nBessent: \"If you facilitate illicit finance for America's ad",
-   "why": "Mögliche Wirkung auf Öl, Gold, Risiko-Assets"
   }
  ],
  "top_predictions": [
@@ -509,7 +504,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-04T14:26:00+00:00",
-   "distance_pct": 2.5,
+   "distance_pct": 2.3,
    "conditions": "If spot demand picks up",
    "evidence": "If spot demand picks up, Bitcoin could quickly rally above $87,500."
   },
@@ -520,7 +515,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-02T17:20:00+00:00",
-   "distance_pct": 13.6,
+   "distance_pct": 13.4,
    "conditions": null,
    "evidence": "Highest I see $BTC going is 97K."
   },
@@ -542,7 +537,7 @@
    "deadline": "2026-12-31T23:59:59+00:00",
    "time_horizon": "this year",
    "prediction_date": "2026-10-02T17:20:00+00:00",
-   "distance_pct": 17.1,
+   "distance_pct": 17.0,
    "conditions": null,
    "evidence": "BREAKING: 45% chance Bitcoin hits $100,000 this year 15% chance it happens this month"
   },
@@ -553,7 +548,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-01T17:32:34+00:00",
-   "distance_pct": -12.1,
+   "distance_pct": -12.3,
    "conditions": null,
    "evidence": "Drawdowns are clearly smaller, so I don’t expect Bitcoin to go below $75,000."
   }
@@ -673,12 +668,12 @@
   "high": 100000.0
  },
  "daily": {
-  "report_date": "2026-10-04",
-  "generated_at": "2026-10-04T17:02:04.656239+00:00",
+  "report_date": "2026-10-05",
+  "generated_at": "2026-10-05T05:02:03.311384+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-10-03T17:02:04.654216+00:00",
-   "to": "2026-10-04T17:02:04.656239+00:00"
+   "from": "2026-10-04T05:02:03.309343+00:00",
+   "to": "2026-10-05T05:02:03.311384+00:00"
   },
   "key_points": [
    {
@@ -688,9 +683,9 @@
     ]
    },
    {
-    "text": "@jameslavish: IMPORTANT POST Our industry became too focused on protecting downside risk and inadequately focused on maximizing Total Returns to the upside. In my view, the entire purpose of…",
+    "text": "@osint613: German Chancellor Merz: \"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14%…",
     "ids": [
-     "2106434376301166768"
+     "2106805528219312265"
     ]
    },
    {
@@ -700,27 +695,27 @@
     ]
    },
    {
-    "text": "@osint613: Treasury Secretary Scott Bessent says Iran will be left with no revenues. \"For the first time in history, since they started pumping oil, they will have no oil on the water this…",
+    "text": "@nolimitgains: BREAKING: France’s 10-year bond yield is near 5%, around its highest levels since 2002. Meanwhile, new fixed mortgages lasting 20+ years are capped at 5.4%, INCLUDING mandatory…",
     "ids": [
-     "2106438785206788101"
+     "2106840630294872549"
     ]
    },
    {
-    "text": "@killaxbt: Hindsight really is a b*tch. People were waiting to long $BTC just 2-3% lower. In the end, they were all front-ran. Now those same people are still sat in disbelief, calling a…",
+    "text": "@zerohedge: \"In the 2013 Taper Tantrum, the 10Y rose ~137 bps from peak to trough which is almost identical to the current episode where the 10Y has risen ~133 bps from its February 2026 low…",
     "ids": [
-     "2106478595669426372"
+     "2106915202243625434"
     ]
    }
   ],
   "sections": {
-   "TOP_DEVELOPMENTS": "@tedpillows: $BTC has large sell orders in the $87,500-$90,000 zone. If spot demand picks up, Bitcoin could quickly rally above $87,500. Media · @jameslavish: IMPORTANT POST Our industry became too focused on protecting downside risk and inadequately focused on maximizing Total Returns to the upside. In my view, the entire purpose of… · @osint613: Treasury Secretary Scott Bessent says Iran will be left with no revenues. \"For the first time in history, since they started pumping oil, they will have no oil on the water this…",
-   "BTC_OUTLOOK": "Stimmung 62 % bullisch (8/12 Accounts mit Meinung). Median offener Kursziele $97.000. @tedpillows: $BTC has large sell orders in the $87,500-$90,000 zone. If spot demand picks up, Bitcoin could quickly rally above $87,500. Media · @jameslavish: IMPORTANT POST Our industry became too focused on protecting downside risk and inadequately focused on maximizing Total Returns to the upside. In my view, the entire purpose of… · @killaxbt: Hindsight really is a b*tch. People were waiting to long $BTC just 2-3% lower. In the end, they were all front-ran. Now those same people are still sat in disbelief, calling a…",
-   "MACRO_OUTLOOK": "@jameslavish: IMPORTANT POST Our industry became too focused on protecting downside risk and inadequately focused on maximizing Total Returns to the upside. In my view, the entire purpose of… · @zerohedge: Meta's $628 Billion \"Footnote\": Count Zuck's Off-Balance Sheet Debt And The Stock Gets 35% More Expensive",
-   "GLOBAL_LIQUIDITY": "@jameslavish: IMPORTANT POST Our industry became too focused on protecting downside risk and inadequately focused on maximizing Total Returns to the upside. In my view, the entire purpose of… · @zerohedge: Meta's $628 Billion \"Footnote\": Count Zuck's Off-Balance Sheet Debt And The Stock Gets 35% More Expensive",
-   "FED_RATES": "@jameslavish: IMPORTANT POST Our industry became too focused on protecting downside risk and inadequately focused on maximizing Total Returns to the upside. In my view, the entire purpose of…",
-   "DXY_TREASURIES": "@osint613: Treasury Secretary Scott Bessent says Iran will be left with no revenues. \"For the first time in history, since they started pumping oil, they will have no oil on the water this…",
-   "GOLD": "@jameslavish: IMPORTANT POST Our industry became too focused on protecting downside risk and inadequately focused on maximizing Total Returns to the upside. In my view, the entire purpose of…",
-   "GEOPOLITICS": "@osint613: Treasury Secretary Scott Bessent says Iran will be left with no revenues. \"For the first time in history, since they started pumping oil, they will have no oil on the water this… · @zerohedge: gonna need a bigger diesel emergency reserve release... In an exclusive interview with Reuters, President Volodymyr Zelenskiy said Ukraine will step up attacks on Russian oil…",
+   "TOP_DEVELOPMENTS": "@osint613: German Chancellor Merz: \"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14%… · @tedpillows: $BTC has large sell orders in the $87,500-$90,000 zone. If spot demand picks up, Bitcoin could quickly rally above $87,500. Media · @nolimitgains: BREAKING: France’s 10-year bond yield is near 5%, around its highest levels since 2002. Meanwhile, new fixed mortgages lasting 20+ years are capped at 5.4%, INCLUDING mandatory…",
+   "BTC_OUTLOOK": "Stimmung 62 % bullisch (8/12 Accounts mit Meinung). Median offener Kursziele $97.000. @tedpillows: $BTC has large sell orders in the $87,500-$90,000 zone. If spot demand picks up, Bitcoin could quickly rally above $87,500. Media",
+   "MACRO_OUTLOOK": "@osint613: German Chancellor Merz: \"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14%… · @nolimitgains: BREAKING: France’s 10-year bond yield is near 5%, around its highest levels since 2002. Meanwhile, new fixed mortgages lasting 20+ years are capped at 5.4%, INCLUDING mandatory…",
+   "GLOBAL_LIQUIDITY": "Keine relevanten Aussagen.",
+   "FED_RATES": "@zerohedge: \"In the 2013 Taper Tantrum, the 10Y rose ~137 bps from peak to trough which is almost identical to the current episode where the 10Y has risen ~133 bps from its February 2026 low…",
+   "DXY_TREASURIES": "@nolimitgains: BREAKING: France’s 10-year bond yield is near 5%, around its highest levels since 2002. Meanwhile, new fixed mortgages lasting 20+ years are capped at 5.4%, INCLUDING mandatory… · @zerohedge: \"In the 2013 Taper Tantrum, the 10Y rose ~137 bps from peak to trough which is almost identical to the current episode where the 10Y has risen ~133 bps from its February 2026 low…",
+   "GOLD": "Keine relevanten Aussagen.",
+   "GEOPOLITICS": "@osint613: German Chancellor Merz: \"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14%… · @zerohedge: \"Deeply Flawed\": Biggest US Grid Scraps Emergency Data Center Power Auction One Day After FERC Smackdown",
    "CONSENSUS": "BTC: 62 % bullisch (5/8) · Liquidität: 71 % expandierend (5/7) · Fed: 100 % straffend (4/4) · Geopolitik-Risiko: 100 % erhöht (6/6)",
    "CONTRARIAN": "@xapa03 (BTC bärisch): #ShortTermSaturday Episode 2 (10/03/26)📈\n\n\n\n✒️My dear followers,\n\n\n\nI have been astonished by your feedback and the reso · @tedpillows (BTC bärisch): $BTC has large sell orders in the $87,500-$90,000 zone.\n\n\n\nIf spot demand picks up, Bitcoin could quickly rally above $8 · @xapa03 (Liquidität schrumpfend): Measured from the last weekly candle inside the green zone of the TEM, ETH found its peak within 35 days.\n\nThe top occur"
   },
@@ -751,208 +746,71 @@
   "invalidated_predictions": [],
   "thesis_changes": [],
   "since_morning": {
-   "since": "2026-10-04T05:00:00+00:00",
-   "relevant_posts": 15,
+   "since": "2026-10-05T05:00:00+00:00",
+   "relevant_posts": 4,
    "consensus_shifts": [],
-   "new_predictions": 1,
+   "new_predictions": 0,
    "posts": [
     {
-     "account": "tedpillows",
-     "tweet_id": "2106752701367500983",
-     "timestamp": "2026-10-04T14:26:00+00:00",
-     "relevance": 100,
-     "summary": "$BTC has large sell orders in the $87,500-$90,000 zone. If spot demand picks up, Bitcoin could quickly rally above $87,500. Media",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE"
-     ],
-     "url": "https://x.com/tedpillows/status/2106752701367500983"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2106738024000393235",
-     "timestamp": "2026-10-04T13:27:40+00:00",
-     "relevance": 65,
-     "summary": "The Houthis claim to have launched several ballistic missiles and drones at Saudi Aramco facilities in Riyadh and the Khurais oil field east of the capital, according to military…",
-     "categories": [
-      "ENERGY",
-      "GEOPOLITICS",
-      "WAR"
-     ],
-     "url": "https://x.com/osint613/status/2106738024000393235"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2106735990190797147",
-     "timestamp": "2026-10-04T13:19:35+00:00",
-     "relevance": 60,
-     "summary": "$BTC price and RSI are both holding their uptrend. The rally will continue until Bitcoin breaks below it.",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/tedpillows/status/2106735990190797147"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2106696809812803839",
-     "timestamp": "2026-10-04T10:43:54+00:00",
-     "relevance": 60,
-     "summary": "A whale transferred $BTC today after being dormant for 13 years. When he got these Bitcoin, each one was worth only $150.",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/tedpillows/status/2106696809812803839"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2106670913143922941",
-     "timestamp": "2026-10-04T09:01:00+00:00",
-     "relevance": 94,
-     "summary": "$BTC is back above the $85,000 level. There are large liquidation clusters around $87,000, which could be taken out next. After that, a correction seems more likely.",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/tedpillows/status/2106670913143922941"
-    },
-    {
      "account": "zerohedge",
-     "tweet_id": "2106523400311366143",
-     "timestamp": "2026-10-03T23:14:50+00:00",
-     "relevance": 72,
-     "summary": "gonna need a bigger diesel emergency reserve release... In an exclusive interview with Reuters, President Volodymyr Zelenskiy said Ukraine will step up attacks on Russian oil…",
-     "categories": [
-      "ENERGY",
-      "GEOPOLITICS",
-      "WAR"
-     ],
-     "url": "https://x.com/zerohedge/status/2106523400311366143"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2106514236394623354",
-     "timestamp": "2026-10-03T22:38:25+00:00",
+     "tweet_id": "2106921339416203501",
+     "timestamp": "2026-10-05T01:36:06+00:00",
      "relevance": 61,
-     "summary": "Updated hyperscaler off-balance sheet commitments as of Sept 30: $3.6 trillion. That's an increase of $500 billion in ONE MONTH (mostly NVDA) Expect this to 3x after 10Qs hit. The…",
-     "categories": [
-      "LIQUIDITY",
-      "EQUITIES"
-     ],
-     "url": "https://x.com/zerohedge/status/2106514236394623354"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2106512330838151289",
-     "timestamp": "2026-10-03T22:30:51+00:00",
-     "relevance": 65,
-     "summary": "NOW: A large fire (~51 megawatts) was detected at the Saudi Aramco’s Yanbu oil refinery approximately 40mins ago. This comes after unconfirmed reports of missile launches from…",
-     "categories": [
-      "ENERGY",
-      "WAR"
-     ],
-     "url": "https://x.com/osint613/status/2106512330838151289"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2106478595669426372",
-     "timestamp": "2026-10-03T20:16:48+00:00",
-     "relevance": 74,
-     "summary": "Hindsight really is a b*tch. People were waiting to long $BTC just 2-3% lower. In the end, they were all front-ran. Now those same people are still sat in disbelief, calling a…",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/killaxbt/status/2106478595669426372"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2106470116317712441",
-     "timestamp": "2026-10-03T19:43:06+00:00",
-     "relevance": 68,
-     "summary": "Meta's $628 Billion \"Footnote\": Count Zuck's Off-Balance Sheet Debt And The Stock Gets 35% More Expensive",
-     "categories": [
-      "LIQUIDITY",
-      "EQUITIES"
-     ],
-     "url": "https://x.com/zerohedge/status/2106470116317712441"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2106458789734236330",
-     "timestamp": "2026-10-03T18:58:06+00:00",
-     "relevance": 72,
-     "summary": "Houthi military spokesman Yahya Saree announced an attack on Aramco facilities in Riyadh, describing it as retaliation for Saudi strikes on Sanaa and other Yemeni provinces.…",
-     "categories": [
-      "ENERGY",
-      "GEOPOLITICS",
-      "WAR"
-     ],
-     "url": "https://x.com/osint613/status/2106458789734236330"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2106438785206788101",
-     "timestamp": "2026-10-03T17:38:36+00:00",
-     "relevance": 77,
-     "summary": "Treasury Secretary Scott Bessent says Iran will be left with no revenues. \"For the first time in history, since they started pumping oil, they will have no oil on the water this…",
+     "summary": "\"Deeply Flawed\": Biggest US Grid Scraps Emergency Data Center Power Auction One Day After FERC Smackdown",
      "categories": [
       "US_TREASURIES",
-      "ENERGY",
-      "GEOPOLITICS"
+      "ENERGY"
      ],
-     "url": "https://x.com/osint613/status/2106438785206788101"
+     "url": "https://x.com/zerohedge/status/2106921339416203501"
     },
     {
-     "account": "jameslavish",
-     "tweet_id": "2106434376301166768",
-     "timestamp": "2026-10-03T17:21:05+00:00",
-     "relevance": 100,
-     "summary": "IMPORTANT POST Our industry became too focused on protecting downside risk and inadequately focused on maximizing Total Returns to the upside. In my view, the entire purpose of…",
+     "account": "zerohedge",
+     "tweet_id": "2106915202243625434",
+     "timestamp": "2026-10-05T01:11:43+00:00",
+     "relevance": 72,
+     "summary": "\"In the 2013 Taper Tantrum, the 10Y rose ~137 bps from peak to trough which is almost identical to the current episode where the 10Y has risen ~133 bps from its February 2026 low…",
      "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "LIQUIDITY",
       "INTEREST_RATES",
-      "EQUITIES",
-      "GOLD"
+      "US_TREASURIES"
      ],
-     "url": "https://x.com/colemacro/status/2106434376301166768"
+     "url": "https://x.com/zerohedge/status/2106915202243625434"
     },
     {
-     "account": "killaxbt",
-     "tweet_id": "2106402732030546312",
-     "timestamp": "2026-10-03T15:15:21+00:00",
-     "relevance": 78,
-     "summary": "There are many different types of traders. You have technical confirmation traders. Then you have your breakout traders. Lastly, you have the macro confirmation traders. Most wait…",
+     "account": "nolimitgains",
+     "tweet_id": "2106840630294872549",
+     "timestamp": "2026-10-04T20:15:24+00:00",
+     "relevance": 82,
+     "summary": "BREAKING: France’s 10-year bond yield is near 5%, around its highest levels since 2002. Meanwhile, new fixed mortgages lasting 20+ years are capped at 5.4%, INCLUDING mandatory…",
      "categories": [
-      "BTC_TECHNICAL",
-      "LIQUIDITY"
+      "US_TREASURIES",
+      "BANKING"
      ],
-     "url": "https://x.com/killaxbt/status/2106402732030546312"
+     "url": "https://x.com/nolimitgains/status/2106840630294872549"
     },
     {
-     "account": "xapa03",
-     "tweet_id": "2106354737733935369",
-     "timestamp": "2026-10-03T12:04:38+00:00",
+     "account": "osint613",
+     "tweet_id": "2106805528219312265",
+     "timestamp": "2026-10-04T17:55:55+00:00",
      "relevance": 100,
-     "summary": "#ShortTermSaturday Episode 2 (10/03/26)📈 ✒️My dear followers, I have been astonished by your feedback and the resonance my first #ShortTermSaturday post has brought me in. I…",
+     "summary": "German Chancellor Merz: \"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14%…",
      "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "BTC_TECHNICAL"
+      "INFLATION",
+      "BANKING",
+      "ENERGY",
+      "GEOPOLITICS",
+      "WAR"
      ],
-     "url": "https://x.com/thebtcfrontierx/status/2106354737733935369"
+     "url": "https://x.com/osint613/status/2106805528219312265"
     }
    ]
   },
   "stats": {
-   "posts_new": 41,
-   "posts_relevant": 3,
-   "predictions_new": 1,
+   "posts_new": 51,
+   "posts_relevant": 4,
+   "predictions_new": 0,
    "predictions_updated": 0,
    "invalidated": 0,
-   "posts_analysed": 43,
+   "posts_analysed": 53,
    "evaluated": 0
   }
  }
