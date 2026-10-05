@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-10-05T11:07:37.433074+00:00",
- "btc_price": 85983.9,
+ "generated_at": "2026-10-05T17:09:18.812914+00:00",
+ "btc_price": 85243.4,
  "outlook": {
   "BTC": {
    "horizons": {
     "24h": {
-     "label": "leicht bullisch",
+     "label": "bullisch",
      "counts": {
       "pos": 2,
-      "neu": 0,
-      "neg": 1
+      "neu": 1,
+      "neg": 0
      },
      "accounts": 3
     },
@@ -32,8 +32,8 @@
      "accounts": 7
     }
    },
-   "scenario": "Mehrheit (7 T): bullisch. Wahrscheinlichste Zone laut Quellen: $80k–86k bis $87k; Ausbruch über $87k wäre das nächste Signal.",
-   "risk": "Bruch unter $80k–86k (genannt von @killaxbt, @tedpillows, @xapa03)",
+   "scenario": "Mehrheit (7 T): bullisch. Wahrscheinlichste Zone laut Quellen: $80k–85k bis $86k–88k; Ausbruch über $86k–88k wäre das nächste Signal.",
+   "risk": "Bruch unter $80k–85k (genannt von @killaxbt, @tedpillows, @xapa03)",
    "consensus": {
     "pos": 5,
     "neu": 1,
@@ -41,11 +41,18 @@
    },
    "confidence": "Hoch",
    "levels": {
-    "support": "$80k–86k",
-    "resistance": "$87k"
+    "support": "$80k–85k",
+    "resistance": "$86k–88k"
    },
-   "n_posts": 52,
+   "n_posts": 50,
    "sources": [
+    {
+     "account": "killaxbt",
+     "tweet_id": "2107098902532882654",
+     "url": "https://x.com/killaxbt/status/2107098902532882654",
+     "summary": "$BTC is up 4.5% from the 83.5K aggressive long entry. I’ll now move this continuation long’s stop to entry. If BTC is going to break 87K, it needs to happen on this weekly candle.…",
+     "timestamp": "2026-10-05T13:21:41+00:00"
+    },
     {
      "account": "killaxbt",
      "tweet_id": "2106918427701215360",
@@ -94,13 +101,6 @@
      "url": "https://x.com/tedpillows/status/2106074466694410639",
      "summary": "Someone on Binance just sold a shitload of $BTC in one clip. Yesterday, someone bought BTC in one clip around the $84,500 level, and today the selling happened at the same level.…",
      "timestamp": "2026-10-02T17:30:56+00:00"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2106043183738110004",
-     "url": "https://x.com/killaxbt/status/2106043183738110004",
-     "summary": "Decision time for BTC. We’ve flipped the 85K barrier. Now it’s vital that $BTC holds above it if we want to see a push into 89-90K+. One thing I can assure you... if we lose the…",
-     "timestamp": "2026-10-02T15:26:38+00:00"
     }
    ],
    "kind": "system"
@@ -108,13 +108,13 @@
   "MACRO": {
    "horizons": {
     "24h": {
-     "label": "zu wenige Aussagen",
+     "label": "neutral / gemischt",
      "counts": {
       "pos": 1,
       "neu": 0,
-      "neg": 0
+      "neg": 1
      },
-     "accounts": 1
+     "accounts": 2
     },
     "3d": {
      "label": "neutral / gemischt",
@@ -137,8 +137,8 @@
    },
    "drivers": [
     "wachsende Liquidität (7)",
-    "steigende Renditen (7)",
-    "Fed restriktiv (7)"
+    "Fed restriktiv (7)",
+    "steigende Renditen (6)"
    ],
    "risk": "Anstehende Termine in den Posts: EARNINGS (7×), PCE (5×), FOMC (3×)",
    "consensus": {
@@ -308,7 +308,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 63,
+     "posts": 69,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -318,7 +318,7 @@
     },
     {
      "name": "Russland / Ukraine",
-     "posts": 18,
+     "posts": 19,
      "impact": [
       "Energie ↑",
       "Europa-Risiko ↑",
@@ -326,7 +326,7 @@
      ]
     }
    ],
-   "n_posts": 104,
+   "n_posts": 107,
    "sources": [
     {
      "account": "osint613",
@@ -389,54 +389,54 @@
   }
  },
  "changed": {
-  "since": "2026-10-05T05:11:22.650504+00:00",
+  "since": "2026-10-05T11:07:45.078530+00:00",
   "new": [
    {
+    "account": "killaxbt",
+    "text": "BTC UP $89.400–90.600",
+    "url": "https://x.com/killaxbt/status/2107119996123902441"
+   },
+   {
+    "account": "killaxbt",
+    "text": "BTC DOWN $76.400",
+    "url": "https://x.com/killaxbt/status/2107119996123902441"
+   },
+   {
+    "account": "killaxbt",
+    "text": "BTC UP $87.000",
+    "url": "https://x.com/killaxbt/status/2107098902532882654"
+   },
+   {
+    "account": "killaxbt",
+    "text": "$BTC is up 4.5% from the 83.5K aggressive long entry. I’ll now move this continuation long’s stop to entry. If BTC is going to break 87K, it needs to happen on this weekly candle.…",
+    "url": "https://x.com/killaxbt/status/2107098902532882654"
+   },
+   {
+    "account": "killaxbt",
+    "text": "I expect $BTC to test 89.4-90.6K. I will be equal hedging my BTC long from 76.4K. My spot from 65K & long from 62.6K will not be hedged. c u in Valhalla $BTC",
+    "url": "https://x.com/killaxbt/status/2107119996123902441"
+   },
+   {
     "account": "tedpillows",
-    "text": "BTC RANGE $87.500",
-    "url": "https://x.com/tedpillows/status/2107024246597624155"
-   },
-   {
-    "account": "killaxbt",
-    "text": "BTC RANGE $87.000 (next week)",
-    "url": "https://x.com/killaxbt/status/2106918427701215360"
-   },
-   {
-    "account": "killaxbt",
-    "text": "BTC DOWN $81.000",
-    "url": "https://x.com/killaxbt/status/2106816025173930138"
-   },
-   {
-    "account": "killaxbt",
-    "text": "BTC UP $126.000 (Q2)",
-    "url": "https://x.com/killaxbt/status/2106757104526643459"
-   },
-   {
-    "account": "killaxbt",
-    "text": "BTC DOWN (in Q4)",
-    "url": "https://x.com/killaxbt/status/2106757104526643459"
-   },
-   {
-    "account": "killaxbt",
-    "text": "We bottomed in July. 2 months before Q4. So, as I have said. I think BTC will be trading above 126K Q2-Q3. Q4 ends up de-risking instead of going parabolic. Everyone gets…",
-    "url": "https://x.com/killaxbt/status/2106757104526643459"
+    "text": "$BTC is hovering around the $86,000 level. US stock futures are down, while DXY is up. Pre-market stock trading insights: ▫️Nasdaq futures is down 0.19% 🔴 ▫️S&P futures is down…",
+    "url": "https://x.com/tedpillows/status/2107071375152484654"
    }
   ],
   "changed": [
    {
     "account": "killaxbt",
-    "text": "vorher BTC UP $97.000, jetzt BTC UP $126.000 (Q2)",
-    "url": "https://x.com/killaxbt/status/2106757104526643459"
+    "text": "vorher BTC RANGE $87.000 (next week), jetzt BTC UP $87.000",
+    "url": "https://x.com/killaxbt/status/2107098902532882654"
    },
    {
     "account": "killaxbt",
-    "text": "vorher BTC UP $126.000 (Q2), jetzt BTC DOWN $81.000",
-    "url": "https://x.com/killaxbt/status/2106816025173930138"
+    "text": "vorher BTC UP $87.000, jetzt BTC UP $89.400–90.600",
+    "url": "https://x.com/killaxbt/status/2107119996123902441"
    },
    {
     "account": "killaxbt",
-    "text": "vorher BTC DOWN $81.000, jetzt BTC RANGE $87.000 (next week)",
-    "url": "https://x.com/killaxbt/status/2106918427701215360"
+    "text": "vorher BTC DOWN (in Q4), jetzt BTC DOWN $76.400",
+    "url": "https://x.com/killaxbt/status/2107119996123902441"
    }
   ],
   "new_consensus": [],
@@ -449,6 +449,28 @@
  },
  "important_posts": [
   {
+   "account": "killaxbt",
+   "tweet_id": "2107119996123902441",
+   "url": "https://x.com/killaxbt/status/2107119996123902441",
+   "summary": "I expect $BTC to test 89.4-90.6K. I will be equal hedging my BTC long from 76.4K. My spot from 65K & long from 62.6K will not be hedged. c u in Valhalla $BTC",
+   "timestamp": "2026-10-05T14:45:30+00:00",
+   "category": "BITCOIN",
+   "relevance": 100,
+   "text": "I expect $BTC to test 89.4-90.6K. \n\n\n\nI will be equal hedging my BTC long from 76.4K. \n\n\n\nMy spot from 65K & long from 62.6K will not be hedged.\n\nc u in Valhalla $BTC",
+   "why": "Ändert eine frühere Prognose dieses Accounts"
+  },
+  {
+   "account": "killaxbt",
+   "tweet_id": "2107098902532882654",
+   "url": "https://x.com/killaxbt/status/2107098902532882654",
+   "summary": "$BTC is up 4.5% from the 83.5K aggressive long entry. I’ll now move this continuation long’s stop to entry. If BTC is going to break 87K, it needs to happen on this weekly candle.…",
+   "timestamp": "2026-10-05T13:21:41+00:00",
+   "category": "BITCOIN",
+   "relevance": 100,
+   "text": "$BTC is up 4.5% from the 83.5K aggressive long entry.\n\n\n\nI’ll now move this continuation long’s stop to entry.\n\n\n\nIf BTC is going to break 87K, it needs to happen on this weekly candle. Otherwise, I expect a revisit of 80-82K.\n\n\n\nIf that happens, I’ll look to deploy the aggressive 10x long strategy a few percent lower. \n\n\n\nOther than that, risk free trade ⚡️\n\nI longed 62.6K. I longed 76.4K. Now I am long again from 8",
+   "why": "Ändert eine frühere Prognose dieses Accounts"
+  },
+  {
    "account": "tedpillows",
    "tweet_id": "2107024246597624155",
    "url": "https://x.com/tedpillows/status/2107024246597624155",
@@ -458,28 +480,6 @@
    "relevance": 100,
    "text": "$BTC current move is spot driven.\n\n\n\nDips are getting bought, and the uptrend is looking good.\n\n\n\nA daily close above $87,500 could quickly push Bitcoin to $90,000.",
    "why": "Konkrete Prognose: BTC RANGE $87.500"
-  },
-  {
-   "account": "killaxbt",
-   "tweet_id": "2106918427701215360",
-   "url": "https://x.com/killaxbt/status/2106918427701215360",
-   "summary": "Told ya. 🎯 Translation: Next week $BTC is breaking out to 87K+",
-   "timestamp": "2026-10-05T01:24:32+00:00",
-   "category": "BITCOIN",
-   "relevance": 100,
-   "text": "Told ya. 🎯\n\nTranslation: Next week $BTC is breaking out to 87K+",
-   "why": "Ändert eine frühere Prognose dieses Accounts"
-  },
-  {
-   "account": "killaxbt",
-   "tweet_id": "2106816025173930138",
-   "url": "https://x.com/killaxbt/status/2106816025173930138",
-   "summary": "Another weekly close above 81K looks likely for $BTC If we lose the 82.5K, then I would look for a sweep into the 80–82K region. We have clear indecision here. We swept the lows,…",
-   "timestamp": "2026-10-04T18:37:37+00:00",
-   "category": "BITCOIN",
-   "relevance": 100,
-   "text": "Another weekly close above 81K looks likely for $BTC\n\n\n\nIf we lose the 82.5K, then I would look for a sweep into the 80–82K region.   \n\n\n\nWe have clear indecision here. We swept the lows, saw a strong reaction back to the upside, then got met with rejection back down to the weekly open.  \n\n\n\nThat tells me one of two things:  \n\n\n\n1.) We are not quite ready to break out yet; or  \n\n2.) We are baiting shorts before the n",
-   "why": "Ändert eine frühere Prognose dieses Accounts"
   },
   {
    "account": "osint613",
@@ -526,15 +526,15 @@
    "why": "Konkrete Prognose: BTC DOWN (today)"
   },
   {
-   "account": "xapa03",
-   "tweet_id": "2106040022050730414",
-   "url": "https://x.com/xapa03/status/2106040022050730414",
-   "summary": "Bitcoin rejected after a 5,6% pump, exactly like 2023. A clear reason for me to enter the short trade and close my long positions. I am very bullish and i will start to build my…",
-   "timestamp": "2026-10-02T15:14:04+00:00",
+   "account": "timevalueofbtc",
+   "tweet_id": "2106116775117258798",
+   "url": "https://x.com/timevalueofbtc/status/2106116775117258798",
+   "summary": "BITCOIN/GOLD TREND WATCHERS, THIS ONE IS FOR YOU HAVE A GREAT WEEKEND AND STAY BLESSED 🚨 NEW VIDEO 🚨 Bitcoin Doesn’t Care About The Bond Crisis Nik on the bitcoin gold ratio…",
+   "timestamp": "2026-10-02T20:19:03+00:00",
    "category": "BITCOIN",
-   "relevance": 100,
-   "text": "Bitcoin rejected after a 5,6% pump, exactly like 2023.\n\nA clear reason for me to enter the short trade and close my long positions.\n\nI am very bullish and i will start to build my swing long position soon, because i expect the bullish crossover between 5.10 and 12.10. ⌛️\n\nClean entry, clean exit.\n\n\n\nDo not miss any live trades and join XAPA's WORLD\n\n\n\nhttp://discord.gg/xapa\n\n\n\nbitcoin:native\n\n\nThe HTF weekly pattern ",
-   "why": "Konkrete Prognose: BTC DOWN $75.000"
+   "relevance": 84,
+   "text": "BITCOIN/GOLD TREND WATCHERS, THIS ONE IS FOR YOU\n\n\n\nHAVE A GREAT WEEKEND AND STAY BLESSED\n🚨 NEW VIDEO 🚨 Bitcoin Doesn’t Care About The Bond Crisis Nik on the bitcoin gold ratio charging to 20.7, why the French German bond spread has only moved like this twice in thirty years, and why falling oil could ironically rescue the French bond market.",
+   "why": "Kontext: Bitcoin, Us Treasuries, Energy"
   }
  ],
  "top_predictions": [
@@ -545,7 +545,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-05T08:25:01+00:00",
-   "distance_pct": 1.7,
+   "distance_pct": 2.6,
    "conditions": null,
    "evidence": "A daily close above $87,500 could quickly push Bitcoin to $90,000."
   },
@@ -556,31 +556,31 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-04T14:26:00+00:00",
-   "distance_pct": 1.7,
+   "distance_pct": 2.6,
    "conditions": "If spot demand picks up",
    "evidence": "If spot demand picks up, Bitcoin could quickly rally above $87,500."
   },
   {
    "account": "killaxbt",
-   "label": "BTC RANGE $87.000 (next week)",
-   "url": "https://x.com/killaxbt/status/2106918427701215360",
-   "deadline": "2026-10-19T01:24:32+00:00",
-   "time_horizon": "next week",
-   "prediction_date": "2026-10-05T01:24:32+00:00",
-   "distance_pct": 1.1,
+   "label": "BTC UP $89.400–90.600",
+   "url": "https://x.com/killaxbt/status/2107119996123902441",
+   "deadline": null,
+   "time_horizon": null,
+   "prediction_date": "2026-10-05T14:45:30+00:00",
+   "distance_pct": 5.5,
    "conditions": null,
-   "evidence": "Translation: Next week $BTC is breaking out to 87K+"
+   "evidence": "I expect $BTC to test 89.4-90.6K."
   },
   {
    "account": "killaxbt",
-   "label": "BTC DOWN (in Q4)",
-   "url": "https://x.com/killaxbt/status/2106757104526643459",
-   "deadline": "2026-12-31T23:59:59+00:00",
-   "time_horizon": "in Q4",
-   "prediction_date": "2026-10-04T14:43:30+00:00",
-   "distance_pct": null,
+   "label": "BTC DOWN $76.400",
+   "url": "https://x.com/killaxbt/status/2107119996123902441",
+   "deadline": null,
+   "time_horizon": null,
+   "prediction_date": "2026-10-05T14:45:30+00:00",
+   "distance_pct": -10.4,
    "conditions": null,
-   "evidence": "$BTC will not top in Q4 this cycle."
+   "evidence": "I will be equal hedging my BTC long from 76.4K."
   },
   {
    "account": "killaxbt",
@@ -610,8 +610,8 @@
    "main_share": 62,
    "account": "tedpillows",
    "stance": "bearish",
-   "text": "$BTC has large sell orders in the $87,500-$90,000 zone.\n\n\n\nIf spot demand picks up, Bitcoin could quickly rally above $87,500.\nMedia",
-   "url": "https://x.com/tedpillows/status/2106752701367500983"
+   "text": "Someone on Binance dumped $40,000,000 in $BTC and nuked the price by $1,200.\n\n\n\nThis is becoming repetitive now.",
+   "url": "https://x.com/tedpillows/status/2107119326180298759"
   },
   {
    "topic": "LIQUIDITY",
@@ -685,13 +685,14 @@
   "GEO": {
    "majority": "elevated",
    "score": 100,
-   "n": 6,
+   "n": 7,
    "counts": {
-    "elevated": 6,
+    "elevated": 7,
     "neutral": 0,
     "easing": 0
    },
    "supporting": [
+    "xapa03",
     "osint613",
     "zerohedge",
     "e_boeminghaus",
@@ -703,64 +704,127 @@
   }
  },
  "btc_targets": {
-  "count": 4,
+  "count": 5,
   "median": 87500.0,
   "low": 75000.0,
   "high": 100000.0
  },
  "daily": {
   "report_date": "2026-10-05",
-  "generated_at": "2026-10-05T11:02:07.066679+00:00",
+  "generated_at": "2026-10-05T17:02:20.964063+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-10-04T11:02:07.063317+00:00",
-   "to": "2026-10-05T11:02:07.066679+00:00"
+   "from": "2026-10-04T17:02:20.961995+00:00",
+   "to": "2026-10-05T17:02:20.964063+00:00"
   },
   "key_points": [
    {
-    "text": "@killaxbt ändert Prognose: BTC DOWN $81.000 → BTC RANGE $87.000 (next week)",
+    "text": "@killaxbt ändert Prognose: BTC DOWN (in Q4) → BTC DOWN $76.400",
     "ids": [
-     "2106918427701215360"
+     "2107119996123902441"
     ]
    },
    {
-    "text": "@killaxbt ändert Prognose: BTC UP $126.000 (Q2) → BTC DOWN $81.000",
+    "text": "@killaxbt ändert Prognose: BTC UP $87.000 → BTC UP $89.400–90.600",
     "ids": [
-     "2106816025173930138"
+     "2107119996123902441"
     ]
    },
    {
-    "text": "Neue BTC-Prognose von @tedpillows: BTC RANGE $87.500",
+    "text": "Neue BTC-Prognose von @killaxbt: BTC UP $89.400–90.600",
+    "ids": [
+     "2107119996123902441"
+    ]
+   },
+   {
+    "text": "@killaxbt: $BTC is up 4.5% from the 83.5K aggressive long entry. I’ll now move this continuation long’s stop to entry. If BTC is going to break 87K, it needs to happen on this weekly candle.…",
+    "ids": [
+     "2107098902532882654"
+    ]
+   },
+   {
+    "text": "@tedpillows: $BTC current move is spot driven. Dips are getting bought, and the uptrend is looking good. A daily close above $87,500 could quickly push Bitcoin to $90,000.",
     "ids": [
      "2107024246597624155"
-    ]
-   },
-   {
-    "text": "@osint613: German Chancellor Merz: \"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14%…",
-    "ids": [
-     "2106805528219312265"
-    ]
-   },
-   {
-    "text": "@killaxbt: We bottomed in July. 2 months before Q4. So, as I have said. I think BTC will be trading above 126K Q2-Q3. Q4 ends up de-risking instead of going parabolic. Everyone gets…",
-    "ids": [
-     "2106757104526643459"
     ]
    }
   ],
   "sections": {
-   "TOP_DEVELOPMENTS": "@tedpillows: $BTC current move is spot driven. Dips are getting bought, and the uptrend is looking good. A daily close above $87,500 could quickly push Bitcoin to $90,000. · @killaxbt: Told ya. 🎯 Translation: Next week $BTC is breaking out to 87K+ · @osint613: German Chancellor Merz: \"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14%…",
-   "BTC_OUTLOOK": "Stimmung 62 % bullisch (8/12 Accounts mit Meinung). Median offener Kursziele $87.500. @tedpillows: $BTC current move is spot driven. Dips are getting bought, and the uptrend is looking good. A daily close above $87,500 could quickly push Bitcoin to $90,000. · @killaxbt: Told ya. 🎯 Translation: Next week $BTC is breaking out to 87K+ · @xapa03: BTC did not made a higher high than 87,4 until that is not happend, it remains valid ⌛️",
-   "MACRO_OUTLOOK": "@osint613: German Chancellor Merz: \"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14%… · @nolimitgains: BREAKING: France’s 10-year bond yield is near 5%, around its highest levels since 2002. Meanwhile, new fixed mortgages lasting 20+ years are capped at 5.4%, INCLUDING mandatory… · @tedpillows: 80% of the S&P 500 stocks are down 10%+ from their peak, while the S&P 500 is near an all-time high. Last time it happened was in 1999, right before the 2000 dot-com bubble burst.",
+   "TOP_DEVELOPMENTS": "@killaxbt: I expect $BTC to test 89.4-90.6K. I will be equal hedging my BTC long from 76.4K. My spot from 65K & long from 62.6K will not be hedged. c u in Valhalla $BTC · @tedpillows: $BTC current move is spot driven. Dips are getting bought, and the uptrend is looking good. A daily close above $87,500 could quickly push Bitcoin to $90,000. · @osint613: German Chancellor Merz: \"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14%…",
+   "BTC_OUTLOOK": "Stimmung 62 % bullisch (8/12 Accounts mit Meinung). Median offener Kursziele $87.500. @killaxbt: I expect $BTC to test 89.4-90.6K. I will be equal hedging my BTC long from 76.4K. My spot from 65K & long from 62.6K will not be hedged. c u in Valhalla $BTC · @tedpillows: $BTC current move is spot driven. Dips are getting bought, and the uptrend is looking good. A daily close above $87,500 could quickly push Bitcoin to $90,000. · @xapa03: Goood morning, good morning here at the Bitcoin Frontier. It's a sunny day in the digital wilderness, no clouds or heavy forecasts for this week - simply golden times ahead in a…",
+   "MACRO_OUTLOOK": "@osint613: German Chancellor Merz: \"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14%… · @tedpillows: $BTC is hovering around the $86,000 level. US stock futures are down, while DXY is up. Pre-market stock trading insights: ▫️Nasdaq futures is down 0.19% 🔴 ▫️S&P futures is down… · @nolimitgains: BREAKING: France’s 10-year bond yield is near 5%, around its highest levels since 2002. Meanwhile, new fixed mortgages lasting 20+ years are capped at 5.4%, INCLUDING mandatory…",
    "GLOBAL_LIQUIDITY": "Keine relevanten Aussagen.",
    "FED_RATES": "@zerohedge: \"In the 2013 Taper Tantrum, the 10Y rose ~137 bps from peak to trough which is almost identical to the current episode where the 10Y has risen ~133 bps from its February 2026 low…",
-   "DXY_TREASURIES": "@nolimitgains: BREAKING: France’s 10-year bond yield is near 5%, around its highest levels since 2002. Meanwhile, new fixed mortgages lasting 20+ years are capped at 5.4%, INCLUDING mandatory… · @tedpillows: Metaplanet buys $85,900,000 in $BTC. Treasury companies are becoming net buyers of Bitcoin again. · @zerohedge: \"In the 2013 Taper Tantrum, the 10Y rose ~137 bps from peak to trough which is almost identical to the current episode where the 10Y has risen ~133 bps from its February 2026 low…",
-   "GOLD": "Keine relevanten Aussagen.",
-   "GEOPOLITICS": "@osint613: German Chancellor Merz: \"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14%… · @zerohedge: \"Deeply Flawed\": Biggest US Grid Scraps Emergency Data Center Power Auction One Day After FERC Smackdown",
-   "CONSENSUS": "BTC: 62 % bullisch (5/8) · Liquidität: 71 % expandierend (5/7) · Fed: 100 % straffend (4/4) · Geopolitik-Risiko: 100 % erhöht (6/6)",
-   "CONTRARIAN": "@xapa03 (BTC bärisch): BTC did not made a higher high than 87,4\n\nuntil that is not happend, it remains valid ⌛️ · @tedpillows (BTC bärisch): $BTC has large sell orders in the $87,500-$90,000 zone.\n\n\n\nIf spot demand picks up, Bitcoin could quickly rally above $8 · @xapa03 (Liquidität schrumpfend): Measured from the last weekly candle inside the green zone of the TEM, ETH found its peak within 35 days.\n\nThe top occur"
+   "DXY_TREASURIES": "@tedpillows: $BTC is hovering around the $86,000 level. US stock futures are down, while DXY is up. Pre-market stock trading insights: ▫️Nasdaq futures is down 0.19% 🔴 ▫️S&P futures is down… · @nolimitgains: BREAKING: France’s 10-year bond yield is near 5%, around its highest levels since 2002. Meanwhile, new fixed mortgages lasting 20+ years are capped at 5.4%, INCLUDING mandatory… · @zerohedge: \"In the 2013 Taper Tantrum, the 10Y rose ~137 bps from peak to trough which is almost identical to the current episode where the 10Y has risen ~133 bps from its February 2026 low…",
+   "GOLD": "@danheld: Gold is worth $30 Trillion. Apple is worth $4.9 Trillion. Bitcoin is only worth $1.7 Trillion. Where do you think the price goes from here? 🚀",
+   "GEOPOLITICS": "@osint613: German Chancellor Merz: \"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14%… · @xapa03: Goood morning, good morning here at the Bitcoin Frontier. It's a sunny day in the digital wilderness, no clouds or heavy forecasts for this week - simply golden times ahead in a… · @zerohedge: \"Deeply Flawed\": Biggest US Grid Scraps Emergency Data Center Power Auction One Day After FERC Smackdown",
+   "CONSENSUS": "BTC: 62 % bullisch (5/8) · Liquidität: 71 % expandierend (5/7) · Fed: 100 % straffend (4/4) · Geopolitik-Risiko: 100 % erhöht (7/7)",
+   "CONTRARIAN": "@xapa03 (BTC bärisch): BTC did not made a higher high than 87,4\n\nuntil that is not happend, it remains valid ⌛️ · @tedpillows (BTC bärisch): Someone on Binance dumped $40,000,000 in $BTC and nuked the price by $1,200.\n\n\n\nThis is becoming repetitive now. · @xapa03 (Liquidität schrumpfend): Measured from the last weekly candle inside the green zone of the TEM, ETH found its peak within 35 days.\n\nThe top occur"
   },
   "new_predictions": [
+   {
+    "id": 66,
+    "account": "killaxbt",
+    "tweet_id": "2107119996123902441",
+    "prediction_date": "2026-10-05T14:45:30+00:00",
+    "asset_or_metric": "BTC",
+    "prediction_type": "PRICE_TARGET",
+    "direction": "UP",
+    "target": null,
+    "target_low": 89400.0,
+    "target_high": 90600.0,
+    "deadline": null,
+    "time_horizon": null,
+    "conditions": null,
+    "status": "OPEN",
+    "status_note": null,
+    "btc_price_when_prediction_made": 85296.2,
+    "evidence": "I expect $BTC to test 89.4-90.6K.",
+    "label": "BTC UP $89.400–90.600",
+    "url": "https://x.com/killaxbt/status/2107119996123902441"
+   },
+   {
+    "id": 67,
+    "account": "killaxbt",
+    "tweet_id": "2107119996123902441",
+    "prediction_date": "2026-10-05T14:45:30+00:00",
+    "asset_or_metric": "BTC",
+    "prediction_type": "PRICE_TARGET",
+    "direction": "DOWN",
+    "target": 76400.0,
+    "target_low": null,
+    "target_high": null,
+    "deadline": null,
+    "time_horizon": null,
+    "conditions": null,
+    "status": "OPEN",
+    "status_note": null,
+    "btc_price_when_prediction_made": 85296.2,
+    "evidence": "I will be equal hedging my BTC long from 76.4K.",
+    "label": "BTC DOWN $76.400",
+    "url": "https://x.com/killaxbt/status/2107119996123902441"
+   },
+   {
+    "id": 65,
+    "account": "killaxbt",
+    "tweet_id": "2107098902532882654",
+    "prediction_date": "2026-10-05T13:21:41+00:00",
+    "asset_or_metric": "BTC",
+    "prediction_type": "PRICE_TARGET",
+    "direction": "UP",
+    "target": 87000.0,
+    "target_low": null,
+    "target_high": null,
+    "deadline": null,
+    "time_horizon": null,
+    "conditions": "If BTC is going to break 87K",
+    "status": "UPDATED",
+    "status_note": "BTC UP $87.000 → BTC UP $89.400–90.600",
+    "btc_price_when_prediction_made": 85296.2,
+    "evidence": "If BTC is going to break 87K, it needs to happen on this weekly candle.",
+    "label": "BTC UP $87.000",
+    "url": "https://x.com/killaxbt/status/2107098902532882654"
+   },
    {
     "id": 64,
     "account": "tedpillows",
@@ -796,8 +860,8 @@
     "deadline": "2026-10-19T01:24:32+00:00",
     "time_horizon": "next week",
     "conditions": null,
-    "status": "OPEN",
-    "status_note": null,
+    "status": "UPDATED",
+    "status_note": "BTC RANGE $87.000 (next week) → BTC UP $87.000",
     "btc_price_when_prediction_made": 86095.3,
     "evidence": "Translation: Next week $BTC is breaking out to 87K+",
     "label": "BTC RANGE $87.000 (next week)",
@@ -823,72 +887,33 @@
     "evidence": "Another weekly close above 81K looks likely for $BTC",
     "label": "BTC DOWN $81.000",
     "url": "https://x.com/killaxbt/status/2106816025173930138"
-   },
-   {
-    "id": 60,
-    "account": "killaxbt",
-    "tweet_id": "2106757104526643459",
-    "prediction_date": "2026-10-04T14:43:30+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "UP",
-    "target": 126000.0,
-    "target_low": null,
-    "target_high": null,
-    "deadline": "2027-06-30T23:59:59+00:00",
-    "time_horizon": "Q2",
-    "conditions": null,
-    "status": "UPDATED",
-    "status_note": "BTC UP $126.000 (Q2) → BTC DOWN $81.000",
-    "btc_price_when_prediction_made": 86510.4,
-    "evidence": "I think BTC will be trading above 126K  Q2-Q3.",
-    "label": "BTC UP $126.000 (Q2)",
-    "url": "https://x.com/killaxbt/status/2106757104526643459"
-   },
-   {
-    "id": 61,
-    "account": "killaxbt",
-    "tweet_id": "2106757104526643459",
-    "prediction_date": "2026-10-04T14:43:30+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "DIRECTION",
-    "direction": "DOWN",
-    "target": null,
-    "target_low": null,
-    "target_high": null,
-    "deadline": "2026-12-31T23:59:59+00:00",
-    "time_horizon": "in Q4",
-    "conditions": null,
-    "status": "OPEN",
-    "status_note": null,
-    "btc_price_when_prediction_made": 86510.4,
-    "evidence": "$BTC will not top in Q4 this cycle.",
-    "label": "BTC DOWN (in Q4)",
-    "url": "https://x.com/killaxbt/status/2106757104526643459"
-   },
-   {
-    "id": 59,
-    "account": "tedpillows",
-    "tweet_id": "2106752701367500983",
-    "prediction_date": "2026-10-04T14:26:00+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "UP",
-    "target": 87500.0,
-    "target_low": null,
-    "target_high": null,
-    "deadline": null,
-    "time_horizon": null,
-    "conditions": "If spot demand picks up",
-    "status": "OPEN",
-    "status_note": null,
-    "btc_price_when_prediction_made": 85360.1,
-    "evidence": "If spot demand picks up, Bitcoin could quickly rally above $87,500.",
-    "label": "BTC UP $87.500",
-    "url": "https://x.com/tedpillows/status/2106752701367500983"
    }
   ],
   "updated_predictions": [
+   {
+    "account": "killaxbt",
+    "change": "TARGET_CHANGED,TIMEFRAME_CHANGED",
+    "note": "BTC DOWN (in Q4) → BTC DOWN $76.400",
+    "tweet_id": "2107119996123902441",
+    "url": "https://x.com/killaxbt/status/2107119996123902441",
+    "detected_at": "2026-10-05T17:02:20.906508+00:00"
+   },
+   {
+    "account": "killaxbt",
+    "change": "TARGET_CHANGED",
+    "note": "BTC UP $87.000 → BTC UP $89.400–90.600",
+    "tweet_id": "2107119996123902441",
+    "url": "https://x.com/killaxbt/status/2107119996123902441",
+    "detected_at": "2026-10-05T17:02:20.906508+00:00"
+   },
+   {
+    "account": "killaxbt",
+    "change": "TIMEFRAME_CHANGED,CONDITION_CHANGED",
+    "note": "BTC RANGE $87.000 (next week) → BTC UP $87.000",
+    "tweet_id": "2107098902532882654",
+    "url": "https://x.com/killaxbt/status/2107098902532882654",
+    "detected_at": "2026-10-05T17:02:20.904490+00:00"
+   },
    {
     "account": "killaxbt",
     "change": "TARGET_CHANGED,TIMEFRAME_CHANGED",
@@ -918,10 +943,127 @@
   "thesis_changes": [],
   "since_morning": {
    "since": "2026-10-05T05:00:00+00:00",
-   "relevant_posts": 15,
+   "relevant_posts": 25,
    "consensus_shifts": [],
-   "new_predictions": 1,
+   "new_predictions": 4,
    "posts": [
+    {
+     "account": "nolimitgains",
+     "tweet_id": "2107125113883640111",
+     "timestamp": "2026-10-05T15:05:50+00:00",
+     "relevance": 74,
+     "summary": "BREAKING: US home-purchase mortgage applications have fallen to their lowest level since APRIL 2025. Total mortgage applications dropped another 6% in a week as the MBA’s 30-year…",
+     "categories": [
+      "US_TREASURIES"
+     ],
+     "url": "https://x.com/nolimitgains/status/2107125113883640111"
+    },
+    {
+     "account": "killaxbt",
+     "tweet_id": "2107119996123902441",
+     "timestamp": "2026-10-05T14:45:30+00:00",
+     "relevance": 100,
+     "summary": "I expect $BTC to test 89.4-90.6K. I will be equal hedging my BTC long from 76.4K. My spot from 65K & long from 62.6K will not be hedged. c u in Valhalla $BTC",
+     "categories": [
+      "BITCOIN",
+      "BTC_PRICE"
+     ],
+     "url": "https://x.com/killaxbt/status/2107119996123902441"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2107119326180298759",
+     "timestamp": "2026-10-05T14:42:50+00:00",
+     "relevance": 70,
+     "summary": "Someone on Binance dumped $40,000,000 in $BTC and nuked the price by $1,200. This is becoming repetitive now.",
+     "categories": [
+      "BITCOIN"
+     ],
+     "url": "https://x.com/tedpillows/status/2107119326180298759"
+    },
+    {
+     "account": "danheld",
+     "tweet_id": "2107109668384584082",
+     "timestamp": "2026-10-05T14:04:27+00:00",
+     "relevance": 74,
+     "summary": "Gold is worth $30 Trillion. Apple is worth $4.9 Trillion. Bitcoin is only worth $1.7 Trillion. Where do you think the price goes from here? 🚀",
+     "categories": [
+      "BITCOIN",
+      "GOLD"
+     ],
+     "url": "https://x.com/danheld/status/2107109668384584082"
+    },
+    {
+     "account": "killaxbt",
+     "tweet_id": "2107098902532882654",
+     "timestamp": "2026-10-05T13:21:41+00:00",
+     "relevance": 100,
+     "summary": "$BTC is up 4.5% from the 83.5K aggressive long entry. I’ll now move this continuation long’s stop to entry. If BTC is going to break 87K, it needs to happen on this weekly candle.…",
+     "categories": [
+      "BITCOIN",
+      "BTC_PRICE"
+     ],
+     "url": "https://x.com/killaxbt/status/2107098902532882654"
+    },
+    {
+     "account": "xapa03",
+     "tweet_id": "2107093533005848875",
+     "timestamp": "2026-10-05T13:00:20+00:00",
+     "relevance": 76,
+     "summary": "Goood morning, good morning here at the Bitcoin Frontier. It's a sunny day in the digital wilderness, no clouds or heavy forecasts for this week - simply golden times ahead in a…",
+     "categories": [
+      "BITCOIN",
+      "WAR"
+     ],
+     "url": "https://x.com/thebtcfrontierx/status/2107093533005848875"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2107084579832058284",
+     "timestamp": "2026-10-05T12:24:46+00:00",
+     "relevance": 60,
+     "summary": "Euro falls to its lowest against the dollar in 17 months. Rising debt, political tensions, and a strong dollar are pushing the euro down.",
+     "categories": [
+      "DXY"
+     ],
+     "url": "https://x.com/tedpillows/status/2107084579832058284"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2107078216477225032",
+     "timestamp": "2026-10-05T11:59:29+00:00",
+     "relevance": 70,
+     "summary": "Saylor bought $28,700,000 in $BTC last week. Is Saylor waiting for higher prices to buy more?",
+     "categories": [
+      "BITCOIN"
+     ],
+     "url": "https://x.com/tedpillows/status/2107078216477225032"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2107071375152484654",
+     "timestamp": "2026-10-05T11:32:17+00:00",
+     "relevance": 92,
+     "summary": "$BTC is hovering around the $86,000 level. US stock futures are down, while DXY is up. Pre-market stock trading insights: ▫️Nasdaq futures is down 0.19% 🔴 ▫️S&P futures is down…",
+     "categories": [
+      "BITCOIN",
+      "BTC_PRICE",
+      "DXY",
+      "EQUITIES"
+     ],
+     "url": "https://x.com/tedpillows/status/2107071375152484654"
+    },
+    {
+     "account": "nolimitgains",
+     "tweet_id": "2107069449509417344",
+     "timestamp": "2026-10-05T11:24:38+00:00",
+     "relevance": 60,
+     "summary": "Holy fucking shit Japan's 30-year bond yield just hit 4.24%, its highest level ever…",
+     "categories": [
+      "US_TREASURIES"
+     ],
+     "url": "https://x.com/nolimitgains/status/2107069449509417344"
+    },
     {
      "account": "tedpillows",
      "tweet_id": "2107048760513872209",
@@ -1107,12 +1249,12 @@
    ]
   },
   "stats": {
-   "posts_new": 83,
-   "posts_relevant": 11,
-   "predictions_new": 5,
+   "posts_new": 62,
+   "posts_relevant": 10,
+   "predictions_new": 3,
    "predictions_updated": 3,
    "invalidated": 0,
-   "posts_analysed": 85,
+   "posts_analysed": 63,
    "evaluated": 0
   }
  }
