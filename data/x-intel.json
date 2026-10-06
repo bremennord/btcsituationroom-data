@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-06T11:05:47.469039+00:00",
- "btc_price": 86125.2,
+ "generated_at": "2026-10-06T17:07:03.200160+00:00",
+ "btc_price": 85586.3,
  "outlook": {
   "BTC": {
    "horizons": {
@@ -23,28 +23,28 @@
      "accounts": 3
     },
     "7d": {
-     "label": "bullisch",
+     "label": "leicht bullisch",
      "counts": {
-      "pos": 5,
+      "pos": 4,
       "neu": 1,
       "neg": 1
      },
-     "accounts": 7
+     "accounts": 6
     }
    },
-   "scenario": "Mehrheit (7 T): bullisch. Wahrscheinlichste Zone laut Quellen: $80k–86k bis $87k; Ausbruch über $87k wäre das nächste Signal.",
-   "risk": "Bruch unter $80k–86k (genannt von @killaxbt, @tedpillows, @xapa03)",
+   "scenario": "Mehrheit (7 T): leicht bullisch. Wahrscheinlichste Zone laut Quellen: $80k–85k bis $87k; Ausbruch über $87k wäre das nächste Signal.",
+   "risk": "Bruch unter $80k–85k (genannt von @killaxbt, @tedpillows, @xapa03)",
    "consensus": {
-    "pos": 5,
+    "pos": 4,
     "neu": 1,
     "neg": 1
    },
-   "confidence": "Hoch",
+   "confidence": "Mittel",
    "levels": {
-    "support": "$80k–86k",
+    "support": "$80k–85k",
     "resistance": "$87k"
    },
-   "n_posts": 51,
+   "n_posts": 47,
    "sources": [
     {
      "account": "killaxbt",
@@ -108,19 +108,19 @@
   "MACRO": {
    "horizons": {
     "24h": {
-     "label": "leicht Risk-Off",
-     "counts": {
-      "pos": 0,
-      "neu": 1,
-      "neg": 1
-     },
-     "accounts": 2
-    },
-    "3d": {
-     "label": "neutral / gemischt",
+     "label": "zu wenige Aussagen",
      "counts": {
       "pos": 1,
-      "neu": 1,
+      "neu": 0,
+      "neg": 0
+     },
+     "accounts": 1
+    },
+    "3d": {
+     "label": "leicht Risk-On",
+     "counts": {
+      "pos": 2,
+      "neu": 0,
       "neg": 1
      },
      "accounts": 3
@@ -136,9 +136,9 @@
     }
    },
    "drivers": [
-    "steigende Renditen (7)",
+    "wachsende Liquidität (7)",
     "Fed restriktiv (7)",
-    "wachsende Liquidität (6)"
+    "steigende Renditen (6)"
    ],
    "risk": "Anstehende Termine in den Posts: EARNINGS (7×), PCE (5×), FOMC (3×)",
    "consensus": {
@@ -243,7 +243,7 @@
     "neg": 1
    },
    "confidence": "Mittel",
-   "n_posts": 9,
+   "n_posts": 10,
    "sources": [
     {
      "account": "osint613",
@@ -265,6 +265,13 @@
      "url": "https://x.com/zerohedge/status/2105363476440830115",
      "summary": "UBS mid-day rates note: Treasuries are giving back their post-PCE gains as markets refocus on the strength of US growth, with 10-year yields back above 5.25% and 30-year yields…",
      "timestamp": "2026-09-30T18:25:43+00:00"
+    },
+    {
+     "account": "zerohedge",
+     "tweet_id": "2107494651468882125",
+     "url": "https://x.com/zerohedge/status/2107494651468882125",
+     "summary": "Gold ETF Buying Persists Despite Break Below $4,200/Oz Gold has slipped below $4,200/oz, but ETF inflows continue to point to resilient investor demand despite an increasingly…",
+     "timestamp": "2026-10-06T15:34:14+00:00"
     },
     {
      "account": "zerohedge",
@@ -293,13 +300,6 @@
      "url": "https://x.com/osint613/status/2106769695877779914",
      "summary": "Energy Secretary Wright: \"We've got increasing supplies coming out of the Strait of Hormuz, and they've continued to rise.\" Media",
      "timestamp": "2026-10-04T15:33:32+00:00"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2106786821413699673",
-     "url": "https://x.com/osint613/status/2106786821413699673",
-     "summary": "A female NCO from Unit 8200, identified only as V., was awarded a certificate of appreciation by IDF Chief of Staff Eyal Zamir. Before October 7 she warned that Hamas was ready to…",
-     "timestamp": "2026-10-04T16:41:35+00:00"
     }
    ]
   },
@@ -308,7 +308,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 88,
+     "posts": 85,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -326,7 +326,7 @@
      ]
     }
    ],
-   "n_posts": 140,
+   "n_posts": 138,
    "sources": [
     {
      "account": "osint613",
@@ -341,6 +341,13 @@
      "url": "https://x.com/osint613/status/2106805528219312265",
      "summary": "German Chancellor Merz: \"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14%…",
      "timestamp": "2026-10-04T17:55:55+00:00"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2107456688379122139",
+     "url": "https://x.com/tedpillows/status/2107456688379122139",
+     "summary": "$BTC is back above the $86,000 level. US stock futures are up today, while Oil is dropping. Pre-market stock trading insights: ▫️Nasdaq futures is up 0.47% 🟠 ▫️S&P futures is up…",
+     "timestamp": "2026-10-06T13:03:23+00:00"
     },
     {
      "account": "osint613",
@@ -376,44 +383,37 @@
      "url": "https://x.com/zerohedge/status/2106523400311366143",
      "summary": "gonna need a bigger diesel emergency reserve release... In an exclusive interview with Reuters, President Volodymyr Zelenskiy said Ukraine will step up attacks on Russian oil…",
      "timestamp": "2026-10-03T23:14:50+00:00"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2106458789734236330",
-     "url": "https://x.com/osint613/status/2106458789734236330",
-     "summary": "Houthi military spokesman Yahya Saree announced an attack on Aramco facilities in Riyadh, describing it as retaliation for Saudi strikes on Sanaa and other Yemeni provinces.…",
-     "timestamp": "2026-10-03T18:58:06+00:00"
     }
    ],
    "impact_kind": "Typisches Marktmuster (Systemeinschätzung, keine Prognose)"
   }
  },
  "changed": {
-  "since": "2026-10-06T05:11:50.258240+00:00",
+  "since": "2026-10-06T11:05:55.137213+00:00",
   "new": [
    {
-    "account": "tedpillows",
-    "text": "BTC RANGE $87.000",
-    "url": "https://x.com/tedpillows/status/2107395990055719258"
-   },
-   {
-    "account": "osint613",
-    "text": "The Aviationist obtained a photo showing apparent Iranian targets struck by a U.S. Marine Corps VMFA-314 F-35C during the war. The markings appear to represent the following…",
-    "url": "https://x.com/osint613/status/2107357083242803217"
+    "account": "jameslavish",
+    "text": "The Bitcoin treasury model has evolved. Last cycle, mNAV & common equity issuance drove the engine. That will not be the MAIN driver of returns this cycle. Strive believes having…",
+    "url": "https://x.com/colemacro/status/2107449531004797253"
    },
    {
     "account": "tedpillows",
-    "text": "$BTC is hovering around the $86,000 level. Until Bitcoin breaks above $87,000, every upside rally will be capped.",
-    "url": "https://x.com/tedpillows/status/2107395990055719258"
+    "text": "$BTC is back above the $86,000 level. US stock futures are up today, while Oil is dropping. Pre-market stock trading insights: ▫️Nasdaq futures is up 0.47% 🟠 ▫️S&P futures is up…",
+    "url": "https://x.com/tedpillows/status/2107456688379122139"
+   },
+   {
+    "account": "tedpillows",
+    "text": "Large $BTC sell orders stacked around $86,750-$87,500. Sellers are trying to stop Bitcoin from reclaiming the yearly open.",
+    "url": "https://x.com/tedpillows/status/2107504145473421424"
    }
   ],
   "changed": [],
-  "new_consensus": [],
+  "new_consensus": [
+   "Bitcoin: bullisch → leicht bullisch"
+  ],
   "no_change": [
-   "Bitcoin bleibt bullisch",
    "Makro bleibt Risk-Off",
-   "Liquidität bleibt leicht expandierend",
-   "Geopolitisches Risiko bleibt Hoch"
+   "Liquidität bleibt leicht expandierend"
   ]
  },
  "important_posts": [
@@ -484,6 +484,17 @@
    "why": "Mögliche Wirkung auf Öl, Gold, Risiko-Assets"
   },
   {
+   "account": "zerohedge",
+   "tweet_id": "2107494651468882125",
+   "url": "https://x.com/zerohedge/status/2107494651468882125",
+   "summary": "Gold ETF Buying Persists Despite Break Below $4,200/Oz Gold has slipped below $4,200/oz, but ETF inflows continue to point to resilient investor demand despite an increasingly…",
+   "timestamp": "2026-10-06T15:34:14+00:00",
+   "category": "BTC_ETF",
+   "relevance": 85,
+   "text": "Gold ETF Buying Persists Despite Break Below $4,200/Oz\n\n\n\nGold has slipped below $4,200/oz, but ETF inflows continue to point to resilient investor demand despite an increasingly restrictive rates backdrop according to UBS. \n\n\n\nPersistent ETF accumulation is notable given elevated 5y5y real yields and SOFR pricing that implies more than three additional hikes, conditions that would typically weigh on non-yielding ass",
+   "why": "Liquidität expandiert"
+  },
+  {
    "account": "nolimitgains",
    "tweet_id": "2106840630294872549",
    "url": "https://x.com/nolimitgains/status/2106840630294872549",
@@ -493,17 +504,6 @@
    "relevance": 82,
    "text": "BREAKING: France’s 10-year bond yield is near 5%, around its highest levels since 2002.\n\n\n\nMeanwhile, new fixed mortgages lasting 20+ years are capped at 5.4%, INCLUDING mandatory insurance and fees.\n\n\n\nThat ceiling applies to the mortgage’s total annual cost. Banks don’t automatically stop lending when government bond yields hit 5.4%.\n\n\n\nMy concern: rising funding costs could push banks to reject more borrowers beca",
    "why": "Neue Makro- oder Marktdaten"
-  },
-  {
-   "account": "jameslavish",
-   "tweet_id": "2107229316019085704",
-   "url": "https://x.com/jameslavish/status/2107229316019085704",
-   "summary": "If you are wondering what state of the fiat experiment we are at, it's the one where they are saying the quiet part out-loudly and proudly in a last ditch effort to normalize the…",
-   "timestamp": "2026-10-05T21:59:54+00:00",
-   "category": "INFLATION",
-   "relevance": 77,
-   "text": "If you are wondering what state of the fiat experiment we are at, it's the one where they are saying the quiet part out-loudly and proudly in a last ditch effort to normalize the only escape route the government is willing to take.\nJUST IN: 🇺🇸 President Trump says inflation could pay down the $40 trillion US national debt \"very rapidly.\"",
-   "why": "Kontext: Inflation, Geopolitics"
   }
  ],
  "top_predictions": [
@@ -514,7 +514,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-06T09:02:12+00:00",
-   "distance_pct": 1.0,
+   "distance_pct": 1.6,
    "conditions": null,
    "evidence": "Until Bitcoin breaks above $87,000, every upside rally will be capped."
   },
@@ -525,7 +525,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-05T08:25:01+00:00",
-   "distance_pct": 1.6,
+   "distance_pct": 2.2,
    "conditions": null,
    "evidence": "A daily close above $87,500 could quickly push Bitcoin to $90,000."
   },
@@ -536,7 +536,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-04T14:26:00+00:00",
-   "distance_pct": 1.6,
+   "distance_pct": 2.2,
    "conditions": "If spot demand picks up",
    "evidence": "If spot demand picks up, Bitcoin could quickly rally above $87,500."
   },
@@ -547,7 +547,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-05T19:44:27+00:00",
-   "distance_pct": -11.3,
+   "distance_pct": -10.8,
    "conditions": null,
    "evidence": "I will be hedging my $BTC long from 76.4K in this box."
   },
@@ -558,7 +558,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-05T14:45:30+00:00",
-   "distance_pct": -11.3,
+   "distance_pct": -10.8,
    "conditions": null,
    "evidence": "I will be equal hedging my BTC long from 76.4K."
   }
@@ -681,11 +681,11 @@
  },
  "daily": {
   "report_date": "2026-10-06",
-  "generated_at": "2026-10-06T11:02:04.766500+00:00",
+  "generated_at": "2026-10-06T17:01:47.642448+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-10-05T11:02:04.757768+00:00",
-   "to": "2026-10-06T11:02:04.766500+00:00"
+   "from": "2026-10-05T17:01:47.631883+00:00",
+   "to": "2026-10-06T17:01:47.642448+00:00"
   },
   "key_points": [
    {
@@ -721,13 +721,13 @@
   ],
   "sections": {
    "TOP_DEVELOPMENTS": "@tedpillows: $BTC is hovering around the $86,000 level. Until Bitcoin breaks above $87,000, every upside rally will be capped. · @osint613: The Aviationist obtained a photo showing apparent Iranian targets struck by a U.S. Marine Corps VMFA-314 F-35C during the war. The markings appear to represent the following… · @killaxbt: I will be hedging my $BTC long from 76.4K in this box. It will be a equal hedge with invalidation at 92.8K.",
-   "BTC_OUTLOOK": "Stimmung 62 % bullisch (8/12 Accounts mit Meinung). Median offener Kursziele $87.000. @tedpillows: $BTC is hovering around the $86,000 level. Until Bitcoin breaks above $87,000, every upside rally will be capped. · @killaxbt: I will be hedging my $BTC long from 76.4K in this box. It will be a equal hedge with invalidation at 92.8K. · @xapa03: Goood morning, good morning here at the Bitcoin Frontier. It's a sunny day in the digital wilderness, no clouds or heavy forecasts for this week - simply golden times ahead in a…",
-   "MACRO_OUTLOOK": "@tedpillows: $BTC is hovering around the $86,000 level. US stock futures are down, while DXY is up. Pre-market stock trading insights: ▫️Nasdaq futures is down 0.19% 🔴 ▫️S&P futures is down… · @jameslavish: If you are wondering what state of the fiat experiment we are at, it's the one where they are saying the quiet part out-loudly and proudly in a last ditch effort to normalize the… · @danheld: Gold is worth $30 Trillion. Apple is worth $4.9 Trillion. Bitcoin is only worth $1.7 Trillion. Where do you think the price goes from here? 🚀",
+   "BTC_OUTLOOK": "Stimmung 62 % bullisch (8/12 Accounts mit Meinung). Median offener Kursziele $87.000. @tedpillows: $BTC is hovering around the $86,000 level. Until Bitcoin breaks above $87,000, every upside rally will be capped. · @killaxbt: I will be hedging my $BTC long from 76.4K in this box. It will be a equal hedge with invalidation at 92.8K. · @jameslavish: The Bitcoin treasury model has evolved. Last cycle, mNAV & common equity issuance drove the engine. That will not be the MAIN driver of returns this cycle. Strive believes having…",
+   "MACRO_OUTLOOK": "@tedpillows: $BTC is back above the $86,000 level. US stock futures are up today, while Oil is dropping. Pre-market stock trading insights: ▫️Nasdaq futures is up 0.47% 🟠 ▫️S&P futures is up… · @zerohedge: Gold ETF Buying Persists Despite Break Below $4,200/Oz Gold has slipped below $4,200/oz, but ETF inflows continue to point to resilient investor demand despite an increasingly… · @jameslavish: If you are wondering what state of the fiat experiment we are at, it's the one where they are saying the quiet part out-loudly and proudly in a last ditch effort to normalize the…",
    "GLOBAL_LIQUIDITY": "Keine relevanten Aussagen.",
-   "FED_RATES": "@osint613: The Aviationist obtained a photo showing apparent Iranian targets struck by a U.S. Marine Corps VMFA-314 F-35C during the war. The markings appear to represent the following…",
-   "DXY_TREASURIES": "@tedpillows: $BTC is hovering around the $86,000 level. US stock futures are down, while DXY is up. Pre-market stock trading insights: ▫️Nasdaq futures is down 0.19% 🔴 ▫️S&P futures is down… · @nolimitgains: BREAKING: US home-purchase mortgage applications have fallen to their lowest level since APRIL 2025. Total mortgage applications dropped another 6% in a week as the MBA’s 30-year… · @zerohedge: JPM Delta One (Manish Sinha): Beneath the tech rally, a deeper risk is being priced into parts of the market. Our Stagflation {Jp9STAGp Index} Factor is rising almost…",
-   "GOLD": "@danheld: Gold is worth $30 Trillion. Apple is worth $4.9 Trillion. Bitcoin is only worth $1.7 Trillion. Where do you think the price goes from here? 🚀 · @timevalueofbtc: There are 138 ounces of monetary gold for every 1 bitcoin. Act accordingly.",
-   "GEOPOLITICS": "@osint613: The Aviationist obtained a photo showing apparent Iranian targets struck by a U.S. Marine Corps VMFA-314 F-35C during the war. The markings appear to represent the following… · @jameslavish: If you are wondering what state of the fiat experiment we are at, it's the one where they are saying the quiet part out-loudly and proudly in a last ditch effort to normalize the… · @xapa03: Goood morning, good morning here at the Bitcoin Frontier. It's a sunny day in the digital wilderness, no clouds or heavy forecasts for this week - simply golden times ahead in a…",
+   "FED_RATES": "@osint613: The Aviationist obtained a photo showing apparent Iranian targets struck by a U.S. Marine Corps VMFA-314 F-35C during the war. The markings appear to represent the following… · @zerohedge: Gold ETF Buying Persists Despite Break Below $4,200/Oz Gold has slipped below $4,200/oz, but ETF inflows continue to point to resilient investor demand despite an increasingly…",
+   "DXY_TREASURIES": "@jameslavish: The Bitcoin treasury model has evolved. Last cycle, mNAV & common equity issuance drove the engine. That will not be the MAIN driver of returns this cycle. Strive believes having… · @zerohedge: Gold ETF Buying Persists Despite Break Below $4,200/Oz Gold has slipped below $4,200/oz, but ETF inflows continue to point to resilient investor demand despite an increasingly… · @danheld: Yields on sovereign debt continue to skyrocket as investors globally are coming to the realization that governments cannot be trusted with their record levels of debt. Bitcoin was…",
+   "GOLD": "@zerohedge: Gold ETF Buying Persists Despite Break Below $4,200/Oz Gold has slipped below $4,200/oz, but ETF inflows continue to point to resilient investor demand despite an increasingly… · @timevalueofbtc: There are 138 ounces of monetary gold for every 1 bitcoin. Act accordingly.",
+   "GEOPOLITICS": "@osint613: The Aviationist obtained a photo showing apparent Iranian targets struck by a U.S. Marine Corps VMFA-314 F-35C during the war. The markings appear to represent the following… · @tedpillows: $BTC is back above the $86,000 level. US stock futures are up today, while Oil is dropping. Pre-market stock trading insights: ▫️Nasdaq futures is up 0.47% 🟠 ▫️S&P futures is up… · @jameslavish: If you are wondering what state of the fiat experiment we are at, it's the one where they are saying the quiet part out-loudly and proudly in a last ditch effort to normalize the…",
    "CONSENSUS": "BTC: 62 % bullisch (5/8) · Liquidität: 86 % expandierend (6/7) · Fed: 100 % straffend (4/4) · Geopolitik-Risiko: 100 % erhöht (7/7)",
    "CONTRARIAN": "@xapa03 (BTC bärisch): BTC did not made a higher high than 87,4\n\nuntil that is not happend, it remains valid ⌛️ · @tedpillows (BTC bärisch): This just keeps happening again and again.\n\n\n\n$BTC slowly grinds down.\n\nSomeone slams it hard.\n\nRecovery and Bitcoin go  · @xapa03 (Liquidität schrumpfend): Measured from the last weekly candle inside the green zone of the TEM, ETH found its peak within 35 days.\n\nThe top occur"
   },
@@ -794,69 +794,6 @@
     "evidence": "BREAKING: Our traders forecast Bitcoin will hit $95,000 this year",
     "label": "BTC UP $95.000 (this year)",
     "url": "https://x.com/killaxbt/status/2107170248717742542"
-   },
-   {
-    "id": 66,
-    "account": "killaxbt",
-    "tweet_id": "2107119996123902441",
-    "prediction_date": "2026-10-05T14:45:30+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "UP",
-    "target": null,
-    "target_low": 89400.0,
-    "target_high": 90600.0,
-    "deadline": null,
-    "time_horizon": null,
-    "conditions": null,
-    "status": "UPDATED",
-    "status_note": "BTC UP $89.400–90.600 → BTC UP $95.000 (this year)",
-    "btc_price_when_prediction_made": 85296.2,
-    "evidence": "I expect $BTC to test 89.4-90.6K.",
-    "label": "BTC UP $89.400–90.600",
-    "url": "https://x.com/killaxbt/status/2107119996123902441"
-   },
-   {
-    "id": 67,
-    "account": "killaxbt",
-    "tweet_id": "2107119996123902441",
-    "prediction_date": "2026-10-05T14:45:30+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "DOWN",
-    "target": 76400.0,
-    "target_low": null,
-    "target_high": null,
-    "deadline": null,
-    "time_horizon": null,
-    "conditions": null,
-    "status": "OPEN",
-    "status_note": null,
-    "btc_price_when_prediction_made": 85296.2,
-    "evidence": "I will be equal hedging my BTC long from 76.4K.",
-    "label": "BTC DOWN $76.400",
-    "url": "https://x.com/killaxbt/status/2107119996123902441"
-   },
-   {
-    "id": 65,
-    "account": "killaxbt",
-    "tweet_id": "2107098902532882654",
-    "prediction_date": "2026-10-05T13:21:41+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "UP",
-    "target": 87000.0,
-    "target_low": null,
-    "target_high": null,
-    "deadline": null,
-    "time_horizon": null,
-    "conditions": "If BTC is going to break 87K",
-    "status": "UPDATED",
-    "status_note": "BTC UP $87.000 → BTC UP $89.400–90.600",
-    "btc_price_when_prediction_made": 85296.2,
-    "evidence": "If BTC is going to break 87K, it needs to happen on this weekly candle.",
-    "label": "BTC UP $87.000",
-    "url": "https://x.com/killaxbt/status/2107098902532882654"
    }
   ],
   "updated_predictions": [
@@ -891,30 +828,6 @@
     "tweet_id": "2107098902532882654",
     "url": "https://x.com/killaxbt/status/2107098902532882654",
     "detected_at": "2026-10-05T17:02:20.904490+00:00"
-   },
-   {
-    "account": "killaxbt",
-    "change": "TARGET_CHANGED,TIMEFRAME_CHANGED",
-    "note": "BTC DOWN $81.000 → BTC RANGE $87.000 (next week)",
-    "tweet_id": "2106918427701215360",
-    "url": "https://x.com/killaxbt/status/2106918427701215360",
-    "detected_at": "2026-10-05T11:02:06.995388+00:00"
-   },
-   {
-    "account": "killaxbt",
-    "change": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED",
-    "note": "BTC UP $126.000 (Q2) → BTC DOWN $81.000",
-    "tweet_id": "2106816025173930138",
-    "url": "https://x.com/killaxbt/status/2106816025173930138",
-    "detected_at": "2026-10-05T11:02:06.995388+00:00"
-   },
-   {
-    "account": "killaxbt",
-    "change": "TARGET_CHANGED,TIMEFRAME_CHANGED",
-    "note": "BTC UP $97.000 → BTC UP $126.000 (Q2)",
-    "tweet_id": "2106757104526643459",
-    "url": "https://x.com/killaxbt/status/2106757104526643459",
-    "detected_at": "2026-10-05T11:02:06.995388+00:00"
    }
   ],
   "invalidated_predictions": [
@@ -943,10 +856,110 @@
   "thesis_changes": [],
   "since_morning": {
    "since": "2026-10-06T05:00:00+00:00",
-   "relevant_posts": 17,
+   "relevant_posts": 25,
    "consensus_shifts": [],
    "new_predictions": 1,
    "posts": [
+    {
+     "account": "tedpillows",
+     "tweet_id": "2107504145473421424",
+     "timestamp": "2026-10-06T16:11:58+00:00",
+     "relevance": 86,
+     "summary": "Large $BTC sell orders stacked around $86,750-$87,500. Sellers are trying to stop Bitcoin from reclaiming the yearly open.",
+     "categories": [
+      "BITCOIN",
+      "BTC_PRICE"
+     ],
+     "url": "https://x.com/tedpillows/status/2107504145473421424"
+    },
+    {
+     "account": "zerohedge",
+     "tweet_id": "2107494651468882125",
+     "timestamp": "2026-10-06T15:34:14+00:00",
+     "relevance": 85,
+     "summary": "Gold ETF Buying Persists Despite Break Below $4,200/Oz Gold has slipped below $4,200/oz, but ETF inflows continue to point to resilient investor demand despite an increasingly…",
+     "categories": [
+      "BTC_ETF",
+      "INTEREST_RATES",
+      "US_TREASURIES",
+      "GOLD"
+     ],
+     "url": "https://x.com/zerohedge/status/2107494651468882125"
+    },
+    {
+     "account": "zerohedge",
+     "tweet_id": "2107492853085536630",
+     "timestamp": "2026-10-06T15:27:06+00:00",
+     "relevance": 65,
+     "summary": "50 Iranian Tanker Logjam Unfolds As US Naval Blockade Starves Tehran Of Oil Revenue",
+     "categories": [
+      "ENERGY",
+      "GEOPOLITICS"
+     ],
+     "url": "https://x.com/zerohedge/status/2107492853085536630"
+    },
+    {
+     "account": "danheld",
+     "tweet_id": "2107487509122822361",
+     "timestamp": "2026-10-06T15:05:52+00:00",
+     "relevance": 66,
+     "summary": "We wouldn't need Bitcoin: - If we could trust banks - If we could trust people - If we could trust the government But we can't. That's why we need Plan ₿",
+     "categories": [
+      "BITCOIN",
+      "BANKING"
+     ],
+     "url": "https://x.com/danheld/status/2107487509122822361"
+    },
+    {
+     "account": "danheld",
+     "tweet_id": "2107461149306347823",
+     "timestamp": "2026-10-06T13:21:07+00:00",
+     "relevance": 76,
+     "summary": "Yields on sovereign debt continue to skyrocket as investors globally are coming to the realization that governments cannot be trusted with their record levels of debt. Bitcoin was…",
+     "categories": [
+      "BITCOIN",
+      "US_TREASURIES",
+      "BANKING"
+     ],
+     "url": "https://x.com/danheld/status/2107461149306347823"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2107456688379122139",
+     "timestamp": "2026-10-06T13:03:23+00:00",
+     "relevance": 92,
+     "summary": "$BTC is back above the $86,000 level. US stock futures are up today, while Oil is dropping. Pre-market stock trading insights: ▫️Nasdaq futures is up 0.47% 🟠 ▫️S&P futures is up…",
+     "categories": [
+      "BITCOIN",
+      "BTC_PRICE",
+      "ENERGY",
+      "EQUITIES"
+     ],
+     "url": "https://x.com/tedpillows/status/2107456688379122139"
+    },
+    {
+     "account": "jameslavish",
+     "tweet_id": "2107449531004797253",
+     "timestamp": "2026-10-06T12:34:57+00:00",
+     "relevance": 96,
+     "summary": "The Bitcoin treasury model has evolved. Last cycle, mNAV & common equity issuance drove the engine. That will not be the MAIN driver of returns this cycle. Strive believes having…",
+     "categories": [
+      "BITCOIN",
+      "US_TREASURIES"
+     ],
+     "url": "https://x.com/colemacro/status/2107449531004797253"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2107440547967426901",
+     "timestamp": "2026-10-06T11:59:15+00:00",
+     "relevance": 66,
+     "summary": "October has historically been one of Bitcoin’s strongest months. Since 2013, $BTC has closed October in the red only 3 times. How will BTC close this October?",
+     "categories": [
+      "BITCOIN"
+     ],
+     "url": "https://x.com/tedpillows/status/2107440547967426901"
+    },
     {
      "account": "tedpillows",
      "tweet_id": "2107425383620784597",
@@ -1155,12 +1168,12 @@
    ]
   },
   "stats": {
-   "posts_new": 65,
-   "posts_relevant": 6,
-   "predictions_new": 1,
+   "posts_new": 32,
+   "posts_relevant": 8,
+   "predictions_new": 0,
    "predictions_updated": 0,
    "invalidated": 0,
-   "posts_analysed": 66,
+   "posts_analysed": 33,
    "evaluated": 0
   }
  }
