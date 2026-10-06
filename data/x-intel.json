@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-06T05:11:40.929697+00:00",
- "btc_price": 85697.3,
+ "generated_at": "2026-10-06T11:05:47.469039+00:00",
+ "btc_price": 86125.2,
  "outlook": {
   "BTC": {
    "horizons": {
     "24h": {
      "label": "bullisch",
      "counts": {
-      "pos": 3,
+      "pos": 2,
       "neu": 0,
       "neg": 0
      },
-     "accounts": 3
+     "accounts": 2
     },
     "3d": {
      "label": "leicht bullisch",
@@ -32,8 +32,8 @@
      "accounts": 7
     }
    },
-   "scenario": "Mehrheit (7 T): bullisch. Wahrscheinlichste Zone laut Quellen: $80k–85k bis $87k; Ausbruch über $87k wäre das nächste Signal.",
-   "risk": "Bruch unter $80k–85k (genannt von @killaxbt, @tedpillows, @xapa03)",
+   "scenario": "Mehrheit (7 T): bullisch. Wahrscheinlichste Zone laut Quellen: $80k–86k bis $87k; Ausbruch über $87k wäre das nächste Signal.",
+   "risk": "Bruch unter $80k–86k (genannt von @killaxbt, @tedpillows, @xapa03)",
    "consensus": {
     "pos": 5,
     "neu": 1,
@@ -41,10 +41,10 @@
    },
    "confidence": "Hoch",
    "levels": {
-    "support": "$80k–85k",
+    "support": "$80k–86k",
     "resistance": "$87k"
    },
-   "n_posts": 52,
+   "n_posts": 51,
    "sources": [
     {
      "account": "killaxbt",
@@ -117,13 +117,13 @@
      "accounts": 2
     },
     "3d": {
-     "label": "leicht Risk-Off",
+     "label": "neutral / gemischt",
      "counts": {
       "pos": 1,
       "neu": 1,
-      "neg": 2
+      "neg": 1
      },
-     "accounts": 4
+     "accounts": 3
     },
     "7d": {
      "label": "Risk-Off",
@@ -219,13 +219,13 @@
      "accounts": 1
     },
     "3d": {
-     "label": "leicht expandierend",
+     "label": "expandierend",
      "counts": {
       "pos": 2,
       "neu": 0,
-      "neg": 1
+      "neg": 0
      },
-     "accounts": 3
+     "accounts": 2
     },
     "7d": {
      "label": "leicht expandierend",
@@ -308,7 +308,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 81,
+     "posts": 88,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -318,7 +318,7 @@
     },
     {
      "name": "Russland / Ukraine",
-     "posts": 23,
+     "posts": 26,
      "impact": [
       "Energie ↑",
       "Europa-Risiko ↑",
@@ -326,8 +326,15 @@
      ]
     }
    ],
-   "n_posts": 127,
+   "n_posts": 140,
    "sources": [
+    {
+     "account": "osint613",
+     "tweet_id": "2107357083242803217",
+     "url": "https://x.com/osint613/status/2107357083242803217",
+     "summary": "The Aviationist obtained a photo showing apparent Iranian targets struck by a U.S. Marine Corps VMFA-314 F-35C during the war. The markings appear to represent the following…",
+     "timestamp": "2026-10-06T06:27:36+00:00"
+    },
     {
      "account": "osint613",
      "tweet_id": "2106805528219312265",
@@ -351,6 +358,13 @@
     },
     {
      "account": "osint613",
+     "tweet_id": "2107344937184293123",
+     "url": "https://x.com/osint613/status/2107344937184293123",
+     "summary": "Russian state television has aired footage of the Spetsradio enterprise producing barrage balloons intended to protect oil refineries and energy facilities from Ukrainian drone…",
+     "timestamp": "2026-10-06T05:39:20+00:00"
+    },
+    {
+     "account": "osint613",
      "tweet_id": "2106996300382409023",
      "url": "https://x.com/osint613/status/2106996300382409023",
      "summary": "Middle East oil exports, Iran excluded, are now above pre-war levels despite attacks on shipping in the Strait of Hormuz. Shipments topped the 18 million barrel per day…",
@@ -369,70 +383,62 @@
      "url": "https://x.com/osint613/status/2106458789734236330",
      "summary": "Houthi military spokesman Yahya Saree announced an attack on Aramco facilities in Riyadh, describing it as retaliation for Saudi strikes on Sanaa and other Yemeni provinces.…",
      "timestamp": "2026-10-03T18:58:06+00:00"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2106424878664413413",
-     "url": "https://x.com/osint613/status/2106424878664413413",
-     "summary": "A video was also released by locals, showing the facility burning. At least three oil storage tanks were targeted in the attacks. Media Overnight, Houthi forces struck the Aramco…",
-     "timestamp": "2026-10-03T16:43:21+00:00"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2106424245253247340",
-     "url": "https://x.com/osint613/status/2106424245253247340",
-     "summary": "Overnight, Houthi forces struck the Aramco Oil facility in Riyadh, Saudi Arabia, with ballistic missiles. Satellite imagery shows a large plume of smoke originating from the…",
-     "timestamp": "2026-10-03T16:40:50+00:00"
     }
    ],
    "impact_kind": "Typisches Marktmuster (Systemeinschätzung, keine Prognose)"
   }
  },
  "changed": {
-  "since": "2026-10-05T17:09:28.588515+00:00",
+  "since": "2026-10-06T05:11:50.258240+00:00",
   "new": [
    {
-    "account": "killaxbt",
-    "text": "BTC DOWN $76.400",
-    "url": "https://x.com/killaxbt/status/2107195230663421984"
+    "account": "tedpillows",
+    "text": "BTC RANGE $87.000",
+    "url": "https://x.com/tedpillows/status/2107395990055719258"
    },
    {
-    "account": "killaxbt",
-    "text": "BTC UP $95.000 (this year)",
-    "url": "https://x.com/killaxbt/status/2107170248717742542"
+    "account": "osint613",
+    "text": "The Aviationist obtained a photo showing apparent Iranian targets struck by a U.S. Marine Corps VMFA-314 F-35C during the war. The markings appear to represent the following…",
+    "url": "https://x.com/osint613/status/2107357083242803217"
    },
    {
-    "account": "killaxbt",
-    "text": "We will consolidate below 95K just like we consolidated below 30K in 2023. A period of timebased chop and consolidation before $BTC breaks to a new ATH. BREAKING: Our traders…",
-    "url": "https://x.com/killaxbt/status/2107170248717742542"
-   },
-   {
-    "account": "killaxbt",
-    "text": "I will be hedging my $BTC long from 76.4K in this box. It will be a equal hedge with invalidation at 92.8K.",
-    "url": "https://x.com/killaxbt/status/2107195230663421984"
+    "account": "tedpillows",
+    "text": "$BTC is hovering around the $86,000 level. Until Bitcoin breaks above $87,000, every upside rally will be capped.",
+    "url": "https://x.com/tedpillows/status/2107395990055719258"
    }
   ],
-  "changed": [
-   {
-    "account": "killaxbt",
-    "text": "vorher BTC UP $89.400–90.600, jetzt BTC UP $95.000 (this year)",
-    "url": "https://x.com/killaxbt/status/2107170248717742542"
-   },
-   {
-    "account": "killaxbt",
-    "text": "nimmt zurück: BTC UP $95.000 (this year)",
-    "url": "https://x.com/killaxbt/status/2107170248717742542"
-   }
-  ],
-  "new_consensus": [
-   "Makro: leicht Risk-Off → Risk-Off"
-  ],
+  "changed": [],
+  "new_consensus": [],
   "no_change": [
    "Bitcoin bleibt bullisch",
-   "Liquidität bleibt leicht expandierend"
+   "Makro bleibt Risk-Off",
+   "Liquidität bleibt leicht expandierend",
+   "Geopolitisches Risiko bleibt Hoch"
   ]
  },
  "important_posts": [
+  {
+   "account": "tedpillows",
+   "tweet_id": "2107395990055719258",
+   "url": "https://x.com/tedpillows/status/2107395990055719258",
+   "summary": "$BTC is hovering around the $86,000 level. Until Bitcoin breaks above $87,000, every upside rally will be capped.",
+   "timestamp": "2026-10-06T09:02:12+00:00",
+   "category": "BITCOIN",
+   "relevance": 100,
+   "text": "$BTC is hovering around the $86,000 level.\n\n\n\nUntil Bitcoin breaks above $87,000, every upside rally will be capped.",
+   "why": "Konkrete Prognose: BTC RANGE $87.000"
+  },
+  {
+   "account": "osint613",
+   "tweet_id": "2107357083242803217",
+   "url": "https://x.com/osint613/status/2107357083242803217",
+   "summary": "The Aviationist obtained a photo showing apparent Iranian targets struck by a U.S. Marine Corps VMFA-314 F-35C during the war. The markings appear to represent the following…",
+   "timestamp": "2026-10-06T06:27:36+00:00",
+   "category": "FED",
+   "relevance": 100,
+   "text": "The Aviationist obtained a photo showing apparent Iranian targets struck by a U.S. Marine Corps VMFA-314 F-35C during the war.\n\n\n\nThe markings appear to represent the following targets:\n\n\n\n• 1 oil tanker \n\n• 3 submarines \n\n• 1 surface warship \n\n• 1 Shahed-type drone \n\n• 1 artillery piece \n\n• 5 ground-based launchers",
+   "why": "Mögliche Wirkung auf Öl, Gold, Risiko-Assets"
+  },
   {
    "account": "killaxbt",
    "tweet_id": "2107195230663421984",
@@ -478,28 +484,6 @@
    "why": "Mögliche Wirkung auf Öl, Gold, Risiko-Assets"
   },
   {
-   "account": "tedpillows",
-   "tweet_id": "2106752701367500983",
-   "url": "https://x.com/tedpillows/status/2106752701367500983",
-   "summary": "$BTC has large sell orders in the $87,500-$90,000 zone. If spot demand picks up, Bitcoin could quickly rally above $87,500. Media",
-   "timestamp": "2026-10-04T14:26:00+00:00",
-   "category": "BITCOIN",
-   "relevance": 100,
-   "text": "$BTC has large sell orders in the $87,500-$90,000 zone.\n\n\n\nIf spot demand picks up, Bitcoin could quickly rally above $87,500.\nMedia",
-   "why": "Gegenposition zum aktuellen X-Konsens"
-  },
-  {
-   "account": "xapa03",
-   "tweet_id": "2106317322612859164",
-   "url": "https://x.com/xapa03/status/2106317322612859164",
-   "summary": "Measured from the last weekly candle inside the green zone of the TEM, ETH found its peak within 35 days. The top occurred exactly after 35 days (on the weekly timeframe), and the…",
-   "timestamp": "2026-10-03T09:35:57+00:00",
-   "category": "BITCOIN",
-   "relevance": 100,
-   "text": "Measured from the last weekly candle inside the green zone of the TEM, ETH found its peak within 35 days.\n\nThe top occurred exactly after 35 days (on the weekly timeframe), and the attempt to break out that week resulted in a lower high.\n\nThe first level I see for Ethereum is $2,500, with a maximum pullback to $2,200.\n\nI expect market weakness over the next two weeks and for Bitcoin to drain liquidity from most altco",
-   "why": "Neue Makro- oder Marktdaten"
-  },
-  {
    "account": "nolimitgains",
    "tweet_id": "2106840630294872549",
    "url": "https://x.com/nolimitgains/status/2106840630294872549",
@@ -511,18 +495,29 @@
    "why": "Neue Makro- oder Marktdaten"
   },
   {
-   "account": "osint613",
-   "tweet_id": "2107186118340837639",
-   "url": "https://x.com/osint613/status/2107186118340837639",
-   "summary": "Britain's national security adviser Jonathan Powell travelled to Israel last week in an undisclosed visit aimed at preventing the closure of the U.K. consulate in East Jerusalem,…",
-   "timestamp": "2026-10-05T19:08:14+00:00",
-   "category": "FED",
-   "relevance": 81,
-   "text": "Britain's national security adviser Jonathan Powell travelled to Israel last week in an undisclosed visit aimed at preventing the closure of the U.K. consulate in East Jerusalem, three sources told Reuters. Israel ordered the closure after London sanctioned Israeli settlements. Powell met Israeli officials but no agreement was reached.",
-   "why": "Mögliche Wirkung auf Öl, Gold, Risiko-Assets"
+   "account": "jameslavish",
+   "tweet_id": "2107229316019085704",
+   "url": "https://x.com/jameslavish/status/2107229316019085704",
+   "summary": "If you are wondering what state of the fiat experiment we are at, it's the one where they are saying the quiet part out-loudly and proudly in a last ditch effort to normalize the…",
+   "timestamp": "2026-10-05T21:59:54+00:00",
+   "category": "INFLATION",
+   "relevance": 77,
+   "text": "If you are wondering what state of the fiat experiment we are at, it's the one where they are saying the quiet part out-loudly and proudly in a last ditch effort to normalize the only escape route the government is willing to take.\nJUST IN: 🇺🇸 President Trump says inflation could pay down the $40 trillion US national debt \"very rapidly.\"",
+   "why": "Kontext: Inflation, Geopolitics"
   }
  ],
  "top_predictions": [
+  {
+   "account": "tedpillows",
+   "label": "BTC RANGE $87.000",
+   "url": "https://x.com/tedpillows/status/2107395990055719258",
+   "deadline": null,
+   "time_horizon": null,
+   "prediction_date": "2026-10-06T09:02:12+00:00",
+   "distance_pct": 1.0,
+   "conditions": null,
+   "evidence": "Until Bitcoin breaks above $87,000, every upside rally will be capped."
+  },
   {
    "account": "tedpillows",
    "label": "BTC RANGE $87.500",
@@ -530,7 +525,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-05T08:25:01+00:00",
-   "distance_pct": 2.2,
+   "distance_pct": 1.6,
    "conditions": null,
    "evidence": "A daily close above $87,500 could quickly push Bitcoin to $90,000."
   },
@@ -541,7 +536,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-04T14:26:00+00:00",
-   "distance_pct": 2.2,
+   "distance_pct": 1.6,
    "conditions": "If spot demand picks up",
    "evidence": "If spot demand picks up, Bitcoin could quickly rally above $87,500."
   },
@@ -552,7 +547,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-05T19:44:27+00:00",
-   "distance_pct": -10.7,
+   "distance_pct": -11.3,
    "conditions": null,
    "evidence": "I will be hedging my $BTC long from 76.4K in this box."
   },
@@ -563,20 +558,9 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-05T14:45:30+00:00",
-   "distance_pct": -10.7,
+   "distance_pct": -11.3,
    "conditions": null,
    "evidence": "I will be equal hedging my BTC long from 76.4K."
-  },
-  {
-   "account": "killaxbt",
-   "label": "BTC DOWN (Q4)",
-   "url": "https://x.com/killaxbt/status/2106071714186866781",
-   "deadline": "2026-12-31T23:59:59+00:00",
-   "time_horizon": "Q4",
-   "prediction_date": "2026-10-02T17:20:00+00:00",
-   "distance_pct": null,
-   "conditions": null,
-   "evidence": "In the event we do have some form of capitulation through Q4, I will likely look to add even more BTC spot & longs."
   }
  ],
  "contrarian": [
@@ -691,17 +675,17 @@
  },
  "btc_targets": {
   "count": 4,
-  "median": 87500.0,
+  "median": 87000.0,
   "low": 75000.0,
   "high": 100000.0
  },
  "daily": {
   "report_date": "2026-10-06",
-  "generated_at": "2026-10-06T05:02:12.747294+00:00",
+  "generated_at": "2026-10-06T11:02:04.766500+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-10-05T05:02:12.745777+00:00",
-   "to": "2026-10-06T05:02:12.747294+00:00"
+   "from": "2026-10-05T11:02:04.757768+00:00",
+   "to": "2026-10-06T11:02:04.766500+00:00"
   },
   "key_points": [
    {
@@ -717,37 +701,58 @@
     ]
    },
    {
-    "text": "Neue BTC-Prognose von @killaxbt: BTC DOWN $76.400",
+    "text": "Neue BTC-Prognose von @tedpillows: BTC RANGE $87.000",
+    "ids": [
+     "2107395990055719258"
+    ]
+   },
+   {
+    "text": "@osint613: The Aviationist obtained a photo showing apparent Iranian targets struck by a U.S. Marine Corps VMFA-314 F-35C during the war. The markings appear to represent the following…",
+    "ids": [
+     "2107357083242803217"
+    ]
+   },
+   {
+    "text": "@killaxbt: I will be hedging my $BTC long from 76.4K in this box. It will be a equal hedge with invalidation at 92.8K.",
     "ids": [
      "2107195230663421984"
-    ]
-   },
-   {
-    "text": "@killaxbt: $BTC is up 4.5% from the 83.5K aggressive long entry. I’ll now move this continuation long’s stop to entry. If BTC is going to break 87K, it needs to happen on this weekly candle.…",
-    "ids": [
-     "2107098902532882654"
-    ]
-   },
-   {
-    "text": "@tedpillows: $BTC current move is spot driven. Dips are getting bought, and the uptrend is looking good. A daily close above $87,500 could quickly push Bitcoin to $90,000.",
-    "ids": [
-     "2107024246597624155"
     ]
    }
   ],
   "sections": {
-   "TOP_DEVELOPMENTS": "@killaxbt: I will be hedging my $BTC long from 76.4K in this box. It will be a equal hedge with invalidation at 92.8K. · @tedpillows: $BTC current move is spot driven. Dips are getting bought, and the uptrend is looking good. A daily close above $87,500 could quickly push Bitcoin to $90,000. · @osint613: Britain's national security adviser Jonathan Powell travelled to Israel last week in an undisclosed visit aimed at preventing the closure of the U.K. consulate in East Jerusalem,…",
-   "BTC_OUTLOOK": "Stimmung 62 % bullisch (8/12 Accounts mit Meinung). Median offener Kursziele $87.500. @killaxbt: I will be hedging my $BTC long from 76.4K in this box. It will be a equal hedge with invalidation at 92.8K. · @tedpillows: $BTC current move is spot driven. Dips are getting bought, and the uptrend is looking good. A daily close above $87,500 could quickly push Bitcoin to $90,000. · @xapa03: Goood morning, good morning here at the Bitcoin Frontier. It's a sunny day in the digital wilderness, no clouds or heavy forecasts for this week - simply golden times ahead in a…",
+   "TOP_DEVELOPMENTS": "@tedpillows: $BTC is hovering around the $86,000 level. Until Bitcoin breaks above $87,000, every upside rally will be capped. · @osint613: The Aviationist obtained a photo showing apparent Iranian targets struck by a U.S. Marine Corps VMFA-314 F-35C during the war. The markings appear to represent the following… · @killaxbt: I will be hedging my $BTC long from 76.4K in this box. It will be a equal hedge with invalidation at 92.8K.",
+   "BTC_OUTLOOK": "Stimmung 62 % bullisch (8/12 Accounts mit Meinung). Median offener Kursziele $87.000. @tedpillows: $BTC is hovering around the $86,000 level. Until Bitcoin breaks above $87,000, every upside rally will be capped. · @killaxbt: I will be hedging my $BTC long from 76.4K in this box. It will be a equal hedge with invalidation at 92.8K. · @xapa03: Goood morning, good morning here at the Bitcoin Frontier. It's a sunny day in the digital wilderness, no clouds or heavy forecasts for this week - simply golden times ahead in a…",
    "MACRO_OUTLOOK": "@tedpillows: $BTC is hovering around the $86,000 level. US stock futures are down, while DXY is up. Pre-market stock trading insights: ▫️Nasdaq futures is down 0.19% 🔴 ▫️S&P futures is down… · @jameslavish: If you are wondering what state of the fiat experiment we are at, it's the one where they are saying the quiet part out-loudly and proudly in a last ditch effort to normalize the… · @danheld: Gold is worth $30 Trillion. Apple is worth $4.9 Trillion. Bitcoin is only worth $1.7 Trillion. Where do you think the price goes from here? 🚀",
    "GLOBAL_LIQUIDITY": "Keine relevanten Aussagen.",
-   "FED_RATES": "@osint613: Britain's national security adviser Jonathan Powell travelled to Israel last week in an undisclosed visit aimed at preventing the closure of the U.K. consulate in East Jerusalem,…",
+   "FED_RATES": "@osint613: The Aviationist obtained a photo showing apparent Iranian targets struck by a U.S. Marine Corps VMFA-314 F-35C during the war. The markings appear to represent the following…",
    "DXY_TREASURIES": "@tedpillows: $BTC is hovering around the $86,000 level. US stock futures are down, while DXY is up. Pre-market stock trading insights: ▫️Nasdaq futures is down 0.19% 🔴 ▫️S&P futures is down… · @nolimitgains: BREAKING: US home-purchase mortgage applications have fallen to their lowest level since APRIL 2025. Total mortgage applications dropped another 6% in a week as the MBA’s 30-year… · @zerohedge: JPM Delta One (Manish Sinha): Beneath the tech rally, a deeper risk is being priced into parts of the market. Our Stagflation {Jp9STAGp Index} Factor is rising almost…",
    "GOLD": "@danheld: Gold is worth $30 Trillion. Apple is worth $4.9 Trillion. Bitcoin is only worth $1.7 Trillion. Where do you think the price goes from here? 🚀 · @timevalueofbtc: There are 138 ounces of monetary gold for every 1 bitcoin. Act accordingly.",
-   "GEOPOLITICS": "@osint613: Britain's national security adviser Jonathan Powell travelled to Israel last week in an undisclosed visit aimed at preventing the closure of the U.K. consulate in East Jerusalem,… · @jameslavish: If you are wondering what state of the fiat experiment we are at, it's the one where they are saying the quiet part out-loudly and proudly in a last ditch effort to normalize the… · @xapa03: Goood morning, good morning here at the Bitcoin Frontier. It's a sunny day in the digital wilderness, no clouds or heavy forecasts for this week - simply golden times ahead in a…",
+   "GEOPOLITICS": "@osint613: The Aviationist obtained a photo showing apparent Iranian targets struck by a U.S. Marine Corps VMFA-314 F-35C during the war. The markings appear to represent the following… · @jameslavish: If you are wondering what state of the fiat experiment we are at, it's the one where they are saying the quiet part out-loudly and proudly in a last ditch effort to normalize the… · @xapa03: Goood morning, good morning here at the Bitcoin Frontier. It's a sunny day in the digital wilderness, no clouds or heavy forecasts for this week - simply golden times ahead in a…",
    "CONSENSUS": "BTC: 62 % bullisch (5/8) · Liquidität: 86 % expandierend (6/7) · Fed: 100 % straffend (4/4) · Geopolitik-Risiko: 100 % erhöht (7/7)",
    "CONTRARIAN": "@xapa03 (BTC bärisch): BTC did not made a higher high than 87,4\n\nuntil that is not happend, it remains valid ⌛️ · @tedpillows (BTC bärisch): This just keeps happening again and again.\n\n\n\n$BTC slowly grinds down.\n\nSomeone slams it hard.\n\nRecovery and Bitcoin go  · @xapa03 (Liquidität schrumpfend): Measured from the last weekly candle inside the green zone of the TEM, ETH found its peak within 35 days.\n\nThe top occur"
   },
   "new_predictions": [
+   {
+    "id": 70,
+    "account": "tedpillows",
+    "tweet_id": "2107395990055719258",
+    "prediction_date": "2026-10-06T09:02:12+00:00",
+    "asset_or_metric": "BTC",
+    "prediction_type": "PRICE_TARGET",
+    "direction": "RANGE",
+    "target": 87000.0,
+    "target_low": null,
+    "target_high": null,
+    "deadline": null,
+    "time_horizon": null,
+    "conditions": null,
+    "status": "OPEN",
+    "status_note": null,
+    "btc_price_when_prediction_made": 86143.6,
+    "evidence": "Until Bitcoin breaks above $87,000, every upside rally will be capped.",
+    "label": "BTC RANGE $87.000",
+    "url": "https://x.com/tedpillows/status/2107395990055719258"
+   },
    {
     "id": 69,
     "account": "killaxbt",
@@ -852,27 +857,6 @@
     "evidence": "If BTC is going to break 87K, it needs to happen on this weekly candle.",
     "label": "BTC UP $87.000",
     "url": "https://x.com/killaxbt/status/2107098902532882654"
-   },
-   {
-    "id": 64,
-    "account": "tedpillows",
-    "tweet_id": "2107024246597624155",
-    "prediction_date": "2026-10-05T08:25:01+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "RANGE",
-    "target": 87500.0,
-    "target_low": null,
-    "target_high": null,
-    "deadline": null,
-    "time_horizon": null,
-    "conditions": null,
-    "status": "OPEN",
-    "status_note": null,
-    "btc_price_when_prediction_made": 86095.3,
-    "evidence": "A daily close above $87,500 could quickly push Bitcoin to $90,000.",
-    "label": "BTC RANGE $87.500",
-    "url": "https://x.com/tedpillows/status/2107024246597624155"
    }
   ],
   "updated_predictions": [
@@ -959,10 +943,84 @@
   "thesis_changes": [],
   "since_morning": {
    "since": "2026-10-06T05:00:00+00:00",
-   "relevant_posts": 11,
+   "relevant_posts": 17,
    "consensus_shifts": [],
-   "new_predictions": 0,
+   "new_predictions": 1,
    "posts": [
+    {
+     "account": "tedpillows",
+     "tweet_id": "2107425383620784597",
+     "timestamp": "2026-10-06T10:59:00+00:00",
+     "relevance": 60,
+     "summary": "Bitcoin has averaged a positive return every single day over the past 3 months. Insane.",
+     "categories": [
+      "BITCOIN"
+     ],
+     "url": "https://x.com/tedpillows/status/2107425383620784597"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2107413881626972281",
+     "timestamp": "2026-10-06T10:13:17+00:00",
+     "relevance": 60,
+     "summary": "Oil just dropped below $88, hitting a 5-week low. This will ease pressure on bond yields.",
+     "categories": [
+      "US_TREASURIES",
+      "ENERGY"
+     ],
+     "url": "https://x.com/tedpillows/status/2107413881626972281"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2107395990055719258",
+     "timestamp": "2026-10-06T09:02:12+00:00",
+     "relevance": 100,
+     "summary": "$BTC is hovering around the $86,000 level. Until Bitcoin breaks above $87,000, every upside rally will be capped.",
+     "categories": [
+      "BITCOIN",
+      "BTC_PRICE"
+     ],
+     "url": "https://x.com/tedpillows/status/2107395990055719258"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2107380176812183775",
+     "timestamp": "2026-10-06T07:59:22+00:00",
+     "relevance": 76,
+     "summary": "ETFs sold $89,900,000 in $BTC yesterday. ETFs sold $50,760,000 in $ETH yesterday. ETFs sold $9,250,000 in $SOL yesterday.",
+     "categories": [
+      "BITCOIN",
+      "BTC_ETF"
+     ],
+     "url": "https://x.com/tedpillows/status/2107380176812183775"
+    },
+    {
+     "account": "osint613",
+     "tweet_id": "2107357083242803217",
+     "timestamp": "2026-10-06T06:27:36+00:00",
+     "relevance": 100,
+     "summary": "The Aviationist obtained a photo showing apparent Iranian targets struck by a U.S. Marine Corps VMFA-314 F-35C during the war. The markings appear to represent the following…",
+     "categories": [
+      "FED",
+      "ENERGY",
+      "GEOPOLITICS",
+      "WAR"
+     ],
+     "url": "https://x.com/osint613/status/2107357083242803217"
+    },
+    {
+     "account": "osint613",
+     "tweet_id": "2107344937184293123",
+     "timestamp": "2026-10-06T05:39:20+00:00",
+     "relevance": 72,
+     "summary": "Russian state television has aired footage of the Spetsradio enterprise producing barrage balloons intended to protect oil refineries and energy facilities from Ukrainian drone…",
+     "categories": [
+      "ENERGY",
+      "GEOPOLITICS",
+      "WAR"
+     ],
+     "url": "https://x.com/osint613/status/2107344937184293123"
+    },
     {
      "account": "timevalueofbtc",
      "tweet_id": "2107304938523262999",
@@ -1097,12 +1155,12 @@
    ]
   },
   "stats": {
-   "posts_new": 91,
-   "posts_relevant": 11,
-   "predictions_new": 2,
-   "predictions_updated": 1,
-   "invalidated": 1,
-   "posts_analysed": 93,
+   "posts_new": 65,
+   "posts_relevant": 6,
+   "predictions_new": 1,
+   "predictions_updated": 0,
+   "invalidated": 0,
+   "posts_analysed": 66,
    "evaluated": 0
   }
  }
