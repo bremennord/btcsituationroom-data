@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-09T17:07:19.270334+00:00",
- "btc_price": 82615.8,
+ "generated_at": "2026-10-10T05:09:56.968121+00:00",
+ "btc_price": 82612.8,
  "outlook": {
   "BTC": {
    "horizons": {
@@ -44,7 +44,7 @@
     "support": "$80k–82k",
     "resistance": "$84k–88k"
    },
-   "n_posts": 58,
+   "n_posts": 56,
    "sources": [
     {
      "account": "killaxbt",
@@ -108,46 +108,46 @@
   "MACRO": {
    "horizons": {
     "24h": {
-     "label": "zu wenige Aussagen",
+     "label": "Risk-Off",
      "counts": {
       "pos": 0,
       "neu": 0,
-      "neg": 1
+      "neg": 2
      },
-     "accounts": 1
+     "accounts": 2
     },
     "3d": {
      "label": "leicht Risk-Off",
      "counts": {
-      "pos": 1,
-      "neu": 1,
+      "pos": 2,
+      "neu": 0,
       "neg": 4
      },
      "accounts": 6
     },
     "7d": {
-     "label": "neutral / gemischt",
+     "label": "leicht Risk-Off",
      "counts": {
-      "pos": 3,
-      "neu": 0,
+      "pos": 2,
+      "neu": 1,
       "neg": 3
      },
      "accounts": 6
     }
    },
    "drivers": [
-    "wachsende Liquidität (10)",
-    "Risk-Off-Stimmung (3)",
-    "Fed restriktiv (3)"
+    "wachsende Liquidität (8)",
+    "schrumpfende Liquidität (3)",
+    "Risk-Off-Stimmung (3)"
    ],
-   "risk": "Anstehende Termine in den Posts: EARNINGS (3×), FOMC (3×), JOBS REPORT (1×)",
+   "risk": "Anstehende Termine in den Posts: EARNINGS (3×), FOMC (3×)",
    "consensus": {
-    "pos": 3,
-    "neu": 0,
+    "pos": 2,
+    "neu": 1,
     "neg": 3
    },
    "confidence": "Niedrig",
-   "n_posts": 23,
+   "n_posts": 21,
    "sources": [
     {
      "account": "zerohedge",
@@ -214,36 +214,36 @@
      "counts": {
       "pos": 0,
       "neu": 0,
-      "neg": 0
+      "neg": 1
      },
-     "accounts": 0
+     "accounts": 1
     },
     "3d": {
      "label": "leicht expandierend",
      "counts": {
-      "pos": 3,
-      "neu": 0,
+      "pos": 2,
+      "neu": 1,
       "neg": 1
      },
      "accounts": 4
     },
     "7d": {
-     "label": "leicht expandierend",
+     "label": "neutral / gemischt",
      "counts": {
-      "pos": 3,
-      "neu": 0,
+      "pos": 2,
+      "neu": 1,
       "neg": 2
      },
      "accounts": 5
     }
    },
    "consensus": {
-    "pos": 3,
-    "neu": 0,
+    "pos": 2,
+    "neu": 1,
     "neg": 2
    },
-   "confidence": "Mittel",
-   "n_posts": 12,
+   "confidence": "Niedrig",
+   "n_posts": 11,
    "sources": [
     {
      "account": "osint613",
@@ -274,18 +274,18 @@
      "timestamp": "2026-10-07T13:01:21+00:00"
     },
     {
+     "account": "tedpillows",
+     "tweet_id": "2108613654967095522",
+     "url": "https://x.com/tedpillows/status/2108613654967095522",
+     "summary": "Someone bought 80 BTC for $5,200,000 during the June low. A week ago, he transferred his funds to the Ledger wallet and was up $1,460,000. Today, his wallet got drained, and he's…",
+     "timestamp": "2026-10-09T17:40:46+00:00"
+    },
+    {
      "account": "zerohedge",
      "tweet_id": "2107286845029519750",
      "url": "https://x.com/zerohedge/status/2107286845029519750",
      "summary": "JPM Delta One (Manish Sinha): Beneath the tech rally, a deeper risk is being priced into parts of the market. Our Stagflation {Jp9STAGp Index} Factor is rising almost…",
      "timestamp": "2026-10-06T01:48:30+00:00"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2106142210391470219",
-     "url": "https://x.com/zerohedge/status/2106142210391470219",
-     "summary": "Debasement Fears & D.C. Developments Drive Citi To Hike Crypto Price Targets",
-     "timestamp": "2026-10-02T22:00:07+00:00"
     },
     {
      "account": "tylerdurden",
@@ -295,11 +295,11 @@
      "timestamp": "2026-10-07T22:11:57+00:00"
     },
     {
-     "account": "zerohedge",
-     "tweet_id": "2106216369759158390",
-     "url": "https://x.com/zerohedge/status/2106216369759158390",
-     "summary": "Amazon, Broadcom Pile Into Off-Balance Sheet SPVs As AI Circularity \"Undeniably Increasing\"",
-     "timestamp": "2026-10-03T02:54:48+00:00"
+     "account": "osint613",
+     "tweet_id": "2106769695877779914",
+     "url": "https://x.com/osint613/status/2106769695877779914",
+     "summary": "Energy Secretary Wright: \"We've got increasing supplies coming out of the Strait of Hormuz, and they've continued to rise.\" Media",
+     "timestamp": "2026-10-04T15:33:32+00:00"
     }
    ]
   },
@@ -308,7 +308,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 84,
+     "posts": 78,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -318,7 +318,7 @@
     },
     {
      "name": "Russland / Ukraine",
-     "posts": 26,
+     "posts": 20,
      "impact": [
       "Energie ↑",
       "Europa-Risiko ↑",
@@ -326,7 +326,7 @@
      ]
     }
    ],
-   "n_posts": 156,
+   "n_posts": 140,
    "sources": [
     {
      "account": "zerohedge",
@@ -365,6 +365,13 @@
     },
     {
      "account": "osint613",
+     "tweet_id": "2108608144616443958",
+     "url": "https://x.com/osint613/status/2108608144616443958",
+     "summary": "The IRGC just released a video showing the launch of drones towards US targets during the war. Additionally, the video shows the targeting of several oil tankers in the Strait of…",
+     "timestamp": "2026-10-09T17:18:52+00:00"
+    },
+    {
+     "account": "osint613",
      "tweet_id": "2108590319247753475",
      "url": "https://x.com/osint613/status/2108590319247753475",
      "summary": "President Trump - We prevented Iran from acquiring nuclear weapons, and the matter will be resolved soon, one way or another. - Iran no longer has an army, a navy, an air force,…",
@@ -376,85 +383,22 @@
      "url": "https://x.com/zerohedge/status/2108541321892036761",
      "summary": "*UKMTO GETS REPORT OF INCIDENT 13NM WEST OF AL JAZEERA, UAE *UKMTO: VESSEL REPORTED TO BE STRUCK BY UNKNOWN PROJECTILE *UKMTO: INCIDENT CAUSED FIRE WHICH HAS SINCE BEEN…",
      "timestamp": "2026-10-09T12:53:20+00:00"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2108539861489582446",
-     "url": "https://x.com/zerohedge/status/2108539861489582446",
-     "summary": "Oil hits session highs after IRGC says it attacked LPG tanker in Hormuz hours ago resulting in \"massive fire\", says \"from now on any vessels committing violations outside of…",
-     "timestamp": "2026-10-09T12:47:32+00:00"
     }
    ],
    "impact_kind": "Typisches Marktmuster (Systemeinschätzung, keine Prognose)"
   }
  },
  "changed": {
-  "since": "2026-10-09T11:06:30.040278+00:00",
-  "new": [
-   {
-    "account": "killaxbt",
-    "text": "BTC UP $90.000",
-    "url": "https://x.com/killaxbt/status/2108557868890779936"
-   },
-   {
-    "account": "zerohedge",
-    "text": "FED_FUNDS HIKE",
-    "url": "https://x.com/zerohedge/status/2108535201412321574"
-   },
-   {
-    "account": "killaxbt",
-    "text": "BTC DOWN (short term)",
-    "url": "https://x.com/killaxbt/status/2108526625612558560"
-   },
-   {
-    "account": "killaxbt",
-    "text": "BTC UP $87.000",
-    "url": "https://x.com/killaxbt/status/2108526625612558560"
-   },
-   {
-    "account": "killaxbt",
-    "text": "BTC RANGE $84.000–85.000",
-    "url": "https://x.com/killaxbt/status/2108474403474252110"
-   },
-   {
-    "account": "killaxbt",
-    "text": "A lot of people are posting previous cycle corrections as though Bitcoin is guaranteed to mirror them perfectly. That is a big mistake. This cycle is different, whether people…",
-    "url": "https://x.com/killaxbt/status/2108302262401376433"
-   }
-  ],
-  "changed": [
-   {
-    "account": "killaxbt",
-    "text": "vorher BTC DOWN $78.000 (this month), jetzt BTC RANGE $84.000–85.000",
-    "url": "https://x.com/killaxbt/status/2108474403474252110"
-   },
-   {
-    "account": "killaxbt",
-    "text": "vorher BTC RANGE $84.000–85.000, jetzt BTC DOWN (short term)",
-    "url": "https://x.com/killaxbt/status/2108526625612558560"
-   },
-   {
-    "account": "killaxbt",
-    "text": "vorher BTC UP $100.000 (this year), jetzt BTC UP $87.000",
-    "url": "https://x.com/killaxbt/status/2108526625612558560"
-   },
-   {
-    "account": "killaxbt",
-    "text": "vorher BTC DOWN (short term), jetzt BTC UP $90.000",
-    "url": "https://x.com/killaxbt/status/2108557868890779936"
-   },
-   {
-    "account": "xapa03",
-    "text": "nimmt zurück: BTC RANGE $80.000–82.000",
-    "url": "https://x.com/xapa03/status/2108469329364689256"
-   }
-  ],
+  "since": "2026-10-09T17:07:27.587168+00:00",
+  "new": [],
+  "changed": [],
   "new_consensus": [
-   "Bitcoin: leicht bullisch → leicht bärisch"
+   "Makro: neutral / gemischt → leicht Risk-Off",
+   "Liquidität: leicht expandierend → neutral / gemischt"
   ],
   "no_change": [
-   "Makro bleibt neutral / gemischt",
-   "Liquidität bleibt leicht expandierend"
+   "Bitcoin bleibt leicht bärisch",
+   "Geopolitisches Risiko bleibt Hoch"
   ]
  },
  "important_posts": [
@@ -566,7 +510,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-09T08:47:53+00:00",
-   "distance_pct": 0.0,
+   "distance_pct": 0.1,
    "conditions": null,
    "evidence": "Now, all eyes will be on the weekly close, as a close below $82,700 could push BTC back into the consolidation range."
   },
@@ -588,7 +532,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-09T11:54:56+00:00",
-   "distance_pct": 5.2,
+   "distance_pct": 5.3,
    "conditions": "if USDT",
    "evidence": "However, if USDT.D breaks below this level, it would confirm that the recent move was simply a bearish retest, opening the door for BTC to reclaim and push above $87K."
   },
@@ -599,7 +543,7 @@
    "deadline": "2026-10-05T11:31:32+00:00",
    "time_horizon": "this week",
    "prediction_date": "2026-09-28T11:31:32+00:00",
-   "distance_pct": -5.1,
+   "distance_pct": -5.0,
    "conditions": null,
    "evidence": "I expect Bitcoin to still tap the 78k–79k zone this week."
   }
@@ -725,12 +669,12 @@
   "high": 90000.0
  },
  "daily": {
-  "report_date": "2026-10-09",
-  "generated_at": "2026-10-09T17:02:13.286107+00:00",
+  "report_date": "2026-10-10",
+  "generated_at": "2026-10-10T05:01:51.132445+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-10-08T17:02:13.286107+00:00",
-   "to": "2026-10-09T17:02:13.286107+00:00"
+   "from": "2026-10-09T05:01:51.127334+00:00",
+   "to": "2026-10-10T05:01:51.132445+00:00"
   },
   "key_points": [
    {
@@ -767,12 +711,12 @@
   "sections": {
    "TOP_DEVELOPMENTS": "@killaxbt: It is extremely important that... if we are following the 2023 fractal, $BTC now shows acceptance back within the range on the LTFs after deviating above the highs. Right now,… · @zerohedge: Top Overnight News Oil declined after President Donald Trump said the US would not attack Iran before November’s midterm elections, signaling a period of more than three weeks for… · @tedpillows: $BTC almost tapped $80,000 yesterday. It's still holding above all its key levels, which is a good sign. Now, all eyes will be on the weekly close, as a close below $82,700 could…",
    "BTC_OUTLOOK": "Stimmung 62 % bullisch (8/12 Accounts mit Meinung). Median offener Kursziele $82.700. @killaxbt: It is extremely important that... if we are following the 2023 fractal, $BTC now shows acceptance back within the range on the LTFs after deviating above the highs. Right now,… · @zerohedge: Top Overnight News Oil declined after President Donald Trump said the US would not attack Iran before November’s midterm elections, signaling a period of more than three weeks for… · @tedpillows: $BTC almost tapped $80,000 yesterday. It's still holding above all its key levels, which is a good sign. Now, all eyes will be on the weekly close, as a close below $82,700 could…",
-   "MACRO_OUTLOOK": "@killaxbt: It is extremely important that... if we are following the 2023 fractal, $BTC now shows acceptance back within the range on the LTFs after deviating above the highs. Right now,… · @zerohedge: Top Overnight News Oil declined after President Donald Trump said the US would not attack Iran before November’s midterm elections, signaling a period of more than three weeks for… · @nolimitgains: LOL. Remember Trump promising Americans a “tariff dividend”? NY Fed researchers estimate tariffs added 2.9 percentage points to inflation in the goods they studied by February…",
+   "MACRO_OUTLOOK": "@killaxbt: It is extremely important that... if we are following the 2023 fractal, $BTC now shows acceptance back within the range on the LTFs after deviating above the highs. Right now,… · @zerohedge: Top Overnight News Oil declined after President Donald Trump said the US would not attack Iran before November’s midterm elections, signaling a period of more than three weeks for… · @tedpillows: $BTC is back at $83,000 level. US stock futures are up, along with DXY and oil. ▫️Nasdaq futures is up 0.67% 🟠 ▫️S&P futures is up 0.32% 🟠",
    "GLOBAL_LIQUIDITY": "@xapa03: After I said Bitcoin would see the $80,000–$82,000 area and that the current low would hold, we are back at $82,500. I expect Bitcoin to do what it did last bullrun after a… · @tedpillows: $BTC now has a huge short-side liquidity above $87,000. Now that Bitcoin has swept the downside liquidity, is the upside liquidity next? Media · @zerohedge: Market fragility and liquidity have never been worse The average daily executed value in US equities has doubled since 2023, from $511 billion to $1.041 trillion, while S&P…",
-   "FED_RATES": "@zerohedge: Top Overnight News Oil declined after President Donald Trump said the US would not attack Iran before November’s midterm elections, signaling a period of more than three weeks for… · @nolimitgains: LOL. Remember Trump promising Americans a “tariff dividend”? NY Fed researchers estimate tariffs added 2.9 percentage points to inflation in the goods they studied by February…",
-   "DXY_TREASURIES": "@zerohedge: Top Overnight News Oil declined after President Donald Trump said the US would not attack Iran before November’s midterm elections, signaling a period of more than three weeks for… · @tedpillows: $BTC is back at $83,000 level. US stock futures are up, along with DXY and oil. ▫️Nasdaq futures is up 0.67% 🟠 ▫️S&P futures is up 0.32% 🟠 · @osint613: OFAC has sanctioned 17 more tankers in Iran's shadow fleet, covering 13 petroleum and 5 petrochemical designations tied to owners and managers across more than a dozen…",
+   "FED_RATES": "@zerohedge: Top Overnight News Oil declined after President Donald Trump said the US would not attack Iran before November’s midterm elections, signaling a period of more than three weeks for…",
+   "DXY_TREASURIES": "@zerohedge: Top Overnight News Oil declined after President Donald Trump said the US would not attack Iran before November’s midterm elections, signaling a period of more than three weeks for… · @tedpillows: $BTC is back at $83,000 level. US stock futures are up, along with DXY and oil. ▫️Nasdaq futures is up 0.67% 🟠 ▫️S&P futures is up 0.32% 🟠 · @osint613: The International Criminal Court has been hit with U.S. sanctions by the Trump administration, Reuters reports. Under the measures, Washington will prohibit transactions with the…",
    "GOLD": "Keine relevanten Aussagen.",
-   "GEOPOLITICS": "@zerohedge: Top Overnight News Oil declined after President Donald Trump said the US would not attack Iran before November’s midterm elections, signaling a period of more than three weeks for… · @nolimitgains: LOL. Remember Trump promising Americans a “tariff dividend”? NY Fed researchers estimate tariffs added 2.9 percentage points to inflation in the goods they studied by February… · @tedpillows: $BTC is back at $83,000 level. US stock futures are up, along with DXY and oil. ▫️Nasdaq futures is up 0.67% 🟠 ▫️S&P futures is up 0.32% 🟠",
+   "GEOPOLITICS": "@zerohedge: Top Overnight News Oil declined after President Donald Trump said the US would not attack Iran before November’s midterm elections, signaling a period of more than three weeks for… · @tedpillows: $BTC is back at $83,000 level. US stock futures are up, along with DXY and oil. ▫️Nasdaq futures is up 0.67% 🟠 ▫️S&P futures is up 0.32% 🟠 · @osint613: The IRGC just released a video showing the launch of drones towards US targets during the war. Additionally, the video shows the targeting of several oil tankers in the Strait of…",
    "CONSENSUS": "BTC: 62 % bullisch (5/8) · Liquidität: 75 % expandierend (6/8) · Fed: 80 % straffend (4/5) · Geopolitik-Risiko: 100 % erhöht (7/7)",
    "CONTRARIAN": "@xapa03 (BTC bärisch): Invalidation if Bitcoin goes above $87.500 until 14. of October\n\nno much time left to be bearish, prepare yourself and u · @zerohedge (BTC bärisch): The S&P remains just shy of all time highs supported by a handful of stocks. Below the surface, the meltdown is accelera · @xapa03 (Liquidität schrumpfend): Measured from the last weekly candle inside the green zone of the TEM, ETH found its peak within 35 days.\n\nThe top occur · @tylerdurden (Liquidität schrumpfend): This is the best way to exit your public wallet, by the way.\nWas drained for $4m+ USD this morning at 4:30am while I was"
   },
@@ -1072,345 +1016,79 @@
    }
   ],
   "since_morning": {
-   "since": "2026-10-09T05:00:00+00:00",
-   "relevant_posts": 33,
+   "since": "2026-10-10T05:00:00+00:00",
+   "relevant_posts": 5,
    "consensus_shifts": [],
-   "new_predictions": 8,
+   "new_predictions": 0,
    "posts": [
     {
-     "account": "killaxbt",
-     "tweet_id": "2108593070065209423",
-     "timestamp": "2026-10-09T16:18:58+00:00",
-     "relevance": 84,
-     "summary": "We are now 24 days away from the midterms. Historically, $BTC has reacted negatively afterwards in 3/4 instances. My view therefore remains unchanged: any meaningful de-risking is…",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/killaxbt/status/2108593070065209423"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2108592990956769399",
-     "timestamp": "2026-10-09T16:18:39+00:00",
-     "relevance": 92,
-     "summary": "$BTC volatility is only going to go up. If Bitcoin reclaims $83K, there are no major sell orders until $85K. If BTC loses $82.5K, there are no major buy orders until $80,500. The…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE"
-     ],
-     "url": "https://x.com/tedpillows/status/2108592990956769399"
-    },
-    {
      "account": "osint613",
-     "tweet_id": "2108590319247753475",
-     "timestamp": "2026-10-09T16:08:02+00:00",
-     "relevance": 72,
-     "summary": "President Trump - We prevented Iran from acquiring nuclear weapons, and the matter will be resolved soon, one way or another. - Iran no longer has an army, a navy, an air force,…",
+     "tweet_id": "2108633722522120333",
+     "timestamp": "2026-10-09T19:00:30+00:00",
+     "relevance": 65,
+     "summary": "U.S. President Donald Trump: \"I have just concluded a highly successful discussion with President Vladimir Putin, of Russia, wherein it was agreed that Russia will immediately…",
      "categories": [
       "ENERGY",
-      "GEOPOLITICS",
-      "WAR"
-     ],
-     "url": "https://x.com/osint613/status/2108590319247753475"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2108563381913374791",
-     "timestamp": "2026-10-09T14:21:00+00:00",
-     "relevance": 70,
-     "summary": "The International Criminal Court has been hit with U.S. sanctions by the Trump administration, Reuters reports. Under the measures, Washington will prohibit transactions with the…",
-     "categories": [
-      "US_TREASURIES",
       "GEOPOLITICS"
      ],
-     "url": "https://x.com/osint613/status/2108563381913374791"
+     "url": "https://x.com/osint613/status/2108633722522120333"
     },
     {
-     "account": "killaxbt",
-     "tweet_id": "2108562501420089798",
-     "timestamp": "2026-10-09T14:17:30+00:00",
-     "relevance": 84,
-     "summary": "Sorry, said BTC instead of USDT.D for the first line: \"if we are following the 2023 fractal, USDT.D now shows acceptance back within the range on the LTFs after deviating above…",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL",
-      "STABLECOINS"
-     ],
-     "url": "https://x.com/killaxbt/status/2108562501420089798"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2108560137199702075",
-     "timestamp": "2026-10-09T14:08:06+00:00",
-     "relevance": 65,
-     "summary": "Iran Strikes LPG Tanker In Strait Of Hormuz, As Houthis Reportedly Mine Bab al-Mandab",
-     "categories": [
-      "ENERGY",
-      "GEOPOLITICS",
-      "WAR"
-     ],
-     "url": "https://x.com/zerohedge/status/2108560137199702075"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2108558437336682888",
-     "timestamp": "2026-10-09T14:01:21+00:00",
-     "relevance": 70,
-     "summary": "UMich sentiment 46.3, Exp. 47.6, Last 48.4 Current conditions 44.7, Exp. 50.1, Last 50.9 Expectations 47.3, Exp. 45.7, Last 46.3 1yr inflation exp 4.7%, Exp. 4.8%, Last 4.6%…",
-     "categories": [
-      "INFLATION",
-      "US_TREASURIES"
-     ],
-     "url": "https://x.com/zerohedge/status/2108558437336682888"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2108557868890779936",
-     "timestamp": "2026-10-09T13:59:05+00:00",
-     "relevance": 100,
-     "summary": "It is extremely important that... if we are following the 2023 fractal, $BTC now shows acceptance back within the range on the LTFs after deviating above the highs. Right now,…",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL",
-      "STABLECOINS"
-     ],
-     "url": "https://x.com/killaxbt/status/2108557868890779936"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2108552559275409525",
-     "timestamp": "2026-10-09T13:37:59+00:00",
-     "relevance": 70,
-     "summary": "US market opened and institutions have started selling $BTC. They were buying billions at $87K and now selling at $81K-$82K.",
+     "account": "tylerdurden",
+     "tweet_id": "2108628147227017559",
+     "timestamp": "2026-10-09T18:38:21+00:00",
+     "relevance": 67,
+     "summary": "Top 50 - last 30 days. • Quant, Bitway and NEAR did all the work. The rest of the board is a fade down to Bitcoin at 4.9%. • The majors missed it. Ethereum is flat, BNB is…",
      "categories": [
       "BITCOIN"
      ],
-     "url": "https://x.com/tedpillows/status/2108552559275409525"
+     "url": "https://x.com/tylerdurden/status/2108628147227017559"
     },
     {
-     "account": "zerohedge",
-     "tweet_id": "2108543778818588686",
-     "timestamp": "2026-10-09T13:03:06+00:00",
-     "relevance": 65,
-     "summary": "Iran Goes Offensive: Strikes LPG Tanker in Strait Of Hormuz, Threatens 'Punishment' For All Violators, Oil Rises & Futures Fall",
+     "account": "killaxbt",
+     "tweet_id": "2108620452335632385",
+     "timestamp": "2026-10-09T18:07:46+00:00",
+     "relevance": 74,
+     "summary": "Buyers are clearly stepping in on this move down. We saw something very similar during the previous range as well. There appears to be very little support beneath current price,…",
      "categories": [
-      "ENERGY",
-      "GEOPOLITICS",
-      "WAR"
+      "BITCOIN",
+      "BTC_TECHNICAL"
      ],
-     "url": "https://x.com/zerohedge/status/2108543778818588686"
+     "url": "https://x.com/killaxbt/status/2108620452335632385"
     },
     {
-     "account": "zerohedge",
-     "tweet_id": "2108543501021409701",
-     "timestamp": "2026-10-09T13:02:00+00:00",
-     "relevance": 83,
-     "summary": "Market fragility and liquidity have never been worse The average daily executed value in US equities has doubled since 2023, from $511 billion to $1.041 trillion, while S&P…",
-     "categories": [
-      "LIQUIDITY",
-      "FED",
-      "DXY",
-      "EQUITIES"
-     ],
-     "url": "https://x.com/zerohedge/status/2108543501021409701"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2108542253685678214",
-     "timestamp": "2026-10-09T12:57:02+00:00",
+     "account": "tedpillows",
+     "tweet_id": "2108613654967095522",
+     "timestamp": "2026-10-09T17:40:46+00:00",
      "relevance": 76,
-     "summary": "The S&P remains just shy of all time highs supported by a handful of stocks. Below the surface, the meltdown is accelerating as half of virtually every sector is in a bear market,…",
-     "categories": [
-      "BTC_PRICE",
-      "EQUITIES"
-     ],
-     "url": "https://x.com/zerohedge/status/2108542253685678214"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2108541506747351066",
-     "timestamp": "2026-10-09T12:54:04+00:00",
-     "relevance": 92,
-     "summary": "$BTC is back at $83,000 level. US stock futures are up, along with DXY and oil. ▫️Nasdaq futures is up 0.67% 🟠 ▫️S&P futures is up 0.32% 🟠",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "DXY",
-      "ENERGY",
-      "EQUITIES"
-     ],
-     "url": "https://x.com/tedpillows/status/2108541506747351066"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2108541321892036761",
-     "timestamp": "2026-10-09T12:53:20+00:00",
-     "relevance": 72,
-     "summary": "*UKMTO GETS REPORT OF INCIDENT 13NM WEST OF AL JAZEERA, UAE *UKMTO: VESSEL REPORTED TO BE STRUCK BY UNKNOWN PROJECTILE *UKMTO: INCIDENT CAUSED FIRE WHICH HAS SINCE BEEN…",
-     "categories": [
-      "ENERGY",
-      "GEOPOLITICS",
-      "WAR"
-     ],
-     "url": "https://x.com/zerohedge/status/2108541321892036761"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2108539861489582446",
-     "timestamp": "2026-10-09T12:47:32+00:00",
-     "relevance": 72,
-     "summary": "Oil hits session highs after IRGC says it attacked LPG tanker in Hormuz hours ago resulting in \"massive fire\", says \"from now on any vessels committing violations outside of…",
-     "categories": [
-      "ENERGY",
-      "GEOPOLITICS",
-      "WAR"
-     ],
-     "url": "https://x.com/zerohedge/status/2108539861489582446"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2108535201412321574",
-     "timestamp": "2026-10-09T12:29:01+00:00",
-     "relevance": 100,
-     "summary": "Top Overnight News Oil declined after President Donald Trump said the US would not attack Iran before November’s midterm elections, signaling a period of more than three weeks for…",
-     "categories": [
-      "BTC_TECHNICAL",
-      "BTC_ETF",
-      "FED",
-      "ECB",
-      "INTEREST_RATES",
-      "US_TREASURIES",
-      "DXY",
-      "BANKING",
-      "ENERGY",
-      "EQUITIES",
-      "GEOPOLITICS",
-      "WAR",
-      "REGULATION"
-     ],
-     "url": "https://x.com/zerohedge/status/2108535201412321574"
-    },
-    {
-     "account": "xapa03",
-     "tweet_id": "2108530159611531441",
-     "timestamp": "2026-10-09T12:08:59+00:00",
-     "relevance": 92,
-     "summary": "Invalidation if Bitcoin goes above $87.500 until 14. of October no much time left to be bearish, prepare yourself and use your last chance for lower prices before we touch a new…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE"
-     ],
-     "url": "https://x.com/xapa03/status/2108530159611531441"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2108526625612558560",
-     "timestamp": "2026-10-09T11:54:56+00:00",
-     "relevance": 100,
-     "summary": "\"This is one of the most important charts to watch.\" USDT.D has respected its HTF macro downtrend, rejecting in a very similar fashion to what we saw in 2023. The first key point…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "STABLECOINS"
-     ],
-     "url": "https://x.com/killaxbt/status/2108526625612558560"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2108508523625877504",
-     "timestamp": "2026-10-09T10:43:00+00:00",
-     "relevance": 94,
-     "summary": "$BTC now has a huge short-side liquidity above $87,000. Now that Bitcoin has swept the downside liquidity, is the upside liquidity next? Media",
-     "categories": [
-      "BITCOIN",
-      "LIQUIDITY"
-     ],
-     "url": "https://x.com/tedpillows/status/2108508523625877504"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2108497054360330291",
-     "timestamp": "2026-10-09T09:57:26+00:00",
-     "relevance": 62,
-     "summary": "Asian exchanges are buying the $BTC dip.",
+     "summary": "Someone bought 80 BTC for $5,200,000 during the June low. A week ago, he transferred his funds to the Ledger wallet and was up $1,460,000. Today, his wallet got drained, and he's…",
      "categories": [
       "BITCOIN"
      ],
-     "url": "https://x.com/tedpillows/status/2108497054360330291"
+     "url": "https://x.com/tedpillows/status/2108613654967095522"
     },
     {
      "account": "osint613",
-     "tweet_id": "2108488923194200532",
-     "timestamp": "2026-10-09T09:25:07+00:00",
-     "relevance": 68,
-     "summary": "Riyadh will refuse any truce with the Houthis until the Saudi-backed Yemeni government recovers every area lost over the past weeks, a regional source told AFP. The same source…",
+     "tweet_id": "2108608144616443958",
+     "timestamp": "2026-10-09T17:18:52+00:00",
+     "relevance": 72,
+     "summary": "The IRGC just released a video showing the launch of drones towards US targets during the war. Additionally, the video shows the targeting of several oil tankers in the Strait of…",
      "categories": [
-      "US_TREASURIES",
+      "ENERGY",
       "GEOPOLITICS",
       "WAR"
      ],
-     "url": "https://x.com/osint613/status/2108488923194200532"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2108479559041491323",
-     "timestamp": "2026-10-09T08:47:55+00:00",
-     "relevance": 65,
-     "summary": "A U.S. military source to Al-Hadath on Iran: Our options are always there. 50,000 soldiers on permanent standby. Thousands of missiles replaced, ammunition sent to our forces.…",
-     "categories": [
-      "GEOPOLITICS",
-      "WAR"
-     ],
-     "url": "https://x.com/osint613/status/2108479559041491323"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2108479553664639166",
-     "timestamp": "2026-10-09T08:47:53+00:00",
-     "relevance": 100,
-     "summary": "$BTC almost tapped $80,000 yesterday. It's still holding above all its key levels, which is a good sign. Now, all eyes will be on the weekly close, as a close below $82,700 could…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/tedpillows/status/2108479553664639166"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2108474403474252110",
-     "timestamp": "2026-10-09T08:27:26+00:00",
-     "relevance": 100,
-     "summary": "I may be bullish, but I’m not oblivious to the current LTF market structure. $BTC is now coming back into the previous May range high, an area it broke back below. If this isn’t…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/killaxbt/status/2108474403474252110"
-    },
-    {
-     "account": "xapa03",
-     "tweet_id": "2108469329364689256",
-     "timestamp": "2026-10-09T08:07:16+00:00",
-     "relevance": 100,
-     "summary": "After I said Bitcoin would see the $80,000–$82,000 area and that the current low would hold, we are back at $82,500. I expect Bitcoin to do what it did last bullrun after a…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "LIQUIDITY"
-     ],
-     "url": "https://x.com/xapa03/status/2108469329364689256"
+     "url": "https://x.com/osint613/status/2108608144616443958"
     }
    ]
   },
   "stats": {
-   "posts_new": 119,
-   "posts_relevant": 20,
-   "predictions_new": 5,
-   "predictions_updated": 4,
-   "invalidated": 1,
-   "posts_analysed": 119,
+   "posts_new": 45,
+   "posts_relevant": 5,
+   "predictions_new": 0,
+   "predictions_updated": 0,
+   "invalidated": 0,
+   "posts_analysed": 45,
    "evaluated": 0
   }
  }

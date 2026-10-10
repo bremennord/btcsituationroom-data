@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-09T17:07:19.270334+00:00",
+ "generated_at": "2026-10-10T05:09:56.968121+00:00",
  "accounts": [
   {
    "handle": "killaxbt",
    "display_name": "Killa",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-09T17:02:12.829780+00:00",
+    "last_ok_at": "2026-10-10T05:01:50.936804+00:00",
     "error": null
    },
    "bias": {
@@ -403,7 +403,7 @@
    "display_name": "XAPA",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-09T17:02:12.829780+00:00",
+    "last_ok_at": "2026-10-10T05:01:50.936804+00:00",
     "error": null
    },
    "bias": {
@@ -789,7 +789,7 @@
    "display_name": "Open Source Intel",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-09T17:02:12.829780+00:00",
+    "last_ok_at": "2026-10-10T05:01:50.936804+00:00",
     "error": null
    },
    "bias": {
@@ -805,12 +805,12 @@
     },
     "GEO": {
      "stance": "elevated",
-     "posts": 193,
+     "posts": 198,
      "last": {
-      "tweet_id": "2108591566063345905",
-      "text": "Bloomberg: Saudi Aramco to meet all European crude oil orders in November after key national pipeline restarts after attacks",
-      "url": "https://x.com/osint613/status/2108591566063345905",
-      "timestamp": "2026-10-09T16:12:59+00:00"
+      "tweet_id": "2108689031399964865",
+      "text": "NOW: Preliminary reports indicate that a ballistic missile struck King Khalid International Airport in Riyadh just minutes ago.\n\n\n\nNo air raid sirens were activated, as usual in Saudi Arabia.\n\n\n\nContributed by: @BeamTrac",
+      "url": "https://x.com/osint613/status/2108689031399964865",
+      "timestamp": "2026-10-09T22:40:17+00:00"
      }
     }
    },
@@ -851,7 +851,7 @@
    "display_name": "Tuur Demeester",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-09T17:02:12.829780+00:00",
+    "last_ok_at": "2026-10-10T05:01:50.936804+00:00",
     "error": null
    },
    "bias": {},
@@ -892,7 +892,7 @@
    "display_name": "Tyler",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-09T17:02:12.829780+00:00",
+    "last_ok_at": "2026-10-10T05:01:50.936804+00:00",
     "error": null
    },
    "bias": {
@@ -954,7 +954,7 @@
    "display_name": "zerohedge",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-09T17:02:12.829780+00:00",
+    "last_ok_at": "2026-10-10T05:01:50.936804+00:00",
     "error": null
    },
    "bias": {
@@ -990,12 +990,12 @@
     },
     "GEO": {
      "stance": "elevated",
-     "posts": 60,
+     "posts": 62,
      "last": {
-      "tweet_id": "2108592580262764741",
-      "text": "*TRUMP REITERATES IRAN CAN'T HAVE NUCLEAR WEAPON\n\n\n\n*TRUMP ON IRAN: IT'S A VERY SMALL PRICE TO PAY",
-      "url": "https://x.com/zerohedge/status/2108592580262764741",
-      "timestamp": "2026-10-09T16:17:01+00:00"
+      "tweet_id": "2108775303313027363",
+      "text": "Payback: Trump Cut Putin Diesel Deal After Zelensky Ignored Six Pleas To Stop Refinery Strikes https://www.zerohedge.com/energy/payback-trump-cut-putin-diesel-deal-after-zelensky-ignored-six-pleas-stop-refinery-strikes",
+      "url": "https://x.com/zerohedge/status/2108775303313027363",
+      "timestamp": "2026-10-10T04:23:06+00:00"
      }
     }
    },
@@ -1062,9 +1062,9 @@
    "handle": "e_boeminghaus",
    "display_name": "Emanuel Boeminghaus",
    "status": {
-    "ok": true,
+    "ok": false,
     "last_ok_at": "2026-10-09T17:02:12.829780+00:00",
-    "error": null
+    "error": "Account nicht verfügbar (HTTP 404)"
    },
    "bias": {
     "GEO": {
@@ -1115,7 +1115,7 @@
    "display_name": "Ted",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-09T17:02:12.829780+00:00",
+    "last_ok_at": "2026-10-10T05:01:50.936804+00:00",
     "error": null
    },
    "bias": {
@@ -1131,12 +1131,12 @@
     },
     "LIQUIDITY": {
      "stance": "expanding",
-     "posts": 2,
+     "posts": 3,
      "last": {
-      "tweet_id": "2107818564761555387",
-      "text": "I’m excited to see GSR taking a serious step into onchain credit with Hare.\n\n\n\nThe $100M commitment is a strong signal of growing institutional conviction around onchain credit and the role of vaults in putting stablecoi",
-      "url": "https://x.com/tedpillows/status/2107818564761555387",
-      "timestamp": "2026-10-07T13:01:21+00:00"
+      "tweet_id": "2108613654967095522",
+      "text": "Someone bought 80 BTC for $5,200,000 during the June low.\n\n\n\nA week ago, he transferred his funds to the Ledger wallet and was up $1,460,000.\n\n\n\nToday, his wallet got drained, and he's left with nothing.\n\n\n\nReally sad.",
+      "url": "https://x.com/tedpillows/status/2108613654967095522",
+      "timestamp": "2026-10-09T17:40:46+00:00"
      }
     },
     "FED": {
@@ -1663,7 +1663,7 @@
    "display_name": "Nik Bhatia",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-09T17:02:12.829780+00:00",
+    "last_ok_at": "2026-10-10T05:01:50.936804+00:00",
     "error": null
    },
    "bias": {
@@ -1776,9 +1776,9 @@
    "handle": "nolimitgains",
    "display_name": "NoLimit",
    "status": {
-    "ok": true,
+    "ok": false,
     "last_ok_at": "2026-10-09T17:02:12.829780+00:00",
-    "error": null
+    "error": "Account nicht verfügbar (HTTP 404)"
    },
    "bias": {
     "LIQUIDITY": {
