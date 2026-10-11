@@ -1,14 +1,10 @@
 {
  "state": "DEGRADED",
- "last_run": "2026-10-11T05:11:11.688186+00:00",
- "last_success": "2026-10-11T05:11:11.688186+00:00",
- "accounts_ok": 4,
+ "last_run": "2026-10-11T16:03:33.493098+00:00",
+ "last_success": "2026-10-11T16:03:33.493098+00:00",
+ "accounts_ok": 2,
  "accounts_total": 12,
  "accounts_failed": [
-  {
-   "handle": "killaxbt",
-   "error": "Account nicht verfügbar (HTTP 404)"
-  },
   {
    "handle": "xapa03",
    "error": "Account nicht verfügbar (HTTP 404)"
@@ -36,15 +32,27 @@
   {
    "handle": "jameslavish",
    "error": "Account nicht verfügbar (HTTP 404)"
+  },
+  {
+   "handle": "timevalueofbtc",
+   "error": "Account nicht verfügbar (HTTP 404)"
+  },
+  {
+   "handle": "danheld",
+   "error": "Account nicht verfügbar (HTTP 404)"
+  },
+  {
+   "handle": "nolimitgains",
+   "error": "Account nicht verfügbar (HTTP 404)"
   }
  ],
  "stats": {
-  "posts_new": 6,
-  "posts_relevant": 1,
-  "predictions_new": 0,
-  "predictions_updated": 0,
+  "posts_new": 8,
+  "posts_relevant": 5,
+  "predictions_new": 4,
+  "predictions_updated": 4,
   "invalidated": 0,
-  "posts_analysed": 7,
+  "posts_analysed": 8,
   "evaluated": 0
  },
  "errors": [],
