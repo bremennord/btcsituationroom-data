@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-11T16:03:33.493098+00:00",
+ "generated_at": "2026-10-11T17:04:01.569225+00:00",
  "accounts": [
   {
    "handle": "killaxbt",
    "display_name": "Killa",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-11T15:49:22.041278+00:00",
+    "last_ok_at": "2026-10-11T17:01:49.986020+00:00",
     "error": null
    },
    "bias": {
@@ -255,7 +255,7 @@
      "url": "https://x.com/killaxbt/status/2108474403474252110",
      "verifiable": true,
      "resolved_at": "2026-10-09T11:54:56+00:00",
-     "distance_to_target_pct": 0.9,
+     "distance_to_target_pct": 1.0,
      "updated_by": 91,
      "updates": 86,
      "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -402,19 +402,19 @@
    "handle": "xapa03",
    "display_name": "XAPA",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-10-10T11:02:23.582136+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-10-11T17:01:49.986020+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
      "stance": "bearish",
-     "posts": 27,
+     "posts": 28,
      "last": {
-      "tweet_id": "2108530159611531441",
-      "text": "Invalidation if Bitcoin goes above $87.500 until 14. of October\n\nno much time left to be bearish, prepare yourself and use your last chance for lower prices before we touch a new all time high by 2027 🎲\n\ni am just showin",
-      "url": "https://x.com/xapa03/status/2108530159611531441",
-      "timestamp": "2026-10-09T12:08:59+00:00"
+      "tweet_id": "2109084371416142130",
+      "text": "#ShortTermSaturday - Episode 3 (10/10/26)\n\n\n\n✒️My dear followers,\n\n\n\nI hope you have had wonderful week this far in life and at the digital Frontier in the $BTC trenches. Well, I must admit, it all worked out the way I a",
+      "url": "https://x.com/thebtcfrontierx/status/2109084371416142130",
+      "timestamp": "2026-10-11T00:51:13+00:00"
      }
     },
     "LIQUIDITY": {
@@ -560,7 +560,7 @@
      "url": "https://x.com/xapa03/status/2108133504999415864",
      "verifiable": true,
      "resolved_at": "2026-10-09T08:07:16+00:00",
-     "distance_to_target_pct": 50.8,
+     "distance_to_target_pct": 50.9,
      "updated_by": 87,
      "updates": 24,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -587,7 +587,7 @@
      "url": "https://x.com/xapa03/status/2107737028657877149",
      "verifiable": true,
      "resolved_at": "2026-10-08T09:52:49+00:00",
-     "distance_to_target_pct": 50.8,
+     "distance_to_target_pct": 50.9,
      "updated_by": null,
      "updates": 22,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED,CONDITION_CHANGED"
@@ -641,7 +641,7 @@
      "url": "https://x.com/xapa03/status/2107519244845920288",
      "verifiable": true,
      "resolved_at": "2026-10-06T17:27:57+00:00",
-     "distance_to_target_pct": 50.8,
+     "distance_to_target_pct": 50.9,
      "updated_by": 74,
      "updates": 42,
      "change_type": "TARGET_CHANGED"
@@ -850,9 +850,9 @@
    "handle": "tuurdemeester",
    "display_name": "Tuur Demeester",
    "status": {
-    "ok": true,
+    "ok": false,
     "last_ok_at": "2026-10-11T15:49:22.041278+00:00",
-    "error": null
+    "error": "Account nicht verfügbar (HTTP 404)"
    },
    "bias": {},
    "thesis_changes": [],
@@ -891,9 +891,9 @@
    "handle": "tylerdurden",
    "display_name": "Tyler",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-10-10T17:01:49.483420+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-10-11T17:01:49.986020+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
@@ -953,9 +953,9 @@
    "handle": "zerohedge",
    "display_name": "zerohedge",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-10-10T05:01:50.936804+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-10-11T17:01:49.986020+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
@@ -970,12 +970,12 @@
     },
     "LIQUIDITY": {
      "stance": "expanding",
-     "posts": 9,
+     "posts": 10,
      "last": {
-      "tweet_id": "2108573576500806009",
-      "text": "Brazil is breaking out.\n\nETF inflows are surging. Real rates are extreme. The easing cycle could be a game changer.\n\nBut the biggest opportunity may not be EWZ.\n\nhttps://www.zerohedge.com/the-market-ear/brazil-surging-re",
-      "url": "https://x.com/themarketear/status/2108573576500806009",
-      "timestamp": "2026-10-09T15:01:30+00:00"
+      "tweet_id": "2109118705787346993",
+      "text": "Complete breakdown in correlations\n\n\"Nothing Left To Drain\": Goldman Finds Near-Record $22 Oil Risk Premium As Global Stocks Hit Rock Bottom https://www.zerohedge.com/markets/nothing-left-drain-goldman-finds-near-record-",
+      "url": "https://x.com/zerohedge/status/2109118705787346993",
+      "timestamp": "2026-10-11T03:07:39+00:00"
      }
     },
     "FED": {
@@ -990,12 +990,12 @@
     },
     "GEO": {
      "stance": "elevated",
-     "posts": 62,
+     "posts": 66,
      "last": {
-      "tweet_id": "2108775303313027363",
-      "text": "Payback: Trump Cut Putin Diesel Deal After Zelensky Ignored Six Pleas To Stop Refinery Strikes https://www.zerohedge.com/energy/payback-trump-cut-putin-diesel-deal-after-zelensky-ignored-six-pleas-stop-refinery-strikes",
-      "url": "https://x.com/zerohedge/status/2108775303313027363",
-      "timestamp": "2026-10-10T04:23:06+00:00"
+      "tweet_id": "2109307644846444808",
+      "text": "I just spoke with @MarkJCarney, @alexstubb, and @SecGenNATO Mark Rutte. We discussed the energy ceasefire announced by President Trump. Ukraine supports the ceasefire, and it is important that Russia support it as well. ",
+      "url": "https://x.com/zelenskyyua/status/2109307644846444808",
+      "timestamp": "2026-10-11T15:38:26+00:00"
      }
     }
    },
@@ -1114,29 +1114,29 @@
    "handle": "tedpillows",
    "display_name": "Ted",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-10-10T17:01:49.483420+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-10-11T17:01:49.986020+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
      "stance": "bearish",
-     "posts": 36,
+     "posts": 39,
      "last": {
-      "tweet_id": "2108592990956769399",
-      "text": "$BTC volatility is only going to go up.\n\n\n\nIf Bitcoin reclaims $83K, there are no major sell orders until $85K.\n\n\n\nIf BTC loses $82.5K, there are no major buy orders until $80,500.\n\n\n\nThe recent upward move was primarily",
-      "url": "https://x.com/tedpillows/status/2108592990956769399",
-      "timestamp": "2026-10-09T16:18:39+00:00"
+      "tweet_id": "2109262418400412046",
+      "text": "Someone opened a $24,660,000 $BTC short with 40x leverage.\n\n\n\nHe is now $960 away from liquidation.",
+      "url": "https://x.com/tedpillows/status/2109262418400412046",
+      "timestamp": "2026-10-11T12:38:43+00:00"
      }
     },
     "LIQUIDITY": {
      "stance": "expanding",
-     "posts": 3,
+     "posts": 4,
      "last": {
-      "tweet_id": "2108613654967095522",
-      "text": "Someone bought 80 BTC for $5,200,000 during the June low.\n\n\n\nA week ago, he transferred his funds to the Ledger wallet and was up $1,460,000.\n\n\n\nToday, his wallet got drained, and he's left with nothing.\n\n\n\nReally sad.",
-      "url": "https://x.com/tedpillows/status/2108613654967095522",
-      "timestamp": "2026-10-09T17:40:46+00:00"
+      "tweet_id": "2109240594824302895",
+      "text": "Altcoin (excluding ETH) OI has been higher than Bitcoin OI for almost 3 weeks now.\n\n\n\nRetail is getting increasingly bullish on alts.",
+      "url": "https://x.com/tedpillows/status/2109240594824302895",
+      "timestamp": "2026-10-11T11:12:00+00:00"
      }
     },
     "FED": {
@@ -1151,12 +1151,12 @@
     },
     "GEO": {
      "stance": "elevated",
-     "posts": 2,
+     "posts": 3,
      "last": {
-      "tweet_id": "2104971843421765776",
-      "text": "A new 24-year high for US 30Y bond yield.\n\n\n\nBond vigilantes are at war with Scott Bessent now.",
-      "url": "https://x.com/tedpillows/status/2104971843421765776",
-      "timestamp": "2026-09-29T16:29:30+00:00"
+      "tweet_id": "2109313319115071619",
+      "text": "Trump says Russia and Ukraine have agreed to halt attacks on energy infrastructure.\n\n\n\n$BTC and $ETH are pumping back up after this.",
+      "url": "https://x.com/tedpillows/status/2109313319115071619",
+      "timestamp": "2026-10-11T16:00:59+00:00"
      }
     }
    },
@@ -1362,7 +1362,7 @@
      "url": "https://x.com/tedpillows/status/2107746007186555153",
      "verifiable": true,
      "resolved_at": "2026-10-08T05:01:57.604301+00:00",
-     "distance_to_target_pct": 0.3,
+     "distance_to_target_pct": 0.4,
      "updated_by": null,
      "updates": 71,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -1635,9 +1635,9 @@
    "handle": "timevalueofbtc",
    "display_name": "Nik Bhatia",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-10-11T05:01:47.604573+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-10-11T17:01:49.986020+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
@@ -1697,9 +1697,9 @@
    "handle": "danheld",
    "display_name": "Dan Held",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-10-11T05:01:47.604573+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-10-11T17:01:49.986020+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
@@ -1749,9 +1749,9 @@
    "handle": "nolimitgains",
    "display_name": "NoLimit",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-10-11T05:01:47.604573+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-10-11T17:01:49.986020+00:00",
+    "error": null
    },
    "bias": {
     "LIQUIDITY": {
