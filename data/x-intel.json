@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-11T17:04:01.569225+00:00",
- "btc_price": 83702.5,
+ "generated_at": "2026-10-12T05:15:23.195112+00:00",
+ "btc_price": 84097.4,
  "outlook": {
   "BTC": {
    "horizons": {
     "24h": {
-     "label": "leicht bullisch",
+     "label": "neutral / gemischt",
      "counts": {
-      "pos": 3,
-      "neu": 0,
+      "pos": 1,
+      "neu": 1,
       "neg": 1
      },
-     "accounts": 4
+     "accounts": 3
     },
     "3d": {
      "label": "leicht bärisch",
@@ -44,7 +44,7 @@
     "support": "$80k–83k",
     "resistance": "$86k–88k"
    },
-   "n_posts": 57,
+   "n_posts": 55,
    "sources": [
     {
      "account": "killaxbt",
@@ -108,13 +108,13 @@
   "MACRO": {
    "horizons": {
     "24h": {
-     "label": "leicht Risk-On",
+     "label": "Risk-On",
      "counts": {
       "pos": 3,
       "neu": 0,
-      "neg": 1
+      "neg": 0
      },
-     "accounts": 4
+     "accounts": 3
     },
     "3d": {
      "label": "neutral / gemischt",
@@ -126,28 +126,28 @@
      "accounts": 5
     },
     "7d": {
-     "label": "neutral / gemischt",
+     "label": "leicht Risk-Off",
      "counts": {
-      "pos": 3,
-      "neu": 0,
+      "pos": 2,
+      "neu": 1,
       "neg": 4
      },
      "accounts": 7
     }
    },
    "drivers": [
-    "wachsende Liquidität (7)",
+    "wachsende Liquidität (6)",
     "Risk-Off-Stimmung (4)",
     "schrumpfende Liquidität (3)"
    ],
-   "risk": "Anstehende Termine in den Posts: EARNINGS (3×), FOMC (3×)",
+   "risk": "Anstehende Termine in den Posts: FOMC (3×), EARNINGS (2×)",
    "consensus": {
-    "pos": 3,
-    "neu": 0,
+    "pos": 2,
+    "neu": 1,
     "neg": 4
    },
    "confidence": "Mittel",
-   "n_posts": 23,
+   "n_posts": 22,
    "sources": [
     {
      "account": "killaxbt",
@@ -169,13 +169,6 @@
      "url": "https://x.com/tedpillows/status/2107898137872564577",
      "summary": "The Fed is still open to another hike this year. The latest FOMC minutes show officials are still worried inflation could stay too high, and even the AI spending boom is now…",
      "timestamp": "2026-10-07T18:17:33+00:00"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2106805528219312265",
-     "url": "https://x.com/osint613/status/2106805528219312265",
-     "summary": "German Chancellor Merz: \"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14%…",
-     "timestamp": "2026-10-04T17:55:55+00:00"
     },
     {
      "account": "tedpillows",
@@ -204,19 +197,26 @@
      "url": "https://x.com/tedpillows/status/2107818564761555387",
      "summary": "I’m excited to see GSR taking a serious step into onchain credit with Hare. The $100M commitment is a strong signal of growing institutional conviction around onchain credit and…",
      "timestamp": "2026-10-07T13:01:21+00:00"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2108613654967095522",
+     "url": "https://x.com/tedpillows/status/2108613654967095522",
+     "summary": "Someone bought 80 BTC for $5,200,000 during the June low. A week ago, he transferred his funds to the Ledger wallet and was up $1,460,000. Today, his wallet got drained, and he's…",
+     "timestamp": "2026-10-09T17:40:46+00:00"
     }
    ]
   },
   "LIQUIDITY": {
    "horizons": {
     "24h": {
-     "label": "neutral / gemischt",
+     "label": "zu wenige Aussagen",
      "counts": {
       "pos": 1,
       "neu": 0,
-      "neg": 1
+      "neg": 0
      },
-     "accounts": 2
+     "accounts": 1
     },
     "3d": {
      "label": "leicht schrumpfend",
@@ -243,15 +243,8 @@
     "neg": 1
    },
    "confidence": "Mittel",
-   "n_posts": 10,
+   "n_posts": 9,
    "sources": [
-    {
-     "account": "osint613",
-     "tweet_id": "2106805528219312265",
-     "url": "https://x.com/osint613/status/2106805528219312265",
-     "summary": "German Chancellor Merz: \"The Russian economy cannot wage this war indefinitely. We know that the Russian economy has already reached its pain threshold: 7% inflation, a 14%…",
-     "timestamp": "2026-10-04T17:55:55+00:00"
-    },
     {
      "account": "zerohedge",
      "tweet_id": "2107494651468882125",
@@ -300,6 +293,13 @@
      "url": "https://x.com/zerohedge/status/2109118705787346993",
      "summary": "Complete breakdown in correlations \"Nothing Left To Drain\": Goldman Finds Near-Record $22 Oil Risk Premium As Global Stocks Hit Rock Bottom",
      "timestamp": "2026-10-11T03:07:39+00:00"
+    },
+    {
+     "account": "zerohedge",
+     "tweet_id": "2108039516732686441",
+     "url": "https://x.com/zerohedge/status/2108039516732686441",
+     "summary": "How's the SB Energy IPO going? Australian data center company Firmus has closed the books on its struggling IPO as investors grew increasingly concerned that the deal could be…",
+     "timestamp": "2026-10-08T03:39:20+00:00"
     }
    ]
   },
@@ -308,7 +308,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 39,
+     "posts": 42,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -317,16 +317,16 @@
      ]
     },
     {
-     "name": "Handel / Zölle",
-     "posts": 11,
+     "name": "Russland / Ukraine",
+     "posts": 14,
      "impact": [
-      "Inflationsrisiko ↑",
-      "Risiko-Assets ↓",
-      "USD ↑"
+      "Energie ↑",
+      "Europa-Risiko ↑",
+      "Gold ↑"
      ]
     }
    ],
-   "n_posts": 75,
+   "n_posts": 84,
    "sources": [
     {
      "account": "zerohedge",
@@ -334,13 +334,6 @@
      "url": "https://x.com/zerohedge/status/2108535201412321574",
      "summary": "Top Overnight News Oil declined after President Donald Trump said the US would not attack Iran before November’s midterm elections, signaling a period of more than three weeks for…",
      "timestamp": "2026-10-09T12:29:01+00:00"
-    },
-    {
-     "account": "nolimitgains",
-     "tweet_id": "2108271008625127545",
-     "url": "https://x.com/nolimitgains/status/2108271008625127545",
-     "summary": "LOL. Remember Trump promising Americans a “tariff dividend”? NY Fed researchers estimate tariffs added 2.9 percentage points to inflation in the goods they studied by February…",
-     "timestamp": "2026-10-08T18:59:12+00:00"
     },
     {
      "account": "tedpillows",
@@ -351,10 +344,10 @@
     },
     {
      "account": "osint613",
-     "tweet_id": "2108273849800315373",
-     "url": "https://x.com/osint613/status/2108273849800315373",
-     "summary": "OFAC has sanctioned 17 more tankers in Iran's shadow fleet, covering 13 petroleum and 5 petrochemical designations tied to owners and managers across more than a dozen…",
-     "timestamp": "2026-10-08T19:10:30+00:00"
+     "tweet_id": "2109317229200146523",
+     "url": "https://x.com/osint613/status/2109317229200146523",
+     "summary": "RIYADH AIRPORT: Terminal 4 struck for the 2nd time in 24 hours. What we know so far. Saturday, October 10: A missile struck the domestic terminal complex at King Khalid…",
+     "timestamp": "2026-10-11T16:16:31+00:00"
     },
     {
      "account": "tedpillows",
@@ -383,23 +376,30 @@
      "url": "https://x.com/osint613/status/2108590319247753475",
      "summary": "President Trump - We prevented Iran from acquiring nuclear weapons, and the matter will be resolved soon, one way or another. - Iran no longer has an army, a navy, an air force,…",
      "timestamp": "2026-10-09T16:08:02+00:00"
+    },
+    {
+     "account": "zerohedge",
+     "tweet_id": "2108541321892036761",
+     "url": "https://x.com/zerohedge/status/2108541321892036761",
+     "summary": "*UKMTO GETS REPORT OF INCIDENT 13NM WEST OF AL JAZEERA, UAE *UKMTO: VESSEL REPORTED TO BE STRUCK BY UNKNOWN PROJECTILE *UKMTO: INCIDENT CAUSED FIRE WHICH HAS SINCE BEEN…",
+     "timestamp": "2026-10-09T12:53:20+00:00"
     }
    ],
    "impact_kind": "Typisches Marktmuster (Systemeinschätzung, keine Prognose)"
   }
  },
  "changed": {
-  "since": "2026-10-11T16:03:44.496876+00:00",
+  "since": "2026-10-11T17:04:10.317084+00:00",
   "new": [
    {
-    "account": "zerohedge",
-    "text": "U.S. Forces Disable Cargo Vessel Attempting to Violate Blockade TAMPA, Fla. — U.S. Central Command (CENTCOM) forces disabled a commercial cargo vessel in the Gulf of Oman, Oct.…",
-    "url": "https://x.com/centcom/status/2109073217176637447"
+    "account": "xapa03",
+    "text": "Top in week 6 ✅ 1 week dump ✅ Final flush out ⌛️ Pump to 94k to 99k+⌛️ To be honest, I expect 100k+. 🐂 Are you ready for the heavy short squeeze? Be prepared for higher Bitcoin…",
+    "url": "https://x.com/xapa03/status/2109333353484710151"
    }
   ],
   "changed": [],
   "new_consensus": [
-   "Makro: leicht Risk-Off → neutral / gemischt"
+   "Makro: neutral / gemischt → leicht Risk-Off"
   ],
   "no_change": [
    "Bitcoin bleibt leicht bullisch",
@@ -474,26 +474,26 @@
    "why": "Ändert eine frühere Prognose dieses Accounts"
   },
   {
-   "account": "nolimitgains",
-   "tweet_id": "2108271008625127545",
-   "url": "https://x.com/nolimitgains/status/2108271008625127545",
-   "summary": "LOL. Remember Trump promising Americans a “tariff dividend”? NY Fed researchers estimate tariffs added 2.9 percentage points to inflation in the goods they studied by February…",
-   "timestamp": "2026-10-08T18:59:12+00:00",
-   "category": "FED",
-   "relevance": 100,
-   "text": "LOL. Remember Trump promising Americans a “tariff dividend”?\n\n\n\nNY Fed researchers estimate tariffs added 2.9 percentage points to inflation in the goods they studied by February 2026.\n\n\n\nWithout those tariffs, prices for that basket would have FALLEN.\n\n\n\nSo you pay more at checkout, then get promised a check funded by those same tariffs.\n\n\n\nWhat a fucking deal.",
-   "why": "Mögliche Wirkung auf Öl, Gold, Risiko-Assets"
-  },
-  {
    "account": "xapa03",
-   "tweet_id": "2108530159611531441",
-   "url": "https://x.com/xapa03/status/2108530159611531441",
-   "summary": "Invalidation if Bitcoin goes above $87.500 until 14. of October no much time left to be bearish, prepare yourself and use your last chance for lower prices before we touch a new…",
-   "timestamp": "2026-10-09T12:08:59+00:00",
+   "tweet_id": "2109333353484710151",
+   "url": "https://x.com/xapa03/status/2109333353484710151",
+   "summary": "Top in week 6 ✅ 1 week dump ✅ Final flush out ⌛️ Pump to 94k to 99k+⌛️ To be honest, I expect 100k+. 🐂 Are you ready for the heavy short squeeze? Be prepared for higher Bitcoin…",
+   "timestamp": "2026-10-11T17:20:35+00:00",
    "category": "BITCOIN",
    "relevance": 92,
-   "text": "Invalidation if Bitcoin goes above $87.500 until 14. of October\n\nno much time left to be bearish, prepare yourself and use your last chance for lower prices before we touch a new all time high by 2027 🎲\n\ni am just showing a pattern, i am already positioned for a big short squeeze soon ⌛️",
+   "text": "Top in week 6 ✅\n\n1 week dump ✅\n\nFinal flush out ⌛️\n\nPump to 94k to 99k+⌛️\n\n\n\nTo be honest, I expect 100k+. 🐂\n\n\n\nAre you ready for the heavy short squeeze?\n\nBe prepared for higher Bitcoin prices!\n\nThere is NO time left to be bearish. 🐻\n\nI shorted the top and closed at the local bottom and opened a big swing long position.\n\nI’m entering this trade with the mindset that it might be in drawdown for a maximum of 3–4 days,",
    "why": "Gegenposition zum aktuellen X-Konsens"
+  },
+  {
+   "account": "zerohedge",
+   "tweet_id": "2108543501021409701",
+   "url": "https://x.com/zerohedge/status/2108543501021409701",
+   "summary": "Market fragility and liquidity have never been worse The average daily executed value in US equities has doubled since 2023, from $511 billion to $1.041 trillion, while S&P…",
+   "timestamp": "2026-10-09T13:02:00+00:00",
+   "category": "LIQUIDITY",
+   "relevance": 83,
+   "text": "Market fragility and liquidity have never been worse\n\n\n\nThe average daily executed value in US equities has doubled since 2023, from $511 billion to $1.041 trillion, while S&P top-of-book liquidity - the dollar value of bids and offers sitting at the best price, i.e., what you can trade right now without moving the market - fell 21% over the same period, from $14 million to $11 million\n\n\n\nIn other words, the tape is ",
+   "why": "Neue Makro- oder Marktdaten"
   }
  ],
  "top_predictions": [
@@ -504,7 +504,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-10T10:07:33+00:00",
-   "distance_pct": 4.5,
+   "distance_pct": 4.1,
    "conditions": null,
    "evidence": "A weekly close above $82,700 means buyers are in control, and Bitcoin could rally towards $87,000-$88,000."
   },
@@ -515,7 +515,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-11T14:59:00+00:00",
-   "distance_pct": 19.4,
+   "distance_pct": 19.0,
    "conditions": null,
    "evidence": "It’s a date I’ve been tracking and talking about since $BTC first surpassed 100K, around a year and a half ago."
   },
@@ -526,7 +526,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-10T13:58:52+00:00",
-   "distance_pct": 10.4,
+   "distance_pct": 10.1,
    "conditions": "As long as dominance stays below 6",
    "evidence": "As long as dominance stays below 6.7%, a break below 6.56% will mean BTC legs upto 90-95K."
   },
@@ -537,7 +537,7 @@
    "deadline": "2026-10-05T11:31:32+00:00",
    "time_horizon": "this week",
    "prediction_date": "2026-09-28T11:31:32+00:00",
-   "distance_pct": -6.3,
+   "distance_pct": -6.6,
    "conditions": null,
    "evidence": "I expect Bitcoin to still tap the 78k–79k zone this week."
   },
@@ -560,8 +560,8 @@
    "main_share": 62,
    "account": "xapa03",
    "stance": "bearish",
-   "text": "#ShortTermSaturday - Episode 3 (10/10/26)\n\n\n\n✒️My dear followers,\n\n\n\nI hope you have had wonderful week this far in life and at the digital Frontier in the $BTC trenches. Well, I must admit, it all wo",
-   "url": "https://x.com/thebtcfrontierx/status/2109084371416142130"
+   "text": "Top in week 6 ✅\n\n1 week dump ✅\n\nFinal flush out ⌛️\n\nPump to 94k to 99k+⌛️\n\n\n\nTo be honest, I expect 100k+. 🐂\n\n\n\nAre you ready for the heavy short squeeze?\n\nBe prepared for higher Bitcoin prices!\n\nTher",
+   "url": "https://x.com/xapa03/status/2109333353484710151"
   },
   {
    "topic": "BTC",
@@ -674,12 +674,12 @@
   "high": 100000.0
  },
  "daily": {
-  "report_date": "2026-10-11",
-  "generated_at": "2026-10-11T17:01:50.419025+00:00",
+  "report_date": "2026-10-12",
+  "generated_at": "2026-10-12T05:01:52.759579+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-10-10T17:01:50.411446+00:00",
-   "to": "2026-10-11T17:01:50.419025+00:00"
+   "from": "2026-10-11T05:01:52.756044+00:00",
+   "to": "2026-10-12T05:01:52.759579+00:00"
   },
   "key_points": [
    {
@@ -701,29 +701,29 @@
     ]
    },
    {
+    "text": "@xapa03: Top in week 6 ✅ 1 week dump ✅ Final flush out ⌛️ Pump to 94k to 99k+⌛️ To be honest, I expect 100k+. 🐂 Are you ready for the heavy short squeeze? Be prepared for higher Bitcoin…",
+    "ids": [
+     "2109333353484710151"
+    ]
+   },
+   {
     "text": "@killaxbt: The ideal scenario would be for $BTC to push higher into the midterms, build a bullish narrative and sweep the highs. Then, as in previous cycles, we get a corrective move after…",
     "ids": [
      "2109277589068013744"
     ]
-   },
-   {
-    "text": "@zerohedge: U.S. Forces Disable Cargo Vessel Attempting to Violate Blockade TAMPA, Fla. — U.S. Central Command (CENTCOM) forces disabled a commercial cargo vessel in the Gulf of Oman, Oct.…",
-    "ids": [
-     "2109073217176637447"
-    ]
    }
   ],
   "sections": {
-   "TOP_DEVELOPMENTS": "@killaxbt: My 14th pivot is approaching next week. It’s a date I’ve been tracking and talking about since $BTC first surpassed 100K, around a year and a half ago. The pivot has been… · @zerohedge: U.S. Forces Disable Cargo Vessel Attempting to Violate Blockade TAMPA, Fla. — U.S. Central Command (CENTCOM) forces disabled a commercial cargo vessel in the Gulf of Oman, Oct.… · @tedpillows: Trump says Russia and Ukraine have agreed to halt attacks on energy infrastructure. $BTC and $ETH are pumping back up after this.",
-   "BTC_OUTLOOK": "Stimmung 62 % bullisch (8/12 Accounts mit Meinung). Median offener Kursziele $87.500. @killaxbt: My 14th pivot is approaching next week. It’s a date I’ve been tracking and talking about since $BTC first surpassed 100K, around a year and a half ago. The pivot has been… · @tedpillows: Trump says Russia and Ukraine have agreed to halt attacks on energy infrastructure. $BTC and $ETH are pumping back up after this. · @xapa03: #ShortTermSaturday - Episode 3 (10/10/26) ✒️My dear followers, I hope you have had wonderful week this far in life and at the digital Frontier in the $BTC trenches. Well, I must…",
-   "MACRO_OUTLOOK": "@killaxbt: I did say this was one of the most important charts to observe.... $BTC Study January 2024 $BTC This is one of the most important charts to watch. USDT.D remains in a significant… · @danheld: The Bitcoin investment thesis is simple: If you think central banks will continue to print and devalue their currencies, buy Bitcoin. Don’t overcomplicate things. · @tedpillows: This is not Bitcoin, Solana, or AI stock. This is Bitfinex $ETH long positions. Someone is betting up aggressively on the Ethereum pump right now.",
+   "TOP_DEVELOPMENTS": "@killaxbt: My 14th pivot is approaching next week. It’s a date I’ve been tracking and talking about since $BTC first surpassed 100K, around a year and a half ago. The pivot has been… · @xapa03: Top in week 6 ✅ 1 week dump ✅ Final flush out ⌛️ Pump to 94k to 99k+⌛️ To be honest, I expect 100k+. 🐂 Are you ready for the heavy short squeeze? Be prepared for higher Bitcoin… · @osint613: RIYADH AIRPORT: Terminal 4 struck for the 2nd time in 24 hours. What we know so far. Saturday, October 10: A missile struck the domestic terminal complex at King Khalid…",
+   "BTC_OUTLOOK": "Stimmung 62 % bullisch (8/12 Accounts mit Meinung). Median offener Kursziele $87.500. @killaxbt: My 14th pivot is approaching next week. It’s a date I’ve been tracking and talking about since $BTC first surpassed 100K, around a year and a half ago. The pivot has been… · @xapa03: Top in week 6 ✅ 1 week dump ✅ Final flush out ⌛️ Pump to 94k to 99k+⌛️ To be honest, I expect 100k+. 🐂 Are you ready for the heavy short squeeze? Be prepared for higher Bitcoin… · @tedpillows: Trump says Russia and Ukraine have agreed to halt attacks on energy infrastructure. $BTC and $ETH are pumping back up after this.",
+   "MACRO_OUTLOOK": "@osint613: RIYADH AIRPORT: Terminal 4 struck for the 2nd time in 24 hours. What we know so far. Saturday, October 10: A missile struck the domestic terminal complex at King Khalid… · @killaxbt: I did say this was one of the most important charts to observe.... $BTC Study January 2024 $BTC This is one of the most important charts to watch. USDT.D remains in a significant…",
    "GLOBAL_LIQUIDITY": "Keine relevanten Aussagen.",
    "FED_RATES": "Keine relevanten Aussagen.",
-   "DXY_TREASURIES": "@zerohedge: U.S. Forces Disable Cargo Vessel Attempting to Violate Blockade TAMPA, Fla. — U.S. Central Command (CENTCOM) forces disabled a commercial cargo vessel in the Gulf of Oman, Oct.… · @nolimitgains: Call option volume on $TLT just hit a record 14.9 million contracts in a month. ~3x January. Calls on TLT are a bet that long-term yields fall. So at the exact moment the 30-year…",
+   "DXY_TREASURIES": "@nolimitgains: Call option volume on $TLT just hit a record 14.9 million contracts in a month. ~3x January. Calls on TLT are a bet that long-term yields fall. So at the exact moment the 30-year…",
    "GOLD": "Keine relevanten Aussagen.",
-   "GEOPOLITICS": "@zerohedge: U.S. Forces Disable Cargo Vessel Attempting to Violate Blockade TAMPA, Fla. — U.S. Central Command (CENTCOM) forces disabled a commercial cargo vessel in the Gulf of Oman, Oct.… · @tedpillows: Trump says Russia and Ukraine have agreed to halt attacks on energy infrastructure. $BTC and $ETH are pumping back up after this.",
+   "GEOPOLITICS": "@osint613: RIYADH AIRPORT: Terminal 4 struck for the 2nd time in 24 hours. What we know so far. Saturday, October 10: A missile struck the domestic terminal complex at King Khalid… · @tedpillows: Trump says Russia and Ukraine have agreed to halt attacks on energy infrastructure. $BTC and $ETH are pumping back up after this.",
    "CONSENSUS": "BTC: 62 % bullisch (5/8) · Liquidität: 75 % expandierend (6/8) · Fed: 80 % straffend (4/5) · Geopolitik-Risiko: 100 % erhöht (7/7)",
-   "CONTRARIAN": "@xapa03 (BTC bärisch): #ShortTermSaturday - Episode 3 (10/10/26)\n\n\n\n✒️My dear followers,\n\n\n\nI hope you have had wonderful week this far in life · @zerohedge (BTC bärisch): The S&P remains just shy of all time highs supported by a handful of stocks. Below the surface, the meltdown is accelera · @xapa03 (Liquidität schrumpfend): Measured from the last weekly candle inside the green zone of the TEM, ETH found its peak within 35 days.\n\nThe top occur · @tylerdurden (Liquidität schrumpfend): This is the best way to exit your public wallet, by the way.\nWas drained for $4m+ USD this morning at 4:30am while I was"
+   "CONTRARIAN": "@xapa03 (BTC bärisch): Top in week 6 ✅\n\n1 week dump ✅\n\nFinal flush out ⌛️\n\nPump to 94k to 99k+⌛️\n\n\n\nTo be honest, I expect 100k+. 🐂\n\n\n\nAre you  · @zerohedge (BTC bärisch): The S&P remains just shy of all time highs supported by a handful of stocks. Below the surface, the meltdown is accelera · @xapa03 (Liquidität schrumpfend): Measured from the last weekly candle inside the green zone of the TEM, ETH found its peak within 35 days.\n\nThe top occur · @tylerdurden (Liquidität schrumpfend): This is the best way to exit your public wallet, by the way.\nWas drained for $4m+ USD this morning at 4:30am while I was"
   },
   "new_predictions": [
    {
@@ -746,27 +746,6 @@
     "evidence": "It’s a date I’ve been tracking and talking about since $BTC first surpassed 100K, around a year and a half ago.",
     "label": "BTC UP $100.000",
     "url": "https://x.com/killaxbt/status/2109297721798447498"
-   },
-   {
-    "id": 98,
-    "account": "killaxbt",
-    "tweet_id": "2108978618361676225",
-    "prediction_date": "2026-10-10T17:51:00+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "UP",
-    "target": null,
-    "target_low": 160000.0,
-    "target_high": 180000.0,
-    "deadline": null,
-    "time_horizon": null,
-    "conditions": null,
-    "status": "UPDATED",
-    "status_note": "BTC UP $160.000–180.000 → BTC UP $100.000",
-    "btc_price_when_prediction_made": 82912.7,
-    "evidence": "I will see you at 160-180K for 1 $BTC in 2029.",
-    "label": "BTC UP $160.000–180.000",
-    "url": "https://x.com/killaxbt/status/2108978618361676225"
    }
   ],
   "updated_predictions": [
@@ -806,211 +785,66 @@
   "invalidated_predictions": [],
   "thesis_changes": [],
   "since_morning": {
-   "since": "2026-10-11T05:00:00+00:00",
-   "relevant_posts": 16,
+   "since": "2026-10-12T05:00:00+00:00",
+   "relevant_posts": 4,
    "consensus_shifts": [],
-   "new_predictions": 1,
+   "new_predictions": 0,
    "posts": [
     {
      "account": "killaxbt",
-     "tweet_id": "2109326604702978153",
-     "timestamp": "2026-10-11T16:53:46+00:00",
-     "relevance": 76,
-     "summary": "I did say this was one of the most important charts to observe.... $BTC Study January 2024 $BTC This is one of the most important charts to watch. USDT.D remains in a significant…",
+     "tweet_id": "2109408661609074733",
+     "timestamp": "2026-10-11T22:19:50+00:00",
+     "relevance": 66,
+     "summary": "Seems like this move did exactly what it needed to do. Take out a bunch of low leverage $BTC longs. Now it’s just shorts between 86–88K.",
      "categories": [
-      "BITCOIN",
-      "STABLECOINS"
+      "BITCOIN"
      ],
-     "url": "https://x.com/killaxbt/status/2109326604702978153"
+     "url": "https://x.com/killaxbt/status/2109408661609074733"
     },
     {
-     "account": "tedpillows",
-     "tweet_id": "2109313319115071619",
-     "timestamp": "2026-10-11T16:00:59+00:00",
-     "relevance": 80,
-     "summary": "Trump says Russia and Ukraine have agreed to halt attacks on energy infrastructure. $BTC and $ETH are pumping back up after this.",
+     "account": "xapa03",
+     "tweet_id": "2109333353484710151",
+     "timestamp": "2026-10-11T17:20:35+00:00",
+     "relevance": 92,
+     "summary": "Top in week 6 ✅ 1 week dump ✅ Final flush out ⌛️ Pump to 94k to 99k+⌛️ To be honest, I expect 100k+. 🐂 Are you ready for the heavy short squeeze? Be prepared for higher Bitcoin…",
      "categories": [
       "BITCOIN",
+      "BTC_TECHNICAL"
+     ],
+     "url": "https://x.com/xapa03/status/2109333353484710151"
+    },
+    {
+     "account": "osint613",
+     "tweet_id": "2109327255201845366",
+     "timestamp": "2026-10-11T16:56:21+00:00",
+     "relevance": 65,
+     "summary": "First Deputy Chairman of the Duma energy committee Ananskikh: \"We all know that Trump often says things to keep oil prices down. So-called verbal interventions. I don't know how…",
+     "categories": [
       "ENERGY",
       "GEOPOLITICS",
       "WAR"
      ],
-     "url": "https://x.com/tedpillows/status/2109313319115071619"
+     "url": "https://x.com/osint613/status/2109327255201845366"
     },
     {
-     "account": "killaxbt",
-     "tweet_id": "2109297721798447498",
-     "timestamp": "2026-10-11T14:59:00+00:00",
-     "relevance": 100,
-     "summary": "My 14th pivot is approaching next week. It’s a date I’ve been tracking and talking about since $BTC first surpassed 100K, around a year and a half ago. The pivot has been…",
+     "account": "osint613",
+     "tweet_id": "2109317229200146523",
+     "timestamp": "2026-10-11T16:16:31+00:00",
+     "relevance": 81,
+     "summary": "RIYADH AIRPORT: Terminal 4 struck for the 2nd time in 24 hours. What we know so far. Saturday, October 10: A missile struck the domestic terminal complex at King Khalid…",
      "categories": [
-      "BITCOIN",
-      "BTC_PRICE"
-     ],
-     "url": "https://x.com/killaxbt/status/2109297721798447498"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2109277589068013744",
-     "timestamp": "2026-10-11T13:39:00+00:00",
-     "relevance": 92,
-     "summary": "The ideal scenario would be for $BTC to push higher into the midterms, build a bullish narrative and sweep the highs. Then, as in previous cycles, we get a corrective move after…",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/killaxbt/status/2109277589068013744"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2109262418400412046",
-     "timestamp": "2026-10-11T12:38:43+00:00",
-     "relevance": 78,
-     "summary": "Someone opened a $24,660,000 $BTC short with 40x leverage. He is now $960 away from liquidation.",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/tedpillows/status/2109262418400412046"
-    },
-    {
-     "account": "nolimitgains",
-     "tweet_id": "2109247704492863840",
-     "timestamp": "2026-10-11T11:40:15+00:00",
-     "relevance": 68,
-     "summary": "Call option volume on $TLT just hit a record 14.9 million contracts in a month. ~3x January. Calls on TLT are a bet that long-term yields fall. So at the exact moment the 30-year…",
-     "categories": [
-      "US_TREASURIES"
-     ],
-     "url": "https://x.com/nolimitgains/status/2109247704492863840"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2109240594824302895",
-     "timestamp": "2026-10-11T11:12:00+00:00",
-     "relevance": 70,
-     "summary": "Altcoin (excluding ETH) OI has been higher than Bitcoin OI for almost 3 weeks now. Retail is getting increasingly bullish on alts.",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/tedpillows/status/2109240594824302895"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2109213725102363004",
-     "timestamp": "2026-10-11T09:25:14+00:00",
-     "relevance": 68,
-     "summary": "$BTC weekly close will happen in 12 hours. A close above $82,800 (May high) would put buyers in control.",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/tedpillows/status/2109213725102363004"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2109198662001623390",
-     "timestamp": "2026-10-11T08:25:22+00:00",
-     "relevance": 60,
-     "summary": "$BTC.D is now at its resistance level. A rejection from here would be really good for alts.",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/tedpillows/status/2109198662001623390"
-    },
-    {
-     "account": "xapa03",
-     "tweet_id": "2109084371416142130",
-     "timestamp": "2026-10-11T00:51:13+00:00",
-     "relevance": 76,
-     "summary": "#ShortTermSaturday - Episode 3 (10/10/26) ✒️My dear followers, I hope you have had wonderful week this far in life and at the digital Frontier in the $BTC trenches. Well, I must…",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/thebtcfrontierx/status/2109084371416142130"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2109073217176637447",
-     "timestamp": "2026-10-11T00:06:54+00:00",
-     "relevance": 85,
-     "summary": "U.S. Forces Disable Cargo Vessel Attempting to Violate Blockade TAMPA, Fla. — U.S. Central Command (CENTCOM) forces disabled a commercial cargo vessel in the Gulf of Oman, Oct.…",
-     "categories": [
-      "DXY",
+      "ENERGY",
       "GEOPOLITICS",
-      "WAR"
+      "WAR",
+      "REGULATION"
      ],
-     "url": "https://x.com/centcom/status/2109073217176637447"
-    },
-    {
-     "account": "danheld",
-     "tweet_id": "2108989370875175375",
-     "timestamp": "2026-10-10T18:33:43+00:00",
-     "relevance": 76,
-     "summary": "The Bitcoin investment thesis is simple: If you think central banks will continue to print and devalue their currencies, buy Bitcoin. Don’t overcomplicate things.",
-     "categories": [
-      "BITCOIN",
-      "BANKING"
-     ],
-     "url": "https://x.com/danheld/status/2108989370875175375"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2108978618361676225",
-     "timestamp": "2026-10-10T17:51:00+00:00",
-     "relevance": 85,
-     "summary": "I will see you at 160-180K for 1 $BTC in 2029.",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/killaxbt/status/2108978618361676225"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2108968490984214552",
-     "timestamp": "2026-10-10T17:10:45+00:00",
-     "relevance": 74,
-     "summary": "This is not Bitcoin, Solana, or AI stock. This is Bitfinex $ETH long positions. Someone is betting up aggressively on the Ethereum pump right now.",
-     "categories": [
-      "BITCOIN",
-      "EQUITIES"
-     ],
-     "url": "https://x.com/tedpillows/status/2108968490984214552"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2108944896329666811",
-     "timestamp": "2026-10-10T15:37:00+00:00",
-     "relevance": 86,
-     "summary": "The last time we saw a comparable wave of long liquidations on the HTF, $BTC marked a local bottom. We’ve now cleared out significant long leverage without losing the range.…",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL",
-      "LIQUIDITY"
-     ],
-     "url": "https://x.com/killaxbt/status/2108944896329666811"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2108920202687840278",
-     "timestamp": "2026-10-10T13:58:52+00:00",
-     "relevance": 100,
-     "summary": "So far, USDT.D is playing out well. We saw the deviation followed by a retest, suggesting $BTC may have put in a higher low at 82.2K. Any sweeps into next week are worth watching.…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "BTC_TECHNICAL",
-      "STABLECOINS"
-     ],
-     "url": "https://x.com/killaxbt/status/2108920202687840278"
+     "url": "https://x.com/osint613/status/2109317229200146523"
     }
    ]
   },
   "stats": {
    "posts_new": 61,
-   "posts_relevant": 10,
+   "posts_relevant": 4,
    "predictions_new": 0,
    "predictions_updated": 0,
    "invalidated": 0,
