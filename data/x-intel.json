@@ -1,28 +1,19 @@
 {
- "generated_at": "2026-10-13T17:02:32.537358+00:00",
- "btc_price": 83201.2,
+ "generated_at": "2026-10-14T05:17:47.545659+00:00",
+ "btc_price": 83396.2,
  "outlook": {
   "BTC": {
    "horizons": {
     "24h": {
-     "label": "bullisch",
+     "label": "leicht bullisch",
      "counts": {
-      "pos": 4,
+      "pos": 3,
       "neu": 0,
       "neg": 1
      },
-     "accounts": 5
+     "accounts": 4
     },
     "3d": {
-     "label": "bullisch",
-     "counts": {
-      "pos": 3,
-      "neu": 2,
-      "neg": 0
-     },
-     "accounts": 5
-    },
-    "7d": {
      "label": "leicht bullisch",
      "counts": {
       "pos": 4,
@@ -30,21 +21,30 @@
       "neg": 1
      },
      "accounts": 6
+    },
+    "7d": {
+     "label": "bullisch",
+     "counts": {
+      "pos": 5,
+      "neu": 1,
+      "neg": 1
+     },
+     "accounts": 7
     }
    },
-   "scenario": "Mehrheit (7 T): leicht bullisch. Wahrscheinlichste Zone laut Quellen: $80k–83k bis $84k; Ausbruch über $84k wäre das nächste Signal.",
+   "scenario": "Mehrheit (7 T): bullisch. Wahrscheinlichste Zone laut Quellen: $80k–83k bis $87k; Ausbruch über $87k wäre das nächste Signal.",
    "risk": "Bruch unter $80k–83k (genannt von @killaxbt, @tedpillows, @xapa03)",
    "consensus": {
-    "pos": 4,
+    "pos": 5,
     "neu": 1,
     "neg": 1
    },
-   "confidence": "Mittel",
+   "confidence": "Hoch",
    "levels": {
     "support": "$80k–83k",
-    "resistance": "$84k"
+    "resistance": "$87k"
    },
-   "n_posts": 58,
+   "n_posts": 54,
    "sources": [
     {
      "account": "killaxbt",
@@ -112,9 +112,9 @@
      "counts": {
       "pos": 0,
       "neu": 0,
-      "neg": 1
+      "neg": 0
      },
-     "accounts": 1
+     "accounts": 0
     },
     "3d": {
      "label": "Risk-On",
@@ -128,8 +128,8 @@
     "7d": {
      "label": "neutral / gemischt",
      "counts": {
-      "pos": 2,
-      "neu": 2,
+      "pos": 3,
+      "neu": 1,
       "neg": 3
      },
      "accounts": 7
@@ -140,14 +140,14 @@
     "Risk-Off-Stimmung (5)",
     "Fed-Lockerung (3)"
    ],
-   "risk": "Anstehende Termine in den Posts: EARNINGS (5×), CPI (3×), PPI (3×)",
+   "risk": "Anstehende Termine in den Posts: EARNINGS (6×), CPI (3×), PPI (3×)",
    "consensus": {
-    "pos": 2,
-    "neu": 2,
+    "pos": 3,
+    "neu": 1,
     "neg": 3
    },
    "confidence": "Niedrig",
-   "n_posts": 23,
+   "n_posts": 22,
    "sources": [
     {
      "account": "killaxbt",
@@ -219,13 +219,13 @@
      "accounts": 0
     },
     "3d": {
-     "label": "leicht expandierend",
+     "label": "expandierend",
      "counts": {
       "pos": 2,
       "neu": 0,
-      "neg": 1
+      "neg": 0
      },
-     "accounts": 3
+     "accounts": 2
     },
     "7d": {
      "label": "leicht expandierend",
@@ -308,7 +308,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 65,
+     "posts": 67,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -318,7 +318,7 @@
     },
     {
      "name": "Russland / Ukraine",
-     "posts": 41,
+     "posts": 39,
      "impact": [
       "Energie ↑",
       "Europa-Risiko ↑",
@@ -328,6 +328,13 @@
    ],
    "n_posts": 119,
    "sources": [
+    {
+     "account": "osint613",
+     "tweet_id": "2110108688669192603",
+     "url": "https://x.com/osint613/status/2110108688669192603",
+     "summary": "CENTCOM: 🚫 CLAIM: The navy commander for Iran's Islamic Revolutionary Guard Corps claimed today that the Strait of Hormuz is under IRGC control and any approaching U.S. Navy…",
+     "timestamp": "2026-10-13T20:41:29+00:00"
+    },
     {
      "account": "tedpillows",
      "tweet_id": "2109579326756721110",
@@ -351,6 +358,13 @@
     },
     {
      "account": "osint613",
+     "tweet_id": "2110159492839027101",
+     "url": "https://x.com/osint613/status/2110159492839027101",
+     "summary": "The U.S. Treasury Department has fined Bank of America more than $1.21 billion for anti-money laundering and sanctions violations after the bank failed to timely report more than…",
+     "timestamp": "2026-10-14T00:03:22+00:00"
+    },
+    {
+     "account": "osint613",
      "tweet_id": "2109317229200146523",
      "url": "https://x.com/osint613/status/2109317229200146523",
      "summary": "RIYADH AIRPORT: Terminal 4 struck for the 2nd time in 24 hours. What we know so far. Saturday, October 10: A missile struck the domestic terminal complex at King Khalid…",
@@ -369,52 +383,37 @@
      "url": "https://x.com/osint613/status/2109689512129430009",
      "summary": "MORE INFO: A 14 year old was killed and 24 wounded on a school hike in the Upper Galilee this morning. Students from ORT Ma'alot Yeshiva High School stopped near the Mitzpe Pe'er…",
      "timestamp": "2026-10-12T16:55:50+00:00"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2110045106208374784",
-     "url": "https://x.com/osint613/status/2110045106208374784",
-     "summary": "President Trump: \"Iran is a failed country. They have no economy. They have 300% inflation. They have no money. They're not paying their troops. They're not paying anybody. We'll…",
-     "timestamp": "2026-10-13T16:28:50+00:00"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2109840973752918422",
-     "url": "https://x.com/zerohedge/status/2109840973752918422",
-     "summary": "hiring a vessel to haul oil from the US to China now costs more than launching a rocket into space At Least 10 Supertankers Approaching Port Of Fujairah Reverse Course Amid Iran’s…",
-     "timestamp": "2026-10-13T02:57:41+00:00"
     }
    ],
    "impact_kind": "Typisches Marktmuster (Systemeinschätzung, keine Prognose)"
   }
  },
  "changed": {
-  "since": "2026-10-13T11:06:54.250588+00:00",
+  "since": "2026-10-13T17:02:43.032442+00:00",
   "new": [
    {
-    "account": "killaxbt",
-    "text": "Well, it’s been a while since I’ve updated this position. This was one of my boldest positions. Longing the $BTC bottom publicly. There’s not much to update apart from the fact…",
-    "url": "https://x.com/killaxbt/status/2110049995160162484"
+    "account": "osint613",
+    "text": "CENTCOM: 🚫 CLAIM: The navy commander for Iran's Islamic Revolutionary Guard Corps claimed today that the Strait of Hormuz is under IRGC control and any approaching U.S. Navy…",
+    "url": "https://x.com/osint613/status/2110108688669192603"
+   },
+   {
+    "account": "jameslavish",
+    "text": "The more you learn about bitcoin, the more disappointed you will be with the monetary system and the more confident and secure you will feel about your personal financial future.…",
+    "url": "https://x.com/jameslavish/status/2110035649441181932"
    },
    {
     "account": "osint613",
-    "text": "U.S. President Donald Trump: \"The Houthis are behaving very badly. I thought they learned their lesson a year ago when we bombed the HELL out of them and, at their request,…",
-    "url": "https://x.com/osint613/status/2110039258685653387"
+    "text": "The U.S. Treasury Department has fined Bank of America more than $1.21 billion for anti-money laundering and sanctions violations after the bank failed to timely report more than…",
+    "url": "https://x.com/osint613/status/2110159492839027101"
    }
   ],
-  "changed": [
-   {
-    "account": "killaxbt",
-    "text": "nimmt zurück: BTC DOWN $80.000",
-    "url": "https://x.com/killaxbt/status/2109689403224297605"
-   }
-  ],
+  "changed": [],
   "new_consensus": [
-   "Liquidität: expandierend → leicht expandierend"
+   "Bitcoin: leicht bullisch → bullisch"
   ],
   "no_change": [
-   "Bitcoin bleibt leicht bullisch",
-   "Makro bleibt neutral / gemischt"
+   "Makro bleibt neutral / gemischt",
+   "Liquidität bleibt leicht expandierend"
   ]
  },
  "important_posts": [
@@ -452,6 +451,17 @@
    "why": "Ändert eine frühere Prognose dieses Accounts"
   },
   {
+   "account": "osint613",
+   "tweet_id": "2110108688669192603",
+   "url": "https://x.com/osint613/status/2110108688669192603",
+   "summary": "CENTCOM: 🚫 CLAIM: The navy commander for Iran's Islamic Revolutionary Guard Corps claimed today that the Strait of Hormuz is under IRGC control and any approaching U.S. Navy…",
+   "timestamp": "2026-10-13T20:41:29+00:00",
+   "category": "FED",
+   "relevance": 95,
+   "text": "CENTCOM:\n\n\n\n🚫 CLAIM: The navy commander for Iran's Islamic Revolutionary Guard Corps claimed today that the Strait of Hormuz is under IRGC control and any approaching U.S. Navy warships would be \"sunk.\"\n\n\n\n✅ FACT: IRGC's navy commander has no navy. American forces and regional partners clearly control the Strait of Hormuz. Just yesterday U.S. forces assisted Gulf partners in shipping more than 19 million barrels of c",
+   "why": "Mögliche Wirkung auf Öl, Gold, Risiko-Assets"
+  },
+  {
    "account": "tedpillows",
    "tweet_id": "2109579326756721110",
    "url": "https://x.com/tedpillows/status/2109579326756721110",
@@ -485,26 +495,15 @@
    "why": "Gegenposition zum aktuellen X-Konsens"
   },
   {
-   "account": "osint613",
-   "tweet_id": "2110039258685653387",
-   "url": "https://x.com/osint613/status/2110039258685653387",
-   "summary": "U.S. President Donald Trump: \"The Houthis are behaving very badly. I thought they learned their lesson a year ago when we bombed the HELL out of them and, at their request,…",
-   "timestamp": "2026-10-13T16:05:36+00:00",
-   "category": "INFLATION",
-   "relevance": 90,
-   "text": "U.S. President Donald Trump:\n\n\n\n\"The Houthis are behaving very badly. I thought they learned their lesson a year ago when we bombed the HELL out of them and, at their request, stopped. They’ve been silent for a long time, but now they’ve emerged again, probably at the behest of Iran, which is a Failing Nation, with No Navy, No Airforce, the World’s Worst Economy, and 301% Inflation, in a very nasty way, hitting Saudi",
-   "why": "Mögliche Wirkung auf Öl, Gold, Risiko-Assets"
-  },
-  {
-   "account": "osint613",
-   "tweet_id": "2109317229200146523",
-   "url": "https://x.com/osint613/status/2109317229200146523",
-   "summary": "RIYADH AIRPORT: Terminal 4 struck for the 2nd time in 24 hours. What we know so far. Saturday, October 10: A missile struck the domestic terminal complex at King Khalid…",
-   "timestamp": "2026-10-11T16:16:31+00:00",
-   "category": "ENERGY",
-   "relevance": 81,
-   "text": "RIYADH AIRPORT: Terminal 4 struck for the 2nd time in 24 hours. What we know so far.\n\n\n\nSaturday, October 10:\n\n\n\nA missile struck the domestic terminal complex at King Khalid International Airport, affecting Terminals 3 and 4 and triggering a mass evacuation.\n\n\n\nSaudi aviation officials reported at least 12 killed and 309 wounded, including several in serious condition.\n\n\n\nThe dead included 4 Saudis, 2 Bangladeshis a",
-   "why": "Mögliche Wirkung auf Öl, Gold, Risiko-Assets"
+   "account": "jameslavish",
+   "tweet_id": "2110035649441181932",
+   "url": "https://x.com/jameslavish/status/2110035649441181932",
+   "summary": "The more you learn about bitcoin, the more disappointed you will be with the monetary system and the more confident and secure you will feel about your personal financial future.…",
+   "timestamp": "2026-10-13T15:51:16+00:00",
+   "category": "BITCOIN",
+   "relevance": 91,
+   "text": "The more you learn about bitcoin, the more disappointed you will be with the monetary system and the more confident and secure you will feel about your personal financial future.\n\"SUPERCYCLE\" is just another way to say BTC breaks out of 4 yr cycles and follows global macro markets. No asset in history has followed a programmatic clock except BTC. BTC's supply shock is now TOO SMALL to make a difference. → BTC follows",
+   "why": "BTC bullisch"
   }
  ],
  "top_predictions": [
@@ -515,7 +514,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-10T10:07:33+00:00",
-   "distance_pct": 5.1,
+   "distance_pct": 4.6,
    "conditions": null,
    "evidence": "A weekly close above $82,700 means buyers are in control, and Bitcoin could rally towards $87,000-$88,000."
   },
@@ -526,7 +525,7 @@
    "deadline": "2026-10-19T00:21:59+00:00",
    "time_horizon": "this week",
    "prediction_date": "2026-10-13T00:21:59+00:00",
-   "distance_pct": 51.7,
+   "distance_pct": 51.0,
    "conditions": "if Bitcoin prints a new high this week",
    "evidence": "Invalidation, if Bitcoin prints a new high this week."
   },
@@ -537,7 +536,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-10T13:58:52+00:00",
-   "distance_pct": 11.1,
+   "distance_pct": 10.6,
    "conditions": "As long as dominance stays below 6",
    "evidence": "As long as dominance stays below 6.7%, a break below 6.56% will mean BTC legs upto 90-95K."
   },
@@ -586,7 +585,7 @@
   {
    "topic": "LIQUIDITY",
    "main": "expanding",
-   "main_share": 62,
+   "main_share": 75,
    "account": "xapa03",
    "stance": "contracting",
    "text": "Measured from the last weekly candle inside the green zone of the TEM, ETH found its peak within 35 days.\n\nThe top occurred exactly after 35 days (on the weekly timeframe), and the attempt to break ou",
@@ -619,16 +618,17 @@
   },
   "LIQUIDITY": {
    "majority": "expanding",
-   "score": 62,
+   "score": 75,
    "n": 8,
    "counts": {
-    "expanding": 5,
-    "neutral": 2,
+    "expanding": 6,
+    "neutral": 1,
     "contracting": 1
    },
    "supporting": [
     "killaxbt",
     "osint613",
+    "tylerdurden",
     "zerohedge",
     "tedpillows",
     "jameslavish"
@@ -686,12 +686,12 @@
   "high": 126270.0
  },
  "daily": {
-  "report_date": "2026-10-13",
-  "generated_at": "2026-10-13T17:02:16.107460+00:00",
+  "report_date": "2026-10-14",
+  "generated_at": "2026-10-14T05:01:34.449639+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-10-12T17:02:16.099067+00:00",
-   "to": "2026-10-13T17:02:16.107460+00:00"
+   "from": "2026-10-13T05:01:34.439379+00:00",
+   "to": "2026-10-14T05:01:34.449639+00:00"
   },
   "key_points": [
    {
@@ -701,15 +701,21 @@
     ]
    },
    {
-    "text": "Neue BTC-Prognose von @xapa03: BTC UP $126.270 (this week)",
-    "ids": [
-     "2109801787888722229"
-    ]
-   },
-   {
     "text": "@killaxbt: Well, it’s been a while since I’ve updated this position. This was one of my boldest positions. Longing the $BTC bottom publicly. There’s not much to update apart from the fact…",
     "ids": [
      "2110049995160162484"
+    ]
+   },
+   {
+    "text": "@osint613: CENTCOM: 🚫 CLAIM: The navy commander for Iran's Islamic Revolutionary Guard Corps claimed today that the Strait of Hormuz is under IRGC control and any approaching U.S. Navy…",
+    "ids": [
+     "2110108688669192603"
+    ]
+   },
+   {
+    "text": "@jameslavish: The more you learn about bitcoin, the more disappointed you will be with the monetary system and the more confident and secure you will feel about your personal financial future.…",
+    "ids": [
+     "2110035649441181932"
     ]
    },
    {
@@ -717,72 +723,23 @@
     "ids": [
      "2110039258685653387"
     ]
-   },
-   {
-    "text": "@killaxbt: How can 1 be bearish on this chart? $BTC is still below ATH.",
-    "ids": [
-     "2109956554091036875"
-    ]
    }
   ],
   "sections": {
-   "TOP_DEVELOPMENTS": "@killaxbt: Well, it’s been a while since I’ve updated this position. This was one of my boldest positions. Longing the $BTC bottom publicly. There’s not much to update apart from the fact… · @xapa03: Rejection at $84,300, textbook. ✅ Expected a 4-5% pump, then the dump. ✅ If the pattern repeats 1:1, it continues until the 14th/15th of October. The bears feel comfortable in… · @osint613: U.S. President Donald Trump: \"The Houthis are behaving very badly. I thought they learned their lesson a year ago when we bombed the HELL out of them and, at their request,…",
-   "BTC_OUTLOOK": "Stimmung 67 % bullisch (9/12 Accounts mit Meinung). Median offener Kursziele $92.500. @killaxbt: Well, it’s been a while since I’ve updated this position. This was one of my boldest positions. Longing the $BTC bottom publicly. There’s not much to update apart from the fact… · @xapa03: Rejection at $84,300, textbook. ✅ Expected a 4-5% pump, then the dump. ✅ If the pattern repeats 1:1, it continues until the 14th/15th of October. The bears feel comfortable in… · @nolimitgains: Wow, Microsoft $MSFT is now 1.3% away from a new all-time high. I remember like it was yesterday buying this below $370, making it one of my biggest holdings publicly, and…",
+   "TOP_DEVELOPMENTS": "@killaxbt: Well, it’s been a while since I’ve updated this position. This was one of my boldest positions. Longing the $BTC bottom publicly. There’s not much to update apart from the fact… · @osint613: CENTCOM: 🚫 CLAIM: The navy commander for Iran's Islamic Revolutionary Guard Corps claimed today that the Strait of Hormuz is under IRGC control and any approaching U.S. Navy… · @jameslavish: The more you learn about bitcoin, the more disappointed you will be with the monetary system and the more confident and secure you will feel about your personal financial future.…",
+   "BTC_OUTLOOK": "Stimmung 67 % bullisch (9/12 Accounts mit Meinung). Median offener Kursziele $92.500. @killaxbt: Well, it’s been a while since I’ve updated this position. This was one of my boldest positions. Longing the $BTC bottom publicly. There’s not much to update apart from the fact… · @jameslavish: The more you learn about bitcoin, the more disappointed you will be with the monetary system and the more confident and secure you will feel about your personal financial future.… · @nolimitgains: Wow, Microsoft $MSFT is now 1.3% away from a new all-time high. I remember like it was yesterday buying this below $370, making it one of my biggest holdings publicly, and…",
    "MACRO_OUTLOOK": "@osint613: U.S. President Donald Trump: \"The Houthis are behaving very badly. I thought they learned their lesson a year ago when we bombed the HELL out of them and, at their request,…",
-   "GLOBAL_LIQUIDITY": "@zerohedge: JPM Tech specialist Joshua Meyers on today's tech selloff The most proximate reason seems to be Hock Tan's participation in a panel at a DBS conference in Singapore, where he…",
-   "FED_RATES": "@nolimitgains: JUST IN: The share of US families behind on loan payments jumped from 12% to nearly 20% in 3 years. Highest since 2010, per the Fed's Survey of Consumer Finances. · @zerohedge: Tragedy Strikes Israeli School Hike When Teen Puts Remnant Hezbollah Ordinance In Backpack",
-   "DXY_TREASURIES": "@zerohedge: JPM Tech specialist Joshua Meyers on today's tech selloff The most proximate reason seems to be Hock Tan's participation in a panel at a DBS conference in Singapore, where he…",
+   "GLOBAL_LIQUIDITY": "Keine relevanten Aussagen.",
+   "FED_RATES": "@osint613: CENTCOM: 🚫 CLAIM: The navy commander for Iran's Islamic Revolutionary Guard Corps claimed today that the Strait of Hormuz is under IRGC control and any approaching U.S. Navy… · @nolimitgains: JUST IN: The share of US families behind on loan payments jumped from 12% to nearly 20% in 3 years. Highest since 2010, per the Fed's Survey of Consumer Finances.",
+   "DXY_TREASURIES": "@osint613: The U.S. Treasury Department has fined Bank of America more than $1.21 billion for anti-money laundering and sanctions violations after the bank failed to timely report more than…",
    "GOLD": "Keine relevanten Aussagen.",
-   "GEOPOLITICS": "@osint613: U.S. President Donald Trump: \"The Houthis are behaving very badly. I thought they learned their lesson a year ago when we bombed the HELL out of them and, at their request,… · @danheld: Self custody has always been hard. Only the maximally paranoid survive. Recently with the Coldcard RNG exploit, Trezor e-mail leaks, and the supply chain attacks with Ledger, it's… · @zerohedge: hiring a vessel to haul oil from the US to China now costs more than launching a rocket into space At Least 10 Supertankers Approaching Port Of Fujairah Reverse Course Amid Iran’s…",
-   "CONSENSUS": "BTC: 67 % bullisch (6/9) · Liquidität: 62 % expandierend (5/8) · Fed: 80 % straffend (4/5) · Geopolitik-Risiko: 88 % erhöht (7/8)",
+   "GEOPOLITICS": "@osint613: CENTCOM: 🚫 CLAIM: The navy commander for Iran's Islamic Revolutionary Guard Corps claimed today that the Strait of Hormuz is under IRGC control and any approaching U.S. Navy…",
+   "CONSENSUS": "BTC: 67 % bullisch (6/9) · Liquidität: 75 % expandierend (6/8) · Fed: 80 % straffend (4/5) · Geopolitik-Risiko: 88 % erhöht (7/8)",
    "CONTRARIAN": "@xapa03 (BTC bärisch): Rejection at $84,300, textbook. ✅\n\nExpected a 4-5% pump, then the dump. ✅\n\nIf the pattern repeats 1:1, it continues unti · @zerohedge (BTC bärisch): The S&P remains just shy of all time highs supported by a handful of stocks. Below the surface, the meltdown is accelera · @xapa03 (Liquidität schrumpfend): Measured from the last weekly candle inside the green zone of the TEM, ETH found its peak within 35 days.\n\nThe top occur · @killaxbt (Fed lockernd): My $BTC monday high pivot strategy is proving itself yet again. \n\n\n\nI’ve been posting about this for 1.5 years straight,"
   },
-  "new_predictions": [
-   {
-    "id": 101,
-    "account": "xapa03",
-    "tweet_id": "2109801787888722229",
-    "prediction_date": "2026-10-13T00:21:59+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "UP",
-    "target": 126270.0,
-    "target_low": null,
-    "target_high": null,
-    "deadline": "2026-10-19T00:21:59+00:00",
-    "time_horizon": "this week",
-    "conditions": "if Bitcoin prints a new high this week",
-    "status": "OPEN",
-    "status_note": null,
-    "btc_price_when_prediction_made": 83347.9,
-    "evidence": "Invalidation, if Bitcoin prints a new high this week.",
-    "label": "BTC UP $126.270 (this week)",
-    "url": "https://x.com/xapa03/status/2109801787888722229"
-   }
-  ],
+  "new_predictions": [],
   "updated_predictions": [],
   "invalidated_predictions": [
-   {
-    "id": 11,
-    "account": "xapa03",
-    "tweet_id": "2104534467310174210",
-    "prediction_date": "2026-09-28T11:31:32+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "DOWN",
-    "target": null,
-    "target_low": 78000.0,
-    "target_high": 79000.0,
-    "deadline": "2026-10-05T11:31:32+00:00",
-    "time_horizon": "this week",
-    "conditions": null,
-    "status": "INVALIDATED",
-    "status_note": "Vom Autor zurückgenommen: https://x.com/xapa03/status/2109801787888722229",
-    "btc_price_when_prediction_made": 83462.7,
-    "evidence": "I expect Bitcoin to still tap the 78k–79k zone this week.",
-    "label": "BTC DOWN $78.000–79.000 (this week)",
-    "url": "https://x.com/xapa03/status/2104534467310174210"
-   },
    {
     "id": 100,
     "account": "killaxbt",
@@ -815,254 +772,69 @@
    }
   ],
   "since_morning": {
-   "since": "2026-10-13T05:00:00+00:00",
-   "relevant_posts": 19,
+   "since": "2026-10-14T05:00:00+00:00",
+   "relevant_posts": 4,
    "consensus_shifts": [],
    "new_predictions": 0,
    "posts": [
     {
-     "account": "killaxbt",
-     "tweet_id": "2110049995160162484",
-     "timestamp": "2026-10-13T16:48:16+00:00",
-     "relevance": 100,
-     "summary": "Well, it’s been a while since I’ve updated this position. This was one of my boldest positions. Longing the $BTC bottom publicly. There’s not much to update apart from the fact…",
+     "account": "osint613",
+     "tweet_id": "2110159492839027101",
+     "timestamp": "2026-10-14T00:03:22+00:00",
+     "relevance": 85,
+     "summary": "The U.S. Treasury Department has fined Bank of America more than $1.21 billion for anti-money laundering and sanctions violations after the bank failed to timely report more than…",
      "categories": [
-      "BITCOIN",
-      "BTC_PRICE"
+      "US_TREASURIES",
+      "BANKING",
+      "GEOPOLITICS"
      ],
-     "url": "https://x.com/killaxbt/status/2110049995160162484"
+     "url": "https://x.com/osint613/status/2110159492839027101"
     },
     {
      "account": "osint613",
-     "tweet_id": "2110045106208374784",
-     "timestamp": "2026-10-13T16:28:50+00:00",
-     "relevance": 72,
-     "summary": "President Trump: \"Iran is a failed country. They have no economy. They have 300% inflation. They have no money. They're not paying their troops. They're not paying anybody. We'll…",
+     "tweet_id": "2110108688669192603",
+     "timestamp": "2026-10-13T20:41:29+00:00",
+     "relevance": 95,
+     "summary": "CENTCOM: 🚫 CLAIM: The navy commander for Iran's Islamic Revolutionary Guard Corps claimed today that the Strait of Hormuz is under IRGC control and any approaching U.S. Navy…",
      "categories": [
-      "INFLATION",
-      "GEOPOLITICS",
-      "WAR"
-     ],
-     "url": "https://x.com/osint613/status/2110045106208374784"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2110039258685653387",
-     "timestamp": "2026-10-13T16:05:36+00:00",
-     "relevance": 90,
-     "summary": "U.S. President Donald Trump: \"The Houthis are behaving very badly. I thought they learned their lesson a year ago when we bombed the HELL out of them and, at their request,…",
-     "categories": [
-      "INFLATION",
+      "FED",
       "ENERGY",
       "GEOPOLITICS"
      ],
-     "url": "https://x.com/osint613/status/2110039258685653387"
-    },
-    {
-     "account": "nolimitgains",
-     "tweet_id": "2110026812218822919",
-     "timestamp": "2026-10-13T15:16:09+00:00",
-     "relevance": 78,
-     "summary": "Wow, Microsoft $MSFT is now 1.3% away from a new all-time high. I remember like it was yesterday buying this below $370, making it one of my biggest holdings publicly, and…",
-     "categories": [
-      "BTC_PRICE"
-     ],
-     "url": "https://x.com/nolimitgains/status/2110026812218822919"
+     "url": "https://x.com/osint613/status/2110108688669192603"
     },
     {
      "account": "osint613",
-     "tweet_id": "2110014634367578395",
-     "timestamp": "2026-10-13T14:27:45+00:00",
+     "tweet_id": "2110096482695028767",
+     "timestamp": "2026-10-13T19:52:59+00:00",
      "relevance": 65,
-     "summary": "About to affect oil prices IMO Following Saudi attacks on Sanaa, the Houthis have issued evacuation warnings for Saudi Aramco facilities in Dhahran and Riyadh, as well as King…",
+     "summary": "Over 40 laptop farms across Texas were dismantled by the FBI last month, with nearly 200 computer devices seized. The network helped North Koreans obtain remote IT jobs at U.S.…",
      "categories": [
-      "ENERGY",
       "GEOPOLITICS",
       "WAR"
      ],
-     "url": "https://x.com/osint613/status/2110014634367578395"
+     "url": "https://x.com/osint613/status/2110096482695028767"
     },
     {
-     "account": "osint613",
-     "tweet_id": "2110000489530008059",
-     "timestamp": "2026-10-13T13:31:33+00:00",
-     "relevance": 65,
-     "summary": "Houthi military spokesman Yahya Sarie has named three Saudi sites for retaliation if the coalition strikes the Sanaa oil depot: Aramco headquarters in Dammam, King Khalid…",
-     "categories": [
-      "ENERGY",
-      "GEOPOLITICS",
-      "WAR"
-     ],
-     "url": "https://x.com/osint613/status/2110000489530008059"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2109978457665155159",
-     "timestamp": "2026-10-13T12:04:00+00:00",
-     "relevance": 84,
-     "summary": "If $BTC is going to follow this schematic, It needs to form a HL above 75.5K and, ideally, hold above the 80K lows. That would be similar to 2023, when we formed a weekly HH, then…",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/killaxbt/status/2109978457665155159"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2109956554091036875",
-     "timestamp": "2026-10-13T10:36:58+00:00",
-     "relevance": 88,
-     "summary": "How can 1 be bearish on this chart? $BTC is still below ATH.",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/killaxbt/status/2109956554091036875"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2109949286951837749",
-     "timestamp": "2026-10-13T10:08:05+00:00",
-     "relevance": 76,
-     "summary": "$BTC has reached its major sell orders zone. On the downside, there are large buy orders around $80,000-$81,000. It seems like we are due for another correction followed by…",
+     "account": "jameslavish",
+     "tweet_id": "2110035649441181932",
+     "timestamp": "2026-10-13T15:51:16+00:00",
+     "relevance": 91,
+     "summary": "The more you learn about bitcoin, the more disappointed you will be with the monetary system and the more confident and secure you will feel about your personal financial future.…",
      "categories": [
       "BITCOIN"
      ],
-     "url": "https://x.com/tedpillows/status/2109949286951837749"
-    },
-    {
-     "account": "nolimitgains",
-     "tweet_id": "2109933912436756900",
-     "timestamp": "2026-10-13T09:07:00+00:00",
-     "relevance": 76,
-     "summary": "JUST IN: The share of US families behind on loan payments jumped from 12% to nearly 20% in 3 years. Highest since 2010, per the Fed's Survey of Consumer Finances.",
-     "categories": [
-      "FED"
-     ],
-     "url": "https://x.com/nolimitgains/status/2109933912436756900"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2109840973752918422",
-     "timestamp": "2026-10-13T02:57:41+00:00",
-     "relevance": 72,
-     "summary": "hiring a vessel to haul oil from the US to China now costs more than launching a rocket into space At Least 10 Supertankers Approaching Port Of Fujairah Reverse Course Amid Iran’s…",
-     "categories": [
-      "ENERGY",
-      "GEOPOLITICS",
-      "WAR"
-     ],
-     "url": "https://x.com/zerohedge/status/2109840973752918422"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2109833364295610392",
-     "timestamp": "2026-10-13T02:27:27+00:00",
-     "relevance": 67,
-     "summary": "Another #BitcoinOG has woken up after years of inactivity, transferring out all 4,582 $BTC ($377.58M). Bitcoin whales dormant for years are waking up. Another #Bitcoin whale,…",
-     "categories": [
-      "BITCOIN",
-      "BTC_ONCHAIN"
-     ],
-     "url": "https://x.com/lookonchain/status/2109833364295610392"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2109819417097810034",
-     "timestamp": "2026-10-13T01:32:02+00:00",
-     "relevance": 68,
-     "summary": "JPM Tech specialist Joshua Meyers on today's tech selloff The most proximate reason seems to be Hock Tan's participation in a panel at a DBS conference in Singapore, where he…",
-     "categories": [
-      "LIQUIDITY",
-      "US_TREASURIES"
-     ],
-     "url": "https://x.com/zerohedge/status/2109819417097810034"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2109816416417255901",
-     "timestamp": "2026-10-13T01:20:06+00:00",
-     "relevance": 68,
-     "summary": "Tragedy Strikes Israeli School Hike When Teen Puts Remnant Hezbollah Ordinance In Backpack",
-     "categories": [
-      "INTEREST_RATES",
-      "GEOPOLITICS",
-      "WAR"
-     ],
-     "url": "https://x.com/zerohedge/status/2109816416417255901"
-    },
-    {
-     "account": "xapa03",
-     "tweet_id": "2109801787888722229",
-     "timestamp": "2026-10-13T00:21:59+00:00",
-     "relevance": 100,
-     "summary": "Rejection at $84,300, textbook. ✅ Expected a 4-5% pump, then the dump. ✅ If the pattern repeats 1:1, it continues until the 14th/15th of October. The bears feel comfortable in…",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/xapa03/status/2109801787888722229"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2109750791049453971",
-     "timestamp": "2026-10-12T20:59:20+00:00",
-     "relevance": 78,
-     "summary": "We have 5B+ in visible $BTC liquidations sitting at 87K.",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/killaxbt/status/2109750791049453971"
-    },
-    {
-     "account": "danheld",
-     "tweet_id": "2109743314475843968",
-     "timestamp": "2026-10-12T20:29:37+00:00",
-     "relevance": 76,
-     "summary": "Self custody has always been hard. Only the maximally paranoid survive. Recently with the Coldcard RNG exploit, Trezor e-mail leaks, and the supply chain attacks with Ledger, it's…",
-     "categories": [
-      "BITCOIN",
-      "WAR"
-     ],
-     "url": "https://x.com/danheld/status/2109743314475843968"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2109728282530734088",
-     "timestamp": "2026-10-12T19:29:54+00:00",
-     "relevance": 65,
-     "summary": "A crude oil tanker was hit by an unknown projectile during an outbound transit of the Strait of Hormuz, UKMTO said in advisory 169-26, citing a verified source. The report reached…",
-     "categories": [
-      "ENERGY",
-      "GEOPOLITICS"
-     ],
-     "url": "https://x.com/osint613/status/2109728282530734088"
-    },
-    {
-     "account": "xapa03",
-     "tweet_id": "2109672690332176631",
-     "timestamp": "2026-10-12T15:48:59+00:00",
-     "relevance": 100,
-     "summary": "🌞Good morning fellas and welcome back for another #MomentumMonday at the Bitcoin Frontier. It's been a long time since I perfectly predicted this cycle's bottom zone. The current…",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL",
-      "LIQUIDITY",
-      "ENERGY"
-     ],
-     "url": "https://x.com/thebtcfrontierx/status/2109672690332176631"
+     "url": "https://x.com/jameslavish/status/2110035649441181932"
     }
    ]
   },
   "stats": {
-   "posts_new": 96,
-   "posts_relevant": 8,
+   "posts_new": 21,
+   "posts_relevant": 4,
    "predictions_new": 0,
    "predictions_updated": 0,
-   "invalidated": 1,
-   "posts_analysed": 97,
+   "invalidated": 0,
+   "posts_analysed": 22,
    "evaluated": 0
   }
  }
