@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-14T17:08:51.890629+00:00",
+ "generated_at": "2026-10-15T11:11:36.446935+00:00",
  "accounts": [
   {
    "handle": "killaxbt",
    "display_name": "Killa",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-14T17:02:07.437851+00:00",
+    "last_ok_at": "2026-10-15T11:03:50.943468+00:00",
     "error": null
    },
    "bias": {
     "BTC": {
      "stance": "bullish",
-     "posts": 49,
+     "posts": 51,
      "last": {
-      "tweet_id": "2110049995160162484",
-      "text": "Well, it’s been a while since I’ve updated this position.\n\n\n\nThis was one of my boldest positions.\n\n\n\nLonging the $BTC bottom publicly.\n\n\n\nThere’s not much to update apart from the fact that we’re going a lot higher on t",
-      "url": "https://x.com/killaxbt/status/2110049995160162484",
-      "timestamp": "2026-10-13T16:48:16+00:00"
+      "tweet_id": "2110474017211928870",
+      "text": "$BTC delta is extended red.\n\n\n\nPretty much, all you’ve had to do is bid and build longs during these extended periods of stops being taken out.\n\n\n\nThat’s been the case since $57K.",
+      "url": "https://x.com/killaxbt/status/2110474017211928870",
+      "timestamp": "2026-10-14T20:53:11+00:00"
      }
     },
     "LIQUIDITY": {
@@ -32,17 +32,44 @@
     },
     "FED": {
      "stance": "easing",
-     "posts": 4,
+     "posts": 5,
      "last": {
-      "tweet_id": "2110082903443116269",
-      "text": "$BTC\n\n\n\nThe narrative into the 14th is definitely more bearish than bullish.\n\n\n\nWe’ve seen two hunts of 81K. The latest came late last night during the Asian session and was bought up almost immediately after stops were ",
-      "url": "https://x.com/killaxbt/status/2110082903443116269",
-      "timestamp": "2026-10-13T18:59:02+00:00"
+      "tweet_id": "2110422812150435998",
+      "text": "Seems like we’re dumping into the 14th.\n\n\n\nYou know the drill. We’ve seen this play out many times before, when a bearish narrative builds into this date, $BTC has a habit of doing the opposite.\n\n\n\nLet’s see if we get th",
+      "url": "https://x.com/killaxbt/status/2110422812150435998",
+      "timestamp": "2026-10-14T17:29:42+00:00"
      }
     }
    },
    "thesis_changes": [],
    "open_predictions": [
+    {
+     "id": 109,
+     "account": "killaxbt",
+     "tweet_id": "2110422812150435998",
+     "prediction_date": "2026-10-14T17:29:42+00:00",
+     "asset_or_metric": "BTC",
+     "prediction_type": "PRICE_TARGET",
+     "direction": "UP",
+     "target": 100000.0,
+     "target_low": null,
+     "target_high": null,
+     "deadline": null,
+     "time_horizon": null,
+     "conditions": null,
+     "status": "OPEN",
+     "status_note": null,
+     "btc_price_when_prediction_made": 81939.3,
+     "evidence": "It’s a date I’ve been tracking and talking about since $BTC first surpassed 100K, around a year and a half ago.",
+     "label": "BTC UP $100.000",
+     "url": "https://x.com/killaxbt/status/2110422812150435998",
+     "verifiable": true,
+     "resolved_at": null,
+     "distance_to_target_pct": 22.0,
+     "updated_by": null,
+     "updates": null,
+     "change_type": null
+    },
     {
      "id": 105,
      "account": "killaxbt",
@@ -343,8 +370,8 @@
     }
    ],
    "track_record": {
-    "total": 35,
-    "open": 1,
+    "total": 36,
+    "open": 2,
     "correct": 0,
     "partially_correct": 0,
     "wrong": 0,
@@ -369,25 +396,25 @@
     }
    },
    "last_prediction": "BTC UP $100.000",
-   "last_prediction_date": "2026-10-13T18:59:02+00:00"
+   "last_prediction_date": "2026-10-14T17:29:42+00:00"
   },
   {
    "handle": "xapa03",
    "display_name": "XAPA",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-14T17:02:07.437851+00:00",
+    "last_ok_at": "2026-10-15T11:03:50.943468+00:00",
     "error": null
    },
    "bias": {
     "BTC": {
      "stance": "bearish",
-     "posts": 31,
+     "posts": 32,
      "last": {
-      "tweet_id": "2109801787888722229",
-      "text": "Rejection at $84,300, textbook. ✅\n\nExpected a 4-5% pump, then the dump. ✅\n\nIf the pattern repeats 1:1, it continues until the 14th/15th of October.\n\n\n\nThe bears feel comfortable in their shorts, then they walk into the t",
-      "url": "https://x.com/xapa03/status/2109801787888722229",
-      "timestamp": "2026-10-13T00:21:59+00:00"
+      "tweet_id": "2110609879677149433",
+      "text": "Top in week 6 ✅\n\n1 week dump ✅\n\nFinal flush out ✅\n\n\n\nShort squeeze soon ⌛️\n\n\n\nThis week is the last chance to enter at cheaper prices before we go to heaven.\n\nBe prepared and not sidelined.\n\n\n\nbitcoin:native\n\nIf the patt",
+      "url": "https://x.com/xapa03/status/2110609879677149433",
+      "timestamp": "2026-10-15T05:53:03+00:00"
      }
     },
     "LIQUIDITY": {
@@ -479,7 +506,7 @@
      "url": "https://x.com/xapa03/status/2108469329364689256",
      "verifiable": true,
      "resolved_at": "2026-10-09T12:08:59+00:00",
-     "distance_to_target_pct": -1.2,
+     "distance_to_target_pct": -1.1,
      "updated_by": null,
      "updates": 82,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -762,7 +789,7 @@
    "display_name": "Open Source Intel",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-14T17:02:07.437851+00:00",
+    "last_ok_at": "2026-10-15T11:03:50.943468+00:00",
     "error": null
    },
    "bias": {
@@ -778,12 +805,12 @@
     },
     "GEO": {
      "stance": "elevated",
-     "posts": 311,
+     "posts": 340,
      "last": {
-      "tweet_id": "2110411800948670928",
-      "text": "Zelensky on Trump's energy ceasefire and diesel deal with Putin: \"This is not the right side of history.\"\n\n\n\nHe says he feels betrayed.\n\n\n\nPiers Morgan Uncensored.\nMedia",
-      "url": "https://x.com/osint613/status/2110411800948670928",
-      "timestamp": "2026-10-14T16:45:57+00:00"
+      "tweet_id": "2110672782308585640",
+      "text": "A Russian refinery was hit overnight by Ukraine, a Ukrainian official says, in response to Russian ballistic missile and drone attacks that violated the Trump energy truce.",
+      "url": "https://x.com/osint613/status/2110672782308585640",
+      "timestamp": "2026-10-15T10:03:00+00:00"
      }
     }
    },
@@ -824,7 +851,7 @@
    "display_name": "Tuur Demeester",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-14T17:02:07.437851+00:00",
+    "last_ok_at": "2026-10-15T11:03:50.943468+00:00",
     "error": null
    },
    "bias": {},
@@ -864,9 +891,9 @@
    "handle": "tylerdurden",
    "display_name": "Tyler",
    "status": {
-    "ok": true,
+    "ok": false,
     "last_ok_at": "2026-10-14T17:02:07.437851+00:00",
-    "error": null
+    "error": "Account nicht verfügbar (HTTP 404)"
    },
    "bias": {
     "BTC": {
@@ -927,7 +954,7 @@
    "display_name": "zerohedge",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-14T17:02:07.437851+00:00",
+    "last_ok_at": "2026-10-15T11:03:50.943468+00:00",
     "error": null
    },
    "bias": {
@@ -943,37 +970,65 @@
     },
     "LIQUIDITY": {
      "stance": "expanding",
-     "posts": 11,
+     "posts": 14,
      "last": {
-      "tweet_id": "2110147317731107250",
-      "text": "Samsung Electronics Chairmain JY Lee is set to receive ~11.16m shares worth about W2.6tn ($1.9bn) in the company as a gift from his monther, according to a regulatory filing, increasing Lee's stake in SEC to 1.75% from 1",
-      "url": "https://x.com/zerohedge/status/2110147317731107250",
-      "timestamp": "2026-10-13T23:14:59+00:00"
+      "tweet_id": "2110545813185433632",
+      "text": "*BOJ'S KOEDA: NEUTRAL RATE IS CONSIDERABLY ABOVE 1%\n\n\n\nthe BOJ is always wrong about everything, which means countdown to rate cuts is on",
+      "url": "https://x.com/zerohedge/status/2110545813185433632",
+      "timestamp": "2026-10-15T01:38:28+00:00"
      }
     },
     "FED": {
      "stance": "tightening",
-     "posts": 3,
+     "posts": 5,
      "last": {
-      "tweet_id": "2108535201412321574",
-      "text": "Top Overnight News\n\n\n\nOil declined after President Donald Trump said the US would not attack Iran before November’s midterm elections, signaling a period of more than three weeks for no offensive military action against ",
-      "url": "https://x.com/zerohedge/status/2108535201412321574",
-      "timestamp": "2026-10-09T12:29:01+00:00"
+      "tweet_id": "2110545813185433632",
+      "text": "*BOJ'S KOEDA: NEUTRAL RATE IS CONSIDERABLY ABOVE 1%\n\n\n\nthe BOJ is always wrong about everything, which means countdown to rate cuts is on",
+      "url": "https://x.com/zerohedge/status/2110545813185433632",
+      "timestamp": "2026-10-15T01:38:28+00:00"
      }
     },
     "GEO": {
      "stance": "elevated",
-     "posts": 86,
+     "posts": 91,
      "last": {
-      "tweet_id": "2110411087577272407",
-      "text": "Two Emirati Ships Sink In Hormuz In Under 24 Hours As IRGC Claims 5-6 Vessels Targeted Nightly https://www.zerohedge.com/geopolitical/burning-container-ship-sinks-strait-hormuz-irgc-proclaims-5-or-6-vessels-targeted",
-      "url": "https://x.com/zerohedge/status/2110411087577272407",
-      "timestamp": "2026-10-14T16:43:07+00:00"
+      "tweet_id": "2110622981437174231",
+      "text": "Iran Hormuz Attack Spree Starts Choking Oil Flows (Again), UBS Warns https://www.zerohedge.com/energy/iran-hormuz-attack-spree-starts-choking-oil-flows-again-ubs-warns",
+      "url": "https://x.com/zerohedge/status/2110622981437174231",
+      "timestamp": "2026-10-15T06:45:06+00:00"
      }
     }
    },
    "thesis_changes": [],
    "open_predictions": [
+    {
+     "id": 110,
+     "account": "zerohedge",
+     "tweet_id": "2110503897001304463",
+     "prediction_date": "2026-10-14T22:51:54+00:00",
+     "asset_or_metric": "FED_FUNDS",
+     "prediction_type": "RATE_FORECAST",
+     "direction": "HIKE",
+     "target": null,
+     "target_low": null,
+     "target_high": null,
+     "deadline": "2026-10-15T22:51:54+00:00",
+     "time_horizon": "tomorrow",
+     "conditions": null,
+     "status": "OPEN",
+     "status_note": null,
+     "btc_price_when_prediction_made": 81939.3,
+     "evidence": "GIR continues to expect that the Fed will deliver a second hike in December, and looks to tomorrow’s PPI report + Warsh’s speech in Bangkok for soundbites.",
+     "label": "FED_FUNDS HIKE (tomorrow)",
+     "url": "https://x.com/zerohedge/status/2110503897001304463",
+     "verifiable": true,
+     "resolved_at": null,
+     "updated_by": null,
+     "updates": 93,
+     "change_type": "TIMEFRAME_CHANGED"
+    }
+   ],
+   "previous_predictions": [
     {
      "id": 93,
      "account": "zerohedge",
@@ -988,28 +1043,27 @@
      "deadline": null,
      "time_horizon": null,
      "conditions": null,
-     "status": "OPEN",
-     "status_note": null,
+     "status": "UPDATED",
+     "status_note": "FED_FUNDS HIKE → FED_FUNDS HIKE (tomorrow)",
      "btc_price_when_prediction_made": 82680.3,
      "evidence": "Fed Governor Waller said he anticipates “additional hikes”, though further hikes “do not need to come at consecutive meetings”.",
      "label": "FED_FUNDS HIKE",
      "url": "https://x.com/zerohedge/status/2108535201412321574",
      "verifiable": true,
-     "resolved_at": null,
-     "updated_by": null,
+     "resolved_at": "2026-10-14T22:51:54+00:00",
+     "updated_by": 110,
      "updates": null,
-     "change_type": null
+     "change_type": "TIMEFRAME_CHANGED"
     }
    ],
-   "previous_predictions": [],
    "track_record": {
-    "total": 1,
+    "total": 2,
     "open": 1,
     "correct": 0,
     "partially_correct": 0,
     "wrong": 0,
     "expired": 0,
-    "updated": 0,
+    "updated": 1,
     "invalidated": 0,
     "closed": 0,
     "hit_30d": {
@@ -1028,15 +1082,15 @@
      "label": "INSUFFICIENT SAMPLE SIZE"
     }
    },
-   "last_prediction": "FED_FUNDS HIKE",
-   "last_prediction_date": "2026-10-09T12:29:01+00:00"
+   "last_prediction": "FED_FUNDS HIKE (tomorrow)",
+   "last_prediction_date": "2026-10-14T22:51:54+00:00"
   },
   {
    "handle": "e_boeminghaus",
    "display_name": "Emanuel Boeminghaus",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-14T17:02:07.437851+00:00",
+    "last_ok_at": "2026-10-15T11:03:50.943468+00:00",
     "error": null
    },
    "bias": {
@@ -1087,39 +1141,39 @@
    "handle": "tedpillows",
    "display_name": "Ted",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-10-14T11:02:10.712923+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-10-15T11:03:50.943468+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
      "stance": "bearish",
-     "posts": 48,
+     "posts": 50,
      "last": {
-      "tweet_id": "2110299572593733918",
-      "text": "$BTC is still holding above its 50W EMA, 50W SMA, bull market support band, and May highs.\n\n\n\nSo far, buyers are in control, and as long as BTC stays above $80K, another leg up towards $90K could happen.",
-      "url": "https://x.com/tedpillows/status/2110299572593733918",
-      "timestamp": "2026-10-14T09:20:00+00:00"
+      "tweet_id": "2110630499915878769",
+      "text": "$BTC is holding. $ETH is starting to look vulnerable. \n\n\n\nAnd that difference matters. Let me do a technical deepdive to give you more insights.\n\n\n\nBitcoin is moving sideways around $80,980. RSI is at 44.6 and price is t",
+      "url": "https://x.com/tedpillows/status/2110630499915878769",
+      "timestamp": "2026-10-15T07:14:59+00:00"
      }
     },
     "LIQUIDITY": {
      "stance": "expanding",
-     "posts": 6,
+     "posts": 7,
      "last": {
-      "tweet_id": "2110066710757683578",
-      "text": "I find the cyberattack on Ahold quite concerning.\n\n\n\nOne of the biggest grocery retailers in the Netherlands has had its systems down for days. This affects ordinary people who just want to do their shopping.\n\n\n\nI think ",
-      "url": "https://x.com/tedpillows/status/2110066710757683578",
-      "timestamp": "2026-10-13T17:54:41+00:00"
+      "tweet_id": "2110630499915878769",
+      "text": "$BTC is holding. $ETH is starting to look vulnerable. \n\n\n\nAnd that difference matters. Let me do a technical deepdive to give you more insights.\n\n\n\nBitcoin is moving sideways around $80,980. RSI is at 44.6 and price is t",
+      "url": "https://x.com/tedpillows/status/2110630499915878769",
+      "timestamp": "2026-10-15T07:14:59+00:00"
      }
     },
     "FED": {
      "stance": "tightening",
-     "posts": 7,
+     "posts": 8,
      "last": {
-      "tweet_id": "2110321970264899681",
-      "text": "CPI data is coming today with expectations at 3.6%.\n\n\n\nCurrently, the market sees an 81% chance that the Fed will hold rates this month.\n\n\n\nIf CPI <= 3.6%, the rate pause could become almost certain.\n\n\n\nIf CPI > 3.6%, th",
-      "url": "https://x.com/tedpillows/status/2110321970264899681",
-      "timestamp": "2026-10-14T10:49:00+00:00"
+      "tweet_id": "2110362005232353368",
+      "text": "The Fed is now expected to hike rates this month.\n\n\n\nOne data point entirely changed the picture.",
+      "url": "https://x.com/tedpillows/status/2110362005232353368",
+      "timestamp": "2026-10-14T13:28:05+00:00"
      }
     },
     "GEO": {
@@ -1157,6 +1211,32 @@
     }
    ],
    "open_predictions": [
+    {
+     "id": 108,
+     "account": "tedpillows",
+     "tweet_id": "2110362005232353368",
+     "prediction_date": "2026-10-14T13:28:05+00:00",
+     "asset_or_metric": "FED_FUNDS",
+     "prediction_type": "RATE_FORECAST",
+     "direction": "HIKE",
+     "target": null,
+     "target_low": null,
+     "target_high": null,
+     "deadline": "2026-10-31T23:59:59+00:00",
+     "time_horizon": "this month",
+     "conditions": null,
+     "status": "OPEN",
+     "status_note": null,
+     "btc_price_when_prediction_made": 81939.3,
+     "evidence": "The Fed is now expected to hike rates this month.",
+     "label": "FED_FUNDS HIKE (this month)",
+     "url": "https://x.com/tedpillows/status/2110362005232353368",
+     "verifiable": true,
+     "resolved_at": null,
+     "updated_by": null,
+     "updates": 80,
+     "change_type": "TIMEFRAME_CHANGED"
+    },
     {
      "id": 107,
      "account": "tedpillows",
@@ -1210,32 +1290,6 @@
      "updated_by": null,
      "updates": null,
      "change_type": null
-    },
-    {
-     "id": 80,
-     "account": "tedpillows",
-     "tweet_id": "2107898137872564577",
-     "prediction_date": "2026-10-07T18:17:33+00:00",
-     "asset_or_metric": "FED_FUNDS",
-     "prediction_type": "RATE_FORECAST",
-     "direction": "HIKE",
-     "target": null,
-     "target_low": null,
-     "target_high": null,
-     "deadline": "2026-12-31T23:59:59+00:00",
-     "time_horizon": "this year",
-     "conditions": null,
-     "status": "OPEN",
-     "status_note": null,
-     "btc_price_when_prediction_made": 83276.1,
-     "evidence": "The Fed is still open to another hike this year.",
-     "label": "FED_FUNDS HIKE (this year)",
-     "url": "https://x.com/tedpillows/status/2107898137872564577",
-     "verifiable": true,
-     "resolved_at": null,
-     "updated_by": null,
-     "updates": 49,
-     "change_type": "TIMEFRAME_CHANGED"
     }
    ],
    "previous_predictions": [
@@ -1429,6 +1483,32 @@
      "change_type": "TARGET_CHANGED"
     },
     {
+     "id": 80,
+     "account": "tedpillows",
+     "tweet_id": "2107898137872564577",
+     "prediction_date": "2026-10-07T18:17:33+00:00",
+     "asset_or_metric": "FED_FUNDS",
+     "prediction_type": "RATE_FORECAST",
+     "direction": "HIKE",
+     "target": null,
+     "target_low": null,
+     "target_high": null,
+     "deadline": "2026-12-31T23:59:59+00:00",
+     "time_horizon": "this year",
+     "conditions": null,
+     "status": "UPDATED",
+     "status_note": "FED_FUNDS HIKE (this year) → FED_FUNDS HIKE (this month)",
+     "btc_price_when_prediction_made": 83276.1,
+     "evidence": "The Fed is still open to another hike this year.",
+     "label": "FED_FUNDS HIKE (this year)",
+     "url": "https://x.com/tedpillows/status/2107898137872564577",
+     "verifiable": true,
+     "resolved_at": "2026-10-14T13:28:05+00:00",
+     "updated_by": 108,
+     "updates": 49,
+     "change_type": "TIMEFRAME_CHANGED"
+    },
+    {
      "id": 76,
      "account": "tedpillows",
      "tweet_id": "2107746007186555153",
@@ -1481,43 +1561,16 @@
      "updated_by": 84,
      "updates": 72,
      "change_type": "TIMEFRAME_CHANGED"
-    },
-    {
-     "id": 71,
-     "account": "tedpillows",
-     "tweet_id": "2107517983761289685",
-     "prediction_date": "2026-10-06T17:06:57+00:00",
-     "asset_or_metric": "BTC",
-     "prediction_type": "PRICE_TARGET",
-     "direction": "UP",
-     "target": 100000.0,
-     "target_low": null,
-     "target_high": null,
-     "deadline": "2026-12-31T23:59:59+00:00",
-     "time_horizon": "this year",
-     "conditions": null,
-     "status": "UPDATED",
-     "status_note": "BTC UP $100.000 (this year) → BTC RANGE $84.000 (today)",
-     "btc_price_when_prediction_made": 85542.1,
-     "evidence": "40% chance that Bitcoin will cross $100,000 this year.",
-     "label": "BTC UP $100.000 (this year)",
-     "url": "https://x.com/tedpillows/status/2107517983761289685",
-     "verifiable": true,
-     "resolved_at": "2026-10-07T08:13:02+00:00",
-     "distance_to_target_pct": 22.0,
-     "updated_by": 76,
-     "updates": 70,
-     "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
     }
    ],
    "track_record": {
-    "total": 35,
+    "total": 36,
     "open": 3,
     "correct": 7,
     "partially_correct": 0,
     "wrong": 1,
     "expired": 0,
-    "updated": 23,
+    "updated": 24,
     "invalidated": 1,
     "closed": 8,
     "hit_30d": {
@@ -1536,15 +1589,15 @@
      "label": "88 %"
     }
    },
-   "last_prediction": "BTC DOWN $36.159 (this week)",
-   "last_prediction_date": "2026-10-14T10:07:25+00:00"
+   "last_prediction": "FED_FUNDS HIKE (this month)",
+   "last_prediction_date": "2026-10-14T13:28:05+00:00"
   },
   {
    "handle": "jameslavish",
    "display_name": "James Lavish",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-14T17:02:07.437851+00:00",
+    "last_ok_at": "2026-10-15T11:03:50.943468+00:00",
     "error": null
    },
    "bias": {
@@ -1643,7 +1696,7 @@
    "display_name": "Nik Bhatia",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-14T17:02:07.437851+00:00",
+    "last_ok_at": "2026-10-15T11:03:50.943468+00:00",
     "error": null
    },
    "bias": {
@@ -1705,7 +1758,7 @@
    "display_name": "Dan Held",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-14T17:02:07.437851+00:00",
+    "last_ok_at": "2026-10-15T11:03:50.943468+00:00",
     "error": null
    },
    "bias": {
@@ -1767,7 +1820,7 @@
    "display_name": "NoLimit",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-10-14T17:02:07.437851+00:00",
+    "last_ok_at": "2026-10-15T11:03:50.943468+00:00",
     "error": null
    },
    "bias": {
