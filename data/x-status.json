@@ -1,31 +1,27 @@
 {
  "state": "DEGRADED",
- "last_run": "2026-10-15T17:20:09.770132+00:00",
- "last_success": "2026-10-15T17:20:09.770132+00:00",
- "accounts_ok": 9,
+ "last_run": "2026-10-16T05:09:53.987559+00:00",
+ "last_success": "2026-10-16T05:09:53.987559+00:00",
+ "accounts_ok": 10,
  "accounts_total": 12,
  "accounts_failed": [
   {
-   "handle": "tedpillows",
+   "handle": "osint613",
    "error": "Account nicht verfügbar (HTTP 404)"
   },
   {
-   "handle": "jameslavish",
-   "error": "Account nicht verfügbar (HTTP 404)"
-  },
-  {
-   "handle": "timevalueofbtc",
+   "handle": "tuurdemeester",
    "error": "Account nicht verfügbar (HTTP 404)"
   }
  ],
  "stats": {
-  "posts_new": 94,
-  "posts_relevant": 11,
-  "predictions_new": 0,
-  "predictions_updated": 0,
+  "posts_new": 103,
+  "posts_relevant": 12,
+  "predictions_new": 3,
+  "predictions_updated": 2,
   "invalidated": 0,
-  "posts_analysed": 94,
-  "evaluated": 0
+  "posts_analysed": 104,
+  "evaluated": 2
  },
  "errors": [],
  "analysis": "rules",
