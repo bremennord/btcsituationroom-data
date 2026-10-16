@@ -1,25 +1,25 @@
 {
- "generated_at": "2026-10-16T05:09:53.987559+00:00",
+ "generated_at": "2026-10-16T11:06:00.436253+00:00",
  "source": "Beelink: jeder Block (blockchain.info/mempool.space)",
  "whales": {
   "flows": {
    "24h": {
-    "net_to_exchange_btc": 6808,
-    "coverage_pct": 100,
-    "whale_txs": 2902,
-    "whale_btc": 712842
+    "net_to_exchange_btc": 5389,
+    "coverage_pct": 98,
+    "whale_txs": 2709,
+    "whale_btc": 644159
    },
    "7d": {
-    "net_to_exchange_btc": 32280,
+    "net_to_exchange_btc": 32646,
     "coverage_pct": 100,
-    "whale_txs": 16756,
-    "whale_btc": 4339987
+    "whale_txs": 16745,
+    "whale_btc": 4326258
    },
    "30d": {
-    "net_to_exchange_btc": 49000,
+    "net_to_exchange_btc": 50574,
     "coverage_pct": 56,
-    "whale_txs": 38769,
-    "whale_btc": 11794906
+    "whale_txs": 39297,
+    "whale_btc": 11929647
    }
   },
   "trend": "Distribution",
@@ -27,15 +27,15 @@
   "note": "Netto zu getaggten Börsenadressen; negativ = Abzug von Börsen"
  },
  "exchanges": {
-  "tracked_btc": 779286,
+  "tracked_btc": 779866,
   "wallets": 6,
   "net": {
-   "24h": 7400,
-   "7d": 7400,
-   "30d": -46653
+   "24h": 7879,
+   "7d": 7879,
+   "30d": -46174
   },
   "pct_supply_tracked": 3.91,
-  "change_30d_pct": -5.65,
+  "change_30d_pct": -5.59,
   "trend": "Fallend",
   "label": "Getrackte Börsenreserven (6 Cold Wallets)"
  },
