@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-17T11:06:59.411420+00:00",
- "btc_price": 81555.3,
+ "generated_at": "2026-10-17T17:07:43.588229+00:00",
+ "btc_price": 81094.2,
  "outlook": {
   "BTC": {
    "horizons": {
     "24h": {
-     "label": "neutral / gemischt",
+     "label": "leicht bullisch",
      "counts": {
-      "pos": 1,
+      "pos": 2,
       "neu": 0,
       "neg": 1
      },
-     "accounts": 2
+     "accounts": 3
     },
     "3d": {
      "label": "leicht bullisch",
@@ -32,8 +32,8 @@
      "accounts": 7
     }
    },
-   "scenario": "Mehrheit (7 T): bullisch. Wahrscheinlichste Zone laut Quellen: $80k–81k bis $82k–83k; Ausbruch über $82k–83k wäre das nächste Signal.",
-   "risk": "Bruch unter $80k–81k (genannt von @killaxbt, @tedpillows)",
+   "scenario": "Mehrheit (7 T): bullisch. Wahrscheinlichste Zone laut Quellen: $80k bis $82k–83k; Ausbruch über $82k–83k wäre das nächste Signal.",
+   "risk": "Bruch unter $80k (genannt von @killaxbt, @tedpillows)",
    "consensus": {
     "pos": 5,
     "neu": 1,
@@ -41,10 +41,10 @@
    },
    "confidence": "Hoch",
    "levels": {
-    "support": "$80k–81k",
+    "support": "$80k",
     "resistance": "$82k–83k"
    },
-   "n_posts": 47,
+   "n_posts": 46,
    "sources": [
     {
      "account": "killaxbt",
@@ -108,13 +108,13 @@
   "MACRO": {
    "horizons": {
     "24h": {
-     "label": "leicht Risk-Off",
+     "label": "neutral / gemischt",
      "counts": {
       "pos": 1,
       "neu": 0,
-      "neg": 2
+      "neg": 1
      },
-     "accounts": 3
+     "accounts": 2
     },
     "3d": {
      "label": "leicht Risk-Off",
@@ -308,7 +308,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 81,
+     "posts": 72,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -318,7 +318,7 @@
     },
     {
      "name": "Russland / Ukraine",
-     "posts": 53,
+     "posts": 46,
      "impact": [
       "Energie ↑",
       "Europa-Risiko ↑",
@@ -326,7 +326,7 @@
      ]
     }
    ],
-   "n_posts": 164,
+   "n_posts": 144,
    "sources": [
     {
      "account": "zerohedge",
@@ -364,13 +364,6 @@
      "timestamp": "2026-10-16T20:43:14+00:00"
     },
     {
-     "account": "jameslavish",
-     "tweet_id": "2110369384833364283",
-     "url": "https://x.com/jameslavish/status/2110369384833364283",
-     "summary": "Good morning. This morning's surprise CPI suggests surging energy costs are the main driver of higher prices of virtually all goods and services. Unfortunately for the Fed, they…",
-     "timestamp": "2026-10-14T13:57:24+00:00"
-    },
-    {
      "account": "osint613",
      "tweet_id": "2110767124410990596",
      "url": "https://x.com/osint613/status/2110767124410990596",
@@ -383,37 +376,22 @@
      "url": "https://x.com/osint613/status/2110421753692647858",
      "summary": "Probably not the best move to threaten US Warships right now. Just a feeling The commander of Iran’s IRGC Navy threatens to sink U.S. warships entering the Strait of Hormuz. “We…",
      "timestamp": "2026-10-14T17:25:30+00:00"
+    },
+    {
+     "account": "e_boeminghaus",
+     "tweet_id": "2110980672349172083",
+     "url": "https://x.com/e_boeminghaus/status/2110980672349172083",
+     "summary": "Die Weltwirtschaft wächst, doch Europa fällt weiter zurück. Der IWF erwartet für die Eurozone 2026 nur 1,1 Prozent Wirtschaftswachstum. #IWF #Weltwirtschaft #Eurozone #Deutschland…",
+     "timestamp": "2026-10-16T06:26:27+00:00"
     }
    ],
    "impact_kind": "Typisches Marktmuster (Systemeinschätzung, keine Prognose)"
   }
  },
  "changed": {
-  "since": "2026-10-17T05:10:32.483392+00:00",
-  "new": [
-   {
-    "account": "tedpillows",
-    "text": "BTC RANGE $82.800",
-    "url": "https://x.com/tedpillows/status/2111392516884852869"
-   },
-   {
-    "account": "tedpillows",
-    "text": "$BTC is still holding above its 50D SMA and 50D EMA. Despite everything bad that has happened this week, Bitcoin has shown insane strength. Now, I want to see Bitcoin close the…",
-    "url": "https://x.com/tedpillows/status/2111392516884852869"
-   },
-   {
-    "account": "xapa03",
-    "text": "#ShortTermSaturday - Episode 4 (10/17/26) ✒️My dear followers, bang, bang y'all - we again nailed it! Good to see you here around kicking off your weekend with a great workout for…",
-    "url": "https://x.com/thebtcfrontierx/status/2111401199614218720"
-   }
-  ],
-  "changed": [
-   {
-    "account": "tedpillows",
-    "text": "vorher BTC UP $126.270 (within 12 months), jetzt BTC RANGE $82.800",
-    "url": "https://x.com/tedpillows/status/2111392516884852869"
-   }
-  ],
+  "since": "2026-10-17T11:07:07.350594+00:00",
+  "new": [],
+  "changed": [],
   "new_consensus": [],
   "no_change": [
    "Bitcoin bleibt bullisch",
@@ -501,15 +479,15 @@
    "why": "Ändert eine frühere Prognose dieses Accounts"
   },
   {
-   "account": "xapa03",
-   "tweet_id": "2110380283237175681",
-   "url": "https://x.com/xapa03/status/2110380283237175681",
-   "summary": "If the pattern repeats 1:1, it continues until the 14th/15th of October. ✅ Bitcoin will eat the liquidity from Altcoins like Pacman. ✅ Last chance before we head toward 100k. Next…",
-   "timestamp": "2026-10-14T14:40:43+00:00",
-   "category": "BITCOIN",
-   "relevance": 100,
-   "text": "If the pattern repeats 1:1, it continues until the 14th/15th of October. ✅\n\nBitcoin will eat the liquidity from Altcoins like Pacman. ✅\n\n\n\nLast chance before we head toward 100k.\n\nNext week through November is the move.\n\nIf you’re still waiting on the sideline, you’ll only watch it happen.\n\nBe prepared and don’t stay on the sideline.\n\nThe market won’t wait for you. \n\n\n\n100% hit rate 🎯\n\nimagine not being in XAPA's WOR",
-   "why": "Gegenposition zum aktuellen X-Konsens"
+   "account": "osint613",
+   "tweet_id": "2110825185339125920",
+   "url": "https://x.com/osint613/status/2110825185339125920",
+   "summary": "US Treasury Secretary Bessent: The noose is tightening around Iran’s economy, and not even Iran’s so-called allies can save it. The Department of the Treasury will not relent…",
+   "timestamp": "2026-10-15T20:08:36+00:00",
+   "category": "US_TREASURIES",
+   "relevance": 94,
+   "text": "US Treasury Secretary Bessent:\n\n\n\nThe noose is tightening around Iran’s economy, and not even Iran’s so-called allies can save it. The Department of the Treasury will not relent until the Iranian regime’s coffers are empty and every remaining financial lifeline sustaining its war machine has been severed.\nThe U.S. Treasury has sanctioned an Iraqi bank used by Iran to access the international financial system and to f",
+   "why": "Mögliche Wirkung auf Öl, Gold, Risiko-Assets"
   }
  ],
  "top_predictions": [
@@ -520,7 +498,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-17T09:42:58+00:00",
-   "distance_pct": 1.5,
+   "distance_pct": 2.0,
    "conditions": null,
    "evidence": "Now, I want to see Bitcoin close the week above $82,800 for a decent rally."
   },
@@ -531,7 +509,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-16T19:28:52+00:00",
-   "distance_pct": 54.5,
+   "distance_pct": 55.3,
    "conditions": "If BTC makes its move towards 126K",
    "evidence": "If BTC makes its move towards 126K, I believe many of these coins will rally 50-75% from current prices."
   },
@@ -553,7 +531,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-13T18:59:02+00:00",
-   "distance_pct": 22.6,
+   "distance_pct": 23.2,
    "conditions": null,
    "evidence": "It’s a date I’ve been tracking and talking about since $BTC first surpassed 100K, around a year and a half ago."
   },
@@ -564,7 +542,7 @@
    "deadline": "2026-10-19T00:21:59+00:00",
    "time_horizon": "this week",
    "prediction_date": "2026-10-13T00:21:59+00:00",
-   "distance_pct": 54.9,
+   "distance_pct": 55.6,
    "conditions": "if Bitcoin prints a new high this week",
    "evidence": "Invalidation, if Bitcoin prints a new high this week."
   }
@@ -693,11 +671,11 @@
  },
  "daily": {
   "report_date": "2026-10-17",
-  "generated_at": "2026-10-17T11:02:14.861095+00:00",
+  "generated_at": "2026-10-17T17:01:51.625728+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-10-16T11:02:14.843981+00:00",
-   "to": "2026-10-17T11:02:14.861095+00:00"
+   "from": "2026-10-16T17:01:51.608970+00:00",
+   "to": "2026-10-17T17:01:51.625728+00:00"
   },
   "key_points": [
    {
@@ -736,8 +714,8 @@
    "BTC_OUTLOOK": "Stimmung 67 % bullisch (9/12 Accounts mit Meinung). Median offener Kursziele $126.000. @xapa03: #ShortTermSaturday - Episode 4 (10/17/26) ✒️My dear followers, bang, bang y'all - we again nailed it! Good to see you here around kicking off your weekend with a great workout for… · @tedpillows: $BTC is still holding above its 50D SMA and 50D EMA. Despite everything bad that has happened this week, Bitcoin has shown insane strength. Now, I want to see Bitcoin close the… · @killaxbt: I rarely share my thoughts on altcoins, but I think many are sitting in fairly decent positions. A lot of coins flushed 20–30% during this $BTC drop, which is substantial…",
    "MACRO_OUTLOOK": "@jameslavish: I respectfully, and vehemently disagree. 🚨 ALERT: Bloomberg Intelligence strategist Mike McGlone warns Bitcoin could fall toward $10,000, particularly if the US stock market… · @tedpillows: Nasdaq is having its worst week since the \"tariffs crash\" and the BTC/Nasdaq pair looks like this. Insane strength in Bitcoin. · @killaxbt: Everyone wants the upside. Few are willing to buy the blood that comes before it. USDT.D is showcasing a scenario where $BTC creates a higher low above 74K, while USDT.D continues…",
    "GLOBAL_LIQUIDITY": "@killaxbt: A reminder. Oil surging. MSTR delisting fears. Hot CPI. Rate hikes. Global bond yields going parabolic. DXY printing new highs. Ledger wallet hacks. They really don’t want you to…",
-   "FED_RATES": "@tedpillows: Fed is no longer projected to hike rates this month. · @killaxbt: A reminder. Oil surging. MSTR delisting fears. Hot CPI. Rate hikes. Global bond yields going parabolic. DXY printing new highs. Ledger wallet hacks. They really don’t want you to… · @zerohedge: Rate Hike Odds Tumble After Warsh Does Not Address October FOMC Meeting",
-   "DXY_TREASURIES": "@tedpillows: $BTC is holding above the $82,000 level. US stock futures are mixed, while DXY is down. Pre-market stock trading insights: ▫️Nasdaq futures is down 0.13% 🔴 ▫️S&P futures is up… · @killaxbt: A reminder. Oil surging. MSTR delisting fears. Hot CPI. Rate hikes. Global bond yields going parabolic. DXY printing new highs. Ledger wallet hacks. They really don’t want you to…",
+   "FED_RATES": "@killaxbt: A reminder. Oil surging. MSTR delisting fears. Hot CPI. Rate hikes. Global bond yields going parabolic. DXY printing new highs. Ledger wallet hacks. They really don’t want you to… · @zerohedge: \"The Pain Trade Was Long AI, Short Bonds\": How A NeoCloud Burst Turned The Hottest Inflation Week Of The Year Into A Fed Pause",
+   "DXY_TREASURIES": "@killaxbt: A reminder. Oil surging. MSTR delisting fears. Hot CPI. Rate hikes. Global bond yields going parabolic. DXY printing new highs. Ledger wallet hacks. They really don’t want you to…",
    "GOLD": "Keine relevanten Aussagen.",
    "GEOPOLITICS": "@tedpillows: Nasdaq is having its worst week since the \"tariffs crash\" and the BTC/Nasdaq pair looks like this. Insane strength in Bitcoin. · @killaxbt: A reminder. Oil surging. MSTR delisting fears. Hot CPI. Rate hikes. Global bond yields going parabolic. DXY printing new highs. Ledger wallet hacks. They really don’t want you to…",
    "CONSENSUS": "BTC: 67 % bullisch (6/9) · Liquidität: 62 % expandierend (5/8) · Fed: 67 % straffend (4/6) · Geopolitik-Risiko: 88 % erhöht (7/8)",
@@ -806,27 +784,6 @@
     "evidence": "🚨 ALERT: Bloomberg Intelligence strategist Mike McGlone warns Bitcoin could fall toward $10,000, particularly if the US stock market suffers a 20% drawdown.",
     "label": "BTC DOWN $10.000",
     "url": "https://x.com/jameslavish/status/2111171141364817941"
-   },
-   {
-    "id": 114,
-    "account": "tedpillows",
-    "tweet_id": "2111089822555103238",
-    "prediction_date": "2026-10-16T13:40:10+00:00",
-    "asset_or_metric": "FED_FUNDS",
-    "prediction_type": "RATE_FORECAST",
-    "direction": "HIKE",
-    "target": null,
-    "target_low": null,
-    "target_high": null,
-    "deadline": "2026-10-31T23:59:59+00:00",
-    "time_horizon": "this month",
-    "conditions": null,
-    "status": "OPEN",
-    "status_note": null,
-    "btc_price_when_prediction_made": 81348.0,
-    "evidence": "Fed is no longer projected to hike rates this month.",
-    "label": "FED_FUNDS HIKE (this month)",
-    "url": "https://x.com/tedpillows/status/2111089822555103238"
    }
   ],
   "updated_predictions": [
@@ -1052,12 +1009,12 @@
    ]
   },
   "stats": {
-   "posts_new": 13,
-   "posts_relevant": 5,
-   "predictions_new": 1,
-   "predictions_updated": 1,
+   "posts_new": 29,
+   "posts_relevant": 0,
+   "predictions_new": 0,
+   "predictions_updated": 0,
    "invalidated": 0,
-   "posts_analysed": 14,
+   "posts_analysed": 30,
    "evaluated": 0
   }
  }
