@@ -1,50 +1,50 @@
 {
- "generated_at": "2026-10-20T11:08:40.009894+00:00",
- "btc_price": 81455.6,
+ "generated_at": "2026-10-20T17:10:41.419173+00:00",
+ "btc_price": 82713.1,
  "outlook": {
   "BTC": {
    "horizons": {
     "24h": {
-     "label": "leicht bärisch",
+     "label": "neutral / gemischt",
      "counts": {
       "pos": 2,
-      "neu": 0,
-      "neg": 3
+      "neu": 1,
+      "neg": 2
      },
      "accounts": 5
     },
     "3d": {
-     "label": "leicht bärisch",
+     "label": "neutral / gemischt",
      "counts": {
-      "pos": 2,
-      "neu": 0,
-      "neg": 4
+      "pos": 3,
+      "neu": 1,
+      "neg": 3
      },
-     "accounts": 6
+     "accounts": 7
     },
     "7d": {
      "label": "neutral / gemischt",
      "counts": {
       "pos": 4,
-      "neu": 1,
+      "neu": 0,
       "neg": 3
      },
-     "accounts": 8
+     "accounts": 7
     }
    },
-   "scenario": "Mehrheit (7 T): neutral / gemischt. Wahrscheinlichste Zone laut Quellen: $80k–81k bis $82k–84k; Ausbruch über $82k–84k wäre das nächste Signal.",
-   "risk": "Bruch unter $80k–81k (genannt von @killaxbt, @tedpillows)",
+   "scenario": "Mehrheit (7 T): neutral / gemischt. Wahrscheinlichste Zone laut Quellen: $80k–82k bis $84k; Ausbruch über $84k wäre das nächste Signal.",
+   "risk": "Bruch unter $80k–82k (genannt von @killaxbt, @tedpillows)",
    "consensus": {
     "pos": 4,
-    "neu": 1,
+    "neu": 0,
     "neg": 3
    },
-   "confidence": "Niedrig",
+   "confidence": "Mittel",
    "levels": {
-    "support": "$80k–81k",
-    "resistance": "$82k–84k"
+    "support": "$80k–82k",
+    "resistance": "$84k"
    },
-   "n_posts": 56,
+   "n_posts": 55,
    "sources": [
     {
      "account": "xapa03",
@@ -110,26 +110,26 @@
     "24h": {
      "label": "zu wenige Aussagen",
      "counts": {
-      "pos": 0,
-      "neu": 1,
+      "pos": 1,
+      "neu": 0,
       "neg": 0
      },
      "accounts": 1
     },
     "3d": {
-     "label": "zu wenige Aussagen",
+     "label": "leicht Risk-On",
      "counts": {
-      "pos": 0,
+      "pos": 1,
       "neu": 1,
       "neg": 0
      },
-     "accounts": 1
+     "accounts": 2
     },
     "7d": {
-     "label": "neutral / gemischt",
+     "label": "leicht Risk-On",
      "counts": {
-      "pos": 1,
-      "neu": 2,
+      "pos": 2,
+      "neu": 1,
       "neg": 1
      },
      "accounts": 4
@@ -138,16 +138,16 @@
    "drivers": [
     "wachsende Liquidität (8)",
     "Fed restriktiv (8)",
-    "Fed-Lockerung (5)"
+    "Fed-Lockerung (6)"
    ],
-   "risk": "Anstehende Termine in den Posts: PPI (25×), CPI (19×), EARNINGS (10×)",
+   "risk": "Anstehende Termine in den Posts: PPI (25×), CPI (19×), EARNINGS (12×)",
    "consensus": {
-    "pos": 1,
-    "neu": 2,
+    "pos": 2,
+    "neu": 1,
     "neg": 1
    },
    "confidence": "Niedrig",
-   "n_posts": 26,
+   "n_posts": 27,
    "sources": [
     {
      "account": "zerohedge",
@@ -212,11 +212,11 @@
     "24h": {
      "label": "zu wenige Aussagen",
      "counts": {
-      "pos": 1,
+      "pos": 0,
       "neu": 0,
       "neg": 0
      },
-     "accounts": 1
+     "accounts": 0
     },
     "3d": {
      "label": "zu wenige Aussagen",
@@ -308,7 +308,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 64,
+     "posts": 72,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -318,7 +318,7 @@
     },
     {
      "name": "Russland / Ukraine",
-     "posts": 27,
+     "posts": 26,
      "impact": [
       "Energie ↑",
       "Europa-Risiko ↑",
@@ -326,7 +326,7 @@
      ]
     }
    ],
-   "n_posts": 108,
+   "n_posts": 118,
    "sources": [
     {
      "account": "zerohedge",
@@ -341,6 +341,20 @@
      "url": "https://x.com/tedpillows/status/2112084828828963020",
      "summary": "Worst week for Nasdaq in 18 months. Oil > $100. VIX above 22. And still, $BTC managed another weekly close above $82,000. But that doesn't mean it's completely in a safe zone. For…",
      "timestamp": "2026-10-19T07:33:58+00:00"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2112519701662167527",
+     "url": "https://x.com/tedpillows/status/2112519701662167527",
+     "summary": "$BTC is hovering around the $81,000 level. US stock futures are down today, while Oil is up. Pre-market stock trading insights: ▫️Nasdaq futures is down 0.65% 🔴 ▫️S&P futures is…",
+     "timestamp": "2026-10-20T12:22:00+00:00"
+    },
+    {
+     "account": "nolimitgains",
+     "tweet_id": "2112512285860114909",
+     "url": "https://x.com/nolimitgains/status/2112512285860114909",
+     "summary": "I WON’T SAY IT TWICE… If you're under 45, this selloff is a generational opportunity to buy great companies at a discount. Especially these stocks: GOOGL – Down 16% from its…",
+     "timestamp": "2026-10-20T11:52:32+00:00"
     },
     {
      "account": "danheld",
@@ -364,51 +378,42 @@
      "timestamp": "2026-10-19T15:14:06+00:00"
     },
     {
-     "account": "osint613",
-     "tweet_id": "2112428468747272284",
-     "url": "https://x.com/osint613/status/2112428468747272284",
-     "summary": "The IRGC claims it downed a U.S. MQ-9 drone over the Strait of Hormuz early today, using what it described as a newly developed advanced air defense system. According to the…",
-     "timestamp": "2026-10-20T06:19:28+00:00"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2112254846363402686",
-     "url": "https://x.com/osint613/status/2112254846363402686",
-     "summary": "Iranian MP Ebrahim Rezaei on an unnamed mediator: \"A mediator who constantly takes a position against Iran and presents us as the culprit of the 40 day war, has blocked the…",
-     "timestamp": "2026-10-19T18:49:33+00:00"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2111939236156907851",
-     "url": "https://x.com/osint613/status/2111939236156907851",
-     "summary": "PM Netanyahu outlines tonight Israel’s new security doctrine, identifying 4 major threats and 10 pillars of national security. The 4 Main Threats: 1. Iran’s Nuclear Program:…",
-     "timestamp": "2026-10-18T21:55:26+00:00"
+     "account": "zerohedge",
+     "tweet_id": "2112559095261925692",
+     "url": "https://x.com/zerohedge/status/2112559095261925692",
+     "summary": "So is the thinking that Iran will agree on a deal two weeks before the midterms? Oil Tumbles As Qatar, Pakistan Tout 'Compromise Proposal' To End Iran War",
+     "timestamp": "2026-10-20T14:58:32+00:00"
     }
    ],
    "impact_kind": "Typisches Marktmuster (Systemeinschätzung, keine Prognose)"
   }
  },
  "changed": {
-  "since": "2026-10-20T05:11:11.932336+00:00",
+  "since": "2026-10-20T11:08:47.507716+00:00",
   "new": [
    {
-    "account": "xapa03",
-    "text": "BTC UP $94.000",
-    "url": "https://x.com/xapa03/status/2112469564546248831"
+    "account": "jameslavish",
+    "text": "The Fed Is Trapped: Why America Needs Inflation | James Lavish @JamesLavish returns to Free The Money to discuss America's $40 trillion national debt and why he believes the U.S.…",
+    "url": "https://x.com/briteresi/status/2112574565742506235"
    },
    {
-    "account": "xapa03",
-    "text": "Whenever this beautyful Oscillator is near the blue zone or touched the blue line, it was always a good entry for a long position. We need to understand whether we are currently…",
-    "url": "https://x.com/xapa03/status/2112469564546248831"
+    "account": "tedpillows",
+    "text": "$BTC can't afford to lose the $80,000 level here. A weekly close below $80K could result in a correction towards $75K or lower. And in that case, most alts will end up giving back…",
+    "url": "https://x.com/tedpillows/status/2112470555349954572"
+   },
+   {
+    "account": "nolimitgains",
+    "text": "I WON’T SAY IT TWICE… If you're under 45, this selloff is a generational opportunity to buy great companies at a discount. Especially these stocks: GOOGL – Down 16% from its…",
+    "url": "https://x.com/nolimitgains/status/2112512285860114909"
    }
   ],
   "changed": [],
-  "new_consensus": [],
+  "new_consensus": [
+   "Makro: neutral / gemischt → leicht Risk-On"
+  ],
   "no_change": [
    "Bitcoin bleibt neutral / gemischt",
-   "Makro bleibt neutral / gemischt",
-   "Liquidität bleibt leicht expandierend",
-   "Geopolitisches Risiko bleibt Hoch"
+   "Liquidität bleibt leicht expandierend"
   ]
  },
  "important_posts": [
@@ -457,6 +462,17 @@
    "why": "Konkrete Prognose: BTC RANGE $82.800 (today)"
   },
   {
+   "account": "nolimitgains",
+   "tweet_id": "2112512285860114909",
+   "url": "https://x.com/nolimitgains/status/2112512285860114909",
+   "summary": "I WON’T SAY IT TWICE… If you're under 45, this selloff is a generational opportunity to buy great companies at a discount. Especially these stocks: GOOGL – Down 16% from its…",
+   "timestamp": "2026-10-20T11:52:32+00:00",
+   "category": "BTC_PRICE",
+   "relevance": 92,
+   "text": "I WON’T SAY IT TWICE…\n\n\n\nIf you're under 45, this selloff is a generational opportunity to buy great companies at a discount.\n\n\n\nEspecially these stocks:\n\n\n\nGOOGL – Down 16% from its highs. Warren Buffett bought more than $10 billion worth of shares.\n\n\n\nAMZN – Still down from its highs, although it has recovered quite a bit. Morgan Stanley just named it one of its \"Top Picks\" with a $350 target.\n\n\n\nVST – Trump owns i",
+   "why": "Neue Makro- oder Marktdaten"
+  },
+  {
    "account": "killaxbt",
    "tweet_id": "2112216886263890295",
    "url": "https://x.com/killaxbt/status/2112216886263890295",
@@ -488,17 +504,6 @@
    "relevance": 92,
    "text": "$BTC bottom has been in for months. \n\n\n\nMarket bottomed at -54%. Not -75%+. \n\n\n\nGood luck thinking we are going to do the same bull market retracements as previous cycles.\n\n\n\nBut what do I know. Just a random guy who happened to short 123K and long 62K 🤷‍♂️\n\nI mentioned before that this was an extremely important post, which is why I’m quoting it and reposting the same chart. In every major $BTC bear market, we’ve se",
    "why": "Neue Makro- oder Marktdaten"
-  },
-  {
-   "account": "timevalueofbtc",
-   "tweet_id": "2112200018996453470",
-   "url": "https://x.com/timevalueofbtc/status/2112200018996453470",
-   "summary": "This is the perfect video to explain Liquidity from our perspective, and how to use it for smarter bitcoin investing! 🚨 NEW VIDEO 🚨 Bitcoin Wants To Run But Liquidity Won’t Let It…",
-   "timestamp": "2026-10-19T15:11:41+00:00",
-   "category": "BITCOIN",
-   "relevance": 86,
-   "text": "This is the perfect video to explain Liquidity from our perspective, and how to use it for smarter bitcoin investing!\n🚨 NEW VIDEO 🚨 Bitcoin Wants To Run But Liquidity Won’t Let It Demian on the two forces pulling against each other right now: bitcoin’s own supply and demand have turned bullish, while rates, bond volatility and the dollar are still holding it back.",
-   "why": "BTC bullisch"
   }
  ],
  "top_predictions": [
@@ -509,7 +514,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-19T07:33:58+00:00",
-   "distance_pct": 3.7,
+   "distance_pct": 2.2,
    "conditions": null,
    "evidence": "For strong momentum, Bitcoin needs to reclaim $84,500, or else we could see another correction below $80,000."
   },
@@ -520,7 +525,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-20T09:02:46+00:00",
-   "distance_pct": 15.4,
+   "distance_pct": 13.7,
    "conditions": null,
    "evidence": "Forced covering then drives the move higher, with Bitcoin targeting the 94k region as the next significant level."
   },
@@ -531,7 +536,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-16T19:28:52+00:00",
-   "distance_pct": 54.7,
+   "distance_pct": 52.4,
    "conditions": "If BTC makes its move towards 126K",
    "evidence": "If BTC makes its move towards 126K, I believe many of these coins will rally 50-75% from current prices."
   },
@@ -542,7 +547,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-16T19:03:18+00:00",
-   "distance_pct": -87.7,
+   "distance_pct": -87.9,
    "conditions": "if the US stock market suffers a 20% drawdown",
    "evidence": "🚨 ALERT: Bloomberg Intelligence strategist Mike McGlone warns Bitcoin could fall toward $10,000, particularly if the US stock market suffers a 20% drawdown."
   },
@@ -553,7 +558,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-13T18:59:02+00:00",
-   "distance_pct": 22.8,
+   "distance_pct": 21.0,
    "conditions": null,
    "evidence": "It’s a date I’ve been tracking and talking about since $BTC first surpassed 100K, around a year and a half ago."
   }
@@ -562,16 +567,16 @@
   {
    "topic": "BTC",
    "main": "bullish",
-   "main_share": 56,
+   "main_share": 67,
    "account": "xapa03",
    "stance": "bearish",
-   "text": "📢New Indicator Alert: I proudly announce \"The Finney Trail\"\n\n\n\nThe Finney Trail is a highly complex VWAP-Anchored based cluster pattern that is being projected over a 3 day $BTC chart. It functions as",
-   "url": "https://x.com/thebtcfrontierx/status/2112471659852488910"
+   "text": "Yesterday, while uncertainty dominated the market, I stayed completely calm because I could roughly anticipate what was coming.\n\n4 days after the lowest low, Bitcoin saw a rejection, went sideways-dow",
+   "url": "https://x.com/xapa03/status/2112571531733954655"
   },
   {
    "topic": "BTC",
    "main": "bullish",
-   "main_share": 56,
+   "main_share": 67,
    "account": "zerohedge",
    "stance": "bearish",
    "text": "The S&P remains just shy of all time highs supported by a handful of stocks. Below the surface, the meltdown is accelerating as half of virtually every sector is in a bear market, down 20%",
@@ -580,7 +585,7 @@
   {
    "topic": "LIQUIDITY",
    "main": "expanding",
-   "main_share": 67,
+   "main_share": 50,
    "account": "xapa03",
    "stance": "contracting",
    "text": "Measured from the last weekly candle inside the green zone of the TEM, ETH found its peak within 35 days.\n\nThe top occurred exactly after 35 days (on the weekly timeframe), and the attempt to break ou",
@@ -590,15 +595,16 @@
  "consensus_21d": {
   "BTC": {
    "majority": "bullish",
-   "score": 56,
+   "score": 67,
    "n": 9,
    "counts": {
-    "bullish": 5,
-    "neutral": 1,
+    "bullish": 6,
+    "neutral": 0,
     "bearish": 3
    },
    "supporting": [
     "killaxbt",
+    "tylerdurden",
     "jameslavish",
     "timevalueofbtc",
     "danheld",
@@ -612,15 +618,14 @@
   },
   "LIQUIDITY": {
    "majority": "expanding",
-   "score": 67,
+   "score": 50,
    "n": 6,
    "counts": {
-    "expanding": 4,
-    "neutral": 1,
+    "expanding": 3,
+    "neutral": 2,
     "contracting": 1
    },
    "supporting": [
-    "osint613",
     "zerohedge",
     "tedpillows",
     "jameslavish"
@@ -681,19 +686,13 @@
  },
  "daily": {
   "report_date": "2026-10-20",
-  "generated_at": "2026-10-20T11:02:01.401185+00:00",
+  "generated_at": "2026-10-20T17:02:14.064601+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-10-19T11:02:01.377771+00:00",
-   "to": "2026-10-20T11:02:01.401185+00:00"
+   "from": "2026-10-19T17:02:14.049235+00:00",
+   "to": "2026-10-20T17:02:14.064601+00:00"
   },
   "key_points": [
-   {
-    "text": "@tedpillows ändert Prognose: BTC RANGE $83.000 (this week) → BTC UP $84.500",
-    "ids": [
-     "2112084828828963020"
-    ]
-   },
    {
     "text": "Neue BTC-Prognose von @xapa03: BTC UP $94.000",
     "ids": [
@@ -701,35 +700,41 @@
     ]
    },
    {
-    "text": "@xapa03: 🌞Good morning to y'all the People out there at the Bitcoin Frontier for another #MomentumMonday. Sheriff here, with some brand new weekly chart data sets. Before we dive in, make…",
+    "text": "@jameslavish: The Fed Is Trapped: Why America Needs Inflation | James Lavish @JamesLavish returns to Free The Money to discuss America's $40 trillion national debt and why he believes the U.S.…",
     "ids": [
-     "2112170218227167242"
+     "2112574565742506235"
     ]
    },
    {
-    "text": "@zerohedge: Top Overnight News Nvidia Chief Executive Officer Jensen Huang took a sanguine view toward the latest AI stock-market rout, saying the benefits of the technology will soon…",
+    "text": "@tedpillows: $BTC can't afford to lose the $80,000 level here. A weekly close below $80K could result in a correction towards $75K or lower. And in that case, most alts will end up giving back…",
     "ids": [
-     "2112158750173704228"
+     "2112470555349954572"
     ]
    },
    {
-    "text": "@killaxbt: This is the kind of PA you orchestrate when you want to make sure nobody catches the next move. Timebased capitulation. Multiple messy hunts. Internal structure breaking and…",
+    "text": "@tedpillows: $BTC is hovering around the $81,000 level. US stock futures are down today, while Oil is up. Pre-market stock trading insights: ▫️Nasdaq futures is down 0.65% 🔴 ▫️S&P futures is…",
     "ids": [
-     "2112216886263890295"
+     "2112519701662167527"
+    ]
+   },
+   {
+    "text": "@nolimitgains: I WON’T SAY IT TWICE… If you're under 45, this selloff is a generational opportunity to buy great companies at a discount. Especially these stocks: GOOGL – Down 16% from its…",
+    "ids": [
+     "2112512285860114909"
     ]
    }
   ],
   "sections": {
-   "TOP_DEVELOPMENTS": "@xapa03: Whenever this beautyful Oscillator is near the blue zone or touched the blue line, it was always a good entry for a long position. We need to understand whether we are currently… · @zerohedge: Top Overnight News Nvidia Chief Executive Officer Jensen Huang took a sanguine view toward the latest AI stock-market rout, saying the benefits of the technology will soon… · @killaxbt: This is the kind of PA you orchestrate when you want to make sure nobody catches the next move. Timebased capitulation. Multiple messy hunts. Internal structure breaking and…",
-   "BTC_OUTLOOK": "Stimmung 56 % bullisch (9/12 Accounts mit Meinung). Median offener Kursziele $94.000. @xapa03: Whenever this beautyful Oscillator is near the blue zone or touched the blue line, it was always a good entry for a long position. We need to understand whether we are currently… · @zerohedge: Top Overnight News Nvidia Chief Executive Officer Jensen Huang took a sanguine view toward the latest AI stock-market rout, saying the benefits of the technology will soon… · @killaxbt: This is the kind of PA you orchestrate when you want to make sure nobody catches the next move. Timebased capitulation. Multiple messy hunts. Internal structure breaking and…",
-   "MACRO_OUTLOOK": "@xapa03: 🌞Good morning to y'all the People out there at the Bitcoin Frontier for another #MomentumMonday. Sheriff here, with some brand new weekly chart data sets. Before we dive in, make… · @zerohedge: Top Overnight News Nvidia Chief Executive Officer Jensen Huang took a sanguine view toward the latest AI stock-market rout, saying the benefits of the technology will soon… · @tylerdurden: The bank your grandma trusts now sells Bitcoin to 50 million Germans. JUST IN: 🇪🇺 Europe's largest banking network Sparkassen launches crypto trading, allowing customers to buy…",
-   "GLOBAL_LIQUIDITY": "@xapa03: 🌞Good morning to y'all the People out there at the Bitcoin Frontier for another #MomentumMonday. Sheriff here, with some brand new weekly chart data sets. Before we dive in, make… · @zerohedge: Top Overnight News Nvidia Chief Executive Officer Jensen Huang took a sanguine view toward the latest AI stock-market rout, saying the benefits of the technology will soon… · @timevalueofbtc: This is the perfect video to explain Liquidity from our perspective, and how to use it for smarter bitcoin investing! 🚨 NEW VIDEO 🚨 Bitcoin Wants To Run But Liquidity Won’t Let It…",
-   "FED_RATES": "@zerohedge: Top Overnight News Nvidia Chief Executive Officer Jensen Huang took a sanguine view toward the latest AI stock-market rout, saying the benefits of the technology will soon…",
-   "DXY_TREASURIES": "@zerohedge: Top Overnight News Nvidia Chief Executive Officer Jensen Huang took a sanguine view toward the latest AI stock-market rout, saying the benefits of the technology will soon… · @timevalueofbtc: This is the perfect video to explain Liquidity from our perspective, and how to use it for smarter bitcoin investing! 🚨 NEW VIDEO 🚨 Bitcoin Wants To Run But Liquidity Won’t Let It… · @killaxbt: USDC Treasury has minted 5.2B $USDC this month. If you know, you know… OG stuff.",
+   "TOP_DEVELOPMENTS": "@jameslavish: The Fed Is Trapped: Why America Needs Inflation | James Lavish @JamesLavish returns to Free The Money to discuss America's $40 trillion national debt and why he believes the U.S.… · @xapa03: Whenever this beautyful Oscillator is near the blue zone or touched the blue line, it was always a good entry for a long position. We need to understand whether we are currently… · @tedpillows: $BTC can't afford to lose the $80,000 level here. A weekly close below $80K could result in a correction towards $75K or lower. And in that case, most alts will end up giving back…",
+   "BTC_OUTLOOK": "Stimmung 67 % bullisch (9/12 Accounts mit Meinung). Median offener Kursziele $94.000. @jameslavish: The Fed Is Trapped: Why America Needs Inflation | James Lavish @JamesLavish returns to Free The Money to discuss America's $40 trillion national debt and why he believes the U.S.… · @xapa03: Whenever this beautyful Oscillator is near the blue zone or touched the blue line, it was always a good entry for a long position. We need to understand whether we are currently… · @tedpillows: $BTC can't afford to lose the $80,000 level here. A weekly close below $80K could result in a correction towards $75K or lower. And in that case, most alts will end up giving back…",
+   "MACRO_OUTLOOK": "@jameslavish: The Fed Is Trapped: Why America Needs Inflation | James Lavish @JamesLavish returns to Free The Money to discuss America's $40 trillion national debt and why he believes the U.S.… · @tedpillows: $BTC is hovering around the $81,000 level. US stock futures are down today, while Oil is up. Pre-market stock trading insights: ▫️Nasdaq futures is down 0.65% 🔴 ▫️S&P futures is… · @nolimitgains: I WON’T SAY IT TWICE… If you're under 45, this selloff is a generational opportunity to buy great companies at a discount. Especially these stocks: GOOGL – Down 16% from its…",
+   "GLOBAL_LIQUIDITY": "@tedpillows: ETFs bought $526,000,000 in $BTC yesterday. ETFs sold $103,000,000 in $ETH and $6,720,000 in $SOL yesterday. Liquidity is clearly moving out of alts and into Bitcoin.",
+   "FED_RATES": "@jameslavish: The Fed Is Trapped: Why America Needs Inflation | James Lavish @JamesLavish returns to Free The Money to discuss America's $40 trillion national debt and why he believes the U.S.… · @zerohedge: Foreign central bank gold holdings at the New York Fed declined by 40 tonnes in August, while custodial holdings at the Bank of England rose by 46 tonnes; faith in Fed custody in…",
+   "DXY_TREASURIES": "@jameslavish: The Fed Is Trapped: Why America Needs Inflation | James Lavish @JamesLavish returns to Free The Money to discuss America's $40 trillion national debt and why he believes the U.S.… · @zerohedge: Everyone piling into the closing auction, largely due to explosion of levered ETFs \"S&P 500 constituents tend to trade a larger percentage of full day volume on the closing… · @killaxbt: USDC Treasury has minted 5.2B $USDC this month. If you know, you know… OG stuff.",
    "GOLD": "@zerohedge: Foreign central bank gold holdings at the New York Fed declined by 40 tonnes in August, while custodial holdings at the Bank of England rose by 46 tonnes; faith in Fed custody in…",
-   "GEOPOLITICS": "@xapa03: 🌞Good morning to y'all the People out there at the Bitcoin Frontier for another #MomentumMonday. Sheriff here, with some brand new weekly chart data sets. Before we dive in, make… · @zerohedge: Top Overnight News Nvidia Chief Executive Officer Jensen Huang took a sanguine view toward the latest AI stock-market rout, saying the benefits of the technology will soon… · @osint613: Israeli Defense Minister Israel Katz and National Security Adviser Shmuel Ezra joined last night's meeting at the Israeli Air Force's Ovda Air Base. Prime Minister Benjamin…",
-   "CONSENSUS": "BTC: 56 % bullisch (5/9) · Liquidität: 67 % expandierend (4/6) · Fed: 57 % straffend (4/7) · Geopolitik-Risiko: 88 % erhöht (7/8)",
-   "CONTRARIAN": "@xapa03 (BTC bärisch): 📢New Indicator Alert: I proudly announce \"The Finney Trail\"\n\n\n\nThe Finney Trail is a highly complex VWAP-Anchored based  · @zerohedge (BTC bärisch): The S&P remains just shy of all time highs supported by a handful of stocks. Below the surface, the meltdown is accelera · @xapa03 (Liquidität schrumpfend): Measured from the last weekly candle inside the green zone of the TEM, ETH found its peak within 35 days.\n\nThe top occur · @killaxbt (Fed lockernd): A reminder.\n\n\n\nOil surging.\n\nMSTR delisting fears.\n\nHot CPI.\n\nRate hikes.\n\nGlobal bond yields going parabolic.\n\nDXY prin"
+   "GEOPOLITICS": "@jameslavish: The Fed Is Trapped: Why America Needs Inflation | James Lavish @JamesLavish returns to Free The Money to discuss America's $40 trillion national debt and why he believes the U.S.… · @tedpillows: $BTC is hovering around the $81,000 level. US stock futures are down today, while Oil is up. Pre-market stock trading insights: ▫️Nasdaq futures is down 0.65% 🔴 ▫️S&P futures is… · @nolimitgains: I WON’T SAY IT TWICE… If you're under 45, this selloff is a generational opportunity to buy great companies at a discount. Especially these stocks: GOOGL – Down 16% from its…",
+   "CONSENSUS": "BTC: 67 % bullisch (6/9) · Liquidität: 50 % expandierend (3/6) · Fed: 57 % straffend (4/7) · Geopolitik-Risiko: 88 % erhöht (7/8)",
+   "CONTRARIAN": "@xapa03 (BTC bärisch): Yesterday, while uncertainty dominated the market, I stayed completely calm because I could roughly anticipate what was  · @zerohedge (BTC bärisch): The S&P remains just shy of all time highs supported by a handful of stocks. Below the surface, the meltdown is accelera · @xapa03 (Liquidität schrumpfend): Measured from the last weekly candle inside the green zone of the TEM, ETH found its peak within 35 days.\n\nThe top occur · @killaxbt (Fed lockernd): In due time, $BTC will make its move. \n\n\n\nThe next major cycle pivot is in a few more days."
   },
   "new_predictions": [
    {
@@ -754,24 +759,213 @@
     "url": "https://x.com/xapa03/status/2112469564546248831"
    }
   ],
-  "updated_predictions": [
-   {
-    "account": "tedpillows",
-    "change": "TIMEFRAME_CHANGED",
-    "note": "BTC RANGE $83.000 (this week) → BTC UP $84.500",
-    "tweet_id": "2112084828828963020",
-    "url": "https://x.com/tedpillows/status/2112084828828963020",
-    "detected_at": "2026-10-19T11:02:02.392577+00:00"
-   }
-  ],
+  "updated_predictions": [],
   "invalidated_predictions": [],
   "thesis_changes": [],
   "since_morning": {
    "since": "2026-10-20T05:00:00+00:00",
-   "relevant_posts": 11,
-   "consensus_shifts": [],
+   "relevant_posts": 28,
+   "consensus_shifts": [
+    {
+     "topic": "LIQUIDITY",
+     "from": {
+      "majority": "expanding",
+      "score": 67,
+      "n": 6
+     },
+     "to": {
+      "majority": "expanding",
+      "score": 50,
+      "n": 6
+     }
+    }
+   ],
    "new_predictions": 1,
    "posts": [
+    {
+     "account": "killaxbt",
+     "tweet_id": "2112576818629005687",
+     "timestamp": "2026-10-20T16:08:57+00:00",
+     "relevance": 62,
+     "summary": "In due time, $BTC will make its move. The next major cycle pivot is in a few more days.",
+     "categories": [
+      "BITCOIN"
+     ],
+     "url": "https://x.com/killaxbt/status/2112576818629005687"
+    },
+    {
+     "account": "jameslavish",
+     "tweet_id": "2112574565742506235",
+     "timestamp": "2026-10-20T16:00:00+00:00",
+     "relevance": 100,
+     "summary": "The Fed Is Trapped: Why America Needs Inflation | James Lavish @JamesLavish returns to Free The Money to discuss America's $40 trillion national debt and why he believes the U.S.…",
+     "categories": [
+      "BITCOIN",
+      "FED",
+      "INTEREST_RATES",
+      "INFLATION",
+      "US_TREASURIES",
+      "CREDIT",
+      "BANKING",
+      "ENERGY",
+      "EQUITIES",
+      "GEOPOLITICS"
+     ],
+     "url": "https://x.com/briteresi/status/2112574565742506235"
+    },
+    {
+     "account": "xapa03",
+     "tweet_id": "2112571531733954655",
+     "timestamp": "2026-10-20T15:47:57+00:00",
+     "relevance": 84,
+     "summary": "Yesterday, while uncertainty dominated the market, I stayed completely calm because I could roughly anticipate what was coming. 4 days after the lowest low, Bitcoin saw a…",
+     "categories": [
+      "BITCOIN"
+     ],
+     "url": "https://x.com/xapa03/status/2112571531733954655"
+    },
+    {
+     "account": "zerohedge",
+     "tweet_id": "2112559095261925692",
+     "timestamp": "2026-10-20T14:58:32+00:00",
+     "relevance": 65,
+     "summary": "So is the thinking that Iran will agree on a deal two weeks before the midterms? Oil Tumbles As Qatar, Pakistan Tout 'Compromise Proposal' To End Iran War",
+     "categories": [
+      "ENERGY",
+      "GEOPOLITICS",
+      "WAR"
+     ],
+     "url": "https://x.com/zerohedge/status/2112559095261925692"
+    },
+    {
+     "account": "zerohedge",
+     "tweet_id": "2112553703060185576",
+     "timestamp": "2026-10-20T14:37:06+00:00",
+     "relevance": 65,
+     "summary": "Oil Tumbles As Qatar, Pakistan Tout 'Compromise Proposal' To End Iran War",
+     "categories": [
+      "ENERGY",
+      "GEOPOLITICS",
+      "WAR"
+     ],
+     "url": "https://x.com/zerohedge/status/2112553703060185576"
+    },
+    {
+     "account": "tylerdurden",
+     "tweet_id": "2112550387286974921",
+     "timestamp": "2026-10-20T14:23:56+00:00",
+     "relevance": 68,
+     "summary": "\"Roll the dice & take the risk - buy Bitcoin\" Apology accepted, Jamie Dimon @jpmorgan JUST IN: JP Morgan expects Bitcoin to be the best performing asset of the next decade. 🚀 In…",
+     "categories": [
+      "BITCOIN"
+     ],
+     "url": "https://x.com/tylerdurden/status/2112550387286974921"
+    },
+    {
+     "account": "nolimitgains",
+     "tweet_id": "2112549881432924428",
+     "timestamp": "2026-10-20T14:21:55+00:00",
+     "relevance": 74,
+     "summary": "Well, well, well… we did it again. THREE TIMES we called the bottom on this one. If you missed it, that's on you. I bought a new stock yesterday and shared it in The Assembly.…",
+     "categories": [
+      "BTC_PRICE",
+      "EQUITIES"
+     ],
+     "url": "https://x.com/nolimitgains/status/2112549881432924428"
+    },
+    {
+     "account": "danheld",
+     "tweet_id": "2112545785929732137",
+     "timestamp": "2026-10-20T14:05:39+00:00",
+     "relevance": 60,
+     "summary": "JP Morgan in 2017 - \"Bitcoin is a hyped-up fraud\" JP Morgan in 2026 - \"Bitcoin will be the best performing asset of the decade\"",
+     "categories": [
+      "BITCOIN"
+     ],
+     "url": "https://x.com/danheld/status/2112545785929732137"
+    },
+    {
+     "account": "xapa03",
+     "tweet_id": "2112544368007754020",
+     "timestamp": "2026-10-20T14:00:01+00:00",
+     "relevance": 68,
+     "summary": "Bitcoin Dominance is about to reach its peak. Once that happens, we can expect altcoins to start pumping after Bitcoin has done its thing. The black bar can remain in the…",
+     "categories": [
+      "BITCOIN"
+     ],
+     "url": "https://x.com/xapa03/status/2112544368007754020"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2112539357672570954",
+     "timestamp": "2026-10-20T13:40:06+00:00",
+     "relevance": 62,
+     "summary": "Binance whales are bidding $BTC. Coinbase institutions are selling.",
+     "categories": [
+      "BITCOIN"
+     ],
+     "url": "https://x.com/tedpillows/status/2112539357672570954"
+    },
+    {
+     "account": "killaxbt",
+     "tweet_id": "2112526662923690379",
+     "timestamp": "2026-10-20T12:49:39+00:00",
+     "relevance": 60,
+     "summary": "You want to outperform during environments like this? Set a grid bot on $BTC between 76.8-80.8K. Thank me later 👌",
+     "categories": [
+      "BITCOIN"
+     ],
+     "url": "https://x.com/killaxbt/status/2112526662923690379"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2112519701662167527",
+     "timestamp": "2026-10-20T12:22:00+00:00",
+     "relevance": 92,
+     "summary": "$BTC is hovering around the $81,000 level. US stock futures are down today, while Oil is up. Pre-market stock trading insights: ▫️Nasdaq futures is down 0.65% 🔴 ▫️S&P futures is…",
+     "categories": [
+      "BITCOIN",
+      "BTC_PRICE",
+      "ENERGY",
+      "EQUITIES"
+     ],
+     "url": "https://x.com/tedpillows/status/2112519701662167527"
+    },
+    {
+     "account": "nolimitgains",
+     "tweet_id": "2112512285860114909",
+     "timestamp": "2026-10-20T11:52:32+00:00",
+     "relevance": 92,
+     "summary": "I WON’T SAY IT TWICE… If you're under 45, this selloff is a generational opportunity to buy great companies at a discount. Especially these stocks: GOOGL – Down 16% from its…",
+     "categories": [
+      "BTC_PRICE",
+      "EQUITIES",
+      "GEOPOLITICS"
+     ],
+     "url": "https://x.com/nolimitgains/status/2112512285860114909"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2112510139538292968",
+     "timestamp": "2026-10-20T11:44:00+00:00",
+     "relevance": 60,
+     "summary": "JP Morgan expects $BTC to outperform every major asset class over the next 10 years. Huge.",
+     "categories": [
+      "BITCOIN"
+     ],
+     "url": "https://x.com/tedpillows/status/2112510139538292968"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2112484045724750150",
+     "timestamp": "2026-10-20T10:00:19+00:00",
+     "relevance": 62,
+     "summary": "$BTC shorts are aggressively entering here. They'll get squeezed again just like the past few times.",
+     "categories": [
+      "BITCOIN"
+     ],
+     "url": "https://x.com/tedpillows/status/2112484045724750150"
+    },
     {
      "account": "xapa03",
      "tweet_id": "2112471659852488910",
@@ -785,6 +979,19 @@
      "url": "https://x.com/thebtcfrontierx/status/2112471659852488910"
     },
     {
+     "account": "tedpillows",
+     "tweet_id": "2112470555349954572",
+     "timestamp": "2026-10-20T09:06:42+00:00",
+     "relevance": 94,
+     "summary": "$BTC can't afford to lose the $80,000 level here. A weekly close below $80K could result in a correction towards $75K or lower. And in that case, most alts will end up giving back…",
+     "categories": [
+      "BITCOIN",
+      "BTC_PRICE",
+      "BTC_TECHNICAL"
+     ],
+     "url": "https://x.com/tedpillows/status/2112470555349954572"
+    },
+    {
      "account": "xapa03",
      "tweet_id": "2112469564546248831",
      "timestamp": "2026-10-20T09:02:46+00:00",
@@ -795,6 +1002,19 @@
       "BTC_PRICE"
      ],
      "url": "https://x.com/xapa03/status/2112469564546248831"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2112457157111398469",
+     "timestamp": "2026-10-20T08:13:28+00:00",
+     "relevance": 84,
+     "summary": "ETFs bought $526,000,000 in $BTC yesterday. ETFs sold $103,000,000 in $ETH and $6,720,000 in $SOL yesterday. Liquidity is clearly moving out of alts and into Bitcoin.",
+     "categories": [
+      "BITCOIN",
+      "BTC_ETF",
+      "LIQUIDITY"
+     ],
+     "url": "https://x.com/tedpillows/status/2112457157111398469"
     },
     {
      "account": "osint613",
@@ -870,51 +1090,16 @@
       "BANKING"
      ],
      "url": "https://x.com/tylerdurden/status/2112317899390234637"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2112258555063497080",
-     "timestamp": "2026-10-19T19:04:18+00:00",
-     "relevance": 62,
-     "summary": "The short delta continues to pile as $BTC compresses.",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/killaxbt/status/2112258555063497080"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2112254846363402686",
-     "timestamp": "2026-10-19T18:49:33+00:00",
-     "relevance": 65,
-     "summary": "Iranian MP Ebrahim Rezaei on an unnamed mediator: \"A mediator who constantly takes a position against Iran and presents us as the culprit of the 40 day war, has blocked the…",
-     "categories": [
-      "GEOPOLITICS",
-      "WAR"
-     ],
-     "url": "https://x.com/osint613/status/2112254846363402686"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2112237592863289538",
-     "timestamp": "2026-10-19T17:41:00+00:00",
-     "relevance": 70,
-     "summary": "Big Week Ahead For Crypto Holders 🚨 ▫️ 20th October: US Housing market data, SpaceX will report its earnings ▫️ 21st October: Tesla and Meta will report their earnings ▫️ 22nd…",
-     "categories": [
-      "INFLATION",
-      "EQUITIES"
-     ],
-     "url": "https://x.com/tedpillows/status/2112237592863289538"
     }
    ]
   },
   "stats": {
-   "posts_new": 110,
-   "posts_relevant": 8,
-   "predictions_new": 1,
+   "posts_new": 73,
+   "posts_relevant": 17,
+   "predictions_new": 0,
    "predictions_updated": 0,
    "invalidated": 0,
-   "posts_analysed": 111,
+   "posts_analysed": 73,
    "evaluated": 0
   }
  }
