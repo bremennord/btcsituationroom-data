@@ -1,22 +1,30 @@
 {
  "state": "DEGRADED",
- "last_run": "2026-10-20T17:10:41.419173+00:00",
- "last_success": "2026-10-20T17:10:41.419173+00:00",
- "accounts_ok": 11,
+ "last_run": "2026-10-21T05:09:31.196187+00:00",
+ "last_success": "2026-10-21T05:09:31.196187+00:00",
+ "accounts_ok": 9,
  "accounts_total": 12,
  "accounts_failed": [
   {
-   "handle": "osint613",
+   "handle": "xapa03",
+   "error": "Account nicht verfügbar (HTTP 404)"
+  },
+  {
+   "handle": "tylerdurden",
+   "error": "Account nicht verfügbar (HTTP 404)"
+  },
+  {
+   "handle": "e_boeminghaus",
    "error": "Account nicht verfügbar (HTTP 404)"
   }
  ],
  "stats": {
-  "posts_new": 73,
-  "posts_relevant": 17,
-  "predictions_new": 0,
-  "predictions_updated": 0,
+  "posts_new": 71,
+  "posts_relevant": 6,
+  "predictions_new": 1,
+  "predictions_updated": 1,
   "invalidated": 0,
-  "posts_analysed": 73,
+  "posts_analysed": 72,
   "evaluated": 0
  },
  "errors": [],
