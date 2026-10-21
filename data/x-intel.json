@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-21T11:06:41.019308+00:00",
- "btc_price": 83355.4,
+ "generated_at": "2026-10-21T17:09:58.660771+00:00",
+ "btc_price": 84411.3,
  "outlook": {
   "BTC": {
    "horizons": {
     "24h": {
-     "label": "bullisch",
+     "label": "leicht bullisch",
      "counts": {
-      "pos": 4,
+      "pos": 2,
       "neu": 0,
       "neg": 1
      },
-     "accounts": 5
+     "accounts": 3
     },
     "3d": {
      "label": "neutral / gemischt",
@@ -32,8 +32,8 @@
      "accounts": 7
     }
    },
-   "scenario": "Mehrheit (7 T): leicht bullisch. Wahrscheinlichste Zone laut Quellen: $80k–83k bis $84k–85k; Ausbruch über $84k–85k wäre das nächste Signal.",
-   "risk": "Bruch unter $80k–83k (genannt von @killaxbt, @tedpillows)",
+   "scenario": "Mehrheit (7 T): leicht bullisch. Wahrscheinlichste Zone laut Quellen: $80k–84k bis $85k; Ausbruch über $85k wäre das nächste Signal.",
+   "risk": "Bruch unter $80k–84k (genannt von @killaxbt, @tedpillows)",
    "consensus": {
     "pos": 5,
     "neu": 0,
@@ -41,11 +41,18 @@
    },
    "confidence": "Hoch",
    "levels": {
-    "support": "$80k–83k",
-    "resistance": "$84k–85k"
+    "support": "$80k–84k",
+    "resistance": "$85k"
    },
-   "n_posts": 58,
+   "n_posts": 61,
    "sources": [
+    {
+     "account": "tedpillows",
+     "tweet_id": "2112872485972533386",
+     "url": "https://x.com/tedpillows/status/2112872485972533386",
+     "summary": "$BTC has now entered the major sell-side zone. A lot of sell orders have been placed between $83,500 and $85,000. If BTC clears this level, $90K could happen very soon. Media",
+     "timestamp": "2026-10-21T11:43:50+00:00"
+    },
     {
      "account": "tedpillows",
      "tweet_id": "2112831831728922690",
@@ -94,13 +101,6 @@
      "url": "https://x.com/tedpillows/status/2110737282290384919",
      "summary": "$BTC update: holding the bounce, testing $81.2k The 80k sweep is holding. $BTC bounced from $79,725 to $81,390. Since then it's been holding between $80.9k and $81.1k. Now it's…",
      "timestamp": "2026-10-15T14:19:18+00:00"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2110710451281543632",
-     "url": "https://x.com/killaxbt/status/2110710451281543632",
-     "summary": "We’re 7% away from 75K. We’re 56% away from 126K. Maybe we test 75K, maybe we don’t. Nobody can say with 100% certainty, not even me. So humble yourself and ask, are you really…",
-     "timestamp": "2026-10-15T12:32:41+00:00"
     }
    ],
    "kind": "system"
@@ -119,34 +119,34 @@
     "3d": {
      "label": "Risk-On",
      "counts": {
-      "pos": 2,
+      "pos": 3,
       "neu": 1,
       "neg": 0
      },
-     "accounts": 3
+     "accounts": 4
     },
     "7d": {
      "label": "leicht Risk-On",
      "counts": {
-      "pos": 2,
-      "neu": 2,
+      "pos": 3,
+      "neu": 1,
       "neg": 1
      },
      "accounts": 5
     }
    },
    "drivers": [
-    "wachsende Liquidität (8)",
-    "Fed restriktiv (7)",
+    "wachsende Liquidität (9)",
+    "Fed restriktiv (6)",
     "Fed-Lockerung (5)"
    ],
-   "risk": "Anstehende Termine in den Posts: PPI (23×), EARNINGS (11×), CPI (10×)",
+   "risk": "Anstehende Termine in den Posts: PPI (22×), EARNINGS (11×), CPI (4×)",
    "consensus": {
-    "pos": 2,
-    "neu": 2,
+    "pos": 3,
+    "neu": 1,
     "neg": 1
    },
-   "confidence": "Niedrig",
+   "confidence": "Mittel",
    "n_posts": 25,
    "sources": [
     {
@@ -192,33 +192,24 @@
      "timestamp": "2026-10-16T13:40:10+00:00"
     },
     {
-     "account": "tedpillows",
-     "tweet_id": "2110362005232353368",
-     "url": "https://x.com/tedpillows/status/2110362005232353368",
-     "summary": "The Fed is now expected to hike rates this month. One data point entirely changed the picture.",
-     "timestamp": "2026-10-14T13:28:05+00:00"
-    },
-    {
      "account": "timevalueofbtc",
      "tweet_id": "2112714359982231734",
      "url": "https://x.com/timevalueofbtc/status/2112714359982231734",
      "summary": "A lot of signal packed into this episode: -credit defaults -tight money markets -is this an AI bust? -bitcoin trading well as euro, pound trade weaker -typical Dines 17-minute…",
      "timestamp": "2026-10-21T01:15:30+00:00"
+    },
+    {
+     "account": "osint613",
+     "tweet_id": "2110825185339125920",
+     "url": "https://x.com/osint613/status/2110825185339125920",
+     "summary": "US Treasury Secretary Bessent: The noose is tightening around Iran’s economy, and not even Iran’s so-called allies can save it. The Department of the Treasury will not relent…",
+     "timestamp": "2026-10-15T20:08:36+00:00"
     }
    ]
   },
   "LIQUIDITY": {
    "horizons": {
     "24h": {
-     "label": "zu wenige Aussagen",
-     "counts": {
-      "pos": 1,
-      "neu": 0,
-      "neg": 0
-     },
-     "accounts": 1
-    },
-    "3d": {
      "label": "expandierend",
      "counts": {
       "pos": 2,
@@ -227,23 +218,32 @@
      },
      "accounts": 2
     },
-    "7d": {
-     "label": "leicht expandierend",
+    "3d": {
+     "label": "expandierend",
      "counts": {
       "pos": 3,
       "neu": 0,
-      "neg": 1
+      "neg": 0
+     },
+     "accounts": 3
+    },
+    "7d": {
+     "label": "expandierend",
+     "counts": {
+      "pos": 3,
+      "neu": 1,
+      "neg": 0
      },
      "accounts": 4
     }
    },
    "consensus": {
     "pos": 3,
-    "neu": 0,
-    "neg": 1
+    "neu": 1,
+    "neg": 0
    },
    "confidence": "Mittel",
-   "n_posts": 11,
+   "n_posts": 12,
    "sources": [
     {
      "account": "zerohedge",
@@ -308,7 +308,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 78,
+     "posts": 84,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -318,7 +318,7 @@
     },
     {
      "name": "Russland / Ukraine",
-     "posts": 42,
+     "posts": 49,
      "impact": [
       "Energie ↑",
       "Europa-Risiko ↑",
@@ -326,7 +326,7 @@
      ]
     }
    ],
-   "n_posts": 147,
+   "n_posts": 163,
    "sources": [
     {
      "account": "zerohedge",
@@ -357,13 +357,6 @@
      "timestamp": "2026-10-20T11:52:32+00:00"
     },
     {
-     "account": "danheld",
-     "tweet_id": "2111832227856437576",
-     "url": "https://x.com/danheld/status/2111832227856437576",
-     "summary": "In 2013, someone bought 248 BTC bought for $88 k. Dormant for 12.9 years until the owner moved it today. Now it’s worth ~$20M. It sat untouched through Mt. Gox, China bans, FTX,…",
-     "timestamp": "2026-10-18T14:50:13+00:00"
-    },
-    {
      "account": "osint613",
      "tweet_id": "2112426560258998682",
      "url": "https://x.com/osint613/status/2112426560258998682",
@@ -383,82 +376,94 @@
      "url": "https://x.com/e_boeminghaus/status/2112599703602757749",
      "summary": "Gaspreis explodiert auf über 90 Euro! Deutschland steuert mit erschreckend leeren #Gasspeichern auf den Winter zu. #Gaspreise #Energiekrise #Deutschland #LNG Alarmstufe auf dem…",
      "timestamp": "2026-10-20T17:39:54+00:00"
+    },
+    {
+     "account": "osint613",
+     "tweet_id": "2112818897799807005",
+     "url": "https://x.com/osint613/status/2112818897799807005",
+     "summary": "Former National Security Advisor Jake Sullivan under Biden: “Netanyahu has talked about wanting to have a forever war with Iran, and he doesn’t mind if the Strait of Hormuz is…",
+     "timestamp": "2026-10-21T08:10:54+00:00"
     }
    ],
    "impact_kind": "Typisches Marktmuster (Systemeinschätzung, keine Prognose)"
   }
  },
  "changed": {
-  "since": "2026-10-21T05:09:39.602610+00:00",
+  "since": "2026-10-21T11:06:48.414382+00:00",
   "new": [
    {
     "account": "tedpillows",
-    "text": "BTC RANGE $84.500–85.000",
-    "url": "https://x.com/tedpillows/status/2112831831728922690"
+    "text": "BTC RANGE $84.000 (this week)",
+    "url": "https://x.com/tedpillows/status/2112914560084791350"
    },
    {
     "account": "tedpillows",
-    "text": "BTC UP $85.000 (short-term)",
-    "url": "https://x.com/tedpillows/status/2112821297864687670"
+    "text": "BTC UP $90.000 (soon)",
+    "url": "https://x.com/tedpillows/status/2112872485972533386"
    },
    {
     "account": "tedpillows",
-    "text": "Decent spot buying happening for $BTC right now. Bitcoin still needs to reclaim $85K here to end the short-term downtrend and start the next leg up.",
-    "url": "https://x.com/tedpillows/status/2112821297864687670"
+    "text": "$BTC has now entered the major sell-side zone. A lot of sell orders have been placed between $83,500 and $85,000. If BTC clears this level, $90K could happen very soon. Media",
+    "url": "https://x.com/tedpillows/status/2112872485972533386"
    },
    {
     "account": "tedpillows",
-    "text": "$BTC has started to look good. Daily close above May highs has happened, and now buyers are stepping in. If BTC reclaims $84.5K-$85K from here, we could see an Uptober rally.",
-    "url": "https://x.com/tedpillows/status/2112831831728922690"
+    "text": "$120,000,000,000 has been added to the crypto market this week as Bitcoin breaks above $84,000.",
+    "url": "https://x.com/tedpillows/status/2112914560084791350"
    },
    {
-    "account": "xapa03",
-    "text": "This Bitcoin bull run is going to be ugly in the best way for everyone who is bearish. Between 2028 and 2029 we’re looking at a move that melts faces, and $230k to $340k stops…",
-    "url": "https://x.com/xapa03/status/2112820160151400875"
+    "account": "jameslavish",
+    "text": "The Fed and Treasury are headed for a “shotgun wedding.” Why? America's debt burden is becoming so enormous that the Fed may no longer have the freedom to fight inflation without…",
+    "url": "https://x.com/briteresi/status/2112944961935303055"
    }
   ],
   "changed": [
    {
     "account": "tedpillows",
-    "text": "vorher BTC UP $85.000 (short-term), jetzt BTC RANGE $84.500–85.000",
-    "url": "https://x.com/tedpillows/status/2112831831728922690"
+    "text": "vorher BTC RANGE $84.500–85.000, jetzt BTC UP $90.000 (soon)",
+    "url": "https://x.com/tedpillows/status/2112872485972533386"
    },
    {
-    "account": "xapa03",
-    "text": "BTC-These: bearish → bullish",
-    "url": "https://x.com/xapa03/status/2112820421338988819"
+    "account": "tedpillows",
+    "text": "vorher BTC UP $90.000 (soon), jetzt BTC RANGE $84.000 (this week)",
+    "url": "https://x.com/tedpillows/status/2112914560084791350"
+   },
+   {
+    "account": "jameslavish",
+    "text": "FED-These: tightening → easing",
+    "url": "https://x.com/jameslavish/status/2112944961935303055"
    }
   ],
   "new_consensus": [
-   "Bitcoin: neutral / gemischt → leicht bullisch"
+   "Liquidität: leicht expandierend → expandierend"
   ],
   "no_change": [
-   "Makro bleibt leicht Risk-On",
-   "Liquidität bleibt leicht expandierend"
+   "Bitcoin bleibt leicht bullisch",
+   "Makro bleibt leicht Risk-On"
   ]
  },
  "important_posts": [
   {
    "account": "tedpillows",
-   "tweet_id": "2112831831728922690",
-   "url": "https://x.com/tedpillows/status/2112831831728922690",
-   "summary": "$BTC has started to look good. Daily close above May highs has happened, and now buyers are stepping in. If BTC reclaims $84.5K-$85K from here, we could see an Uptober rally.",
-   "timestamp": "2026-10-21T09:02:17+00:00",
+   "tweet_id": "2112914560084791350",
+   "url": "https://x.com/tedpillows/status/2112914560084791350",
+   "summary": "$120,000,000,000 has been added to the crypto market this week as Bitcoin breaks above $84,000.",
+   "timestamp": "2026-10-21T14:31:01+00:00",
    "category": "BITCOIN",
    "relevance": 100,
-   "text": "$BTC has started to look good.\n\n\n\nDaily close above May highs has happened, and now buyers are stepping in.\n\n\n\nIf BTC reclaims $84.5K-$85K from here, we could see an Uptober rally.",
+   "text": "$120,000,000,000 has been added to the crypto market this week as Bitcoin breaks above $84,000.",
    "why": "Ändert eine frühere Prognose dieses Accounts"
   },
   {
    "account": "tedpillows",
-   "tweet_id": "2112821297864687670",
-   "url": "https://x.com/tedpillows/status/2112821297864687670",
-   "summary": "Decent spot buying happening for $BTC right now. Bitcoin still needs to reclaim $85K here to end the short-term downtrend and start the next leg up.",
-   "timestamp": "2026-10-21T08:20:26+00:00",
+   "tweet_id": "2112872485972533386",
+   "url": "https://x.com/tedpillows/status/2112872485972533386",
+   "summary": "$BTC has now entered the major sell-side zone. A lot of sell orders have been placed between $83,500 and $85,000. If BTC clears this level, $90K could happen very soon. Media",
+   "timestamp": "2026-10-21T11:43:50+00:00",
    "category": "BITCOIN",
    "relevance": 100,
-   "text": "Decent spot buying happening for $BTC right now.\n\n\n\nBitcoin still needs to reclaim $85K here to end the short-term downtrend and start the next leg up.",
-   "why": "Konkrete Prognose: BTC UP $85.000 (short-term)"
+   "text": "$BTC has now entered the major sell-side zone.\n\n\n\nA lot of sell orders have been placed between $83,500 and $85,000.\n\n\n\nIf BTC clears this level, $90K could happen very soon.\nMedia",
+   "why": "Ändert eine frühere Prognose dieses Accounts"
   },
   {
    "account": "killaxbt",
@@ -530,25 +535,14 @@
  "top_predictions": [
   {
    "account": "tedpillows",
-   "label": "BTC RANGE $84.500–85.000",
-   "url": "https://x.com/tedpillows/status/2112831831728922690",
-   "deadline": null,
-   "time_horizon": null,
-   "prediction_date": "2026-10-21T09:02:17+00:00",
-   "distance_pct": 1.7,
-   "conditions": "If BTC reclaims $84",
-   "evidence": "If BTC reclaims $84.5K-$85K from here, we could see an Uptober rally."
-  },
-  {
-   "account": "tedpillows",
-   "label": "BTC UP $84.500",
-   "url": "https://x.com/tedpillows/status/2112084828828963020",
-   "deadline": null,
-   "time_horizon": null,
-   "prediction_date": "2026-10-19T07:33:58+00:00",
-   "distance_pct": 1.4,
+   "label": "BTC RANGE $84.000 (this week)",
+   "url": "https://x.com/tedpillows/status/2112914560084791350",
+   "deadline": "2026-10-26T14:31:01+00:00",
+   "time_horizon": "this week",
+   "prediction_date": "2026-10-21T14:31:01+00:00",
+   "distance_pct": -0.6,
    "conditions": null,
-   "evidence": "For strong momentum, Bitcoin needs to reclaim $84,500, or else we could see another correction below $80,000."
+   "evidence": "$120,000,000,000 has been added to the crypto market this week as Bitcoin breaks above $84,000."
   },
   {
    "account": "killaxbt",
@@ -557,7 +551,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-20T17:49:05+00:00",
-   "distance_pct": 80.1,
+   "distance_pct": 77.5,
    "conditions": null,
    "evidence": "BTC only needs to test 150K+ this cycle for the bear-market retrace to potentially be just 40–45%."
   },
@@ -568,7 +562,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-20T09:02:46+00:00",
-   "distance_pct": 12.8,
+   "distance_pct": 11.3,
    "conditions": null,
    "evidence": "Forced covering then drives the move higher, with Bitcoin targeting the 94k region as the next significant level."
   },
@@ -579,9 +573,20 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-16T19:03:18+00:00",
-   "distance_pct": -88.0,
+   "distance_pct": -88.2,
    "conditions": "if the US stock market suffers a 20% drawdown",
    "evidence": "🚨 ALERT: Bloomberg Intelligence strategist Mike McGlone warns Bitcoin could fall toward $10,000, particularly if the US stock market suffers a 20% drawdown."
+  },
+  {
+   "account": "killaxbt",
+   "label": "BTC UP $100.000",
+   "url": "https://x.com/killaxbt/status/2110082903443116269",
+   "deadline": null,
+   "time_horizon": null,
+   "prediction_date": "2026-10-13T18:59:02+00:00",
+   "distance_pct": 18.4,
+   "conditions": null,
+   "evidence": "It’s a date I’ve been tracking and talking about since $BTC first surpassed 100K, around a year and a half ago."
   }
  ],
  "contrarian": [
@@ -600,8 +605,8 @@
    "main_share": 78,
    "account": "tedpillows",
    "stance": "bearish",
-   "text": "$BTC has started to look good.\n\n\n\nDaily close above May highs has happened, and now buyers are stepping in.\n\n\n\nIf BTC reclaims $84.5K-$85K from here, we could see an Uptober rally.",
-   "url": "https://x.com/tedpillows/status/2112831831728922690"
+   "text": "$BTC buying happening across all exchanges now.",
+   "url": "https://x.com/tedpillows/status/2112918407557312658"
   },
   {
    "topic": "LIQUIDITY",
@@ -658,24 +663,23 @@
    ]
   },
   "FED": {
-   "majority": "tightening",
-   "score": 57,
-   "n": 7,
+   "majority": "easing",
+   "score": 67,
+   "n": 6,
    "counts": {
-    "easing": 3,
+    "easing": 4,
     "neutral": 0,
-    "tightening": 4
+    "tightening": 2
    },
    "supporting": [
-    "zerohedge",
-    "tedpillows",
-    "jameslavish",
-    "nolimitgains"
-   ],
-   "contrarians": [
     "killaxbt",
     "xapa03",
-    "osint613"
+    "osint613",
+    "jameslavish"
+   ],
+   "contrarians": [
+    "zerohedge",
+    "tedpillows"
    ]
   },
   "GEO": {
@@ -709,57 +713,99 @@
  },
  "daily": {
   "report_date": "2026-10-21",
-  "generated_at": "2026-10-21T11:02:06.120130+00:00",
+  "generated_at": "2026-10-21T17:01:51.294781+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-10-20T11:02:06.101392+00:00",
-   "to": "2026-10-21T11:02:06.120130+00:00"
+   "from": "2026-10-20T17:01:51.277399+00:00",
+   "to": "2026-10-21T17:01:51.294781+00:00"
   },
   "key_points": [
    {
-    "text": "@tedpillows ändert Prognose: BTC UP $85.000 (short-term) → BTC RANGE $84.500–85.000",
+    "text": "@tedpillows ändert Prognose: BTC UP $90.000 (soon) → BTC RANGE $84.000 (this week)",
+    "ids": [
+     "2112914560084791350"
+    ]
+   },
+   {
+    "text": "@tedpillows ändert Prognose: BTC RANGE $84.500–85.000 → BTC UP $90.000 (soon)",
+    "ids": [
+     "2112872485972533386"
+    ]
+   },
+   {
+    "text": "@jameslavish wechselt Fed-These: straffend → lockernd",
+    "ids": [
+     "2112944961935303055"
+    ]
+   },
+   {
+    "text": "Neue BTC-Prognose von @tedpillows: BTC RANGE $84.000 (this week)",
+    "ids": [
+     "2112914560084791350"
+    ]
+   },
+   {
+    "text": "@tedpillows: $BTC has started to look good. Daily close above May highs has happened, and now buyers are stepping in. If BTC reclaims $84.5K-$85K from here, we could see an Uptober rally.",
     "ids": [
      "2112831831728922690"
-    ]
-   },
-   {
-    "text": "@killaxbt ändert Prognose: BTC UP $126.000 → BTC UP $150.000",
-    "ids": [
-     "2112602017692889402"
-    ]
-   },
-   {
-    "text": "@xapa03 wechselt BTC-These: bärisch → bullisch",
-    "ids": [
-     "2112820421338988819"
-    ]
-   },
-   {
-    "text": "Neue BTC-Prognose von @tedpillows: BTC RANGE $84.500–85.000",
-    "ids": [
-     "2112831831728922690"
-    ]
-   },
-   {
-    "text": "@tedpillows: Decent spot buying happening for $BTC right now. Bitcoin still needs to reclaim $85K here to end the short-term downtrend and start the next leg up.",
-    "ids": [
-     "2112821297864687670"
     ]
    }
   ],
   "sections": {
-   "TOP_DEVELOPMENTS": "@tedpillows: $BTC has started to look good. Daily close above May highs has happened, and now buyers are stepping in. If BTC reclaims $84.5K-$85K from here, we could see an Uptober rally. · @jameslavish: Big banks violate sanctions, pay a fine, and move on. Meanwhile, many people who have invested in Bitcoin have been debanked. @Jameslavish shares how investors in his Bitcoin fund… · @killaxbt: The funny part is when $BTC blasts through 126K. You will never see it trade under 100K again. The math checks out, especially if this cycle bottomed after -54%. BTC only needs to…",
-   "BTC_OUTLOOK": "Stimmung 78 % bullisch (9/12 Accounts mit Meinung). Median offener Kursziele $94.000. @tedpillows: $BTC has started to look good. Daily close above May highs has happened, and now buyers are stepping in. If BTC reclaims $84.5K-$85K from here, we could see an Uptober rally. · @jameslavish: Big banks violate sanctions, pay a fine, and move on. Meanwhile, many people who have invested in Bitcoin have been debanked. @Jameslavish shares how investors in his Bitcoin fund… · @killaxbt: The funny part is when $BTC blasts through 126K. You will never see it trade under 100K again. The math checks out, especially if this cycle bottomed after -54%. BTC only needs to…",
-   "MACRO_OUTLOOK": "@jameslavish: Big banks violate sanctions, pay a fine, and move on. Meanwhile, many people who have invested in Bitcoin have been debanked. @Jameslavish shares how investors in his Bitcoin fund… · @timevalueofbtc: A lot of signal packed into this episode: -credit defaults -tight money markets -is this an AI bust? -bitcoin trading well as euro, pound trade weaker -typical Dines 17-minute… · @tedpillows: $BTC is hovering around the $81,000 level. US stock futures are down today, while Oil is up. Pre-market stock trading insights: ▫️Nasdaq futures is down 0.65% 🔴 ▫️S&P futures is…",
+   "TOP_DEVELOPMENTS": "@jameslavish: The Fed and Treasury are headed for a “shotgun wedding.” Why? America's debt burden is becoming so enormous that the Fed may no longer have the freedom to fight inflation without… · @tedpillows: $120,000,000,000 has been added to the crypto market this week as Bitcoin breaks above $84,000. · @killaxbt: The funny part is when $BTC blasts through 126K. You will never see it trade under 100K again. The math checks out, especially if this cycle bottomed after -54%. BTC only needs to…",
+   "BTC_OUTLOOK": "Stimmung 78 % bullisch (9/12 Accounts mit Meinung). Median offener Kursziele $94.000. @tedpillows: $120,000,000,000 has been added to the crypto market this week as Bitcoin breaks above $84,000. · @jameslavish: Big banks violate sanctions, pay a fine, and move on. Meanwhile, many people who have invested in Bitcoin have been debanked. @Jameslavish shares how investors in his Bitcoin fund… · @killaxbt: The funny part is when $BTC blasts through 126K. You will never see it trade under 100K again. The math checks out, especially if this cycle bottomed after -54%. BTC only needs to…",
+   "MACRO_OUTLOOK": "@jameslavish: The Fed and Treasury are headed for a “shotgun wedding.” Why? America's debt burden is becoming so enormous that the Fed may no longer have the freedom to fight inflation without… · @timevalueofbtc: A lot of signal packed into this episode: -credit defaults -tight money markets -is this an AI bust? -bitcoin trading well as euro, pound trade weaker -typical Dines 17-minute… · @tedpillows: $BTC is holding above the $83,000 level. US stock futures are up, while DXY is slightly down. Pre-market stock trading insights: ▫️Nasdaq futures is up 0.59% 🟠 ▫️S&P futures is up…",
    "GLOBAL_LIQUIDITY": "@xapa03: This Bitcoin bull run is going to be ugly in the best way for everyone who is bearish. Between 2028 and 2029 we’re looking at a move that melts faces, and $230k to $340k stops… · @timevalueofbtc: A lot of signal packed into this episode: -credit defaults -tight money markets -is this an AI bust? -bitcoin trading well as euro, pound trade weaker -typical Dines 17-minute…",
-   "FED_RATES": "@jameslavish: Big banks violate sanctions, pay a fine, and move on. Meanwhile, many people who have invested in Bitcoin have been debanked. @Jameslavish shares how investors in his Bitcoin fund…",
-   "DXY_TREASURIES": "@jameslavish: Big banks violate sanctions, pay a fine, and move on. Meanwhile, many people who have invested in Bitcoin have been debanked. @Jameslavish shares how investors in his Bitcoin fund… · @e_boeminghaus: Gaspreis explodiert auf über 90 Euro! Deutschland steuert mit erschreckend leeren #Gasspeichern auf den Winter zu. #Gaspreise #Energiekrise #Deutschland #LNG Alarmstufe auf dem…",
+   "FED_RATES": "@jameslavish: The Fed and Treasury are headed for a “shotgun wedding.” Why? America's debt burden is becoming so enormous that the Fed may no longer have the freedom to fight inflation without…",
+   "DXY_TREASURIES": "@jameslavish: The Fed and Treasury are headed for a “shotgun wedding.” Why? America's debt burden is becoming so enormous that the Fed may no longer have the freedom to fight inflation without… · @tedpillows: $BTC is holding above the $83,000 level. US stock futures are up, while DXY is slightly down. Pre-market stock trading insights: ▫️Nasdaq futures is up 0.59% 🟠 ▫️S&P futures is up… · @timevalueofbtc: Do you understand the significance of evoking the 1863 National Currency Act? The US dollar is private money, for the most part. It takes the next step with GENIUS Act…",
    "GOLD": "Keine relevanten Aussagen.",
-   "GEOPOLITICS": "@jameslavish: Big banks violate sanctions, pay a fine, and move on. Meanwhile, many people who have invested in Bitcoin have been debanked. @Jameslavish shares how investors in his Bitcoin fund… · @tedpillows: $BTC is hovering around the $81,000 level. US stock futures are down today, while Oil is up. Pre-market stock trading insights: ▫️Nasdaq futures is down 0.65% 🔴 ▫️S&P futures is… · @nolimitgains: I WON’T SAY IT TWICE… If you're under 45, this selloff is a generational opportunity to buy great companies at a discount. Especially these stocks: GOOGL – Down 16% from its…",
-   "CONSENSUS": "BTC: 78 % bullisch (7/9) · Liquidität: 71 % expandierend (5/7) · Fed: 57 % straffend (4/7) · Geopolitik-Risiko: 88 % erhöht (7/8)",
-   "CONTRARIAN": "@zerohedge (BTC bärisch): The S&P remains just shy of all time highs supported by a handful of stocks. Below the surface, the meltdown is accelera · @tedpillows (BTC bärisch): $BTC has started to look good.\n\n\n\nDaily close above May highs has happened, and now buyers are stepping in.\n\n\n\nIf BTC re · @xapa03 (Liquidität schrumpfend): Measured from the last weekly candle inside the green zone of the TEM, ETH found its peak within 35 days.\n\nThe top occur · @killaxbt (Fed lockernd): In due time, $BTC will make its move. \n\n\n\nThe next major cycle pivot is in a few more days."
+   "GEOPOLITICS": "@jameslavish: Big banks violate sanctions, pay a fine, and move on. Meanwhile, many people who have invested in Bitcoin have been debanked. @Jameslavish shares how investors in his Bitcoin fund… · @e_boeminghaus: Gaspreis explodiert auf über 90 Euro! Deutschland steuert mit erschreckend leeren #Gasspeichern auf den Winter zu. #Gaspreise #Energiekrise #Deutschland #LNG Alarmstufe auf dem… · @osint613: Former National Security Advisor Jake Sullivan under Biden: “Netanyahu has talked about wanting to have a forever war with Iran, and he doesn’t mind if the Strait of Hormuz is…",
+   "CONSENSUS": "BTC: 78 % bullisch (7/9) · Liquidität: 71 % expandierend (5/7) · Fed: 67 % lockernd (4/6) · Geopolitik-Risiko: 88 % erhöht (7/8)",
+   "CONTRARIAN": "@zerohedge (BTC bärisch): The S&P remains just shy of all time highs supported by a handful of stocks. Below the surface, the meltdown is accelera · @tedpillows (BTC bärisch): $BTC buying happening across all exchanges now. · @xapa03 (Liquidität schrumpfend): Measured from the last weekly candle inside the green zone of the TEM, ETH found its peak within 35 days.\n\nThe top occur · @zerohedge (Fed straffend): \"The Pain Trade Was Long AI, Short Bonds\": How A NeoCloud Burst Turned The Hottest Inflation Week Of The Year Into A Fed"
   },
   "new_predictions": [
+   {
+    "id": 126,
+    "account": "tedpillows",
+    "tweet_id": "2112914560084791350",
+    "prediction_date": "2026-10-21T14:31:01+00:00",
+    "asset_or_metric": "BTC",
+    "prediction_type": "PRICE_TARGET",
+    "direction": "RANGE",
+    "target": 84000.0,
+    "target_low": null,
+    "target_high": null,
+    "deadline": "2026-10-26T14:31:01+00:00",
+    "time_horizon": "this week",
+    "conditions": null,
+    "status": "OPEN",
+    "status_note": null,
+    "btc_price_when_prediction_made": 84473.0,
+    "evidence": "$120,000,000,000 has been added to the crypto market this week as Bitcoin breaks above $84,000.",
+    "label": "BTC RANGE $84.000 (this week)",
+    "url": "https://x.com/tedpillows/status/2112914560084791350"
+   },
+   {
+    "id": 125,
+    "account": "tedpillows",
+    "tweet_id": "2112872485972533386",
+    "prediction_date": "2026-10-21T11:43:50+00:00",
+    "asset_or_metric": "BTC",
+    "prediction_type": "PRICE_TARGET",
+    "direction": "UP",
+    "target": 90000.0,
+    "target_low": null,
+    "target_high": null,
+    "deadline": null,
+    "time_horizon": "soon",
+    "conditions": "If BTC clears this level",
+    "status": "UPDATED",
+    "status_note": "BTC UP $90.000 (soon) → BTC RANGE $84.000 (this week)",
+    "btc_price_when_prediction_made": 84473.0,
+    "evidence": "If BTC clears this level, $90K could happen very soon.",
+    "label": "BTC UP $90.000 (soon)",
+    "url": "https://x.com/tedpillows/status/2112872485972533386"
+   },
    {
     "id": 124,
     "account": "tedpillows",
@@ -774,8 +820,8 @@
     "deadline": null,
     "time_horizon": null,
     "conditions": "If BTC reclaims $84",
-    "status": "OPEN",
-    "status_note": null,
+    "status": "UPDATED",
+    "status_note": "BTC RANGE $84.500–85.000 → BTC UP $90.000 (soon)",
     "btc_price_when_prediction_made": 83300.1,
     "evidence": "If BTC reclaims $84.5K-$85K from here, we could see an Uptober rally.",
     "label": "BTC RANGE $84.500–85.000",
@@ -827,6 +873,22 @@
   "updated_predictions": [
    {
     "account": "tedpillows",
+    "change": "TARGET_CHANGED,TIMEFRAME_CHANGED",
+    "note": "BTC UP $90.000 (soon) → BTC RANGE $84.000 (this week)",
+    "tweet_id": "2112914560084791350",
+    "url": "https://x.com/tedpillows/status/2112914560084791350",
+    "detected_at": "2026-10-21T17:01:50.994710+00:00"
+   },
+   {
+    "account": "tedpillows",
+    "change": "TARGET_CHANGED,CONDITION_CHANGED",
+    "note": "BTC RANGE $84.500–85.000 → BTC UP $90.000 (soon)",
+    "tweet_id": "2112872485972533386",
+    "url": "https://x.com/tedpillows/status/2112872485972533386",
+    "detected_at": "2026-10-21T17:01:50.994710+00:00"
+   },
+   {
+    "account": "tedpillows",
     "change": "CONDITION_CHANGED",
     "note": "BTC UP $85.000 (short-term) → BTC RANGE $84.500–85.000",
     "tweet_id": "2112831831728922690",
@@ -845,6 +907,13 @@
   "invalidated_predictions": [],
   "thesis_changes": [
    {
+    "account": "jameslavish",
+    "topic": "FED",
+    "from": "tightening",
+    "to": "easing",
+    "tweet_id": "2112944961935303055"
+   },
+   {
     "account": "xapa03",
     "topic": "BTC",
     "from": "bearish",
@@ -854,10 +923,146 @@
   ],
   "since_morning": {
    "since": "2026-10-21T05:00:00+00:00",
-   "relevant_posts": 16,
-   "consensus_shifts": [],
-   "new_predictions": 2,
+   "relevant_posts": 26,
+   "consensus_shifts": [
+    {
+     "topic": "FED",
+     "from": {
+      "majority": "tightening",
+      "score": 57,
+      "n": 7
+     },
+     "to": {
+      "majority": "easing",
+      "score": 67,
+      "n": 6
+     }
+    }
+   ],
+   "new_predictions": 4,
    "posts": [
+    {
+     "account": "xapa03",
+     "tweet_id": "2112948077908885784",
+     "timestamp": "2026-10-21T16:44:13+00:00",
+     "relevance": 76,
+     "summary": "Final stage finished! Still in disbelief? Short squeeze incoming 🎯 bitcoin:native Welcome to final stage of these beautiful pattern. The same bears who were still short last week…",
+     "categories": [
+      "BITCOIN"
+     ],
+     "url": "https://x.com/xapa03/status/2112948077908885784"
+    },
+    {
+     "account": "jameslavish",
+     "tweet_id": "2112944961935303055",
+     "timestamp": "2026-10-21T16:31:50+00:00",
+     "relevance": 100,
+     "summary": "The Fed and Treasury are headed for a “shotgun wedding.” Why? America's debt burden is becoming so enormous that the Fed may no longer have the freedom to fight inflation without…",
+     "categories": [
+      "FED",
+      "INFLATION",
+      "US_TREASURIES"
+     ],
+     "url": "https://x.com/briteresi/status/2112944961935303055"
+    },
+    {
+     "account": "timevalueofbtc",
+     "tweet_id": "2112941721655107704",
+     "timestamp": "2026-10-21T16:18:57+00:00",
+     "relevance": 74,
+     "summary": "Do you understand the significance of evoking the 1863 National Currency Act? The US dollar is private money, for the most part. It takes the next step with GENIUS Act…",
+     "categories": [
+      "DXY",
+      "BANKING",
+      "STABLECOINS"
+     ],
+     "url": "https://x.com/timevalueofbtc/status/2112941721655107704"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2112918407557312658",
+     "timestamp": "2026-10-21T14:46:19+00:00",
+     "relevance": 62,
+     "summary": "$BTC buying happening across all exchanges now.",
+     "categories": [
+      "BITCOIN"
+     ],
+     "url": "https://x.com/tedpillows/status/2112918407557312658"
+    },
+    {
+     "account": "osint613",
+     "tweet_id": "2112917891444060658",
+     "timestamp": "2026-10-21T14:44:16+00:00",
+     "relevance": 65,
+     "summary": "Pakistan's army chief Asim Munir carried a U.S. \"final warning\" to Tehran during his October 20 visit, Lebanon's Al-Akhbar reported, citing leaks. The message was that Iran must…",
+     "categories": [
+      "GEOPOLITICS",
+      "WAR"
+     ],
+     "url": "https://x.com/osint613/status/2112917891444060658"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2112914560084791350",
+     "timestamp": "2026-10-21T14:31:01+00:00",
+     "relevance": 100,
+     "summary": "$120,000,000,000 has been added to the crypto market this week as Bitcoin breaks above $84,000.",
+     "categories": [
+      "BITCOIN",
+      "BTC_PRICE"
+     ],
+     "url": "https://x.com/tedpillows/status/2112914560084791350"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2112900504401441179",
+     "timestamp": "2026-10-21T13:35:10+00:00",
+     "relevance": 62,
+     "summary": "US market opened and $BTC started dumping right away. Is Jane Street back?",
+     "categories": [
+      "BITCOIN"
+     ],
+     "url": "https://x.com/tedpillows/status/2112900504401441179"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2112885361261330749",
+     "timestamp": "2026-10-21T12:35:00+00:00",
+     "relevance": 92,
+     "summary": "$BTC is holding above the $83,000 level. US stock futures are up, while DXY is slightly down. Pre-market stock trading insights: ▫️Nasdaq futures is up 0.59% 🟠 ▫️S&P futures is up…",
+     "categories": [
+      "BITCOIN",
+      "BTC_PRICE",
+      "DXY",
+      "EQUITIES"
+     ],
+     "url": "https://x.com/tedpillows/status/2112885361261330749"
+    },
+    {
+     "account": "osint613",
+     "tweet_id": "2112882081764376713",
+     "timestamp": "2026-10-21T12:21:58+00:00",
+     "relevance": 65,
+     "summary": "Iranian President Masoud Pezeshkian: \"Trump officially says we want Iranian oil and gas. We are in a super challenge, not a challenge.\" \"America didn't think we would stand…",
+     "categories": [
+      "ENERGY",
+      "GEOPOLITICS",
+      "WAR"
+     ],
+     "url": "https://x.com/osint613/status/2112882081764376713"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2112872485972533386",
+     "timestamp": "2026-10-21T11:43:50+00:00",
+     "relevance": 100,
+     "summary": "$BTC has now entered the major sell-side zone. A lot of sell orders have been placed between $83,500 and $85,000. If BTC clears this level, $90K could happen very soon. Media",
+     "categories": [
+      "BITCOIN",
+      "BTC_PRICE"
+     ],
+     "url": "https://x.com/tedpillows/status/2112872485972533386"
+    },
     {
      "account": "e_boeminghaus",
      "tweet_id": "2112840052820607414",
@@ -1046,29 +1251,17 @@
       "GEOPOLITICS"
      ],
      "url": "https://x.com/e_boeminghaus/status/2112600119476625580"
-    },
-    {
-     "account": "e_boeminghaus",
-     "tweet_id": "2112599703602757749",
-     "timestamp": "2026-10-20T17:39:54+00:00",
-     "relevance": 74,
-     "summary": "Gaspreis explodiert auf über 90 Euro! Deutschland steuert mit erschreckend leeren #Gasspeichern auf den Winter zu. #Gaspreise #Energiekrise #Deutschland #LNG Alarmstufe auf dem…",
-     "categories": [
-      "DXY",
-      "ENERGY"
-     ],
-     "url": "https://x.com/e_boeminghaus/status/2112599703602757749"
     }
    ]
   },
   "stats": {
-   "posts_new": 79,
+   "posts_new": 97,
    "posts_relevant": 10,
    "predictions_new": 2,
-   "predictions_updated": 1,
+   "predictions_updated": 2,
    "invalidated": 0,
-   "posts_analysed": 81,
-   "evaluated": 0
+   "posts_analysed": 99,
+   "evaluated": 1
   }
  }
 }
