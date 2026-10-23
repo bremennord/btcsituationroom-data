@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-22T17:05:18.468866+00:00",
- "btc_price": 81091.6,
+ "generated_at": "2026-10-23T05:11:34.768207+00:00",
+ "btc_price": 81686.1,
  "outlook": {
   "BTC": {
    "horizons": {
@@ -23,29 +23,36 @@
      "accounts": 8
     },
     "7d": {
-     "label": "leicht bullisch",
+     "label": "neutral / gemischt",
      "counts": {
-      "pos": 5,
+      "pos": 4,
       "neu": 2,
-      "neg": 2
+      "neg": 3
      },
      "accounts": 9
     }
    },
-   "scenario": "Mehrheit (7 T): leicht bullisch. Wahrscheinlichste Zone laut Quellen: $80k–81k bis $82k–87k; Ausbruch über $82k–87k wäre das nächste Signal.",
-   "risk": "Bruch unter $80k–81k (genannt von @killaxbt, @tedpillows)",
+   "scenario": "Mehrheit (7 T): neutral / gemischt. Wahrscheinlichste Zone laut Quellen: $80k–81k bis $82k–87k; Ausbruch über $82k–87k wäre das nächste Signal.",
+   "risk": "Bruch unter $80k–81k (genannt von @tedpillows, @xapa03)",
    "consensus": {
-    "pos": 5,
+    "pos": 4,
     "neu": 2,
-    "neg": 2
+    "neg": 3
    },
-   "confidence": "Mittel",
+   "confidence": "Niedrig",
    "levels": {
     "support": "$80k–81k",
     "resistance": "$82k–87k"
    },
    "n_posts": 63,
    "sources": [
+    {
+     "account": "jameslavish",
+     "tweet_id": "2113341757832548597",
+     "url": "https://x.com/jameslavish/status/2113341757832548597",
+     "summary": "So far in the Great Information Freakout of October 22, we have: The entire internet and every user is at risk to a massive cyberattack, Quantum computing will soon break bitcoin…",
+     "timestamp": "2026-10-22T18:48:33+00:00"
+    },
     {
      "account": "killaxbt",
      "tweet_id": "2113109977439068212",
@@ -94,13 +101,6 @@
      "url": "https://x.com/killaxbt/status/2111177575934673239",
      "summary": "I rarely share my thoughts on altcoins, but I think many are sitting in fairly decent positions. A lot of coins flushed 20–30% during this $BTC drop, which is substantial…",
      "timestamp": "2026-10-16T19:28:52+00:00"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2110787882717729092",
-     "url": "https://x.com/tedpillows/status/2110787882717729092",
-     "summary": "$BTC buy side is currently weak in the short term. On the upside, there aren't major sell orders until $83,700-$84,000. But to the downside, there aren't major buy orders until…",
-     "timestamp": "2026-10-15T17:40:22+00:00"
     }
    ],
    "kind": "system"
@@ -140,7 +140,7 @@
     "Fed restriktiv (4)",
     "Fed-Lockerung (4)"
    ],
-   "risk": "Anstehende Termine in den Posts: EARNINGS (20×), FOMC (2×), PPI (2×)",
+   "risk": "Anstehende Termine in den Posts: EARNINGS (20×), FOMC (2×), PCE (1×)",
    "consensus": {
     "pos": 4,
     "neu": 0,
@@ -164,18 +164,18 @@
      "timestamp": "2026-10-16T13:40:10+00:00"
     },
     {
+     "account": "xapa03",
+     "tweet_id": "2113341979690189249",
+     "url": "https://x.com/xapa03/status/2113341979690189249",
+     "summary": "The panic in the market right now is hilarious to watch. Emotional retail traders are once again fully convinced we’re heading to 40k or 50k. This is exactly the sentiment we…",
+     "timestamp": "2026-10-22T18:49:26+00:00"
+    },
+    {
      "account": "timevalueofbtc",
      "tweet_id": "2112714359982231734",
      "url": "https://x.com/timevalueofbtc/status/2112714359982231734",
      "summary": "A lot of signal packed into this episode: -credit defaults -tight money markets -is this an AI bust? -bitcoin trading well as euro, pound trade weaker -typical Dines 17-minute…",
      "timestamp": "2026-10-21T01:15:30+00:00"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2110825185339125920",
-     "url": "https://x.com/osint613/status/2110825185339125920",
-     "summary": "US Treasury Secretary Bessent: The noose is tightening around Iran’s economy, and not even Iran’s so-called allies can save it. The Department of the Treasury will not relent…",
-     "timestamp": "2026-10-15T20:08:36+00:00"
     },
     {
      "account": "timevalueofbtc",
@@ -243,7 +243,7 @@
     "neg": 0
    },
    "confidence": "Mittel",
-   "n_posts": 8,
+   "n_posts": 7,
    "sources": [
     {
      "account": "zerohedge",
@@ -258,13 +258,6 @@
      "url": "https://x.com/timevalueofbtc/status/2112714359982231734",
      "summary": "A lot of signal packed into this episode: -credit defaults -tight money markets -is this an AI bust? -bitcoin trading well as euro, pound trade weaker -typical Dines 17-minute…",
      "timestamp": "2026-10-21T01:15:30+00:00"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2110825185339125920",
-     "url": "https://x.com/osint613/status/2110825185339125920",
-     "summary": "US Treasury Secretary Bessent: The noose is tightening around Iran’s economy, and not even Iran’s so-called allies can save it. The Department of the Treasury will not relent…",
-     "timestamp": "2026-10-15T20:08:36+00:00"
     },
     {
      "account": "timevalueofbtc",
@@ -308,7 +301,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 83,
+     "posts": 82,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -318,7 +311,7 @@
     },
     {
      "name": "Russland / Ukraine",
-     "posts": 46,
+     "posts": 47,
      "impact": [
       "Energie ↑",
       "Europa-Risiko ↑",
@@ -328,6 +321,20 @@
    ],
    "n_posts": 160,
    "sources": [
+    {
+     "account": "jameslavish",
+     "tweet_id": "2113341757832548597",
+     "url": "https://x.com/jameslavish/status/2113341757832548597",
+     "summary": "So far in the Great Information Freakout of October 22, we have: The entire internet and every user is at risk to a massive cyberattack, Quantum computing will soon break bitcoin…",
+     "timestamp": "2026-10-22T18:48:33+00:00"
+    },
+    {
+     "account": "osint613",
+     "tweet_id": "2113445060608176388",
+     "url": "https://x.com/osint613/status/2113445060608176388",
+     "summary": "WSJ: Iran is now warning that renewed U.S. and Israeli airstrikes would trigger retaliation across the Persian Gulf, targeting American military installations and warships, as…",
+     "timestamp": "2026-10-23T01:39:03+00:00"
+    },
     {
      "account": "tedpillows",
      "tweet_id": "2113230911978545211",
@@ -369,49 +376,62 @@
      "url": "https://x.com/osint613/status/2113206164758384775",
      "summary": "A Greek bank is under investigation after the U.S. Treasury Department issued an administrative order to advance the probe. Greece's Ministry of Finance followed with an…",
      "timestamp": "2026-10-22T09:49:45+00:00"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2113161617663783420",
-     "url": "https://x.com/tedpillows/status/2113161617663783420",
-     "summary": "Lovely world we're living in. The internet isn't safe. Gold might be manufactured in labs. The dollar and euro keep losing purchasing power. And even Bitcoin may not be immune to…",
-     "timestamp": "2026-10-22T06:52:44+00:00"
-    },
-    {
-     "account": "e_boeminghaus",
-     "tweet_id": "2112599703602757749",
-     "url": "https://x.com/e_boeminghaus/status/2112599703602757749",
-     "summary": "Gaspreis explodiert auf über 90 Euro! Deutschland steuert mit erschreckend leeren #Gasspeichern auf den Winter zu. #Gaspreise #Energiekrise #Deutschland #LNG Alarmstufe auf dem…",
-     "timestamp": "2026-10-20T17:39:54+00:00"
     }
    ],
    "impact_kind": "Typisches Marktmuster (Systemeinschätzung, keine Prognose)"
   }
  },
  "changed": {
-  "since": "2026-10-22T11:07:04.896127+00:00",
+  "since": "2026-10-22T17:05:27.506279+00:00",
   "new": [
    {
-    "account": "tedpillows",
-    "text": "$BTC has dropped below the $82,000 level. US stock futures are down, while oil is surging. Pre-market stock trading insights: ▫️Nasdaq futures is down 1.79% 🔴 ▫️S&P futures is…",
-    "url": "https://x.com/tedpillows/status/2113230911978545211"
+    "account": "jameslavish",
+    "text": "BTC UP (soon)",
+    "url": "https://x.com/jameslavish/status/2113341757832548597"
    },
    {
-    "account": "tedpillows",
-    "text": "A massive $50,000,000 $BTC buy wall has been placed at $80,000. Will this be filled? Media",
-    "url": "https://x.com/tedpillows/status/2113242203023966659"
+    "account": "jameslavish",
+    "text": "So far in the Great Information Freakout of October 22, we have: The entire internet and every user is at risk to a massive cyberattack, Quantum computing will soon break bitcoin…",
+    "url": "https://x.com/jameslavish/status/2113341757832548597"
+   },
+   {
+    "account": "osint613",
+    "text": "WSJ: Iran is now warning that renewed U.S. and Israeli airstrikes would trigger retaliation across the Persian Gulf, targeting American military installations and warships, as…",
+    "url": "https://x.com/osint613/status/2113445060608176388"
+   },
+   {
+    "account": "xapa03",
+    "text": "The panic in the market right now is hilarious to watch. Emotional retail traders are once again fully convinced we’re heading to 40k or 50k. This is exactly the sentiment we…",
+    "url": "https://x.com/xapa03/status/2113341979690189249"
    }
   ],
-  "changed": [],
-  "new_consensus": [],
+  "changed": [
+   {
+    "account": "jameslavish",
+    "text": "vorher BTC DOWN $10.000, jetzt BTC UP (soon)",
+    "url": "https://x.com/jameslavish/status/2113341757832548597"
+   }
+  ],
+  "new_consensus": [
+   "Bitcoin: leicht bullisch → neutral / gemischt"
+  ],
   "no_change": [
-   "Bitcoin bleibt leicht bullisch",
    "Makro bleibt leicht Risk-On",
-   "Liquidität bleibt expandierend",
-   "Geopolitisches Risiko bleibt Hoch"
+   "Liquidität bleibt expandierend"
   ]
  },
  "important_posts": [
+  {
+   "account": "jameslavish",
+   "tweet_id": "2113341757832548597",
+   "url": "https://x.com/jameslavish/status/2113341757832548597",
+   "summary": "So far in the Great Information Freakout of October 22, we have: The entire internet and every user is at risk to a massive cyberattack, Quantum computing will soon break bitcoin…",
+   "timestamp": "2026-10-22T18:48:33+00:00",
+   "category": "BITCOIN",
+   "relevance": 100,
+   "text": "So far in the Great Information Freakout of October 22, we have:\n\n\n\nThe entire internet and every user is at risk to a massive cyberattack, \n\n\n\nQuantum computing will soon break bitcoin and send it to zero,\n\n\n\nA company has devised a way to create pure and unlimited gold through fusion,\n\n\n\nThere will never be a resolution to the war in Iran,\n\n\n\nAnd Democrats are on track to sweep the midterm elections and turn the Un",
+   "why": "Ändert eine frühere Prognose dieses Accounts"
+  },
   {
    "account": "killaxbt",
    "tweet_id": "2113109977439068212",
@@ -468,40 +488,40 @@
    "why": "Konkrete Prognose: BTC UP $94.000"
   },
   {
+   "account": "osint613",
+   "tweet_id": "2113445060608176388",
+   "url": "https://x.com/osint613/status/2113445060608176388",
+   "summary": "WSJ: Iran is now warning that renewed U.S. and Israeli airstrikes would trigger retaliation across the Persian Gulf, targeting American military installations and warships, as…",
+   "timestamp": "2026-10-23T01:39:03+00:00",
+   "category": "FED",
+   "relevance": 95,
+   "text": "WSJ: Iran is now warning that renewed U.S. and Israeli airstrikes would trigger retaliation across the Persian Gulf, targeting American military installations and warships, as well as civilian infrastructure in neighboring countries, including airports and oil pipelines.",
+   "why": "Mögliche Wirkung auf Öl, Gold, Risiko-Assets"
+  },
+  {
    "account": "xapa03",
-   "tweet_id": "2112820160151400875",
-   "url": "https://x.com/xapa03/status/2112820160151400875",
-   "summary": "This Bitcoin bull run is going to be ugly in the best way for everyone who is bearish. Between 2028 and 2029 we’re looking at a move that melts faces, and $230k to $340k stops…",
-   "timestamp": "2026-10-21T08:15:55+00:00",
+   "tweet_id": "2113341979690189249",
+   "url": "https://x.com/xapa03/status/2113341979690189249",
+   "summary": "The panic in the market right now is hilarious to watch. Emotional retail traders are once again fully convinced we’re heading to 40k or 50k. This is exactly the sentiment we…",
+   "timestamp": "2026-10-22T18:49:26+00:00",
    "category": "BITCOIN",
    "relevance": 94,
-   "text": "This Bitcoin bull run is going to be ugly in the best way for everyone who is bearish.\n\nBetween 2028 and 2029 we’re looking at a move that melts faces, and $230k to $340k stops being a fantasy and just becomes the new targets people have to live with.\n\nWe’ve seen this movie before.\n\nThe biggest runs always show up after most people have already given up and convinced themselves it’s over.\n\nRight now the setup is lini",
-   "why": "BTC bullisch"
-  },
-  {
-   "account": "timevalueofbtc",
-   "tweet_id": "2112714359982231734",
-   "url": "https://x.com/timevalueofbtc/status/2112714359982231734",
-   "summary": "A lot of signal packed into this episode: -credit defaults -tight money markets -is this an AI bust? -bitcoin trading well as euro, pound trade weaker -typical Dines 17-minute…",
-   "timestamp": "2026-10-21T01:15:30+00:00",
-   "category": "BITCOIN",
-   "relevance": 94,
-   "text": "A lot of signal packed into this episode:\n\n\n\n-credit defaults\n\n-tight money markets\n\n-is this an AI bust?\n\n-bitcoin trading well as euro, pound trade weaker\n\n-typical Dines 17-minute first answer, uninterrupted\n🚨 NEW VIDEO 🚨 The Most Important Thing About This Debt Crisis with Matt Dines @LeveredUSTs on why QE is the wrong prescription when the real constraint is physical, why companies are issuing bonds with a gun t",
-   "why": "Liquidität expandiert"
-  },
-  {
-   "account": "danheld",
-   "tweet_id": "2112917018030854445",
-   "url": "https://x.com/danheld/status/2112917018030854445",
-   "summary": "Bitcoin just broke $84,000! 🚀 Insane how bearish everyone was just 3 months ago. Fear and apathy usually mark the bottom of a cycle and that felt like it. What price do you think…",
-   "timestamp": "2026-10-21T14:40:47+00:00",
-   "category": "BITCOIN",
-   "relevance": 92,
-   "text": "Bitcoin just broke $84,000! 🚀\n\n\n\nInsane how bearish everyone was just 3 months ago. \n\n\n\nFear and apathy usually mark the bottom of a cycle and that felt like it. \n\n\n\nWhat price do you think we hit by end of 2026?",
+   "text": "The panic in the market right now is hilarious to watch.\n\nEmotional retail traders are once again fully convinced we’re heading to 40k or 50k.\n\nThis is exactly the sentiment we need, absolute conviction from the weak hands, before it pumps toward $94,000.\n\nAnyone claiming we’re still in a bear market with weak arguments is talking pure bullshit.\n\nThis game requires patience, discipline, a strategy, and a plan you act",
    "why": "Gegenposition zum aktuellen X-Konsens"
   }
  ],
  "top_predictions": [
+  {
+   "account": "jameslavish",
+   "label": "BTC UP (soon)",
+   "url": "https://x.com/jameslavish/status/2113341757832548597",
+   "deadline": null,
+   "time_horizon": "soon",
+   "prediction_date": "2026-10-22T18:48:33+00:00",
+   "distance_pct": null,
+   "conditions": null,
+   "evidence": "Quantum computing will soon break bitcoin and send it to zero,"
+  },
   {
    "account": "killaxbt",
    "label": "BTC UP $87.000",
@@ -509,7 +529,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-22T03:27:32+00:00",
-   "distance_pct": 7.2,
+   "distance_pct": 6.7,
    "conditions": "if it remains below this orange area",
    "evidence": "Technically speaking, if it remains below this orange area, $BTC could make a leg up to new highs above 87K."
   },
@@ -520,20 +540,9 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-20T09:02:46+00:00",
-   "distance_pct": 15.8,
+   "distance_pct": 15.3,
    "conditions": null,
    "evidence": "Forced covering then drives the move higher, with Bitcoin targeting the 94k region as the next significant level."
-  },
-  {
-   "account": "jameslavish",
-   "label": "BTC DOWN $10.000",
-   "url": "https://x.com/jameslavish/status/2111171141364817941",
-   "deadline": null,
-   "time_horizon": null,
-   "prediction_date": "2026-10-16T19:03:18+00:00",
-   "distance_pct": -87.7,
-   "conditions": "if the US stock market suffers a 20% drawdown",
-   "evidence": "🚨 ALERT: Bloomberg Intelligence strategist Mike McGlone warns Bitcoin could fall toward $10,000, particularly if the US stock market suffers a 20% drawdown."
   },
   {
    "account": "killaxbt",
@@ -542,7 +551,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-10-13T18:59:02+00:00",
-   "distance_pct": 23.2,
+   "distance_pct": 22.7,
    "conditions": null,
    "evidence": "It’s a date I’ve been tracking and talking about since $BTC first surpassed 100K, around a year and a half ago."
   },
@@ -562,16 +571,16 @@
   {
    "topic": "BTC",
    "main": "bullish",
-   "main_share": 56,
+   "main_share": 67,
    "account": "xapa03",
    "stance": "bearish",
-   "text": "The indicator nailed the top perfectly yesterday, so it came as absolutely no surprise to me that we are seeing a minor correction.\n\nLate longs have been flushed out, while shorts are feeling more com",
-   "url": "https://x.com/xapa03/status/2113216570491130213"
+   "text": "📢The people of Bitcoin County have been demanding and Sheriff has been responding.\n\n\n\nAnother post for today, guys, this time, freshly printe 3-day chart data. Let's dive in:\n\n\n\n1) Bear Market Patrol ",
+   "url": "https://x.com/thebtcfrontierx/status/2113370333579260210"
   },
   {
    "topic": "BTC",
    "main": "bullish",
-   "main_share": 56,
+   "main_share": 67,
    "account": "tedpillows",
    "stance": "bearish",
    "text": "A massive $50,000,000 $BTC buy wall has been placed at $80,000.\n\n\n\nWill this be filled?\nMedia",
@@ -590,16 +599,17 @@
  "consensus_21d": {
   "BTC": {
    "majority": "bullish",
-   "score": 56,
+   "score": 67,
    "n": 9,
    "counts": {
-    "bullish": 5,
-    "neutral": 1,
+    "bullish": 6,
+    "neutral": 0,
     "bearish": 3
    },
    "supporting": [
     "killaxbt",
     "tylerdurden",
+    "zerohedge",
     "jameslavish",
     "timevalueofbtc",
     "nolimitgains"
@@ -652,10 +662,10 @@
   },
   "GEO": {
    "majority": "elevated",
-   "score": 88,
-   "n": 8,
+   "score": 89,
+   "n": 9,
    "counts": {
-    "elevated": 7,
+    "elevated": 8,
     "neutral": 0,
     "easing": 1
    },
@@ -664,6 +674,7 @@
     "osint613",
     "zerohedge",
     "e_boeminghaus",
+    "jameslavish",
     "timevalueofbtc",
     "danheld",
     "nolimitgains"
@@ -674,30 +685,30 @@
   }
  },
  "btc_targets": {
-  "count": 3,
-  "median": 87000.0,
-  "low": 10000.0,
+  "count": 2,
+  "median": 94000.0,
+  "low": 87000.0,
   "high": 94000.0
  },
  "daily": {
-  "report_date": "2026-10-22",
-  "generated_at": "2026-10-22T17:01:41.787492+00:00",
+  "report_date": "2026-10-23",
+  "generated_at": "2026-10-23T05:01:56.730611+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-10-21T17:01:41.770261+00:00",
-   "to": "2026-10-22T17:01:41.787492+00:00"
+   "from": "2026-10-22T05:01:56.712481+00:00",
+   "to": "2026-10-23T05:01:56.730611+00:00"
   },
   "key_points": [
+   {
+    "text": "@jameslavish ändert Prognose: BTC DOWN $10.000 → BTC UP (soon)",
+    "ids": [
+     "2113341757832548597"
+    ]
+   },
    {
     "text": "@killaxbt ändert Prognose: BTC UP $150.000 → BTC UP $87.000",
     "ids": [
      "2113109977439068212"
-    ]
-   },
-   {
-    "text": "@tedpillows ändert Prognose: BTC UP $90.000 (soon) → BTC RANGE $84.000 (this week)",
-    "ids": [
-     "2112914560084791350"
     ]
    },
    {
@@ -707,54 +718,62 @@
     ]
    },
    {
-    "text": "Neue BTC-Prognose von @killaxbt: BTC UP $87.000",
+    "text": "Neue BTC-Prognose von @jameslavish: BTC UP (soon)",
     "ids": [
-     "2113109977439068212"
+     "2113341757832548597"
     ]
    },
    {
-    "text": "@tedpillows: $BTC is slipping under $81.9K right now. Another wave of longs got wiped out this morning. About $34M in total. The leverage is pretty much cleaned out. But I'm still not seeing…",
+    "text": "@osint613: WSJ: Iran is now warning that renewed U.S. and Israeli airstrikes would trigger retaliation across the Persian Gulf, targeting American military installations and warships, as…",
     "ids": [
-     "2113189479187992944"
+     "2113445060608176388"
     ]
    }
   ],
   "sections": {
-   "TOP_DEVELOPMENTS": "@killaxbt: For bears, the major area held. For bulls, will the major area reject? Let’s see. So far, USDT.D has broken down and is now coming into its first BOS retest on the daily TF.… · @tedpillows: $BTC is slipping under $81.9K right now. Another wave of longs got wiped out this morning. About $34M in total. The leverage is pretty much cleaned out. But I'm still not seeing… · @e_boeminghaus: Die künstliche Intelligenz frisst ihre nächsten Opfer! Jetzt meldet ausgerechnet der Bildgigant Getty Images Insolvenz an! #GettyImages #KI #Insolvenz #KünstlicheIntelligenz Ein…",
-   "BTC_OUTLOOK": "Stimmung 56 % bullisch (9/12 Accounts mit Meinung). Median offener Kursziele $87.000. @killaxbt: For bears, the major area held. For bulls, will the major area reject? Let’s see. So far, USDT.D has broken down and is now coming into its first BOS retest on the daily TF.… · @tedpillows: $BTC is slipping under $81.9K right now. Another wave of longs got wiped out this morning. About $34M in total. The leverage is pretty much cleaned out. But I'm still not seeing… · @xapa03: The indicator nailed the top perfectly yesterday, so it came as absolutely no surprise to me that we are seeing a minor correction. Late longs have been flushed out, while shorts…",
-   "MACRO_OUTLOOK": "@killaxbt: For bears, the major area held. For bulls, will the major area reject? Let’s see. So far, USDT.D has broken down and is now coming into its first BOS retest on the daily TF.… · @tedpillows: $BTC has dropped below the $82,000 level. US stock futures are down, while oil is surging. Pre-market stock trading insights: ▫️Nasdaq futures is down 1.79% 🔴 ▫️S&P futures is… · @e_boeminghaus: Die künstliche Intelligenz frisst ihre nächsten Opfer! Jetzt meldet ausgerechnet der Bildgigant Getty Images Insolvenz an! #GettyImages #KI #Insolvenz #KünstlicheIntelligenz Ein…",
-   "GLOBAL_LIQUIDITY": "@killaxbt: For bears, the major area held. For bulls, will the major area reject? Let’s see. So far, USDT.D has broken down and is now coming into its first BOS retest on the daily TF.…",
-   "FED_RATES": "@tedpillows: Brent crude oil has hit a 5-month high. This could result in more future rate hikes.",
-   "DXY_TREASURIES": "@e_boeminghaus: Die künstliche Intelligenz frisst ihre nächsten Opfer! Jetzt meldet ausgerechnet der Bildgigant Getty Images Insolvenz an! #GettyImages #KI #Insolvenz #KünstlicheIntelligenz Ein… · @osint613: A Greek bank is under investigation after the U.S. Treasury Department issued an administrative order to advance the probe. Greece's Ministry of Finance followed with an… · @tedpillows: Lovely world we're living in. The internet isn't safe. Gold might be manufactured in labs. The dollar and euro keep losing purchasing power. And even Bitcoin may not be immune to…",
-   "GOLD": "@tedpillows: Lovely world we're living in. The internet isn't safe. Gold might be manufactured in labs. The dollar and euro keep losing purchasing power. And even Bitcoin may not be immune to…",
-   "GEOPOLITICS": "@tedpillows: $BTC has dropped below the $82,000 level. US stock futures are down, while oil is surging. Pre-market stock trading insights: ▫️Nasdaq futures is down 1.79% 🔴 ▫️S&P futures is… · @e_boeminghaus: Die künstliche Intelligenz frisst ihre nächsten Opfer! Jetzt meldet ausgerechnet der Bildgigant Getty Images Insolvenz an! #GettyImages #KI #Insolvenz #KünstlicheIntelligenz Ein… · @osint613: A Greek bank is under investigation after the U.S. Treasury Department issued an administrative order to advance the probe. Greece's Ministry of Finance followed with an…",
-   "CONSENSUS": "BTC: 56 % bullisch (5/9) · Liquidität: 71 % expandierend (5/7) · Fed: 67 % lockernd (4/6) · Geopolitik-Risiko: 88 % erhöht (7/8)",
-   "CONTRARIAN": "@xapa03 (BTC bärisch): The indicator nailed the top perfectly yesterday, so it came as absolutely no surprise to me that we are seeing a minor  · @tedpillows (BTC bärisch): A massive $50,000,000 $BTC buy wall has been placed at $80,000.\n\n\n\nWill this be filled?\nMedia · @xapa03 (Liquidität schrumpfend): Measured from the last weekly candle inside the green zone of the TEM, ETH found its peak within 35 days.\n\nThe top occur · @zerohedge (Fed straffend): \"The Pain Trade Was Long AI, Short Bonds\": How A NeoCloud Burst Turned The Hottest Inflation Week Of The Year Into A Fed"
+   "TOP_DEVELOPMENTS": "@jameslavish: So far in the Great Information Freakout of October 22, we have: The entire internet and every user is at risk to a massive cyberattack, Quantum computing will soon break bitcoin… · @osint613: WSJ: Iran is now warning that renewed U.S. and Israeli airstrikes would trigger retaliation across the Persian Gulf, targeting American military installations and warships, as… · @xapa03: The panic in the market right now is hilarious to watch. Emotional retail traders are once again fully convinced we’re heading to 40k or 50k. This is exactly the sentiment we…",
+   "BTC_OUTLOOK": "Stimmung 67 % bullisch (9/12 Accounts mit Meinung). Median offener Kursziele $94.000. @jameslavish: So far in the Great Information Freakout of October 22, we have: The entire internet and every user is at risk to a massive cyberattack, Quantum computing will soon break bitcoin… · @xapa03: The panic in the market right now is hilarious to watch. Emotional retail traders are once again fully convinced we’re heading to 40k or 50k. This is exactly the sentiment we… · @tedpillows: $BTC is slipping under $81.9K right now. Another wave of longs got wiped out this morning. About $34M in total. The leverage is pretty much cleaned out. But I'm still not seeing…",
+   "MACRO_OUTLOOK": "@jameslavish: So far in the Great Information Freakout of October 22, we have: The entire internet and every user is at risk to a massive cyberattack, Quantum computing will soon break bitcoin… · @tedpillows: $BTC has dropped below the $82,000 level. US stock futures are down, while oil is surging. Pre-market stock trading insights: ▫️Nasdaq futures is down 1.79% 🔴 ▫️S&P futures is… · @osint613: A Greek bank is under investigation after the U.S. Treasury Department issued an administrative order to advance the probe. Greece's Ministry of Finance followed with an…",
+   "GLOBAL_LIQUIDITY": "@xapa03: The panic in the market right now is hilarious to watch. Emotional retail traders are once again fully convinced we’re heading to 40k or 50k. This is exactly the sentiment we…",
+   "FED_RATES": "@osint613: WSJ: Iran is now warning that renewed U.S. and Israeli airstrikes would trigger retaliation across the Persian Gulf, targeting American military installations and warships, as… · @tedpillows: Brent crude oil has hit a 5-month high. This could result in more future rate hikes.",
+   "DXY_TREASURIES": "@osint613: A Greek bank is under investigation after the U.S. Treasury Department issued an administrative order to advance the probe. Greece's Ministry of Finance followed with an… · @tedpillows: Lovely world we're living in. The internet isn't safe. Gold might be manufactured in labs. The dollar and euro keep losing purchasing power. And even Bitcoin may not be immune to… · @e_boeminghaus: Finale! We've reached the mayhem stage for France. It's 10-year yield is exploding higher as is Italy's. Everyone else is getting safe haven inflows, notably the US and Germany.…",
+   "GOLD": "@jameslavish: So far in the Great Information Freakout of October 22, we have: The entire internet and every user is at risk to a massive cyberattack, Quantum computing will soon break bitcoin… · @tedpillows: Lovely world we're living in. The internet isn't safe. Gold might be manufactured in labs. The dollar and euro keep losing purchasing power. And even Bitcoin may not be immune to…",
+   "GEOPOLITICS": "@jameslavish: So far in the Great Information Freakout of October 22, we have: The entire internet and every user is at risk to a massive cyberattack, Quantum computing will soon break bitcoin… · @osint613: WSJ: Iran is now warning that renewed U.S. and Israeli airstrikes would trigger retaliation across the Persian Gulf, targeting American military installations and warships, as… · @tedpillows: $BTC has dropped below the $82,000 level. US stock futures are down, while oil is surging. Pre-market stock trading insights: ▫️Nasdaq futures is down 1.79% 🔴 ▫️S&P futures is…",
+   "CONSENSUS": "BTC: 67 % bullisch (6/9) · Liquidität: 71 % expandierend (5/7) · Fed: 67 % lockernd (4/6) · Geopolitik-Risiko: 89 % erhöht (8/9)",
+   "CONTRARIAN": "@xapa03 (BTC bärisch): 📢The people of Bitcoin County have been demanding and Sheriff has been responding.\n\n\n\nAnother post for today, guys, this · @tedpillows (BTC bärisch): A massive $50,000,000 $BTC buy wall has been placed at $80,000.\n\n\n\nWill this be filled?\nMedia · @xapa03 (Liquidität schrumpfend): Measured from the last weekly candle inside the green zone of the TEM, ETH found its peak within 35 days.\n\nThe top occur · @zerohedge (Fed straffend): \"The Pain Trade Was Long AI, Short Bonds\": How A NeoCloud Burst Turned The Hottest Inflation Week Of The Year Into A Fed"
   },
   "new_predictions": [
    {
-    "id": 127,
-    "account": "killaxbt",
-    "tweet_id": "2113109977439068212",
-    "prediction_date": "2026-10-22T03:27:32+00:00",
+    "id": 128,
+    "account": "jameslavish",
+    "tweet_id": "2113341757832548597",
+    "prediction_date": "2026-10-22T18:48:33+00:00",
     "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
+    "prediction_type": "DIRECTION",
     "direction": "UP",
-    "target": 87000.0,
+    "target": null,
     "target_low": null,
     "target_high": null,
     "deadline": null,
-    "time_horizon": null,
-    "conditions": "if it remains below this orange area",
+    "time_horizon": "soon",
+    "conditions": null,
     "status": "OPEN",
     "status_note": null,
-    "btc_price_when_prediction_made": 82839.1,
-    "evidence": "Technically speaking, if it remains below this orange area, $BTC could make a leg up to new highs above 87K.",
-    "label": "BTC UP $87.000",
-    "url": "https://x.com/killaxbt/status/2113109977439068212"
+    "btc_price_when_prediction_made": 81315.9,
+    "evidence": "Quantum computing will soon break bitcoin and send it to zero,",
+    "label": "BTC UP (soon)",
+    "url": "https://x.com/jameslavish/status/2113341757832548597"
    }
   ],
   "updated_predictions": [
+   {
+    "account": "jameslavish",
+    "change": "DIRECTION_FLIP,TARGET_CHANGED",
+    "note": "BTC DOWN $10.000 → BTC UP (soon)",
+    "tweet_id": "2113341757832548597",
+    "url": "https://x.com/jameslavish/status/2113341757832548597",
+    "detected_at": "2026-10-23T05:01:56.571871+00:00"
+   },
    {
     "account": "killaxbt",
     "change": "TARGET_CHANGED,CONDITION_CHANGED",
@@ -762,22 +781,6 @@
     "tweet_id": "2113109977439068212",
     "url": "https://x.com/killaxbt/status/2113109977439068212",
     "detected_at": "2026-10-22T05:02:04.408997+00:00"
-   },
-   {
-    "account": "tedpillows",
-    "change": "TARGET_CHANGED,TIMEFRAME_CHANGED",
-    "note": "BTC UP $90.000 (soon) → BTC RANGE $84.000 (this week)",
-    "tweet_id": "2112914560084791350",
-    "url": "https://x.com/tedpillows/status/2112914560084791350",
-    "detected_at": "2026-10-21T17:01:50.994710+00:00"
-   },
-   {
-    "account": "tedpillows",
-    "change": "TARGET_CHANGED,CONDITION_CHANGED",
-    "note": "BTC RANGE $84.500–85.000 → BTC UP $90.000 (soon)",
-    "tweet_id": "2112872485972533386",
-    "url": "https://x.com/tedpillows/status/2112872485972533386",
-    "detected_at": "2026-10-21T17:01:50.994710+00:00"
    }
   ],
   "invalidated_predictions": [],
@@ -812,328 +815,119 @@
    }
   ],
   "since_morning": {
-   "since": "2026-10-22T05:00:00+00:00",
-   "relevant_posts": 31,
+   "since": "2026-10-23T05:00:00+00:00",
+   "relevant_posts": 8,
    "consensus_shifts": [],
    "new_predictions": 0,
    "posts": [
     {
-     "account": "zerohedge",
-     "tweet_id": "2113296600294478145",
-     "timestamp": "2026-10-22T15:49:07+00:00",
-     "relevance": 65,
-     "summary": "Trump Says Iran 'Making Up Fake' Attacks In Hormuz To Drive Up Price Of Oil",
+     "account": "osint613",
+     "tweet_id": "2113445060608176388",
+     "timestamp": "2026-10-23T01:39:03+00:00",
+     "relevance": 95,
+     "summary": "WSJ: Iran is now warning that renewed U.S. and Israeli airstrikes would trigger retaliation across the Persian Gulf, targeting American military installations and warships, as…",
      "categories": [
+      "FED",
       "ENERGY",
       "GEOPOLITICS",
       "WAR"
      ],
-     "url": "https://x.com/zerohedge/status/2113296600294478145"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2113288977465610502",
-     "timestamp": "2026-10-22T15:18:49+00:00",
-     "relevance": 61,
-     "summary": "\"Bonds firmly bid as AI sells off. We’ve seen this playbook repeatedly now… AI weakness reprices the capex cycle, takes some pressure off prospective issuance and increasingly…",
-     "categories": [
-      "US_TREASURIES"
-     ],
-     "url": "https://x.com/zerohedge/status/2113288977465610502"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2113261734572245287",
-     "timestamp": "2026-10-22T13:30:34+00:00",
-     "relevance": 84,
-     "summary": "Unfortunately $BTC was unable to flip the PWO. Not the strongest candle. We’re still range-bound. They’re definitely making things uncomfortable for anyone trying to catch the…",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/killaxbt/status/2113261734572245287"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2113242203023966659",
-     "timestamp": "2026-10-22T12:12:57+00:00",
-     "relevance": 86,
-     "summary": "A massive $50,000,000 $BTC buy wall has been placed at $80,000. Will this be filled? Media",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE"
-     ],
-     "url": "https://x.com/tedpillows/status/2113242203023966659"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2113230911978545211",
-     "timestamp": "2026-10-22T11:28:06+00:00",
-     "relevance": 92,
-     "summary": "$BTC has dropped below the $82,000 level. US stock futures are down, while oil is surging. Pre-market stock trading insights: ▫️Nasdaq futures is down 1.79% 🔴 ▫️S&P futures is…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "ENERGY",
-      "EQUITIES"
-     ],
-     "url": "https://x.com/tedpillows/status/2113230911978545211"
+     "url": "https://x.com/osint613/status/2113445060608176388"
     },
     {
      "account": "xapa03",
-     "tweet_id": "2113216570491130213",
-     "timestamp": "2026-10-22T10:31:06+00:00",
-     "relevance": 76,
-     "summary": "The indicator nailed the top perfectly yesterday, so it came as absolutely no surprise to me that we are seeing a minor correction. Late longs have been flushed out, while shorts…",
+     "tweet_id": "2113370333579260210",
+     "timestamp": "2026-10-22T20:42:06+00:00",
+     "relevance": 86,
+     "summary": "📢The people of Bitcoin County have been demanding and Sheriff has been responding. Another post for today, guys, this time, freshly printe 3-day chart data. Let's dive in: 1) Bear…",
+     "categories": [
+      "BITCOIN",
+      "BTC_TECHNICAL",
+      "MINING"
+     ],
+     "url": "https://x.com/thebtcfrontierx/status/2113370333579260210"
+    },
+    {
+     "account": "zerohedge",
+     "tweet_id": "2113359766999257213",
+     "timestamp": "2026-10-22T20:00:07+00:00",
+     "relevance": 61,
+     "summary": "Zuck'd: Tech Wrecks As AI Credit Cracks Widen; Bonds Panic-Bid, Bitcoin & Bullion Battered",
      "categories": [
       "BITCOIN"
      ],
-     "url": "https://x.com/xapa03/status/2113216570491130213"
+     "url": "https://x.com/zerohedge/status/2113359766999257213"
     },
     {
-     "account": "tedpillows",
-     "tweet_id": "2113216039899013444",
-     "timestamp": "2026-10-22T10:29:00+00:00",
-     "relevance": 70,
-     "summary": "Brent crude oil has hit a 5-month high. This could result in more future rate hikes.",
+     "account": "xapa03",
+     "tweet_id": "2113341979690189249",
+     "timestamp": "2026-10-22T18:49:26+00:00",
+     "relevance": 94,
+     "summary": "The panic in the market right now is hilarious to watch. Emotional retail traders are once again fully convinced we’re heading to 40k or 50k. This is exactly the sentiment we…",
      "categories": [
-      "INTEREST_RATES",
-      "ENERGY"
+      "BITCOIN",
+      "LIQUIDITY"
      ],
-     "url": "https://x.com/tedpillows/status/2113216039899013444"
+     "url": "https://x.com/xapa03/status/2113341979690189249"
+    },
+    {
+     "account": "jameslavish",
+     "tweet_id": "2113341757832548597",
+     "timestamp": "2026-10-22T18:48:33+00:00",
+     "relevance": 100,
+     "summary": "So far in the Great Information Freakout of October 22, we have: The entire internet and every user is at risk to a massive cyberattack, Quantum computing will soon break bitcoin…",
+     "categories": [
+      "BITCOIN",
+      "GOLD",
+      "GEOPOLITICS",
+      "WAR"
+     ],
+     "url": "https://x.com/jameslavish/status/2113341757832548597"
     },
     {
      "account": "osint613",
-     "tweet_id": "2113206164758384775",
-     "timestamp": "2026-10-22T09:49:45+00:00",
-     "relevance": 77,
-     "summary": "A Greek bank is under investigation after the U.S. Treasury Department issued an administrative order to advance the probe. Greece's Ministry of Finance followed with an…",
-     "categories": [
-      "US_TREASURIES",
-      "BANKING",
-      "GEOPOLITICS"
-     ],
-     "url": "https://x.com/osint613/status/2113206164758384775"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2113204715203051640",
-     "timestamp": "2026-10-22T09:44:00+00:00",
-     "relevance": 84,
-     "summary": "$BTC weekly candle has turned red. Bitcoin failed to hold above $84,500 and has completely erased its last two days' gains. The good thing is Bitcoin is still holding above the…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/tedpillows/status/2113204715203051640"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2113189479187992944",
-     "timestamp": "2026-10-22T08:43:27+00:00",
-     "relevance": 94,
-     "summary": "$BTC is slipping under $81.9K right now. Another wave of longs got wiped out this morning. About $34M in total. The leverage is pretty much cleaned out. But I'm still not seeing…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/tedpillows/status/2113189479187992944"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2113179080287748552",
-     "timestamp": "2026-10-22T08:02:08+00:00",
-     "relevance": 74,
-     "summary": "$BTC longs got completely wiped out. $BTC is up 2.78%, and Open Interest is up 5.5%. Long leverage is building up very rapidly here, and they should hope that spot demand remains…",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/tedpillows/status/2113179080287748552"
-    },
-    {
-     "account": "xapa03",
-     "tweet_id": "2113175644636885236",
-     "timestamp": "2026-10-22T07:48:29+00:00",
-     "relevance": 76,
-     "summary": "Good morning ☕️ Whenever the black bar moves into the red zone, a small correction is likely. It’s important to know whether we’re in an uptrend or a downtrend, we can’t always…",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/xapa03/status/2113175644636885236"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2113161617663783420",
-     "timestamp": "2026-10-22T06:52:44+00:00",
-     "relevance": 76,
-     "summary": "Lovely world we're living in. The internet isn't safe. Gold might be manufactured in labs. The dollar and euro keep losing purchasing power. And even Bitcoin may not be immune to…",
-     "categories": [
-      "BITCOIN",
-      "DXY",
-      "GOLD",
-      "GEOPOLITICS"
-     ],
-     "url": "https://x.com/tedpillows/status/2113161617663783420"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2113138325607403664",
-     "timestamp": "2026-10-22T05:20:11+00:00",
-     "relevance": 94,
-     "summary": "$BTC is sitting around $82.9K this morning. Yesterday's breakout didn't hold. A lot of late longs got flushed overnight. Now things are quiet. Funding is back near zero, so the…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/tedpillows/status/2113138325607403664"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2113109977439068212",
-     "timestamp": "2026-10-22T03:27:32+00:00",
-     "relevance": 100,
-     "summary": "For bears, the major area held. For bulls, will the major area reject? Let’s see. So far, USDT.D has broken down and is now coming into its first BOS retest on the daily TF.…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "LIQUIDITY",
-      "STABLECOINS"
-     ],
-     "url": "https://x.com/killaxbt/status/2113109977439068212"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2113095523288678585",
-     "timestamp": "2026-10-22T02:30:06+00:00",
-     "relevance": 67,
-     "summary": "\"More Oil Is Leaving The Gulf Than Before The War\": And Here Comes The Shocking Freight Bill",
+     "tweet_id": "2113329744238579901",
+     "timestamp": "2026-10-22T18:00:49+00:00",
+     "relevance": 65,
+     "summary": "CENTCOM: \"Our naval blockade has halted all of Iran's seaborne trade for 100 days now, except for approved humanitarian aid. We and blocked at least $25 billion in crude exports…",
      "categories": [
       "ENERGY",
-      "WAR",
-      "REGULATION"
+      "GEOPOLITICS"
      ],
-     "url": "https://x.com/zerohedge/status/2113095523288678585"
+     "url": "https://x.com/osint613/status/2113329744238579901"
     },
     {
      "account": "jameslavish",
-     "tweet_id": "2113093536107368751",
-     "timestamp": "2026-10-22T02:22:13+00:00",
-     "relevance": 74,
-     "summary": "My wife: Did you buy more bitcoin? Me: Not to my knowledge.",
+     "tweet_id": "2113317924245299280",
+     "timestamp": "2026-10-22T17:13:51+00:00",
+     "relevance": 72,
+     "summary": "100X leverage trader: I'm going to make a fortune! Hedge fund trader: Thank you for your bitcoin.",
      "categories": [
       "BITCOIN"
      ],
-     "url": "https://x.com/jameslavish/status/2113093536107368751"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2113046102236713163",
-     "timestamp": "2026-10-21T23:13:43+00:00",
-     "relevance": 94,
-     "summary": "The first major barrier has now been tested. This is a critical level for bears. They don’t want to see it break, because that could open the door for $BTC to trend toward a new…",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL",
-      "STABLECOINS"
-     ],
-     "url": "https://x.com/killaxbt/status/2113046102236713163"
-    },
-    {
-     "account": "jameslavish",
-     "tweet_id": "2113011526298931405",
-     "timestamp": "2026-10-21T20:56:20+00:00",
-     "relevance": 67,
-     "summary": "Even if it were possible for the IRS to seize every dollar from every billionaire in America, it would total about $9 trillion and only run the federal government for roughly 15…",
-     "categories": [
-      "DXY"
-     ],
-     "url": "https://x.com/jameslavish/status/2113011526298931405"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2113008384010015163",
-     "timestamp": "2026-10-21T20:43:51+00:00",
-     "relevance": 61,
-     "summary": "ILHAN OMAR: HOW PASSPORT FRAUD MAY BE ANOTHER AVENUE FOR PROSECUTION Seasoned federal investigators know passport fraud may be another path to criminal charges. 18 U.S.C. § 1542…",
-     "categories": [
-      "BTC_TECHNICAL",
-      "US_TREASURIES"
-     ],
-     "url": "https://x.com/c__herridge/status/2113008384010015163"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2112997877727338811",
-     "timestamp": "2026-10-21T20:02:06+00:00",
-     "relevance": 68,
-     "summary": "Diplomat Departures Damage Green Day; Kremlin Drives Crude, Credit, & Crypto Crazy",
-     "categories": [
-      "BITCOIN",
-      "ENERGY"
-     ],
-     "url": "https://x.com/zerohedge/status/2112997877727338811"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2112990858119160181",
-     "timestamp": "2026-10-21T19:34:12+00:00",
-     "relevance": 74,
-     "summary": "$BTC is up 2.78%, and Open Interest is up 5.5%. Long leverage is building up very rapidly here, and they should hope that spot demand remains strong.",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/tedpillows/status/2112990858119160181"
+     "url": "https://x.com/jameslavish/status/2113317924245299280"
     },
     {
      "account": "e_boeminghaus",
-     "tweet_id": "2112988691765285259",
-     "timestamp": "2026-10-21T19:25:36+00:00",
-     "relevance": 80,
-     "summary": "Die künstliche Intelligenz frisst ihre nächsten Opfer! Jetzt meldet ausgerechnet der Bildgigant Getty Images Insolvenz an! #GettyImages #KI #Insolvenz #KünstlicheIntelligenz Ein…",
+     "tweet_id": "2113250051581739025",
+     "timestamp": "2026-10-22T12:44:09+00:00",
+     "relevance": 74,
+     "summary": "Finale! We've reached the mayhem stage for France. It's 10-year yield is exploding higher as is Italy's. Everyone else is getting safe haven inflows, notably the US and Germany.…",
      "categories": [
-      "DXY",
-      "EQUITIES",
-      "WAR"
+      "BTC_ETF",
+      "US_TREASURIES"
      ],
-     "url": "https://x.com/e_boeminghaus/status/2112988691765285259"
-    },
-    {
-     "account": "danheld",
-     "tweet_id": "2112988484537323540",
-     "timestamp": "2026-10-21T19:24:46+00:00",
-     "relevance": 60,
-     "summary": "Translation: Bitcoin NEW: Elon Musk predicts money will become obsolete as energy becomes the currency of the future.",
-     "categories": [
-      "BITCOIN",
-      "ENERGY"
-     ],
-     "url": "https://x.com/danheld/status/2112988484537323540"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2112984542835249173",
-     "timestamp": "2026-10-21T19:09:07+00:00",
-     "relevance": 72,
-     "summary": "Oil Jumps As US Evacuates Embassies Ahead Of Potential Regional Escalation",
-     "categories": [
-      "ENERGY",
-      "GEOPOLITICS",
-      "WAR"
-     ],
-     "url": "https://x.com/zerohedge/status/2112984542835249173"
+     "url": "https://x.com/e_boeminghaus/status/2113250051581739025"
     }
    ]
   },
   "stats": {
-   "posts_new": 52,
-   "posts_relevant": 5,
-   "predictions_new": 0,
-   "predictions_updated": 0,
+   "posts_new": 91,
+   "posts_relevant": 8,
+   "predictions_new": 1,
+   "predictions_updated": 1,
    "invalidated": 0,
-   "posts_analysed": 52,
+   "posts_analysed": 91,
    "evaluated": 0
   }
  }
