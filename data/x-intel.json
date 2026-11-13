@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-13T11:05:40.589286+00:00",
- "btc_price": 69291.8,
+ "generated_at": "2026-11-13T17:06:41.749514+00:00",
+ "btc_price": 68733.3,
  "outlook": {
   "BTC": {
    "horizons": {
     "24h": {
      "label": "leicht bärisch",
      "counts": {
-      "pos": 1,
-      "neu": 2,
-      "neg": 2
+      "pos": 2,
+      "neu": 0,
+      "neg": 3
      },
      "accounts": 5
     },
@@ -17,8 +17,8 @@
      "label": "bärisch",
      "counts": {
       "pos": 0,
-      "neu": 1,
-      "neg": 4
+      "neu": 2,
+      "neg": 3
      },
      "accounts": 5
     },
@@ -32,7 +32,7 @@
      "accounts": 5
     }
    },
-   "scenario": "Mehrheit (7 T): bärisch. Wahrscheinlichste Zone laut Quellen: $23k bis $70k; Ausbruch über $70k wäre das nächste Signal.",
+   "scenario": "Mehrheit (7 T): bärisch. Wahrscheinlichste Zone laut Quellen: $23k bis $69k–70k; Ausbruch über $69k–70k wäre das nächste Signal.",
    "risk": "Bruch unter $23k (genannt von @xapa03)",
    "consensus": {
     "pos": 1,
@@ -42,9 +42,9 @@
    "confidence": "Hoch",
    "levels": {
     "support": "$23k",
-    "resistance": "$70k"
+    "resistance": "$69k–70k"
    },
-   "n_posts": 26,
+   "n_posts": 28,
    "sources": [
     {
      "account": "xapa03",
@@ -112,9 +112,9 @@
      "counts": {
       "pos": 0,
       "neu": 0,
-      "neg": 2
+      "neg": 3
      },
-     "accounts": 2
+     "accounts": 3
     },
     "3d": {
      "label": "Risk-Off",
@@ -130,25 +130,32 @@
      "counts": {
       "pos": 3,
       "neu": 0,
-      "neg": 4
+      "neg": 3
      },
-     "accounts": 7
+     "accounts": 6
     }
    },
    "drivers": [
-    "Risk-Off-Stimmung (4)",
-    "Fed restriktiv (3)",
+    "Fed restriktiv (4)",
+    "Risk-Off-Stimmung (3)",
     "stärkerer Dollar (2)"
    ],
-   "risk": "Anstehende Termine in den Posts: CPI (3×), EARNINGS (2×), FOMC (1×)",
+   "risk": "Anstehende Termine in den Posts: PPI (3×), CPI (3×), EARNINGS (2×)",
    "consensus": {
     "pos": 3,
     "neu": 0,
-    "neg": 4
+    "neg": 3
    },
-   "confidence": "Mittel",
+   "confidence": "Niedrig",
    "n_posts": 14,
    "sources": [
+    {
+     "account": "tedpillows",
+     "tweet_id": "2121238280914231328",
+     "url": "https://x.com/tedpillows/status/2121238280914231328",
+     "summary": "The Fed is now projected to hike rates next month. 🇺🇸 US PPI came in at 0.3% vs 0.4% expected.",
+     "timestamp": "2026-11-13T13:46:31+00:00"
+    },
     {
      "account": "zerohedge",
      "tweet_id": "2120870434329501940",
@@ -197,13 +204,6 @@
      "url": "https://x.com/timevalueofbtc/status/2120576883670884524",
      "summary": "A great way to track your household's inflation. Fed's gotta hike.",
      "timestamp": "2026-11-11T17:58:22+00:00"
-    },
-    {
-     "account": "timevalueofbtc",
-     "tweet_id": "2120522516204773578",
-     "url": "https://x.com/timevalueofbtc/status/2120522516204773578",
-     "summary": "The euro is dumping. Dollar squeeze. Funding is tight. Liquidity chokehold remains. Learn more at with our free TBL Liquidity Index!",
-     "timestamp": "2026-11-11T14:22:19+00:00"
     }
    ]
   },
@@ -213,10 +213,10 @@
      "label": "zu wenige Aussagen",
      "counts": {
       "pos": 0,
-      "neu": 1,
+      "neu": 0,
       "neg": 0
      },
-     "accounts": 1
+     "accounts": 0
     },
     "3d": {
      "label": "leicht expandierend",
@@ -280,7 +280,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 16,
+     "posts": 17,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -298,8 +298,15 @@
      ]
     }
    ],
-   "n_posts": 34,
+   "n_posts": 36,
    "sources": [
+    {
+     "account": "jameslavish",
+     "tweet_id": "2121274907569086649",
+     "url": "https://x.com/jameslavish/status/2121274907569086649",
+     "summary": "He is right, of course, but the Treasury directing the actions of the Fed is literally the definition of \"fiscal dominance.\" BESSENT: TO HIKE TOO MUCH INTO AN ENERGY SUPPLY SHOCK…",
+     "timestamp": "2026-11-13T16:12:04+00:00"
+    },
     {
      "account": "zerohedge",
      "tweet_id": "2120870434329501940",
@@ -348,28 +355,47 @@
      "url": "https://x.com/zerohedge/status/2121065621785821612",
      "summary": "Powerful Iranian Clerical Body Declares Exiting Nuclear Treaty A 'National Demand'",
      "timestamp": "2026-11-13T02:20:26+00:00"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2120883674811945147",
-     "url": "https://x.com/zerohedge/status/2120883674811945147",
-     "summary": "Watch: Iran Hits Omani Island That Guides Tankers Through Hormuz's 'Unauthorized' Southern Route",
-     "timestamp": "2026-11-12T14:17:26+00:00"
     }
    ],
    "impact_kind": "Typisches Marktmuster (Systemeinschätzung, keine Prognose)"
   }
  },
  "changed": {
-  "since": "2026-11-13T05:08:28.073054+00:00",
+  "since": "2026-11-13T11:05:48.380260+00:00",
   "new": [
    {
     "account": "jameslavish",
-    "text": "Bitcoin is at its 200-week moving average tonight of ~$68k. Historically, that’s been one of the best times to increase risk exposure to Bitcoin. It’s also when the way a Bitcoin…",
-    "url": "https://x.com/colemacro/status/2121156219188425139"
+    "text": "FED_FUNDS HIKE",
+    "url": "https://x.com/jameslavish/status/2121274907569086649"
+   },
+   {
+    "account": "tedpillows",
+    "text": "FED_FUNDS HIKE (next month)",
+    "url": "https://x.com/tedpillows/status/2121238280914231328"
+   },
+   {
+    "account": "tedpillows",
+    "text": "The Fed is now projected to hike rates next month. 🇺🇸 US PPI came in at 0.3% vs 0.4% expected.",
+    "url": "https://x.com/tedpillows/status/2121238280914231328"
+   },
+   {
+    "account": "jameslavish",
+    "text": "The Fed is about to fight inflation with a weapon that could break the economy. @jameslavish warns that raising rates won't fix an energy-driven supply shock. And with US deficits…",
+    "url": "https://x.com/milkroaddaily/status/2121247079070564465"
+   },
+   {
+    "account": "jameslavish",
+    "text": "Bitcoin fell 19% into the biggest IPO ever. Now it's down 18% heading into the second biggest. SpaceX raised $75B when it went public on June 12. In the 50 days before it listed,…",
+    "url": "https://x.com/colemacro/status/2121273976576155825"
    }
   ],
-  "changed": [],
+  "changed": [
+   {
+    "account": "tedpillows",
+    "text": "vorher FED_FUNDS HIKE (this month), jetzt FED_FUNDS HIKE (next month)",
+    "url": "https://x.com/tedpillows/status/2121238280914231328"
+   }
+  ],
   "new_consensus": [],
   "no_change": [
    "Bitcoin bleibt bärisch",
@@ -379,6 +405,28 @@
   ]
  },
  "important_posts": [
+  {
+   "account": "jameslavish",
+   "tweet_id": "2121274907569086649",
+   "url": "https://x.com/jameslavish/status/2121274907569086649",
+   "summary": "He is right, of course, but the Treasury directing the actions of the Fed is literally the definition of \"fiscal dominance.\" BESSENT: TO HIKE TOO MUCH INTO AN ENERGY SUPPLY SHOCK…",
+   "timestamp": "2026-11-13T16:12:04+00:00",
+   "category": "FED",
+   "relevance": 100,
+   "text": "He is right, of course, but the Treasury directing the actions of the Fed is literally the definition of \"fiscal dominance.\"\nBESSENT: TO HIKE TOO MUCH INTO AN ENERGY SUPPLY SHOCK WHEN IT'S COMING DOWN IS A NOISY NUMBER",
+   "why": "Konkrete Prognose: FED_FUNDS HIKE"
+  },
+  {
+   "account": "tedpillows",
+   "tweet_id": "2121238280914231328",
+   "url": "https://x.com/tedpillows/status/2121238280914231328",
+   "summary": "The Fed is now projected to hike rates next month. 🇺🇸 US PPI came in at 0.3% vs 0.4% expected.",
+   "timestamp": "2026-11-13T13:46:31+00:00",
+   "category": "FED",
+   "relevance": 100,
+   "text": "The Fed is now projected to hike rates next month.\n\n🇺🇸 US PPI came in at 0.3% vs 0.4% expected.",
+   "why": "Ändert eine frühere Prognose dieses Accounts"
+  },
   {
    "account": "xapa03",
    "tweet_id": "2121096144319308138",
@@ -444,28 +492,6 @@
    "relevance": 100,
    "text": "Above all else, the investment gods reward patience.\nBitcoin Opportunity Fund's James Lavish on whether his bitcoin cycle call still holds: \"Bitcoin typically will trough and then about three years later, it will find a top.\" \"[In mid-2029] that would get you to somewhere between $400,000 and $500,000 bitcoin.\"",
    "why": "Ändert eine frühere Prognose dieses Accounts"
-  },
-  {
-   "account": "nolimitgains",
-   "tweet_id": "2121091237948359112",
-   "url": "https://x.com/nolimitgains/status/2121091237948359112",
-   "summary": "🚨 CRASH: BITCOIN IS BACK BELOW $69,000",
-   "timestamp": "2026-11-13T04:02:13+00:00",
-   "category": "BITCOIN",
-   "relevance": 94,
-   "text": "🚨 CRASH: BITCOIN IS BACK BELOW $69,000",
-   "why": "BTC bärisch"
-  },
-  {
-   "account": "timevalueofbtc",
-   "tweet_id": "2121073855875940775",
-   "url": "https://x.com/timevalueofbtc/status/2121073855875940775",
-   "summary": "It's been ugly since Binance, and sloppy since $75,000 didn't hold. Bitcoin now below $70,000 as capitulation sets in, yet again. 🚨 NEW VIDEO 🚨 When Will Bitcoin Finally Recover?…",
-   "timestamp": "2026-11-13T02:53:09+00:00",
-   "category": "BITCOIN",
-   "relevance": 94,
-   "text": "It's been ugly since Binance, and sloppy since $75,000 didn't hold. Bitcoin now below $70,000 as capitulation sets in, yet again.\n🚨 NEW VIDEO 🚨 When Will Bitcoin Finally Recover? Nik on why a strong dollar is the biggest force holding liquidity down, what ten years of the TBL liquidity index says about bitcoin at turning points, and why the dollar has to ease before bitcoin can.",
-   "why": "BTC bärisch"
   }
  ],
  "top_predictions": [
@@ -476,7 +502,7 @@
    "deadline": null,
    "time_horizon": "soon",
    "prediction_date": "2026-11-13T04:21:43+00:00",
-   "distance_pct": -3.8,
+   "distance_pct": -2.9,
    "conditions": null,
    "evidence": "As soon as Bitcoin falls below the $66,600 level, I’m completely out."
   },
@@ -487,7 +513,7 @@
    "deadline": null,
    "time_horizon": "vor dem nächsten Ziel",
    "prediction_date": "2026-11-10T19:08:37+00:00",
-   "distance_pct": 477.5,
+   "distance_pct": 483.3,
    "conditions": null,
    "evidence": "Bitcoin Opportunity Fund's James Lavish on whether his bitcoin cycle call still holds: \"Bitcoin typically will trough and then about three years later, it will find a top.\" \"[In mid-2029] that would get you to somewhere between $400,000 and $500,000 bitcoin.\""
   },
@@ -498,7 +524,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-10T19:08:37+00:00",
-   "distance_pct": 621.9,
+   "distance_pct": 629.1,
    "conditions": null,
    "evidence": "Bitcoin Opportunity Fund's James Lavish on whether his bitcoin cycle call still holds: \"Bitcoin typically will trough and then about three years later, it will find a top.\" \"[In mid-2029] that would get you to somewhere between $400,000 and $500,000 bitcoin.\""
   },
@@ -509,20 +535,20 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-02T16:49:50+00:00",
-   "distance_pct": 1343.9,
+   "distance_pct": 1358.2,
    "conditions": "If everyone in the world understood Bitcoin",
    "evidence": "If everyone in the world understood Bitcoin, and the current macro environment, then the price would be $1M-$10M per Bitcoin."
   },
   {
    "account": "tedpillows",
-   "label": "FED_FUNDS HIKE (this month)",
-   "url": "https://x.com/tedpillows/status/2111089822555103238",
-   "deadline": "2026-10-31T23:59:59+00:00",
-   "time_horizon": "this month",
-   "prediction_date": "2026-10-16T13:40:10+00:00",
+   "label": "FED_FUNDS HIKE (next month)",
+   "url": "https://x.com/tedpillows/status/2121238280914231328",
+   "deadline": "2026-12-31T23:59:59+00:00",
+   "time_horizon": "next month",
+   "prediction_date": "2026-11-13T13:46:31+00:00",
    "distance_pct": null,
    "conditions": null,
-   "evidence": "Fed is no longer projected to hike rates this month."
+   "evidence": "The Fed is now projected to hike rates next month."
   }
  ],
  "contrarian": [
@@ -546,12 +572,12 @@
   },
   {
    "topic": "FED",
-   "main": "easing",
-   "main_share": 40,
-   "account": "zerohedge",
-   "stance": "tightening",
-   "text": "Fed Ducks A Hike Despite Hot CPI As Goldman Warns \"Both Wings Of The Distribution Have Got Fatter\" https://www.zerohedge.com/markets/fed-ducks-hike-despite-hot-cpi-goldman-warns-both-wings-distributio",
-   "url": "https://x.com/zerohedge/status/2114026660236239248"
+   "main": "tightening",
+   "main_share": 67,
+   "account": "killaxbt",
+   "stance": "easing",
+   "text": "Seasonality suggests $BTC hasn’t bottomed.\n\n\n\nPrice action suggests it has.\n\n\n\nI’m a big fan of patterns and seasonality when analyzing markets. I use plenty of technicals and pivots, and I mainly tra",
+   "url": "https://x.com/killaxbt/status/2119466979287576759"
   }
  ],
  "consensus_21d": {
@@ -595,21 +621,23 @@
    "contrarians": []
   },
   "FED": {
-   "majority": "easing",
-   "score": 40,
-   "n": 5,
+   "majority": "tightening",
+   "score": 67,
+   "n": 6,
    "counts": {
     "easing": 2,
-    "neutral": 1,
-    "tightening": 2
+    "neutral": 0,
+    "tightening": 4
    },
    "supporting": [
-    "killaxbt",
-    "danheld"
+    "zerohedge",
+    "tedpillows",
+    "jameslavish",
+    "timevalueofbtc"
    ],
    "contrarians": [
-    "zerohedge",
-    "timevalueofbtc"
+    "killaxbt",
+    "danheld"
    ]
   },
   "GEO": {
@@ -638,23 +666,23 @@
  },
  "daily": {
   "report_date": "2026-11-13",
-  "generated_at": "2026-11-13T11:01:44.399127+00:00",
+  "generated_at": "2026-11-13T17:01:47.702358+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-11-12T11:01:44.373468+00:00",
-   "to": "2026-11-13T11:01:44.399127+00:00"
+   "from": "2026-11-12T17:01:47.533652+00:00",
+   "to": "2026-11-13T17:01:47.702358+00:00"
   },
   "key_points": [
+   {
+    "text": "@tedpillows ändert Prognose: FED_FUNDS HIKE (this month) → FED_FUNDS HIKE (next month)",
+    "ids": [
+     "2121238280914231328"
+    ]
+   },
    {
     "text": "@killaxbt ändert Prognose: BTC DOWN (short term) → BTC UP $75.000–76.000",
     "ids": [
      "2120889950556061803"
-    ]
-   },
-   {
-    "text": "@killaxbt ändert Prognose: BTC UP $76.000–77.000 → BTC DOWN $50.000",
-    "ids": [
-     "2120667900235419859"
     ]
    },
    {
@@ -670,25 +698,67 @@
     ]
    },
    {
-    "text": "@jameslavish: Bitcoin is at its 200-week moving average tonight of ~$68k. Historically, that’s been one of the best times to increase risk exposure to Bitcoin. It’s also when the way a Bitcoin…",
+    "text": "@jameslavish: He is right, of course, but the Treasury directing the actions of the Fed is literally the definition of \"fiscal dominance.\" BESSENT: TO HIKE TOO MUCH INTO AN ENERGY SUPPLY SHOCK…",
     "ids": [
-     "2121156219188425139"
+     "2121274907569086649"
     ]
    }
   ],
   "sections": {
-   "TOP_DEVELOPMENTS": "@jameslavish: Bitcoin is at its 200-week moving average tonight of ~$68k. Historically, that’s been one of the best times to increase risk exposure to Bitcoin. It’s also when the way a Bitcoin… · @xapa03: Call me crazy, but I gave this exact call and then didn’t even follow it myself. You can see the reason in the second picture. I remain of the opinion that the bull market is… · @killaxbt: The end of an era. It does, in fact, seem like my 1.5 year streak is coming to an end. It was a good run, but just like anyone else, eventually I will be wrong. Over the past 500…",
-   "BTC_OUTLOOK": "Stimmung 71 % bärisch (7/12 Accounts mit Meinung). Median offener Kursziele $500.000. @jameslavish: Bitcoin is at its 200-week moving average tonight of ~$68k. Historically, that’s been one of the best times to increase risk exposure to Bitcoin. It’s also when the way a Bitcoin… · @xapa03: Call me crazy, but I gave this exact call and then didn’t even follow it myself. You can see the reason in the second picture. I remain of the opinion that the bull market is… · @killaxbt: The end of an era. It does, in fact, seem like my 1.5 year streak is coming to an end. It was a good run, but just like anyone else, eventually I will be wrong. Over the past 500…",
-   "MACRO_OUTLOOK": "@jameslavish: Bitcoin is at its 200-week moving average tonight of ~$68k. Historically, that’s been one of the best times to increase risk exposure to Bitcoin. It’s also when the way a Bitcoin… · @zerohedge: Top overnight news Vice President JD Vance is considering face-to-face talks with a top Iranian security official as he emerges as the lead negotiator with Iran, in an effort to… · @killaxbt: Observing a potential ABC correction on USDT.D which coincides with $BTC. This was my initial plan. Wave B has extended a little higher than I expected, but I still think the…",
-   "GLOBAL_LIQUIDITY": "@timevalueofbtc: It's been ugly since Binance, and sloppy since $75,000 didn't hold. Bitcoin now below $70,000 as capitulation sets in, yet again. 🚨 NEW VIDEO 🚨 When Will Bitcoin Finally Recover?… · @tedpillows: The entire long side liquidity has been cleared. On 29th October, Binance said they have failed to recover $3B from the hack. Since then, nearly $4.1B in leveraged positions has… · @zerohedge: Pick your poison: NVDA's circular financings or its off-balance sheet commitments. The Bank Of Nvidia Just Lost Its Chairman: Mapping Every Circular AI Deal That Now Hangs On…",
-   "FED_RATES": "@zerohedge: Top overnight news Vice President JD Vance is considering face-to-face talks with a top Iranian security official as he emerges as the lead negotiator with Iran, in an effort to… · @timevalueofbtc: - Jensen gets busy - \"Central Bank of Nvidia\" financing deals fall apart? - Fed hikes into Liquidity contraction in December? - Year-end repo crisis develops as Bessent goes…",
-   "DXY_TREASURIES": "@jameslavish: Bitcoin is at its 200-week moving average tonight of ~$68k. Historically, that’s been one of the best times to increase risk exposure to Bitcoin. It’s also when the way a Bitcoin… · @timevalueofbtc: It's been ugly since Binance, and sloppy since $75,000 didn't hold. Bitcoin now below $70,000 as capitulation sets in, yet again. 🚨 NEW VIDEO 🚨 When Will Bitcoin Finally Recover?… · @zerohedge: Shocking fiscal collapse in the first month of 2026. Stunning numbers. Starting at the top: Oct tax revenues dropped 8.8% YoY to $369BN. On an LTM basis, YoY growth was just 1.1%…",
+   "TOP_DEVELOPMENTS": "@jameslavish: He is right, of course, but the Treasury directing the actions of the Fed is literally the definition of \"fiscal dominance.\" BESSENT: TO HIKE TOO MUCH INTO AN ENERGY SUPPLY SHOCK… · @tedpillows: The Fed is now projected to hike rates next month. 🇺🇸 US PPI came in at 0.3% vs 0.4% expected. · @xapa03: Call me crazy, but I gave this exact call and then didn’t even follow it myself. You can see the reason in the second picture. I remain of the opinion that the bull market is…",
+   "BTC_OUTLOOK": "Stimmung 71 % bärisch (7/12 Accounts mit Meinung). Median offener Kursziele $500.000. @jameslavish: Bitcoin fell 19% into the biggest IPO ever. Now it's down 18% heading into the second biggest. SpaceX raised $75B when it went public on June 12. In the 50 days before it listed,… · @xapa03: Call me crazy, but I gave this exact call and then didn’t even follow it myself. You can see the reason in the second picture. I remain of the opinion that the bull market is… · @nolimitgains: 🚨 CRASH: BITCOIN IS BACK BELOW $69,000",
+   "MACRO_OUTLOOK": "@jameslavish: The Fed is about to fight inflation with a weapon that could break the economy. @jameslavish warns that raising rates won't fix an energy-driven supply shock. And with US deficits… · @tedpillows: The Fed is now projected to hike rates next month. 🇺🇸 US PPI came in at 0.3% vs 0.4% expected. · @killaxbt: Observing a potential ABC correction on USDT.D which coincides with $BTC. This was my initial plan. Wave B has extended a little higher than I expected, but I still think the…",
+   "GLOBAL_LIQUIDITY": "@jameslavish: The Fed is about to fight inflation with a weapon that could break the economy. @jameslavish warns that raising rates won't fix an energy-driven supply shock. And with US deficits… · @timevalueofbtc: It's been ugly since Binance, and sloppy since $75,000 didn't hold. Bitcoin now below $70,000 as capitulation sets in, yet again. 🚨 NEW VIDEO 🚨 When Will Bitcoin Finally Recover?… · @tedpillows: The entire long side liquidity has been cleared. On 29th October, Binance said they have failed to recover $3B from the hack. Since then, nearly $4.1B in leveraged positions has…",
+   "FED_RATES": "@jameslavish: He is right, of course, but the Treasury directing the actions of the Fed is literally the definition of \"fiscal dominance.\" BESSENT: TO HIKE TOO MUCH INTO AN ENERGY SUPPLY SHOCK… · @tedpillows: The Fed is now projected to hike rates next month. 🇺🇸 US PPI came in at 0.3% vs 0.4% expected. · @timevalueofbtc: - Jensen gets busy - \"Central Bank of Nvidia\" financing deals fall apart? - Fed hikes into Liquidity contraction in December? - Year-end repo crisis develops as Bessent goes…",
+   "DXY_TREASURIES": "@jameslavish: He is right, of course, but the Treasury directing the actions of the Fed is literally the definition of \"fiscal dominance.\" BESSENT: TO HIKE TOO MUCH INTO AN ENERGY SUPPLY SHOCK… · @timevalueofbtc: It's been ugly since Binance, and sloppy since $75,000 didn't hold. Bitcoin now below $70,000 as capitulation sets in, yet again. 🚨 NEW VIDEO 🚨 When Will Bitcoin Finally Recover?… · @zerohedge: Shocking fiscal collapse in the first month of 2026. Stunning numbers. Starting at the top: Oct tax revenues dropped 8.8% YoY to $369BN. On an LTM basis, YoY growth was just 1.1%…",
    "GOLD": "Keine relevanten Aussagen.",
-   "GEOPOLITICS": "@zerohedge: Top overnight news Vice President JD Vance is considering face-to-face talks with a top Iranian security official as he emerges as the lead negotiator with Iran, in an effort to…",
-   "CONSENSUS": "BTC: 71 % bärisch (5/7) · Liquidität: 100 % expandierend (5/5) · Fed: 40 % lockernd (2/5) · Geopolitik-Risiko: 67 % erhöht (4/6)",
-   "CONTRARIAN": "@killaxbt (BTC bullisch): The biggest bull market drop $BTC saw last cycle was -22%. \n\n\n\nBTC is now -22%. \n\n\n\nSo if we are genuinely bottomed & in · @danheld (BTC bullisch): JUST IN: Dan Held says Bitcoin is \"worth $30 to $40 trillion at a minimum.\" 🚀\n\n\n\n\"If the world in a sovereign debt crisi · @zerohedge (Fed straffend): Fed Ducks A Hike Despite Hot CPI As Goldman Warns \"Both Wings Of The Distribution Have Got Fatter\" https://www.zerohedge · @timevalueofbtc (Fed straffend): - Jensen gets busy\n\n- \"Central Bank of Nvidia\" financing deals fall apart?\n\n- Fed hikes into Liquidity contraction in De"
+   "GEOPOLITICS": "@jameslavish: He is right, of course, but the Treasury directing the actions of the Fed is literally the definition of \"fiscal dominance.\" BESSENT: TO HIKE TOO MUCH INTO AN ENERGY SUPPLY SHOCK…",
+   "CONSENSUS": "BTC: 71 % bärisch (5/7) · Liquidität: 100 % expandierend (5/5) · Fed: 67 % straffend (4/6) · Geopolitik-Risiko: 67 % erhöht (4/6)",
+   "CONTRARIAN": "@killaxbt (BTC bullisch): The biggest bull market drop $BTC saw last cycle was -22%. \n\n\n\nBTC is now -22%. \n\n\n\nSo if we are genuinely bottomed & in · @danheld (BTC bullisch): JUST IN: Dan Held says Bitcoin is \"worth $30 to $40 trillion at a minimum.\" 🚀\n\n\n\n\"If the world in a sovereign debt crisi · @killaxbt (Fed lockernd): Seasonality suggests $BTC hasn’t bottomed.\n\n\n\nPrice action suggests it has.\n\n\n\nI’m a big fan of patterns and seasonality · @danheld (Fed lockernd): ETH trying to pivot to Bitcoin’s SoV narrative after all of its previous narratives collapsed. Again. \n\n\n\nAs predicted 7"
   },
   "new_predictions": [
+   {
+    "id": 149,
+    "account": "jameslavish",
+    "tweet_id": "2121274907569086649",
+    "prediction_date": "2026-11-13T16:12:04+00:00",
+    "asset_or_metric": "FED_FUNDS",
+    "prediction_type": "RATE_FORECAST",
+    "direction": "HIKE",
+    "target": null,
+    "target_low": null,
+    "target_high": null,
+    "deadline": null,
+    "time_horizon": null,
+    "conditions": null,
+    "status": "OPEN",
+    "status_note": null,
+    "btc_price_when_prediction_made": 68598.8,
+    "evidence": "He is right, of course, but the Treasury directing the actions of the Fed is literally the definition of \"fiscal dominance.\"\nBESSENT: TO HIKE TOO MUCH INTO AN ENERGY SUPPLY SHOCK WHEN IT'S COMING DOWN IS A NOISY NUMBER",
+    "label": "FED_FUNDS HIKE",
+    "url": "https://x.com/jameslavish/status/2121274907569086649"
+   },
+   {
+    "id": 148,
+    "account": "tedpillows",
+    "tweet_id": "2121238280914231328",
+    "prediction_date": "2026-11-13T13:46:31+00:00",
+    "asset_or_metric": "FED_FUNDS",
+    "prediction_type": "RATE_FORECAST",
+    "direction": "HIKE",
+    "target": null,
+    "target_low": null,
+    "target_high": null,
+    "deadline": "2026-12-31T23:59:59+00:00",
+    "time_horizon": "next month",
+    "conditions": null,
+    "status": "OPEN",
+    "status_note": null,
+    "btc_price_when_prediction_made": 68598.8,
+    "evidence": "The Fed is now projected to hike rates next month.",
+    "label": "FED_FUNDS HIKE (next month)",
+    "url": "https://x.com/tedpillows/status/2121238280914231328"
+   },
    {
     "id": 147,
     "account": "xapa03",
@@ -709,30 +779,17 @@
     "evidence": "As soon as Bitcoin falls below the $66,600 level, I’m completely out.",
     "label": "BTC DOWN $66.600 (soon)",
     "url": "https://x.com/xapa03/status/2121096144319308138"
-   },
-   {
-    "id": 146,
-    "account": "killaxbt",
-    "tweet_id": "2120889950556061803",
-    "prediction_date": "2026-11-12T14:42:23+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "UP",
-    "target": null,
-    "target_low": 75000.0,
-    "target_high": 76000.0,
-    "deadline": null,
-    "time_horizon": null,
-    "conditions": "If BTC happens to test 62",
-    "status": "INVALIDATED",
-    "status_note": "Vom Autor zurückgenommen: https://x.com/killaxbt/status/2120964369341133181",
-    "btc_price_when_prediction_made": 71370.7,
-    "evidence": "If BTC happens to test 62.6K in the coming weeks, my current 75–76K continuation long gets stopped out.",
-    "label": "BTC UP $75.000–76.000",
-    "url": "https://x.com/killaxbt/status/2120889950556061803"
    }
   ],
   "updated_predictions": [
+   {
+    "account": "tedpillows",
+    "change": "TIMEFRAME_CHANGED",
+    "note": "FED_FUNDS HIKE (this month) → FED_FUNDS HIKE (next month)",
+    "tweet_id": "2121238280914231328",
+    "url": "https://x.com/tedpillows/status/2121238280914231328",
+    "detected_at": "2026-11-13T17:01:47.460920+00:00"
+   },
    {
     "account": "killaxbt",
     "change": "DIRECTION_FLIP,TARGET_CHANGED,CONDITION_CHANGED",
@@ -800,48 +857,6 @@
   ],
   "invalidated_predictions": [
    {
-    "id": 138,
-    "account": "xapa03",
-    "tweet_id": "2119765538427621508",
-    "prediction_date": "2026-11-09T12:14:22+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "UP",
-    "target": 88000.0,
-    "target_low": null,
-    "target_high": null,
-    "deadline": "2026-11-30T23:59:59+00:00",
-    "time_horizon": "end of November",
-    "conditions": null,
-    "status": "INVALIDATED",
-    "status_note": "Vom Autor zurückgenommen: https://x.com/xapa03/status/2120899528715010314",
-    "btc_price_when_prediction_made": 75253.1,
-    "evidence": "I expect Bitcoin to touch 88k by the next weeks, followed by another high afterwards between end of November and early December.",
-    "label": "BTC UP $88.000 (end of November)",
-    "url": "https://x.com/xapa03/status/2119765538427621508"
-   },
-   {
-    "id": 144,
-    "account": "killaxbt",
-    "tweet_id": "2120667900235419859",
-    "prediction_date": "2026-11-12T00:00:02+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "DOWN",
-    "target": 50000.0,
-    "target_low": null,
-    "target_high": null,
-    "deadline": null,
-    "time_horizon": null,
-    "conditions": null,
-    "status": "INVALIDATED",
-    "status_note": "Vom Autor zurückgenommen: https://x.com/killaxbt/status/2120889950556061803",
-    "btc_price_when_prediction_made": 71370.7,
-    "evidence": "Honestly, you would expect BTC to be sub-50K by now with that amount of shit happening.",
-    "label": "BTC DOWN $50.000",
-    "url": "https://x.com/killaxbt/status/2120667900235419859"
-   },
-   {
     "id": 146,
     "account": "killaxbt",
     "tweet_id": "2120889950556061803",
@@ -881,10 +896,103 @@
   ],
   "since_morning": {
    "since": "2026-11-13T06:00:00+00:00",
-   "relevant_posts": 8,
-   "consensus_shifts": [],
-   "new_predictions": 0,
+   "relevant_posts": 14,
+   "consensus_shifts": [
+    {
+     "topic": "FED",
+     "from": {
+      "majority": "easing",
+      "score": 40,
+      "n": 5
+     },
+     "to": {
+      "majority": "tightening",
+      "score": 67,
+      "n": 6
+     }
+    }
+   ],
+   "new_predictions": 2,
    "posts": [
+    {
+     "account": "tedpillows",
+     "tweet_id": "2121282034286879115",
+     "timestamp": "2026-11-13T16:40:23+00:00",
+     "relevance": 84,
+     "summary": "Most of the OI built since the October peak is still there. This is despite Bitcoin dropping over 20%. IMO, we will see a leverage flush, and it'll be once $BTC starts the…",
+     "categories": [
+      "BITCOIN"
+     ],
+     "url": "https://x.com/tedpillows/status/2121282034286879115"
+    },
+    {
+     "account": "jameslavish",
+     "tweet_id": "2121274907569086649",
+     "timestamp": "2026-11-13T16:12:04+00:00",
+     "relevance": 100,
+     "summary": "He is right, of course, but the Treasury directing the actions of the Fed is literally the definition of \"fiscal dominance.\" BESSENT: TO HIKE TOO MUCH INTO AN ENERGY SUPPLY SHOCK…",
+     "categories": [
+      "FED",
+      "INTEREST_RATES",
+      "US_TREASURIES",
+      "ENERGY"
+     ],
+     "url": "https://x.com/jameslavish/status/2121274907569086649"
+    },
+    {
+     "account": "jameslavish",
+     "tweet_id": "2121273976576155825",
+     "timestamp": "2026-11-13T16:08:22+00:00",
+     "relevance": 100,
+     "summary": "Bitcoin fell 19% into the biggest IPO ever. Now it's down 18% heading into the second biggest. SpaceX raised $75B when it went public on June 12. In the 50 days before it listed,…",
+     "categories": [
+      "BITCOIN",
+      "BTC_TECHNICAL"
+     ],
+     "url": "https://x.com/colemacro/status/2121273976576155825"
+    },
+    {
+     "account": "jameslavish",
+     "tweet_id": "2121247079070564465",
+     "timestamp": "2026-11-13T14:21:29+00:00",
+     "relevance": 100,
+     "summary": "The Fed is about to fight inflation with a weapon that could break the economy. @jameslavish warns that raising rates won't fix an energy-driven supply shock. And with US deficits…",
+     "categories": [
+      "BITCOIN",
+      "LIQUIDITY",
+      "FED",
+      "INTEREST_RATES",
+      "INFLATION",
+      "DXY",
+      "ENERGY"
+     ],
+     "url": "https://x.com/milkroaddaily/status/2121247079070564465"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2121238280914231328",
+     "timestamp": "2026-11-13T13:46:31+00:00",
+     "relevance": 100,
+     "summary": "The Fed is now projected to hike rates next month. 🇺🇸 US PPI came in at 0.3% vs 0.4% expected.",
+     "categories": [
+      "FED",
+      "INTEREST_RATES",
+      "INFLATION"
+     ],
+     "url": "https://x.com/tedpillows/status/2121238280914231328"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2121222142817890533",
+     "timestamp": "2026-11-13T12:42:23+00:00",
+     "relevance": 78,
+     "summary": "Someone opened a $51,900,000 $BTC short with 40x leverage. Liquidation Price: $70,995",
+     "categories": [
+      "BITCOIN",
+      "BTC_TECHNICAL"
+     ],
+     "url": "https://x.com/tedpillows/status/2121222142817890533"
+    },
     {
      "account": "tedpillows",
      "tweet_id": "2121170546750624036",
@@ -984,12 +1092,12 @@
    ]
   },
   "stats": {
-   "posts_new": 51,
-   "posts_relevant": 8,
-   "predictions_new": 0,
-   "predictions_updated": 0,
+   "posts_new": 24,
+   "posts_relevant": 6,
+   "predictions_new": 2,
+   "predictions_updated": 1,
    "invalidated": 0,
-   "posts_analysed": 52,
+   "posts_analysed": 26,
    "evaluated": 0
   }
  }
