@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-15T05:10:56.013379+00:00",
- "btc_price": 64798.1,
+ "generated_at": "2026-11-15T11:11:07.760127+00:00",
+ "btc_price": 65294.6,
  "outlook": {
   "BTC": {
    "horizons": {
@@ -32,8 +32,8 @@
      "accounts": 5
     }
    },
-   "scenario": "Mehrheit (7 T): leicht bärisch. Wahrscheinlichste Zone laut Quellen: $16k bis $67k; Ausbruch über $67k wäre das nächste Signal.",
-   "risk": "Bruch unter $16k (genannt von @tedpillows, @zerohedge)",
+   "scenario": "Mehrheit (7 T): leicht bärisch. Wahrscheinlichste Zone laut Quellen: $64k–65k bis $67k; Ausbruch über $67k wäre das nächste Signal.",
+   "risk": "Bruch unter $64k–65k (genannt von @killaxbt, @nolimitgains)",
    "consensus": {
     "pos": 2,
     "neu": 0,
@@ -41,7 +41,7 @@
    },
    "confidence": "Mittel",
    "levels": {
-    "support": "$16k",
+    "support": "$64k–65k",
     "resistance": "$67k"
    },
    "n_posts": 36,
@@ -290,7 +290,7 @@
     },
     {
      "name": "Russland / Ukraine",
-     "posts": 10,
+     "posts": 11,
      "impact": [
       "Energie ↑",
       "Europa-Risiko ↑",
@@ -298,7 +298,7 @@
      ]
     }
    ],
-   "n_posts": 47,
+   "n_posts": 48,
    "sources": [
     {
      "account": "jameslavish",
@@ -361,13 +361,29 @@
   }
  },
  "changed": {
-  "since": "2026-11-14T17:06:41.441761+00:00",
-  "new": [],
+  "since": "2026-11-15T05:11:03.952896+00:00",
+  "new": [
+   {
+    "account": "tedpillows",
+    "text": "BTC DOWN $62.000",
+    "url": "https://x.com/tedpillows/status/2121911466798252483"
+   },
+   {
+    "account": "tedpillows",
+    "text": "BTC DOWN $60.000",
+    "url": "https://x.com/tedpillows/status/2121911466798252483"
+   },
+   {
+    "account": "tedpillows",
+    "text": "$BTC tapped the $62,000 level. Now, Bitcoin is at its most important demand zone. If Bitcoin loses $60K from here, things could get even more ugly.",
+    "url": "https://x.com/tedpillows/status/2121911466798252483"
+   }
+  ],
   "changed": [
    {
-    "account": "zerohedge",
-    "text": "FED-These: tightening → easing",
-    "url": "https://x.com/zerohedge/status/2121667089014383053"
+    "account": "tedpillows",
+    "text": "vorher BTC DOWN $17.000, jetzt BTC DOWN $62.000",
+    "url": "https://x.com/tedpillows/status/2121911466798252483"
    }
   ],
   "new_consensus": [],
@@ -379,6 +395,17 @@
   ]
  },
  "important_posts": [
+  {
+   "account": "tedpillows",
+   "tweet_id": "2121911466798252483",
+   "url": "https://x.com/tedpillows/status/2121911466798252483",
+   "summary": "$BTC tapped the $62,000 level. Now, Bitcoin is at its most important demand zone. If Bitcoin loses $60K from here, things could get even more ugly.",
+   "timestamp": "2026-11-15T10:21:31+00:00",
+   "category": "BITCOIN",
+   "relevance": 100,
+   "text": "$BTC tapped the $62,000 level.\n\n\n\nNow, Bitcoin is at its most important demand zone.\n\n\n\nIf Bitcoin loses $60K from here, things could get even more ugly.",
+   "why": "Ändert eine frühere Prognose dieses Accounts"
+  },
   {
    "account": "killaxbt",
    "tweet_id": "2121644863858893266",
@@ -400,17 +427,6 @@
    "relevance": 100,
    "text": "It's been 17 days since Binance got hacked.\n\n\n\n$BTC is down $17,000 since then.\n\n\n\nA $1,000 dump a day keeps insolvency away.",
    "why": "Ändert eine frühere Prognose dieses Accounts"
-  },
-  {
-   "account": "tedpillows",
-   "tweet_id": "2121627019704226066",
-   "url": "https://x.com/tedpillows/status/2121627019704226066",
-   "summary": "Checked liquidations and whale wallets again this afternoon. Quick update 👇 BTC lost $66k and is now around $65.2k. ETH is under $1,850. What's driving it: more leverage getting…",
-   "timestamp": "2026-11-14T15:31:14+00:00",
-   "category": "BITCOIN",
-   "relevance": 100,
-   "text": "Checked liquidations and whale wallets again this afternoon. Quick update 👇\n\n\n\nBTC lost $66k and is now around $65.2k. ETH is under $1,850.\n\n\n\nWhat's driving it: more leverage getting wiped out. • ~$200M liquidated in a single hour once $66k broke • ~$500M liquidated so far today • 94% of it longs\n\n\n\nWhat the whales are doing: • No big dumps over $50M this afternoon • No large exchange deposits • Erik Voorhees-linked",
-   "why": "Konkrete Prognose: BTC UP $80.000"
   },
   {
    "account": "killaxbt",
@@ -471,14 +487,25 @@
  "top_predictions": [
   {
    "account": "tedpillows",
-   "label": "BTC DOWN $17.000",
-   "url": "https://x.com/tedpillows/status/2121644080992333953",
+   "label": "BTC DOWN $62.000",
+   "url": "https://x.com/tedpillows/status/2121911466798252483",
    "deadline": null,
    "time_horizon": null,
-   "prediction_date": "2026-11-14T16:39:01+00:00",
-   "distance_pct": -73.8,
+   "prediction_date": "2026-11-15T10:21:31+00:00",
+   "distance_pct": -5.4,
    "conditions": null,
-   "evidence": "$BTC is down $17,000 since then."
+   "evidence": "$BTC tapped the $62,000 level."
+  },
+  {
+   "account": "tedpillows",
+   "label": "BTC DOWN $60.000",
+   "url": "https://x.com/tedpillows/status/2121911466798252483",
+   "deadline": null,
+   "time_horizon": null,
+   "prediction_date": "2026-11-15T10:21:31+00:00",
+   "distance_pct": -8.4,
+   "conditions": "If Bitcoin loses $60K from here",
+   "evidence": "If Bitcoin loses $60K from here, things could get even more ugly."
   },
   {
    "account": "jameslavish",
@@ -487,7 +514,7 @@
    "deadline": null,
    "time_horizon": "vor dem nächsten Ziel",
    "prediction_date": "2026-11-10T19:08:37+00:00",
-   "distance_pct": 516.1,
+   "distance_pct": 510.4,
    "conditions": null,
    "evidence": "Bitcoin Opportunity Fund's James Lavish on whether his bitcoin cycle call still holds: \"Bitcoin typically will trough and then about three years later, it will find a top.\" \"[In mid-2029] that would get you to somewhere between $400,000 and $500,000 bitcoin.\""
   },
@@ -498,7 +525,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-10T19:08:37+00:00",
-   "distance_pct": 670.1,
+   "distance_pct": 663.0,
    "conditions": null,
    "evidence": "Bitcoin Opportunity Fund's James Lavish on whether his bitcoin cycle call still holds: \"Bitcoin typically will trough and then about three years later, it will find a top.\" \"[In mid-2029] that would get you to somewhere between $400,000 and $500,000 bitcoin.\""
   },
@@ -509,20 +536,9 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-02T16:49:50+00:00",
-   "distance_pct": 1440.2,
+   "distance_pct": 1426.1,
    "conditions": "If everyone in the world understood Bitcoin",
    "evidence": "If everyone in the world understood Bitcoin, and the current macro environment, then the price would be $1M-$10M per Bitcoin."
-  },
-  {
-   "account": "tedpillows",
-   "label": "FED_FUNDS HIKE (next month)",
-   "url": "https://x.com/tedpillows/status/2121238280914231328",
-   "deadline": "2026-12-31T23:59:59+00:00",
-   "time_horizon": "next month",
-   "prediction_date": "2026-11-13T13:46:31+00:00",
-   "distance_pct": null,
-   "conditions": null,
-   "evidence": "The Fed is now projected to hike rates next month."
   }
  ],
  "contrarian": [
@@ -632,20 +648,26 @@
   }
  },
  "btc_targets": {
-  "count": 4,
-  "median": 500000.0,
-  "low": 17000.0,
+  "count": 5,
+  "median": 400000.0,
+  "low": 60000.0,
   "high": 1000000.0
  },
  "daily": {
-  "report_date": "2026-11-14",
-  "generated_at": "2026-11-15T05:01:30.736586+00:00",
+  "report_date": "2026-11-15",
+  "generated_at": "2026-11-15T11:01:46.165844+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-11-14T05:01:30.713189+00:00",
-   "to": "2026-11-15T05:01:30.736586+00:00"
+   "from": "2026-11-14T11:01:46.145496+00:00",
+   "to": "2026-11-15T11:01:46.165844+00:00"
   },
   "key_points": [
+   {
+    "text": "@tedpillows ändert Prognose: BTC DOWN $17.000 → BTC DOWN $62.000",
+    "ids": [
+     "2121911466798252483"
+    ]
+   },
    {
     "text": "@tedpillows ändert Prognose: BTC UP $80.000 → BTC DOWN $17.000",
     "ids": [
@@ -659,9 +681,9 @@
     ]
    },
    {
-    "text": "Neue BTC-Prognose von @tedpillows: BTC DOWN $17.000",
+    "text": "Neue BTC-Prognose von @tedpillows: BTC DOWN $62.000",
     "ids": [
-     "2121644080992333953"
+     "2121911466798252483"
     ]
    },
    {
@@ -669,27 +691,63 @@
     "ids": [
      "2121644863858893266"
     ]
-   },
-   {
-    "text": "@tedpillows: Checked liquidations and whale wallets again this afternoon. Quick update 👇 BTC lost $66k and is now around $65.2k. ETH is under $1,850. What's driving it: more leverage getting…",
-    "ids": [
-     "2121627019704226066"
-    ]
    }
   ],
   "sections": {
-   "TOP_DEVELOPMENTS": "@killaxbt: Cutting my $BTC continuation long here at 65K for a loss. After capturing the move from 76K to 87K, we unfortunately failed to hold the range. That invalidates my thesis for this… · @tedpillows: It's been 17 days since Binance got hacked. $BTC is down $17,000 since then. A $1,000 dump a day keeps insolvency away. · @xapa03: #ShortTermSaturday - Episode 8 (11/14/26) \"Real eyes realize real lies.\"👁️ ✒️My dear followers, this week has been one of the hardest I have ever experienced, and no, I am not…",
-   "BTC_OUTLOOK": "Stimmung 57 % bärisch (7/12 Accounts mit Meinung). Median offener Kursziele $500.000. @killaxbt: Cutting my $BTC continuation long here at 65K for a loss. After capturing the move from 76K to 87K, we unfortunately failed to hold the range. That invalidates my thesis for this… · @tedpillows: It's been 17 days since Binance got hacked. $BTC is down $17,000 since then. A $1,000 dump a day keeps insolvency away. · @xapa03: #ShortTermSaturday - Episode 8 (11/14/26) \"Real eyes realize real lies.\"👁️ ✒️My dear followers, this week has been one of the hardest I have ever experienced, and no, I am not…",
+   "TOP_DEVELOPMENTS": "@tedpillows: $BTC tapped the $62,000 level. Now, Bitcoin is at its most important demand zone. If Bitcoin loses $60K from here, things could get even more ugly. · @killaxbt: Cutting my $BTC continuation long here at 65K for a loss. After capturing the move from 76K to 87K, we unfortunately failed to hold the range. That invalidates my thesis for this… · @xapa03: #ShortTermSaturday - Episode 8 (11/14/26) \"Real eyes realize real lies.\"👁️ ✒️My dear followers, this week has been one of the hardest I have ever experienced, and no, I am not…",
+   "BTC_OUTLOOK": "Stimmung 57 % bärisch (7/12 Accounts mit Meinung). Median offener Kursziele $400.000. @tedpillows: $BTC tapped the $62,000 level. Now, Bitcoin is at its most important demand zone. If Bitcoin loses $60K from here, things could get even more ugly. · @killaxbt: Cutting my $BTC continuation long here at 65K for a loss. After capturing the move from 76K to 87K, we unfortunately failed to hold the range. That invalidates my thesis for this… · @xapa03: #ShortTermSaturday - Episode 8 (11/14/26) \"Real eyes realize real lies.\"👁️ ✒️My dear followers, this week has been one of the hardest I have ever experienced, and no, I am not…",
    "MACRO_OUTLOOK": "@tedpillows: Checked liquidations and whale wallets again this afternoon. Quick update 👇 BTC lost $66k and is now around $65.2k. ETH is under $1,850. What's driving it: more leverage getting…",
    "GLOBAL_LIQUIDITY": "Keine relevanten Aussagen.",
    "FED_RATES": "@nolimitgains: BREAKING: The Federal Reserve now says AI is the TOP risk to the US financial system. 87% of the market contacts it surveyed named AI as a major risk. A year ago, it was 30%.",
    "DXY_TREASURIES": "Keine relevanten Aussagen.",
    "GOLD": "Keine relevanten Aussagen.",
-   "GEOPOLITICS": "@tedpillows: Spent the morning going through liquidations and whale wallets from this week. Here's what I'm seeing 👇 $BTC is down ~11% since Thursday, from ~$80k to ~$67k. $ETH is down ~15%,…",
+   "GEOPOLITICS": "Keine relevanten Aussagen.",
    "CONSENSUS": "BTC: 57 % bärisch (4/7) · Liquidität: 80 % expandierend (4/5) · Fed: 50 % lockernd (3/6) · Geopolitik-Risiko: 83 % erhöht (5/6)",
    "CONTRARIAN": "@killaxbt (BTC bullisch): Cutting my $BTC continuation long here at 65K for a loss.\n\n\n\nAfter capturing the move from 76K to 87K, we unfortunately  · @danheld (BTC bullisch): JUST IN: Dan Held says Bitcoin is \"worth $30 to $40 trillion at a minimum.\" 🚀\n\n\n\n\"If the world in a sovereign debt crisi · @tedpillows (Fed straffend): The Fed is now projected to hike rates next month.\n\n🇺🇸 US PPI came in at 0.3% vs 0.4% expected. · @jameslavish (Fed straffend): The Fed is about to fight inflation with a weapon that could break the economy.\n\n\n\n@jameslavish warns that raising rates"
   },
   "new_predictions": [
+   {
+    "id": 153,
+    "account": "tedpillows",
+    "tweet_id": "2121911466798252483",
+    "prediction_date": "2026-11-15T10:21:31+00:00",
+    "asset_or_metric": "BTC",
+    "prediction_type": "PRICE_TARGET",
+    "direction": "DOWN",
+    "target": 62000.0,
+    "target_low": null,
+    "target_high": null,
+    "deadline": null,
+    "time_horizon": null,
+    "conditions": null,
+    "status": "OPEN",
+    "status_note": null,
+    "btc_price_when_prediction_made": 65551.6,
+    "evidence": "$BTC tapped the $62,000 level.",
+    "label": "BTC DOWN $62.000",
+    "url": "https://x.com/tedpillows/status/2121911466798252483"
+   },
+   {
+    "id": 154,
+    "account": "tedpillows",
+    "tweet_id": "2121911466798252483",
+    "prediction_date": "2026-11-15T10:21:31+00:00",
+    "asset_or_metric": "BTC",
+    "prediction_type": "PRICE_TARGET",
+    "direction": "DOWN",
+    "target": 60000.0,
+    "target_low": null,
+    "target_high": null,
+    "deadline": null,
+    "time_horizon": null,
+    "conditions": "If Bitcoin loses $60K from here",
+    "status": "OPEN",
+    "status_note": null,
+    "btc_price_when_prediction_made": 65551.6,
+    "evidence": "If Bitcoin loses $60K from here, things could get even more ugly.",
+    "label": "BTC DOWN $60.000",
+    "url": "https://x.com/tedpillows/status/2121911466798252483"
+   },
    {
     "id": 152,
     "account": "tedpillows",
@@ -704,8 +762,8 @@
     "deadline": null,
     "time_horizon": null,
     "conditions": null,
-    "status": "OPEN",
-    "status_note": null,
+    "status": "UPDATED",
+    "status_note": "BTC DOWN $17.000 → BTC DOWN $62.000",
     "btc_price_when_prediction_made": 65283.7,
     "evidence": "$BTC is down $17,000 since then.",
     "label": "BTC DOWN $17.000",
@@ -736,6 +794,14 @@
   "updated_predictions": [
    {
     "account": "tedpillows",
+    "change": "TARGET_CHANGED",
+    "note": "BTC DOWN $17.000 → BTC DOWN $62.000",
+    "tweet_id": "2121911466798252483",
+    "url": "https://x.com/tedpillows/status/2121911466798252483",
+    "detected_at": "2026-11-15T11:01:46.101959+00:00"
+   },
+   {
+    "account": "tedpillows",
     "change": "DIRECTION_FLIP,TARGET_CHANGED",
     "note": "BTC UP $80.000 → BTC DOWN $17.000",
     "tweet_id": "2121644080992333953",
@@ -754,206 +820,32 @@
    }
   ],
   "since_morning": {
-   "since": "2026-11-14T06:00:00+00:00",
-   "relevant_posts": 14,
-   "consensus_shifts": [
-    {
-     "topic": "FED",
-     "from": {
-      "majority": "tightening",
-      "score": 67,
-      "n": 6
-     },
-     "to": {
-      "majority": "easing",
-      "score": 50,
-      "n": 6
-     }
-    }
-   ],
+   "since": "2026-11-15T06:00:00+00:00",
+   "relevant_posts": 1,
+   "consensus_shifts": [],
    "new_predictions": 2,
    "posts": [
     {
-     "account": "killaxbt",
-     "tweet_id": "2121644863858893266",
-     "timestamp": "2026-11-14T16:42:08+00:00",
-     "relevance": 100,
-     "summary": "Cutting my $BTC continuation long here at 65K for a loss. After capturing the move from 76K to 87K, we unfortunately failed to hold the range. That invalidates my thesis for this…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/killaxbt/status/2121644863858893266"
-    },
-    {
      "account": "tedpillows",
-     "tweet_id": "2121644080992333953",
-     "timestamp": "2026-11-14T16:39:01+00:00",
+     "tweet_id": "2121911466798252483",
+     "timestamp": "2026-11-15T10:21:31+00:00",
      "relevance": 100,
-     "summary": "It's been 17 days since Binance got hacked. $BTC is down $17,000 since then. A $1,000 dump a day keeps insolvency away.",
+     "summary": "$BTC tapped the $62,000 level. Now, Bitcoin is at its most important demand zone. If Bitcoin loses $60K from here, things could get even more ugly.",
      "categories": [
       "BITCOIN",
       "BTC_PRICE"
      ],
-     "url": "https://x.com/tedpillows/status/2121644080992333953"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2121637564692259107",
-     "timestamp": "2026-11-14T16:13:08+00:00",
-     "relevance": 60,
-     "summary": "Thanks for selling again $ETH foundation. The #EthereumFoundation-linked wallet (0x5CBC) dumped another 1,000 $ETH($1.9M) an hour ago. Over the past 5 days, this wallet has sold…",
-     "categories": [
-      "BTC_ONCHAIN"
-     ],
-     "url": "https://x.com/tedpillows/status/2121637564692259107"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2121627019704226066",
-     "timestamp": "2026-11-14T15:31:14+00:00",
-     "relevance": 100,
-     "summary": "Checked liquidations and whale wallets again this afternoon. Quick update 👇 BTC lost $66k and is now around $65.2k. ETH is under $1,850. What's driving it: more leverage getting…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "BTC_TECHNICAL",
-      "BANKING"
-     ],
-     "url": "https://x.com/tedpillows/status/2121627019704226066"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2121625468420170212",
-     "timestamp": "2026-11-14T15:25:04+00:00",
-     "relevance": 100,
-     "summary": "Unfortunately $BTC has lost the previous ATH. It is starting to look increasingly likely that we are going to capitulate through the lows & form the true bottom in Q4. There are…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE"
-     ],
-     "url": "https://x.com/killaxbt/status/2121625468420170212"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2121582506797342748",
-     "timestamp": "2026-11-14T12:34:21+00:00",
-     "relevance": 62,
-     "summary": "Spot is selling. Perp is shorting. Nothing has changed for $BTC.",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/tedpillows/status/2121582506797342748"
-    },
-    {
-     "account": "nolimitgains",
-     "tweet_id": "2121581030989856891",
-     "timestamp": "2026-11-14T12:28:29+00:00",
-     "relevance": 76,
-     "summary": "BREAKING: The Federal Reserve now says AI is the TOP risk to the US financial system. 87% of the market contacts it surveyed named AI as a major risk. A year ago, it was 30%.",
-     "categories": [
-      "FED"
-     ],
-     "url": "https://x.com/nolimitgains/status/2121581030989856891"
-    },
-    {
-     "account": "xapa03",
-     "tweet_id": "2121579038544212468",
-     "timestamp": "2026-11-14T12:20:34+00:00",
-     "relevance": 100,
-     "summary": "#ShortTermSaturday - Episode 8 (11/14/26) \"Real eyes realize real lies.\"👁️ ✒️My dear followers, this week has been one of the hardest I have ever experienced, and no, I am not…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/thebtcfrontierx/status/2121579038544212468"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2121553582767866077",
-     "timestamp": "2026-11-14T10:39:25+00:00",
-     "relevance": 100,
-     "summary": "Spent the morning going through liquidations and whale wallets from this week. Here's what I'm seeing 👇 $BTC is down ~11% since Thursday, from ~$80k to ~$67k. $ETH is down ~15%,…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "BTC_TECHNICAL",
-      "BTC_ETF",
-      "MINING",
-      "GEOPOLITICS"
-     ],
-     "url": "https://x.com/tedpillows/status/2121553582767866077"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2121521322039849028",
-     "timestamp": "2026-11-14T08:31:13+00:00",
-     "relevance": 76,
-     "summary": "ETFs sold $1,070,000,000 in $BTC this week. ETFs also sold $398,000,000 in $ETH and $32,000,000 in $SOL this week.",
-     "categories": [
-      "BITCOIN",
-      "BTC_ETF"
-     ],
-     "url": "https://x.com/tedpillows/status/2121521322039849028"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2121509746431721574",
-     "timestamp": "2026-11-14T07:45:13+00:00",
-     "relevance": 78,
-     "summary": "$BTC has dropped below its 200W MA. Non stop selling.",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/tedpillows/status/2121509746431721574"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2121410683212321229",
-     "timestamp": "2026-11-14T01:11:35+00:00",
-     "relevance": 84,
-     "summary": "There are really only 2 scenarios for $BTC here. Either the bottom was never in and we’re heading to new lows, or this was a very brutal 23% shakeout. What’s making me question…",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/killaxbt/status/2121410683212321229"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2121323933710668072",
-     "timestamp": "2026-11-13T19:26:52+00:00",
-     "relevance": 76,
-     "summary": "$BTC cycle extremes. It combines the most powerful BTC top & bottom indicators into one clear chart. This allows us to see when many indicators confirm the same signal. Buying in…",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/killaxbt/status/2121323933710668072"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2121265709887934687",
-     "timestamp": "2026-11-13T15:35:31+00:00",
-     "relevance": 92,
-     "summary": "If the $BTC bottom is in at 57K, This drop is comparable to the Covid collapse, where we fully filled the imbalance left from the bear market lows. In 2023, even the capitulation…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE"
-     ],
-     "url": "https://x.com/killaxbt/status/2121265709887934687"
+     "url": "https://x.com/tedpillows/status/2121911466798252483"
     }
    ]
   },
   "stats": {
-   "posts_new": 34,
+   "posts_new": 24,
    "posts_relevant": 1,
-   "predictions_new": 0,
-   "predictions_updated": 0,
+   "predictions_new": 2,
+   "predictions_updated": 1,
    "invalidated": 0,
-   "posts_analysed": 34,
+   "posts_analysed": 24,
    "evaluated": 0
   }
  }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T05:10:56.013379+00:00",
+ "generated_at": "2026-11-15T11:11:07.760127+00:00",
  "accounts": [
   {
    "handle": "killaxbt",
@@ -66,7 +66,7 @@
      "url": "https://x.com/killaxbt/status/2120889950556061803",
      "verifiable": true,
      "resolved_at": "2026-11-12T19:38:05+00:00",
-     "distance_to_target_pct": 16.5,
+     "distance_to_target_pct": 15.6,
      "updated_by": null,
      "updates": 145,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED,CONDITION_CHANGED"
@@ -93,7 +93,7 @@
      "url": "https://x.com/killaxbt/status/2120667900235419859",
      "verifiable": true,
      "resolved_at": "2026-11-12T14:42:23+00:00",
-     "distance_to_target_pct": -22.8,
+     "distance_to_target_pct": -23.4,
      "updated_by": null,
      "updates": 143,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -146,7 +146,7 @@
      "url": "https://x.com/killaxbt/status/2119872551669092526",
      "verifiable": true,
      "resolved_at": "2026-11-12T00:00:02+00:00",
-     "distance_to_target_pct": 18.1,
+     "distance_to_target_pct": 17.2,
      "updated_by": 144,
      "updates": null,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -173,7 +173,7 @@
      "url": "https://x.com/killaxbt/status/2113941069599588836",
      "verifiable": true,
      "resolved_at": "2026-11-12T17:01:55.060313+00:00",
-     "distance_to_target_pct": 14.2,
+     "distance_to_target_pct": 13.3,
      "updated_by": null,
      "updates": 127,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED,CONDITION_CHANGED"
@@ -200,7 +200,7 @@
      "url": "https://x.com/killaxbt/status/2113109977439068212",
      "verifiable": true,
      "resolved_at": "2026-10-24T10:30:00+00:00",
-     "distance_to_target_pct": 34.3,
+     "distance_to_target_pct": 33.2,
      "updated_by": 131,
      "updates": 122,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED,CONDITION_CHANGED"
@@ -227,7 +227,7 @@
      "url": "https://x.com/killaxbt/status/2112602017692889402",
      "verifiable": true,
      "resolved_at": "2026-10-22T03:27:32+00:00",
-     "distance_to_target_pct": 131.5,
+     "distance_to_target_pct": 129.7,
      "updated_by": 127,
      "updates": 116,
      "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -254,7 +254,7 @@
      "url": "https://x.com/killaxbt/status/2111177575934673239",
      "verifiable": true,
      "resolved_at": "2026-10-20T17:49:05+00:00",
-     "distance_to_target_pct": 94.5,
+     "distance_to_target_pct": 93.0,
      "updated_by": 122,
      "updates": 109,
      "change_type": "TARGET_CHANGED"
@@ -281,7 +281,7 @@
      "url": "https://x.com/killaxbt/status/2110422812150435998",
      "verifiable": true,
      "resolved_at": "2026-10-16T19:28:52+00:00",
-     "distance_to_target_pct": 54.3,
+     "distance_to_target_pct": 53.2,
      "updated_by": 116,
      "updates": null,
      "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -308,7 +308,7 @@
      "url": "https://x.com/killaxbt/status/2110082903443116269",
      "verifiable": true,
      "resolved_at": "2026-11-08T22:40:56+00:00",
-     "distance_to_target_pct": 54.3,
+     "distance_to_target_pct": 53.2,
      "updated_by": null,
      "updates": 104,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -444,7 +444,7 @@
      "url": "https://x.com/xapa03/status/2121140335363735669",
      "verifiable": true,
      "resolved_at": "2026-11-13T10:19:39+00:00",
-     "distance_to_target_pct": 2.8,
+     "distance_to_target_pct": 2.0,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -471,7 +471,7 @@
      "url": "https://x.com/xapa03/status/2121096144319308138",
      "verifiable": true,
      "resolved_at": "2026-11-13T07:17:19+00:00",
-     "distance_to_target_pct": 2.8,
+     "distance_to_target_pct": 2.0,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -498,7 +498,7 @@
      "url": "https://x.com/xapa03/status/2119765538427621508",
      "verifiable": true,
      "resolved_at": "2026-11-12T15:20:26+00:00",
-     "distance_to_target_pct": 35.8,
+     "distance_to_target_pct": 34.8,
      "updated_by": null,
      "updates": 137,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -525,7 +525,7 @@
      "url": "https://x.com/xapa03/status/2119765538427621508",
      "verifiable": true,
      "resolved_at": "2026-11-12T17:01:55.060313+00:00",
-     "distance_to_target_pct": 11.1,
+     "distance_to_target_pct": 10.3,
      "updated_by": null,
      "updates": 136,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -552,7 +552,7 @@
      "url": "https://x.com/xapa03/status/2118842757787914314",
      "verifiable": true,
      "resolved_at": "2026-11-09T12:14:22+00:00",
-     "distance_to_target_pct": 21.1,
+     "distance_to_target_pct": 20.2,
      "updated_by": 138,
      "updates": null,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -579,7 +579,7 @@
      "url": "https://x.com/xapa03/status/2118842207759413639",
      "verifiable": true,
      "resolved_at": "2026-11-09T12:14:22+00:00",
-     "distance_to_target_pct": 21.1,
+     "distance_to_target_pct": 20.2,
      "updated_by": 139,
      "updates": 135,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -606,7 +606,7 @@
      "url": "https://x.com/xapa03/status/2118644786601054609",
      "verifiable": true,
      "resolved_at": "2026-11-06T23:05:23+00:00",
-     "distance_to_target_pct": 15.7,
+     "distance_to_target_pct": 14.9,
      "updated_by": 136,
      "updates": 134,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -633,7 +633,7 @@
      "url": "https://x.com/xapa03/status/2118008693765922840",
      "verifiable": true,
      "resolved_at": "2026-11-06T10:00:54+00:00",
-     "distance_to_target_pct": -31.3,
+     "distance_to_target_pct": -31.8,
      "updated_by": 135,
      "updates": null,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -686,7 +686,7 @@
      "url": "https://x.com/xapa03/status/2112469564546248831",
      "verifiable": true,
      "resolved_at": "2026-10-23T12:35:50+00:00",
-     "distance_to_target_pct": 45.1,
+     "distance_to_target_pct": 44.0,
      "updated_by": 130,
      "updates": null,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -777,9 +777,9 @@
    "handle": "tuurdemeester",
    "display_name": "Tuur Demeester",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-11-14T17:01:58.849455+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-11-15T11:01:46.029143+00:00",
+    "error": null
    },
    "bias": {},
    "thesis_changes": [],
@@ -859,9 +859,9 @@
    "handle": "zerohedge",
    "display_name": "zerohedge",
    "status": {
-    "ok": true,
+    "ok": false,
     "last_ok_at": "2026-11-15T05:01:30.591462+00:00",
-    "error": null
+    "error": "Account nicht verfügbar (HTTP 404)"
    },
    "bias": {
     "LIQUIDITY": {
@@ -993,9 +993,9 @@
    "handle": "e_boeminghaus",
    "display_name": "Emanuel Boeminghaus",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-11-14T17:01:58.849455+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-11-15T11:01:46.029143+00:00",
+    "error": null
    },
    "bias": {
     "GEO": {
@@ -1045,9 +1045,9 @@
    "handle": "tedpillows",
    "display_name": "Ted",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-11-14T17:01:58.849455+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-11-15T11:01:46.029143+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
@@ -1096,14 +1096,14 @@
    ],
    "open_predictions": [
     {
-     "id": 152,
+     "id": 153,
      "account": "tedpillows",
-     "tweet_id": "2121644080992333953",
-     "prediction_date": "2026-11-14T16:39:01+00:00",
+     "tweet_id": "2121911466798252483",
+     "prediction_date": "2026-11-15T10:21:31+00:00",
      "asset_or_metric": "BTC",
      "prediction_type": "PRICE_TARGET",
      "direction": "DOWN",
-     "target": 17000.0,
+     "target": 62000.0,
      "target_low": null,
      "target_high": null,
      "deadline": null,
@@ -1111,16 +1111,43 @@
      "conditions": null,
      "status": "OPEN",
      "status_note": null,
-     "btc_price_when_prediction_made": 65283.7,
-     "evidence": "$BTC is down $17,000 since then.",
-     "label": "BTC DOWN $17.000",
-     "url": "https://x.com/tedpillows/status/2121644080992333953",
+     "btc_price_when_prediction_made": 65551.6,
+     "evidence": "$BTC tapped the $62,000 level.",
+     "label": "BTC DOWN $62.000",
+     "url": "https://x.com/tedpillows/status/2121911466798252483",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": -73.8,
+     "distance_to_target_pct": -5.0,
      "updated_by": null,
-     "updates": 151,
-     "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
+     "updates": 152,
+     "change_type": "TARGET_CHANGED"
+    },
+    {
+     "id": 154,
+     "account": "tedpillows",
+     "tweet_id": "2121911466798252483",
+     "prediction_date": "2026-11-15T10:21:31+00:00",
+     "asset_or_metric": "BTC",
+     "prediction_type": "PRICE_TARGET",
+     "direction": "DOWN",
+     "target": 60000.0,
+     "target_low": null,
+     "target_high": null,
+     "deadline": null,
+     "time_horizon": null,
+     "conditions": "If Bitcoin loses $60K from here",
+     "status": "OPEN",
+     "status_note": null,
+     "btc_price_when_prediction_made": 65551.6,
+     "evidence": "If Bitcoin loses $60K from here, things could get even more ugly.",
+     "label": "BTC DOWN $60.000",
+     "url": "https://x.com/tedpillows/status/2121911466798252483",
+     "verifiable": true,
+     "resolved_at": null,
+     "distance_to_target_pct": -8.1,
+     "updated_by": null,
+     "updates": null,
+     "change_type": null
     },
     {
      "id": 148,
@@ -1177,6 +1204,33 @@
    ],
    "previous_predictions": [
     {
+     "id": 152,
+     "account": "tedpillows",
+     "tweet_id": "2121644080992333953",
+     "prediction_date": "2026-11-14T16:39:01+00:00",
+     "asset_or_metric": "BTC",
+     "prediction_type": "PRICE_TARGET",
+     "direction": "DOWN",
+     "target": 17000.0,
+     "target_low": null,
+     "target_high": null,
+     "deadline": null,
+     "time_horizon": null,
+     "conditions": null,
+     "status": "UPDATED",
+     "status_note": "BTC DOWN $17.000 → BTC DOWN $62.000",
+     "btc_price_when_prediction_made": 65283.7,
+     "evidence": "$BTC is down $17,000 since then.",
+     "label": "BTC DOWN $17.000",
+     "url": "https://x.com/tedpillows/status/2121644080992333953",
+     "verifiable": true,
+     "resolved_at": "2026-11-15T10:21:31+00:00",
+     "distance_to_target_pct": -74.0,
+     "updated_by": 153,
+     "updates": 151,
+     "change_type": "TARGET_CHANGED"
+    },
+    {
      "id": 151,
      "account": "tedpillows",
      "tweet_id": "2121627019704226066",
@@ -1198,7 +1252,7 @@
      "url": "https://x.com/tedpillows/status/2121627019704226066",
      "verifiable": true,
      "resolved_at": "2026-11-14T16:39:01+00:00",
-     "distance_to_target_pct": 23.5,
+     "distance_to_target_pct": 22.5,
      "updated_by": 152,
      "updates": null,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -1225,7 +1279,7 @@
      "url": "https://x.com/tedpillows/status/2113546864893083997",
      "verifiable": true,
      "resolved_at": "2026-10-24T05:02:12.728208+00:00",
-     "distance_to_target_pct": 26.5,
+     "distance_to_target_pct": 25.6,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -1252,7 +1306,7 @@
      "url": "https://x.com/tedpillows/status/2112914560084791350",
      "verifiable": true,
      "resolved_at": "2026-10-22T05:02:04.434034+00:00",
-     "distance_to_target_pct": 29.6,
+     "distance_to_target_pct": 28.6,
      "updated_by": null,
      "updates": 125,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -1279,7 +1333,7 @@
      "url": "https://x.com/tedpillows/status/2112872485972533386",
      "verifiable": true,
      "resolved_at": "2026-10-21T14:31:01+00:00",
-     "distance_to_target_pct": 38.9,
+     "distance_to_target_pct": 37.8,
      "updated_by": 126,
      "updates": 124,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -1306,7 +1360,7 @@
      "url": "https://x.com/tedpillows/status/2112831831728922690",
      "verifiable": true,
      "resolved_at": "2026-10-21T11:43:50+00:00",
-     "distance_to_target_pct": 30.8,
+     "distance_to_target_pct": 29.8,
      "updated_by": 125,
      "updates": 123,
      "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -1333,7 +1387,7 @@
      "url": "https://x.com/tedpillows/status/2112821297864687670",
      "verifiable": true,
      "resolved_at": "2026-10-21T09:02:17+00:00",
-     "distance_to_target_pct": 31.2,
+     "distance_to_target_pct": 30.2,
      "updated_by": 124,
      "updates": null,
      "change_type": "CONDITION_CHANGED"
@@ -1360,7 +1414,7 @@
      "url": "https://x.com/tedpillows/status/2112084828828963020",
      "verifiable": true,
      "resolved_at": "2026-10-21T17:01:51.051087+00:00",
-     "distance_to_target_pct": 30.4,
+     "distance_to_target_pct": 29.4,
      "updated_by": null,
      "updates": 118,
      "change_type": "TIMEFRAME_CHANGED"
@@ -1387,7 +1441,7 @@
      "url": "https://x.com/tedpillows/status/2111757932010594396",
      "verifiable": true,
      "resolved_at": "2026-10-19T05:01:47.441071+00:00",
-     "distance_to_target_pct": 27.8,
+     "distance_to_target_pct": 26.8,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -1414,47 +1468,20 @@
      "url": "https://x.com/tedpillows/status/2111515581815947550",
      "verifiable": true,
      "resolved_at": "2026-10-19T07:33:58+00:00",
-     "distance_to_target_pct": 28.1,
+     "distance_to_target_pct": 27.1,
      "updated_by": 120,
      "updates": 117,
      "change_type": "TIMEFRAME_CHANGED"
-    },
-    {
-     "id": 117,
-     "account": "tedpillows",
-     "tweet_id": "2111392516884852869",
-     "prediction_date": "2026-10-17T09:42:58+00:00",
-     "asset_or_metric": "BTC",
-     "prediction_type": "PRICE_TARGET",
-     "direction": "RANGE",
-     "target": 82800.0,
-     "target_low": null,
-     "target_high": null,
-     "deadline": null,
-     "time_horizon": null,
-     "conditions": null,
-     "status": "UPDATED",
-     "status_note": "BTC RANGE $82.800 → BTC RANGE $83.000 (this week)",
-     "btc_price_when_prediction_made": 81527.1,
-     "evidence": "Now, I want to see Bitcoin close the week above $82,800 for a decent rally.",
-     "label": "BTC RANGE $82.800",
-     "url": "https://x.com/tedpillows/status/2111392516884852869",
-     "verifiable": true,
-     "resolved_at": "2026-10-17T17:51:59+00:00",
-     "distance_to_target_pct": 27.8,
-     "updated_by": 118,
-     "updates": 103,
-     "change_type": "TIMEFRAME_CHANGED,CONDITION_CHANGED"
     }
    ],
    "track_record": {
-    "total": 52,
-    "open": 3,
+    "total": 54,
+    "open": 4,
     "correct": 11,
     "partially_correct": 1,
     "wrong": 2,
     "expired": 0,
-    "updated": 34,
+    "updated": 35,
     "invalidated": 1,
     "closed": 14,
     "hit_30d": {
@@ -1473,8 +1500,8 @@
      "label": "82 %"
     }
    },
-   "last_prediction": "BTC DOWN $17.000",
-   "last_prediction_date": "2026-11-14T16:39:01+00:00"
+   "last_prediction": "BTC DOWN $62.000",
+   "last_prediction_date": "2026-11-15T10:21:31+00:00"
   },
   {
    "handle": "jameslavish",
@@ -1574,7 +1601,7 @@
      "url": "https://x.com/jameslavish/status/2120232177422201068",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": 517.3,
+     "distance_to_target_pct": 512.6,
      "updated_by": null,
      "updates": 132,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -1601,7 +1628,7 @@
      "url": "https://x.com/jameslavish/status/2120232177422201068",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": 671.6,
+     "distance_to_target_pct": 665.8,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -1630,7 +1657,7 @@
      "url": "https://x.com/jameslavish/status/2116219137177550962",
      "verifiable": true,
      "resolved_at": "2026-11-10T19:08:37+00:00",
-     "distance_to_target_pct": -71.8,
+     "distance_to_target_pct": -72.0,
      "updated_by": 140,
      "updates": 128,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -1683,7 +1710,7 @@
      "url": "https://x.com/jameslavish/status/2111171141364817941",
      "verifiable": true,
      "resolved_at": "2026-10-22T18:48:33+00:00",
-     "distance_to_target_pct": -84.6,
+     "distance_to_target_pct": -84.7,
      "updated_by": 128,
      "updates": null,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -1748,9 +1775,9 @@
    "handle": "timevalueofbtc",
    "display_name": "Nik Bhatia",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-11-14T17:01:58.849455+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-11-15T11:01:46.029143+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
@@ -1817,7 +1844,7 @@
      "url": "https://x.com/timevalueofbtc/status/2120302441929507097",
      "verifiable": true,
      "resolved_at": "2026-11-12T17:01:55.060313+00:00",
-     "distance_to_target_pct": 13.9,
+     "distance_to_target_pct": 13.0,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -1857,7 +1884,7 @@
    "display_name": "Dan Held",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-11-15T05:01:30.591462+00:00",
+    "last_ok_at": "2026-11-15T11:01:46.029143+00:00",
     "error": null
    },
    "bias": {
@@ -1931,7 +1958,7 @@
      "url": "https://x.com/danheld/status/2117298145818186002",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": 1443.3,
+     "distance_to_target_pct": 1431.5,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -1972,7 +1999,7 @@
    "display_name": "NoLimit",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-11-15T05:01:30.591462+00:00",
+    "last_ok_at": "2026-11-15T11:01:46.029143+00:00",
     "error": null
    },
    "bias": {
