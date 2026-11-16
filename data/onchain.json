@@ -1,25 +1,25 @@
 {
- "generated_at": "2026-11-16T05:14:43.667723+00:00",
+ "generated_at": "2026-11-16T11:06:19.691202+00:00",
  "source": "Beelink: jeder Block (blockchain.info/mempool.space)",
  "whales": {
   "flows": {
    "24h": {
     "net_to_exchange_btc": -21169,
     "coverage_pct": 100,
-    "whale_txs": 3195,
-    "whale_btc": 799565
+    "whale_txs": 3181,
+    "whale_btc": 886278
    },
    "7d": {
     "net_to_exchange_btc": -1825,
-    "coverage_pct": 70,
-    "whale_txs": 20057,
-    "whale_btc": 4723835
+    "coverage_pct": 74,
+    "whale_txs": 20815,
+    "whale_btc": 5003404
    },
    "30d": {
-    "net_to_exchange_btc": 31811,
+    "net_to_exchange_btc": 31391,
     "coverage_pct": 43,
-    "whale_txs": 36467,
-    "whale_btc": 9813509
+    "whale_txs": 36770,
+    "whale_btc": 9956444
    }
   },
   "trend": "Neutral",
