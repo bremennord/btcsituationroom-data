@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-15T17:12:28.759657+00:00",
- "btc_price": 64773.4,
+ "generated_at": "2026-11-16T05:14:43.667723+00:00",
+ "btc_price": 64597.1,
  "outlook": {
   "BTC": {
    "horizons": {
     "24h": {
-     "label": "bärisch",
+     "label": "zu wenige Aussagen",
      "counts": {
       "pos": 0,
       "neu": 0,
-      "neg": 2
+      "neg": 1
      },
-     "accounts": 2
+     "accounts": 1
     },
     "3d": {
-     "label": "leicht bärisch",
+     "label": "leicht bullisch",
      "counts": {
       "pos": 2,
       "neu": 0,
-      "neg": 3
+      "neg": 1
      },
-     "accounts": 5
+     "accounts": 3
     },
     "7d": {
      "label": "leicht bärisch",
@@ -32,7 +32,7 @@
      "accounts": 5
     }
    },
-   "scenario": "Mehrheit (7 T): leicht bärisch. Wahrscheinlichste Zone laut Quellen: $16k bis $65k–67k; Ausbruch über $65k–67k wäre das nächste Signal.",
+   "scenario": "Mehrheit (7 T): leicht bärisch. Wahrscheinlichste Zone laut Quellen: $16k bis $67k; Ausbruch über $67k wäre das nächste Signal.",
    "risk": "Bruch unter $16k (genannt von @tedpillows, @zerohedge)",
    "consensus": {
     "pos": 2,
@@ -42,9 +42,9 @@
    "confidence": "Mittel",
    "levels": {
     "support": "$16k",
-    "resistance": "$65k–67k"
+    "resistance": "$67k"
    },
-   "n_posts": 41,
+   "n_posts": 40,
    "sources": [
     {
      "account": "killaxbt",
@@ -111,19 +111,19 @@
      "label": "zu wenige Aussagen",
      "counts": {
       "pos": 0,
-      "neu": 1,
+      "neu": 0,
       "neg": 0
      },
-     "accounts": 1
+     "accounts": 0
     },
     "3d": {
-     "label": "leicht Risk-Off",
+     "label": "neutral / gemischt",
      "counts": {
       "pos": 1,
-      "neu": 0,
-      "neg": 3
+      "neu": 1,
+      "neg": 1
      },
-     "accounts": 4
+     "accounts": 3
     },
     "7d": {
      "label": "leicht Risk-Off",
@@ -140,7 +140,7 @@
     "Fed restriktiv (4)",
     "wachsende Liquidität (2)"
    ],
-   "risk": "Anstehende Termine in den Posts: PPI (3×), CPI (3×), EARNINGS (2×)",
+   "risk": "Anstehende Termine in den Posts: PPI (3×), EARNINGS (2×), CPI (2×)",
    "consensus": {
     "pos": 1,
     "neu": 0,
@@ -280,7 +280,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 24,
+     "posts": 23,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -290,7 +290,7 @@
     },
     {
      "name": "China / Taiwan",
-     "posts": 8,
+     "posts": 12,
      "impact": [
       "Risiko-Assets ↓",
       "Chips ↓",
@@ -298,7 +298,7 @@
      ]
     }
    ],
-   "n_posts": 42,
+   "n_posts": 49,
    "sources": [
     {
      "account": "jameslavish",
@@ -306,6 +306,13 @@
      "url": "https://x.com/jameslavish/status/2121274907569086649",
      "summary": "He is right, of course, but the Treasury directing the actions of the Fed is literally the definition of \"fiscal dominance.\" BESSENT: TO HIKE TOO MUCH INTO AN ENERGY SUPPLY SHOCK…",
      "timestamp": "2026-11-13T16:12:04+00:00"
+    },
+    {
+     "account": "zerohedge",
+     "tweet_id": "2122034507662389486",
+     "url": "https://x.com/zerohedge/status/2122034507662389486",
+     "summary": "Oil's $27 War Premium Is Gone: Goldman Says That's Exactly Why You Should Own Commodities In 2027",
+     "timestamp": "2026-11-15T18:30:26+00:00"
     },
     {
      "account": "osint613",
@@ -320,6 +327,13 @@
      "url": "https://x.com/zerohedge/status/2121440597986644145",
      "summary": "China's 'Silent' War Drill: Taiwan Blockade Fears Put Conflict-Free Supply Chains In Focus",
      "timestamp": "2026-11-14T03:10:27+00:00"
+    },
+    {
+     "account": "zerohedge",
+     "tweet_id": "2122152390241742877",
+     "url": "https://x.com/zerohedge/status/2122152390241742877",
+     "summary": "China’s Oct. Apparent Oil Demand Falls 9.9% Y/y China Power output in Oct. fell 2.1% y/y to 794b kwh China YTD power output rose 1.8% y/y to 8290.4b kwh",
+     "timestamp": "2026-11-16T02:18:52+00:00"
     },
     {
      "account": "osint613",
@@ -337,54 +351,25 @@
     },
     {
      "account": "zerohedge",
-     "tweet_id": "2121974111303877119",
-     "url": "https://x.com/zerohedge/status/2121974111303877119",
-     "summary": "USAF \"Nuclear Sniffer\" Jet Spotted Near Taiwan Strait",
-     "timestamp": "2026-11-15T14:30:27+00:00"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2121940588035543057",
-     "url": "https://x.com/osint613/status/2121940588035543057",
-     "summary": "Marco Rubio made the case that Iran can never be allowed a nuclear weapon. He contrasted Tehran with North Korea, whose leader he described as focused on survival, not conquest.…",
-     "timestamp": "2026-11-15T12:17:14+00:00"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2121065621785821612",
-     "url": "https://x.com/zerohedge/status/2121065621785821612",
-     "summary": "Powerful Iranian Clerical Body Declares Exiting Nuclear Treaty A 'National Demand'",
-     "timestamp": "2026-11-13T02:20:26+00:00"
+     "tweet_id": "2122155304909439166",
+     "url": "https://x.com/zerohedge/status/2122155304909439166",
+     "summary": "Hormuz 'Closed', Bab El-Mandeb Falls: Three US Carriers Off Iran By Monday",
+     "timestamp": "2026-11-16T02:30:27+00:00"
     }
    ],
    "impact_kind": "Typisches Marktmuster (Systemeinschätzung, keine Prognose)"
   }
  },
  "changed": {
-  "since": "2026-11-15T11:11:15.012582+00:00",
-  "new": [
+  "since": "2026-11-15T17:12:36.999555+00:00",
+  "new": [],
+  "changed": [
    {
-    "account": "killaxbt",
-    "text": "BTC DOWN $50.000–62.000",
-    "url": "https://x.com/killaxbt/status/2121729604805185566"
-   },
-   {
-    "account": "killaxbt",
-    "text": "If you want to wipe out the entire market, You sweep 50-62K first, then send $BTC to 96-98K.",
-    "url": "https://x.com/killaxbt/status/2121729604805185566"
-   },
-   {
-    "account": "killaxbt",
-    "text": "Let’s not pretend this price action is normal. Sure, $BTC has historically bottomed in Q4, and midterms often bring market wide derisking and bad news. But what we’ve seen unfold…",
-    "url": "https://x.com/killaxbt/status/2121709763134431563"
-   },
-   {
-    "account": "tedpillows",
-    "text": "$BTC longs have been fully hunted. A $18,000 drop in 17 days with total liquidations over $13 Billion. Right now, the long liquidation cluster is only $1B, while the short side…",
-    "url": "https://x.com/tedpillows/status/2121922911858520284"
+    "account": "tylerdurden",
+    "text": "BTC-These: bullish → bearish",
+    "url": "https://x.com/tylerdurden/status/2121929196096323856"
    }
   ],
-  "changed": [],
   "new_consensus": [],
   "no_change": [
    "Bitcoin bleibt leicht bärisch",
@@ -461,26 +446,26 @@
    "why": "Konkrete Prognose: BTC RANGE $66.600 (soon)"
   },
   {
-   "account": "xapa03",
-   "tweet_id": "2121096144319308138",
-   "url": "https://x.com/xapa03/status/2121096144319308138",
-   "summary": "Call me crazy, but I gave this exact call and then didn’t even follow it myself. You can see the reason in the second picture. I remain of the opinion that the bull market is…",
-   "timestamp": "2026-11-13T04:21:43+00:00",
-   "category": "BITCOIN",
-   "relevance": 100,
-   "text": "Call me crazy, but I gave this exact call and then didn’t even follow it myself.\n\nYou can see the reason in the second picture.\n\nI remain of the opinion that the bull market is intact.\n\nAs soon as Bitcoin falls below the $66,600 level, I’m completely out.\n\nI miscalculated, not because the pattern was unclear, but because I didn’t fully follow what it had already shown me.\n\n75 and 72 were supposed to hold.\n\nI kept adj",
-   "why": "Konkrete Prognose: BTC DOWN $66.600 (soon)"
+   "account": "jameslavish",
+   "tweet_id": "2122010990674055342",
+   "url": "https://x.com/jameslavish/status/2122010990674055342",
+   "summary": "And it will likely end with central banks printing more money than you could ever imagine. From the Telegraph: “For years after the 2008 financial crash, cheap money fuelled a…",
+   "timestamp": "2026-11-15T16:56:59+00:00",
+   "category": "INTEREST_RATES",
+   "relevance": 91,
+   "text": "And it will likely end with central banks printing more money than you could ever imagine.\nFrom the Telegraph: “For years after the 2008 financial crash, cheap money fuelled a global borrowing boom. However, as interest rates have begun to rise while governments and tech giants compete for capital, the tide is turning.… the consequences of a gathering credit crunch ar…",
+   "why": "Kontext: Interest Rates, Credit, Banking"
   },
   {
-   "account": "nolimitgains",
-   "tweet_id": "2121091237948359112",
-   "url": "https://x.com/nolimitgains/status/2121091237948359112",
-   "summary": "🚨 CRASH: BITCOIN IS BACK BELOW $69,000",
-   "timestamp": "2026-11-13T04:02:13+00:00",
+   "account": "xapa03",
+   "tweet_id": "2121140460853039551",
+   "url": "https://x.com/xapa03/status/2121140460853039551",
+   "summary": "the original Thread: The perfect pattern has played out so far. Will it break? I called this pattern when Bitcoin was at $63,000 🎯 82/83k -> 73k -> 86k -> 67k -> 100k ⌛️…",
+   "timestamp": "2026-11-13T07:17:49+00:00",
    "category": "BITCOIN",
-   "relevance": 94,
-   "text": "🚨 CRASH: BITCOIN IS BACK BELOW $69,000",
-   "why": "BTC bärisch"
+   "relevance": 82,
+   "text": "the original Thread:\n\n\n\nhttps://x.com/xapa03/status/2096318532304662749\nThe perfect pattern has played out so far. Will it break? I called this pattern when Bitcoin was at $63,000 🎯 82/83k -> 73k -> 86k -> 67k -> 100k ⌛️ bitcoin:native",
+   "why": "Kontext: Bitcoin, Btc Price"
   }
  ],
  "top_predictions": [
@@ -491,7 +476,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-15T10:21:31+00:00",
-   "distance_pct": -4.1,
+   "distance_pct": -4.2,
    "conditions": null,
    "evidence": "$BTC tapped the $62,000 level."
   },
@@ -502,7 +487,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-15T10:21:31+00:00",
-   "distance_pct": -7.2,
+   "distance_pct": -7.3,
    "conditions": "If Bitcoin loses $60K from here",
    "evidence": "If Bitcoin loses $60K from here, things could get even more ugly."
   },
@@ -513,7 +498,7 @@
    "deadline": null,
    "time_horizon": "vor dem nächsten Ziel",
    "prediction_date": "2026-11-10T19:08:37+00:00",
-   "distance_pct": 518.5,
+   "distance_pct": 518.1,
    "conditions": null,
    "evidence": "Bitcoin Opportunity Fund's James Lavish on whether his bitcoin cycle call still holds: \"Bitcoin typically will trough and then about three years later, it will find a top.\" \"[In mid-2029] that would get you to somewhere between $400,000 and $500,000 bitcoin.\""
   },
@@ -524,7 +509,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-10T19:08:37+00:00",
-   "distance_pct": 673.1,
+   "distance_pct": 672.6,
    "conditions": null,
    "evidence": "Bitcoin Opportunity Fund's James Lavish on whether his bitcoin cycle call still holds: \"Bitcoin typically will trough and then about three years later, it will find a top.\" \"[In mid-2029] that would get you to somewhere between $400,000 and $500,000 bitcoin.\""
   },
@@ -535,7 +520,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-02T16:49:50+00:00",
-   "distance_pct": 1446.3,
+   "distance_pct": 1445.3,
    "conditions": "If everyone in the world understood Bitcoin",
    "evidence": "If everyone in the world understood Bitcoin, and the current macro environment, then the price would be $1M-$10M per Bitcoin."
   }
@@ -544,7 +529,7 @@
   {
    "topic": "BTC",
    "main": "bearish",
-   "main_share": 57,
+   "main_share": 62,
    "account": "killaxbt",
    "stance": "bullish",
    "text": "Let’s not pretend this price action is normal.\n\n\n\nSure, $BTC has historically bottomed in Q4, and midterms often bring market wide derisking and bad news. But what we’ve seen unfold feels extreme.\n\n\n\n",
@@ -553,7 +538,7 @@
   {
    "topic": "BTC",
    "main": "bearish",
-   "main_share": 57,
+   "main_share": 62,
    "account": "danheld",
    "stance": "bullish",
    "text": "JUST IN: Dan Held says Bitcoin is \"worth $30 to $40 trillion at a minimum.\" 🚀\n\n\n\n\"If the world in a sovereign debt crisis really wakes up to how serious this could be, we could see something where Bit",
@@ -572,14 +557,15 @@
  "consensus_21d": {
   "BTC": {
    "majority": "bearish",
-   "score": 57,
-   "n": 7,
+   "score": 62,
+   "n": 8,
    "counts": {
     "bullish": 2,
     "neutral": 1,
-    "bearish": 4
+    "bearish": 5
    },
    "supporting": [
+    "tylerdurden",
     "tedpillows",
     "jameslavish",
     "timevalueofbtc",
@@ -654,11 +640,11 @@
  },
  "daily": {
   "report_date": "2026-11-15",
-  "generated_at": "2026-11-15T17:02:03.811905+00:00",
+  "generated_at": "2026-11-16T05:01:56.405813+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-11-14T17:02:03.788068+00:00",
-   "to": "2026-11-15T17:02:03.811905+00:00"
+   "from": "2026-11-15T05:01:56.377868+00:00",
+   "to": "2026-11-16T05:01:56.405813+00:00"
   },
   "key_points": [
    {
@@ -668,9 +654,9 @@
     ]
    },
    {
-    "text": "@zerohedge wechselt Fed-These: straffend → lockernd",
+    "text": "@tylerdurden wechselt BTC-These: bullisch → bärisch",
     "ids": [
-     "2121667089014383053"
+     "2121929196096323856"
     ]
    },
    {
@@ -680,28 +666,28 @@
     ]
    },
    {
-    "text": "@killaxbt: If you want to wipe out the entire market, You sweep 50-62K first, then send $BTC to 96-98K.",
+    "text": "@tedpillows: $BTC longs have been fully hunted. A $18,000 drop in 17 days with total liquidations over $13 Billion. Right now, the long liquidation cluster is only $1B, while the short side…",
     "ids": [
-     "2121729604805185566"
+     "2121922911858520284"
     ]
    },
    {
-    "text": "@killaxbt: Let’s not pretend this price action is normal. Sure, $BTC has historically bottomed in Q4, and midterms often bring market wide derisking and bad news. But what we’ve seen unfold…",
+    "text": "@tedpillows: August 17 to August 28 ▫️ Bitcoin rallied $18,700 in 12 days. November 4th to November 15th ▫️ $BTC dumped $18,700 in 12 days. What a crazy coincidence.",
     "ids": [
-     "2121709763134431563"
+     "2121951359133954474"
     ]
    }
   ],
   "sections": {
-   "TOP_DEVELOPMENTS": "@tedpillows: $BTC tapped the $62,000 level. Now, Bitcoin is at its most important demand zone. If Bitcoin loses $60K from here, things could get even more ugly. · @killaxbt: If you want to wipe out the entire market, You sweep 50-62K first, then send $BTC to 96-98K. · @jameslavish: And it will likely end with central banks printing more money than you could ever imagine. From the Telegraph: “For years after the 2008 financial crash, cheap money fuelled a…",
-   "BTC_OUTLOOK": "Stimmung 57 % bärisch (7/12 Accounts mit Meinung). Median offener Kursziele $400.000. @tedpillows: $BTC tapped the $62,000 level. Now, Bitcoin is at its most important demand zone. If Bitcoin loses $60K from here, things could get even more ugly. · @killaxbt: If you want to wipe out the entire market, You sweep 50-62K first, then send $BTC to 96-98K. · @jameslavish: Good morning. We are currently in the EVERYTHING IS BAD FOR BITCOIN stage of the cycle. When this reverses, and it eventually will, the V-recovery and resulting liquidations of…",
-   "MACRO_OUTLOOK": "@killaxbt: Let’s not pretend this price action is normal. Sure, $BTC has historically bottomed in Q4, and midterms often bring market wide derisking and bad news. But what we’ve seen unfold… · @jameslavish: And it will likely end with central banks printing more money than you could ever imagine. From the Telegraph: “For years after the 2008 financial crash, cheap money fuelled a…",
+   "TOP_DEVELOPMENTS": "@tedpillows: $BTC tapped the $62,000 level. Now, Bitcoin is at its most important demand zone. If Bitcoin loses $60K from here, things could get even more ugly. · @jameslavish: And it will likely end with central banks printing more money than you could ever imagine. From the Telegraph: “For years after the 2008 financial crash, cheap money fuelled a… · @killaxbt: You stated that you were wrong. Made your followers believe that you abandoned your thesis. BTC went higher than you anticipated & then once we saw the q4 dump you stated that you…",
+   "BTC_OUTLOOK": "Stimmung 62 % bärisch (8/12 Accounts mit Meinung). Median offener Kursziele $400.000. @tedpillows: $BTC tapped the $62,000 level. Now, Bitcoin is at its most important demand zone. If Bitcoin loses $60K from here, things could get even more ugly. · @killaxbt: You stated that you were wrong. Made your followers believe that you abandoned your thesis. BTC went higher than you anticipated & then once we saw the q4 dump you stated that you… · @timevalueofbtc: Somebody technical will have to check me here, but looking at the daily chart, I can't see another move this quick from overbought 80 to oversold 20 on RSI in the last decade in…",
+   "MACRO_OUTLOOK": "@jameslavish: And it will likely end with central banks printing more money than you could ever imagine. From the Telegraph: “For years after the 2008 financial crash, cheap money fuelled a… · @zerohedge: Morgan Stanley's 2027 price targets \"we raise US investment grade to equal weight, cut high yield to underweight, and move up in quality within both hard-currency emerging market…",
    "GLOBAL_LIQUIDITY": "@tedpillows: $BTC longs have been fully hunted. A $18,000 drop in 17 days with total liquidations over $13 Billion. Right now, the long liquidation cluster is only $1B, while the short side…",
-   "FED_RATES": "@jameslavish: And it will likely end with central banks printing more money than you could ever imagine. From the Telegraph: “For years after the 2008 financial crash, cheap money fuelled a… · @nolimitgains: US household debt just hit a RECORD $19.1 trillion, per the New York Fed. Here's where it all is: Mortgages: $13.37 trillion Auto loans: $1.73 trillion Student loans: $1.66…",
-   "DXY_TREASURIES": "Keine relevanten Aussagen.",
+   "FED_RATES": "@jameslavish: And it will likely end with central banks printing more money than you could ever imagine. From the Telegraph: “For years after the 2008 financial crash, cheap money fuelled a… · @zerohedge: \"Very recently we had a weekend with few activities so thought it would be a good idea to take the kids upstate to Legoland, an easy drive from the city. When we went to look for… · @nolimitgains: US household debt just hit a RECORD $19.1 trillion, per the New York Fed. Here's where it all is: Mortgages: $13.37 trillion Auto loans: $1.73 trillion Student loans: $1.66…",
+   "DXY_TREASURIES": "@zerohedge: Morgan Stanley's 2027 price targets \"we raise US investment grade to equal weight, cut high yield to underweight, and move up in quality within both hard-currency emerging market…",
    "GOLD": "Keine relevanten Aussagen.",
-   "GEOPOLITICS": "@osint613: A tanker heading east through the Arabian Gulf toward the Strait of Hormuz was attacked near Khasab, Oman, on November 15. All crew members are safe. The extent of damage and any…",
-   "CONSENSUS": "BTC: 57 % bärisch (4/7) · Liquidität: 80 % expandierend (4/5) · Fed: 50 % lockernd (3/6) · Geopolitik-Risiko: 83 % erhöht (5/6)",
+   "GEOPOLITICS": "@zerohedge: Oil's $27 War Premium Is Gone: Goldman Says That's Exactly Why You Should Own Commodities In 2027 · @osint613: A tanker heading east through the Arabian Gulf toward the Strait of Hormuz was attacked near Khasab, Oman, on November 15. All crew members are safe. The extent of damage and any…",
+   "CONSENSUS": "BTC: 62 % bärisch (5/8) · Liquidität: 80 % expandierend (4/5) · Fed: 50 % lockernd (3/6) · Geopolitik-Risiko: 83 % erhöht (5/6)",
    "CONTRARIAN": "@killaxbt (BTC bullisch): Let’s not pretend this price action is normal.\n\n\n\nSure, $BTC has historically bottomed in Q4, and midterms often bring m · @danheld (BTC bullisch): JUST IN: Dan Held says Bitcoin is \"worth $30 to $40 trillion at a minimum.\" 🚀\n\n\n\n\"If the world in a sovereign debt crisi · @tedpillows (Fed straffend): The Fed is now projected to hike rates next month.\n\n🇺🇸 US PPI came in at 0.3% vs 0.4% expected. · @jameslavish (Fed straffend): The Fed is about to fight inflation with a weapon that could break the economy.\n\n\n\n@jameslavish warns that raising rates"
   },
   "new_predictions": [
@@ -746,27 +732,6 @@
     "evidence": "If Bitcoin loses $60K from here, things could get even more ugly.",
     "label": "BTC DOWN $60.000",
     "url": "https://x.com/tedpillows/status/2121911466798252483"
-   },
-   {
-    "id": 155,
-    "account": "killaxbt",
-    "tweet_id": "2121729604805185566",
-    "prediction_date": "2026-11-14T22:18:52+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "DOWN",
-    "target": null,
-    "target_low": 50000.0,
-    "target_high": 62000.0,
-    "deadline": null,
-    "time_horizon": null,
-    "conditions": null,
-    "status": "CORRECT",
-    "status_note": "Zielzone erreicht",
-    "btc_price_when_prediction_made": 64115.1,
-    "evidence": "You sweep 50-62K first, then send $BTC to 96-98K.",
-    "label": "BTC DOWN $50.000–62.000",
-    "url": "https://x.com/killaxbt/status/2121729604805185566"
    }
   ],
   "updated_predictions": [
@@ -782,6 +747,13 @@
   "invalidated_predictions": [],
   "thesis_changes": [
    {
+    "account": "tylerdurden",
+    "topic": "BTC",
+    "from": "bullish",
+    "to": "bearish",
+    "tweet_id": "2121929196096323856"
+   },
+   {
     "account": "zerohedge",
     "topic": "FED",
     "from": "tightening",
@@ -791,10 +763,58 @@
   ],
   "since_morning": {
    "since": "2026-11-15T06:00:00+00:00",
-   "relevant_posts": 17,
+   "relevant_posts": 23,
    "consensus_shifts": [],
    "new_predictions": 2,
    "posts": [
+    {
+     "account": "tylerdurden",
+     "tweet_id": "2122182674156748907",
+     "timestamp": "2026-11-16T04:19:12+00:00",
+     "relevance": 61,
+     "summary": "Relax friends, this is bait. The chart on the left is total market cap not including btc. $TOTAL2",
+     "categories": [
+      "BITCOIN",
+      "BTC_TECHNICAL"
+     ],
+     "url": "https://x.com/tylerdurden/status/2122182674156748907"
+    },
+    {
+     "account": "zerohedge",
+     "tweet_id": "2122179635354210665",
+     "timestamp": "2026-11-16T04:07:07+00:00",
+     "relevance": 61,
+     "summary": "Morgan Stanley's 2027 price targets \"we raise US investment grade to equal weight, cut high yield to underweight, and move up in quality within both hard-currency emerging market…",
+     "categories": [
+      "US_TREASURIES",
+      "CREDIT"
+     ],
+     "url": "https://x.com/zerohedge/status/2122179635354210665"
+    },
+    {
+     "account": "zerohedge",
+     "tweet_id": "2122151564873814320",
+     "timestamp": "2026-11-16T02:15:35+00:00",
+     "relevance": 74,
+     "summary": "\"Very recently we had a weekend with few activities so thought it would be a good idea to take the kids upstate to Legoland, an easy drive from the city. When we went to look for…",
+     "categories": [
+      "FED",
+      "INTEREST_RATES"
+     ],
+     "url": "https://x.com/zerohedge/status/2122151564873814320"
+    },
+    {
+     "account": "zerohedge",
+     "tweet_id": "2122034507662389486",
+     "timestamp": "2026-11-15T18:30:26+00:00",
+     "relevance": 65,
+     "summary": "Oil's $27 War Premium Is Gone: Goldman Says That's Exactly Why You Should Own Commodities In 2027",
+     "categories": [
+      "ENERGY",
+      "WAR"
+     ],
+     "url": "https://x.com/zerohedge/status/2122034507662389486"
+    },
     {
      "account": "jameslavish",
      "tweet_id": "2122010990674055342",
@@ -902,6 +922,18 @@
      "url": "https://x.com/tedpillows/status/2121929958344032469"
     },
     {
+     "account": "tylerdurden",
+     "tweet_id": "2121929196096323856",
+     "timestamp": "2026-11-15T11:31:58+00:00",
+     "relevance": 68,
+     "summary": "$BTC // m5 Weekly close tomorrow going to be deciding factor on short term strategy for the week. For investors: here and 50s is going to look like a helluva an entry in 2028…",
+     "categories": [
+      "BITCOIN",
+      "BTC_TECHNICAL"
+     ],
+     "url": "https://x.com/apedurden/status/2121929196096323856"
+    },
+    {
      "account": "nolimitgains",
      "tweet_id": "2121928125252506096",
      "timestamp": "2026-11-15T11:27:43+00:00",
@@ -936,6 +968,18 @@
       "BTC_PRICE"
      ],
      "url": "https://x.com/tedpillows/status/2121911466798252483"
+    },
+    {
+     "account": "tylerdurden",
+     "tweet_id": "2121832797426086180",
+     "timestamp": "2026-11-15T05:08:55+00:00",
+     "relevance": 61,
+     "summary": "Subscribe and read for free every week > Thanks for your support 🙏",
+     "categories": [
+      "BITCOIN",
+      "BTC_TECHNICAL"
+     ],
+     "url": "https://x.com/tylerdurden/status/2121832797426086180"
     },
     {
      "account": "killaxbt",
@@ -999,13 +1043,13 @@
    ]
   },
   "stats": {
-   "posts_new": 84,
-   "posts_relevant": 16,
-   "predictions_new": 1,
+   "posts_new": 66,
+   "posts_relevant": 6,
+   "predictions_new": 0,
    "predictions_updated": 0,
    "invalidated": 0,
-   "posts_analysed": 85,
-   "evaluated": 1
+   "posts_analysed": 67,
+   "evaluated": 0
   }
  }
 }
