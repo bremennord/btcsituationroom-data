@@ -1,50 +1,50 @@
 {
- "generated_at": "2026-11-17T11:05:46.381959+00:00",
- "btc_price": 64111.2,
+ "generated_at": "2026-11-17T17:08:43.880010+00:00",
+ "btc_price": 63827.0,
  "outlook": {
   "BTC": {
    "horizons": {
     "24h": {
-     "label": "leicht bärisch",
+     "label": "leicht bullisch",
      "counts": {
-      "pos": 0,
+      "pos": 1,
       "neu": 1,
-      "neg": 1
+      "neg": 0
      },
      "accounts": 2
     },
     "3d": {
-     "label": "bärisch",
+     "label": "leicht bärisch",
      "counts": {
-      "pos": 0,
+      "pos": 1,
       "neu": 0,
       "neg": 3
      },
-     "accounts": 3
+     "accounts": 4
     },
     "7d": {
-     "label": "bärisch",
+     "label": "leicht bärisch",
      "counts": {
-      "pos": 0,
-      "neu": 2,
+      "pos": 2,
+      "neu": 1,
       "neg": 3
      },
-     "accounts": 5
+     "accounts": 6
     }
    },
-   "scenario": "Mehrheit (7 T): bärisch. Wahrscheinlichste Zone laut Quellen: $57k bis $65k–67k; Ausbruch über $65k–67k wäre das nächste Signal.",
+   "scenario": "Mehrheit (7 T): leicht bärisch. Wahrscheinlichste Zone laut Quellen: $57k bis $65k–67k; Ausbruch über $65k–67k wäre das nächste Signal.",
    "risk": "Bruch unter $57k (genannt von @killaxbt, @xapa03)",
    "consensus": {
-    "pos": 0,
-    "neu": 2,
+    "pos": 2,
+    "neu": 1,
     "neg": 3
    },
-   "confidence": "Mittel",
+   "confidence": "Niedrig",
    "levels": {
     "support": "$57k",
     "resistance": "$65k–67k"
    },
-   "n_posts": 49,
+   "n_posts": 48,
    "sources": [
     {
      "account": "tedpillows",
@@ -108,13 +108,13 @@
   "MACRO": {
    "horizons": {
     "24h": {
-     "label": "leicht Risk-On",
+     "label": "leicht Risk-Off",
      "counts": {
-      "pos": 2,
-      "neu": 1,
-      "neg": 1
+      "pos": 1,
+      "neu": 0,
+      "neg": 2
      },
-     "accounts": 4
+     "accounts": 3
     },
     "3d": {
      "label": "neutral / gemischt",
@@ -210,6 +210,15 @@
   "LIQUIDITY": {
    "horizons": {
     "24h": {
+     "label": "zu wenige Aussagen",
+     "counts": {
+      "pos": 0,
+      "neu": 0,
+      "neg": 1
+     },
+     "accounts": 1
+    },
+    "3d": {
      "label": "leicht expandierend",
      "counts": {
       "pos": 1,
@@ -217,15 +226,6 @@
       "neg": 0
      },
      "accounts": 2
-    },
-    "3d": {
-     "label": "expandierend",
-     "counts": {
-      "pos": 2,
-      "neu": 1,
-      "neg": 0
-     },
-     "accounts": 3
     },
     "7d": {
      "label": "expandierend",
@@ -301,7 +301,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 29,
+     "posts": 28,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -319,7 +319,7 @@
      ]
     }
    ],
-   "n_posts": 63,
+   "n_posts": 60,
    "sources": [
     {
      "account": "jameslavish",
@@ -382,47 +382,15 @@
   }
  },
  "changed": {
-  "since": "2026-11-17T05:11:27.050366+00:00",
-  "new": [
-   {
-    "account": "killaxbt",
-    "text": "BTC UP $126.270 (next year)",
-    "url": "https://x.com/killaxbt/status/2122425461439598758"
-   },
-   {
-    "account": "zerohedge",
-    "text": "FED_FUNDS HIKE",
-    "url": "https://x.com/zerohedge/status/2122405163948544085"
-   },
-   {
-    "account": "killaxbt",
-    "text": "Despite this recent drop on $BTC, I am still very confident in my prediction. Meaning BTC could increase 100% from current prices. I doubt any other asset is going to give you a…",
-    "url": "https://x.com/killaxbt/status/2122425461439598758"
-   },
-   {
-    "account": "tedpillows",
-    "text": "$BTC long liquidations are sitting around $61,000 and $62,000. Bitcoin short liquidations are from $65,000 to $75,000. Max pain is to the upside. Media",
-    "url": "https://x.com/tedpillows/status/2122640892691443790"
-   },
-   {
-    "account": "zerohedge",
-    "text": "Warsh is about to figure out why the AI trade refused to respond to rate hikes.",
-    "url": "https://x.com/zerohedge/status/2122405163948544085"
-   }
+  "since": "2026-11-17T11:05:53.734985+00:00",
+  "new": [],
+  "changed": [],
+  "new_consensus": [
+   "Bitcoin: bärisch → leicht bärisch"
   ],
-  "changed": [
-   {
-    "account": "zerohedge",
-    "text": "vorher FED_FUNDS HIKE (tomorrow), jetzt FED_FUNDS HIKE",
-    "url": "https://x.com/zerohedge/status/2122405163948544085"
-   }
-  ],
-  "new_consensus": [],
   "no_change": [
-   "Bitcoin bleibt bärisch",
    "Makro bleibt leicht Risk-Off",
-   "Liquidität bleibt expandierend",
-   "Geopolitisches Risiko bleibt Hoch"
+   "Liquidität bleibt expandierend"
   ]
  },
  "important_posts": [
@@ -523,7 +491,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-16T14:03:00+00:00",
-   "distance_pct": -7.1,
+   "distance_pct": -6.5,
    "conditions": "If this repeats",
    "evidence": "If this repeats, BTC will bottom around $59K-$60K, while Nasdaq will drop below 24,500."
   },
@@ -534,7 +502,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-15T10:21:31+00:00",
-   "distance_pct": -6.3,
+   "distance_pct": -5.7,
    "conditions": "If Bitcoin loses $60K from here",
    "evidence": "If Bitcoin loses $60K from here, things could get even more ugly."
   },
@@ -545,7 +513,7 @@
    "deadline": "2026-12-31T23:59:59+00:00",
    "time_horizon": "next year",
    "prediction_date": "2026-11-16T20:23:57+00:00",
-   "distance_pct": 97.2,
+   "distance_pct": 98.5,
    "conditions": null,
    "evidence": "Bitcoin will create a ATH between next year October & February 2028."
   },
@@ -556,7 +524,7 @@
    "deadline": null,
    "time_horizon": "vor dem nächsten Ziel",
    "prediction_date": "2026-11-10T19:08:37+00:00",
-   "distance_pct": 524.6,
+   "distance_pct": 528.9,
    "conditions": null,
    "evidence": "Bitcoin Opportunity Fund's James Lavish on whether his bitcoin cycle call still holds: \"Bitcoin typically will trough and then about three years later, it will find a top.\" \"[In mid-2029] that would get you to somewhere between $400,000 and $500,000 bitcoin.\""
   },
@@ -567,7 +535,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-10T19:08:37+00:00",
-   "distance_pct": 680.7,
+   "distance_pct": 686.1,
    "conditions": null,
    "evidence": "Bitcoin Opportunity Fund's James Lavish on whether his bitcoin cycle call still holds: \"Bitcoin typically will trough and then about three years later, it will find a top.\" \"[In mid-2029] that would get you to somewhere between $400,000 and $500,000 bitcoin.\""
   }
@@ -588,8 +556,8 @@
    "main_share": 75,
    "account": "danheld",
    "stance": "bullish",
-   "text": "JUST IN: Dan Held says Bitcoin is \"worth $30 to $40 trillion at a minimum.\" 🚀\n\n\n\n\"If the world in a sovereign debt crisis really wakes up to how serious this could be, we could see something where Bit",
-   "url": "https://x.com/simplybitcoin/status/2120613224957522124"
+   "text": "Bitcoin has a 99.98% uptime:\n\n\n\nHigher than Google\n\nHigher than Amazon\n\nHigher than Facebook\n\nHigher than the US Government\n\n\n\nGood luck trying to stop it.",
+   "url": "https://x.com/danheld/status/2122706543510475260"
   },
   {
    "topic": "FED",
@@ -692,11 +660,11 @@
  },
  "daily": {
   "report_date": "2026-11-17",
-  "generated_at": "2026-11-17T11:01:48.541777+00:00",
+  "generated_at": "2026-11-17T17:01:43.017641+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-11-16T11:01:48.525909+00:00",
-   "to": "2026-11-17T11:01:48.549170+00:00"
+   "from": "2026-11-16T17:01:42.991608+00:00",
+   "to": "2026-11-17T17:01:43.017641+00:00"
   },
   "key_points": [
    {
@@ -712,35 +680,35 @@
     ]
    },
    {
-    "text": "@tylerdurden wechselt BTC-These: bullisch → bärisch",
-    "ids": [
-     "2121929196096323856"
-    ]
-   },
-   {
     "text": "Neue BTC-Prognose von @killaxbt: BTC UP $126.270 (next year)",
     "ids": [
      "2122425461439598758"
     ]
    },
    {
-    "text": "@jameslavish: Exactly. And more often than not, when I start talking about the debasement of a currency and how inflation is not normal, the person agrees that inflation's too high here, but…",
+    "text": "@tedpillows: $BTC long liquidations are sitting around $61,000 and $62,000. Bitcoin short liquidations are from $65,000 to $75,000. Max pain is to the upside. Media",
     "ids": [
-     "2122363900041785473"
+     "2122640892691443790"
+    ]
+   },
+   {
+    "text": "@danheld: Bitcoin has a 99.98% uptime: Higher than Google Higher than Amazon Higher than Facebook Higher than the US Government Good luck trying to stop it.",
+    "ids": [
+     "2122706543510475260"
     ]
    }
   ],
   "sections": {
-   "TOP_DEVELOPMENTS": "@killaxbt: Despite this recent drop on $BTC, I am still very confident in my prediction. Meaning BTC could increase 100% from current prices. I doubt any other asset is going to give you a… · @jameslavish: Exactly. And more often than not, when I start talking about the debasement of a currency and how inflation is not normal, the person agrees that inflation's too high here, but… · @tedpillows: What a crazy coincidence! 🤯 Q1 2025 ▫️ Bitcoin peaked in early Jan. ▫️ Dropped 30% in 7 weeks ▫️ Bybit got hacked. ▫️ Nasdaq dropped 14%. Q4 2026 ▫️ Bitcoin peaked in early…",
-   "BTC_OUTLOOK": "Stimmung 75 % bärisch (8/12 Accounts mit Meinung). Median offener Kursziele $400.000. @killaxbt: Despite this recent drop on $BTC, I am still very confident in my prediction. Meaning BTC could increase 100% from current prices. I doubt any other asset is going to give you a… · @jameslavish: Exactly. And more often than not, when I start talking about the debasement of a currency and how inflation is not normal, the person agrees that inflation's too high here, but… · @tedpillows: What a crazy coincidence! 🤯 Q1 2025 ▫️ Bitcoin peaked in early Jan. ▫️ Dropped 30% in 7 weeks ▫️ Bybit got hacked. ▫️ Nasdaq dropped 14%. Q4 2026 ▫️ Bitcoin peaked in early…",
-   "MACRO_OUTLOOK": "@jameslavish: Exactly. And more often than not, when I start talking about the debasement of a currency and how inflation is not normal, the person agrees that inflation's too high here, but… · @tedpillows: What a crazy coincidence! 🤯 Q1 2025 ▫️ Bitcoin peaked in early Jan. ▫️ Dropped 30% in 7 weeks ▫️ Bybit got hacked. ▫️ Nasdaq dropped 14%. Q4 2026 ▫️ Bitcoin peaked in early… · @zerohedge: aged well Nvidia Set To Reveal Record $500 Billion Off-Balance Sheet SPV Deal To Fund The World's Biggest Circle Jerk: Report",
-   "GLOBAL_LIQUIDITY": "@jameslavish: Exactly. And more often than not, when I start talking about the debasement of a currency and how inflation is not normal, the person agrees that inflation's too high here, but… · @zerohedge: Bitcoin Erases Its Entire \"Debasement\" Rally As Goldman Says Every August Catalyst Has Reversed",
-   "FED_RATES": "@zerohedge: Warsh is about to figure out why the AI trade refused to respond to rate hikes. · @tedpillows: Big week ahead for crypto holders 🚨 ▫️ November 16: Fed Chair speech ▫️ November 17: U.S. retail sales data and NVIDIA earnings ▫️ November 18: Fed meeting minutes ▫️ November 19:…",
+   "TOP_DEVELOPMENTS": "@killaxbt: Despite this recent drop on $BTC, I am still very confident in my prediction. Meaning BTC could increase 100% from current prices. I doubt any other asset is going to give you a… · @tedpillows: $BTC long liquidations are sitting around $61,000 and $62,000. Bitcoin short liquidations are from $65,000 to $75,000. Max pain is to the upside. Media · @zerohedge: Warsh is about to figure out why the AI trade refused to respond to rate hikes.",
+   "BTC_OUTLOOK": "Stimmung 75 % bärisch (8/12 Accounts mit Meinung). Median offener Kursziele $400.000. @killaxbt: Despite this recent drop on $BTC, I am still very confident in my prediction. Meaning BTC could increase 100% from current prices. I doubt any other asset is going to give you a… · @tedpillows: $BTC long liquidations are sitting around $61,000 and $62,000. Bitcoin short liquidations are from $65,000 to $75,000. Max pain is to the upside. Media · @danheld: Bitcoin has a 99.98% uptime: Higher than Google Higher than Amazon Higher than Facebook Higher than the US Government Good luck trying to stop it.",
+   "MACRO_OUTLOOK": "@tedpillows: $1,200,000,000,000 has now been wiped out from the US stock market today. Reason? - Nvidia board is not considering bringing Jensen Huang back as CEO. - Fed chair says AI could… · @nolimitgains: UNITED AIRLINES JUST GROUNDED ITS FLIGHTS. THIS IS THE SECOND TIME US AIR TRAVEL HAS STOPPED IN 4 DAYS. Yesterday, United had a \"widespread system outage\" that held every…",
+   "GLOBAL_LIQUIDITY": "Keine relevanten Aussagen.",
+   "FED_RATES": "@zerohedge: Warsh is about to figure out why the AI trade refused to respond to rate hikes. · @tedpillows: $1,200,000,000,000 has now been wiped out from the US stock market today. Reason? - Nvidia board is not considering bringing Jensen Huang back as CEO. - Fed chair says AI could…",
    "DXY_TREASURIES": "Keine relevanten Aussagen.",
    "GOLD": "Keine relevanten Aussagen.",
    "GEOPOLITICS": "@tedpillows: Oil is creeping up. Looks like the war is escalating again. I see some footages ships being hit in the strait of hormuz. Not again. · @zerohedge: Goldman Warns Of Massive Oil Glut In 2027 As Gulf Barrels Flood Back Around Hormuz · @nolimitgains: UNITED AIRLINES JUST GROUNDED ITS FLIGHTS. THIS IS THE SECOND TIME US AIR TRAVEL HAS STOPPED IN 4 DAYS. Yesterday, United had a \"widespread system outage\" that held every…",
    "CONSENSUS": "BTC: 75 % bärisch (6/8) · Liquidität: 100 % expandierend (5/5) · Fed: 50 % lockernd (3/6) · Geopolitik-Risiko: 100 % erhöht (8/8)",
-   "CONTRARIAN": "@killaxbt (BTC bullisch): This cycle is not the same as others. \n\n\n\nIt is infact the longest $BTC bear cycle we have ever had in history. · @danheld (BTC bullisch): JUST IN: Dan Held says Bitcoin is \"worth $30 to $40 trillion at a minimum.\" 🚀\n\n\n\n\"If the world in a sovereign debt crisi · @tedpillows (Fed straffend): The Fed is now projected to hike rates next month.\n\n🇺🇸 US PPI came in at 0.3% vs 0.4% expected. · @jameslavish (Fed straffend): The Fed is about to fight inflation with a weapon that could break the economy.\n\n\n\n@jameslavish warns that raising rates"
+   "CONTRARIAN": "@killaxbt (BTC bullisch): This cycle is not the same as others. \n\n\n\nIt is infact the longest $BTC bear cycle we have ever had in history. · @danheld (BTC bullisch): Bitcoin has a 99.98% uptime:\n\n\n\nHigher than Google\n\nHigher than Amazon\n\nHigher than Facebook\n\nHigher than the US Governm · @tedpillows (Fed straffend): The Fed is now projected to hike rates next month.\n\n🇺🇸 US PPI came in at 0.3% vs 0.4% expected. · @jameslavish (Fed straffend): The Fed is about to fight inflation with a weapon that could break the economy.\n\n\n\n@jameslavish warns that raising rates"
   },
   "new_predictions": [
    {
@@ -784,27 +752,6 @@
     "evidence": "Warsh is about to figure out why the AI trade refused to respond to rate hikes.",
     "label": "FED_FUNDS HIKE",
     "url": "https://x.com/zerohedge/status/2122405163948544085"
-   },
-   {
-    "id": 156,
-    "account": "tedpillows",
-    "tweet_id": "2122329592161608069",
-    "prediction_date": "2026-11-16T14:03:00+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "DOWN",
-    "target": null,
-    "target_low": 59000.0,
-    "target_high": 60000.0,
-    "deadline": null,
-    "time_horizon": null,
-    "conditions": "If this repeats",
-    "status": "OPEN",
-    "status_note": null,
-    "btc_price_when_prediction_made": 64818.1,
-    "evidence": "If this repeats, BTC will bottom around $59K-$60K, while Nasdaq will drop below 24,500.",
-    "label": "BTC DOWN $59.000–60.000",
-    "url": "https://x.com/tedpillows/status/2122329592161608069"
    }
   ],
   "updated_predictions": [
@@ -826,21 +773,24 @@
    }
   ],
   "invalidated_predictions": [],
-  "thesis_changes": [
-   {
-    "account": "tylerdurden",
-    "topic": "BTC",
-    "from": "bullish",
-    "to": "bearish",
-    "tweet_id": "2121929196096323856"
-   }
-  ],
+  "thesis_changes": [],
   "since_morning": {
    "since": "2026-11-17T06:00:00+00:00",
-   "relevant_posts": 10,
+   "relevant_posts": 11,
    "consensus_shifts": [],
    "new_predictions": 0,
    "posts": [
+    {
+     "account": "danheld",
+     "tweet_id": "2122706543510475260",
+     "timestamp": "2026-11-17T15:00:52+00:00",
+     "relevance": 84,
+     "summary": "Bitcoin has a 99.98% uptime: Higher than Google Higher than Amazon Higher than Facebook Higher than the US Government Good luck trying to stop it.",
+     "categories": [
+      "BITCOIN"
+     ],
+     "url": "https://x.com/danheld/status/2122706543510475260"
+    },
     {
      "account": "tedpillows",
      "tweet_id": "2122640892691443790",
@@ -965,12 +915,12 @@
    ]
   },
   "stats": {
-   "posts_new": 100,
-   "posts_relevant": 10,
-   "predictions_new": 2,
-   "predictions_updated": 1,
+   "posts_new": 7,
+   "posts_relevant": 1,
+   "predictions_new": 0,
+   "predictions_updated": 0,
    "invalidated": 0,
-   "posts_analysed": 101,
+   "posts_analysed": 7,
    "evaluated": 0
   }
  }
