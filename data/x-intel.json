@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-17T17:08:43.880010+00:00",
- "btc_price": 63827.0,
+ "generated_at": "2026-11-18T05:10:46.629803+00:00",
+ "btc_price": 64383.9,
  "outlook": {
   "BTC": {
    "horizons": {
     "24h": {
-     "label": "leicht bullisch",
+     "label": "neutral / gemischt",
      "counts": {
       "pos": 1,
       "neu": 1,
-      "neg": 0
+      "neg": 1
      },
-     "accounts": 2
+     "accounts": 3
     },
     "3d": {
      "label": "leicht bärisch",
@@ -25,9 +25,9 @@
     "7d": {
      "label": "leicht bärisch",
      "counts": {
-      "pos": 2,
+      "pos": 1,
       "neu": 1,
-      "neg": 3
+      "neg": 4
      },
      "accounts": 6
     }
@@ -35,11 +35,11 @@
    "scenario": "Mehrheit (7 T): leicht bärisch. Wahrscheinlichste Zone laut Quellen: $57k bis $65k–67k; Ausbruch über $65k–67k wäre das nächste Signal.",
    "risk": "Bruch unter $57k (genannt von @killaxbt, @xapa03)",
    "consensus": {
-    "pos": 2,
+    "pos": 1,
     "neu": 1,
-    "neg": 3
+    "neg": 4
    },
-   "confidence": "Niedrig",
+   "confidence": "Mittel",
    "levels": {
     "support": "$57k",
     "resistance": "$65k–67k"
@@ -108,46 +108,46 @@
   "MACRO": {
    "horizons": {
     "24h": {
-     "label": "leicht Risk-Off",
+     "label": "zu wenige Aussagen",
      "counts": {
       "pos": 1,
       "neu": 0,
-      "neg": 2
+      "neg": 0
      },
-     "accounts": 3
+     "accounts": 1
     },
     "3d": {
-     "label": "neutral / gemischt",
+     "label": "leicht Risk-On",
      "counts": {
-      "pos": 2,
+      "pos": 3,
       "neu": 1,
       "neg": 2
      },
-     "accounts": 5
+     "accounts": 6
     },
     "7d": {
-     "label": "leicht Risk-Off",
+     "label": "neutral / gemischt",
      "counts": {
-      "pos": 2,
+      "pos": 3,
       "neu": 0,
       "neg": 4
      },
-     "accounts": 6
+     "accounts": 7
     }
    },
    "drivers": [
     "Risk-Off-Stimmung (6)",
-    "Fed restriktiv (5)",
-    "wachsende Liquidität (4)"
+    "wachsende Liquidität (5)",
+    "Fed restriktiv (5)"
    ],
-   "risk": "Anstehende Termine in den Posts: EARNINGS (7×), PPI (3×), FOMC (1×)",
+   "risk": "Anstehende Termine in den Posts: EARNINGS (7×), PPI (3×), PCE (1×)",
    "consensus": {
-    "pos": 2,
+    "pos": 3,
     "neu": 0,
     "neg": 4
    },
    "confidence": "Mittel",
-   "n_posts": 22,
+   "n_posts": 23,
    "sources": [
     {
      "account": "jameslavish",
@@ -212,22 +212,13 @@
     "24h": {
      "label": "zu wenige Aussagen",
      "counts": {
-      "pos": 0,
+      "pos": 1,
       "neu": 0,
-      "neg": 1
+      "neg": 0
      },
      "accounts": 1
     },
     "3d": {
-     "label": "leicht expandierend",
-     "counts": {
-      "pos": 1,
-      "neu": 1,
-      "neg": 0
-     },
-     "accounts": 2
-    },
-    "7d": {
      "label": "expandierend",
      "counts": {
       "pos": 2,
@@ -235,15 +226,24 @@
       "neg": 0
      },
      "accounts": 3
+    },
+    "7d": {
+     "label": "expandierend",
+     "counts": {
+      "pos": 3,
+      "neu": 1,
+      "neg": 0
+     },
+     "accounts": 4
     }
    },
    "consensus": {
-    "pos": 2,
+    "pos": 3,
     "neu": 1,
     "neg": 0
    },
    "confidence": "Mittel",
-   "n_posts": 7,
+   "n_posts": 8,
    "sources": [
     {
      "account": "jameslavish",
@@ -281,6 +281,13 @@
      "timestamp": "2026-11-16T16:25:27+00:00"
     },
     {
+     "account": "osint613",
+     "tweet_id": "2122768400166289644",
+     "url": "https://x.com/osint613/status/2122768400166289644",
+     "summary": "The Mossad provided intelligence to Greece and North Macedonia on an Iranian plot to carry out an assassination on Greek soil. Israel assesses that Iran is increasingly driven to…",
+     "timestamp": "2026-11-17T19:06:40+00:00"
+    },
+    {
      "account": "zerohedge",
      "tweet_id": "2122500079369998707",
      "url": "https://x.com/zerohedge/status/2122500079369998707",
@@ -301,7 +308,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 28,
+     "posts": 36,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -319,8 +326,15 @@
      ]
     }
    ],
-   "n_posts": 60,
+   "n_posts": 69,
    "sources": [
+    {
+     "account": "jameslavish",
+     "tweet_id": "2122864872291749967",
+     "url": "https://x.com/jameslavish/status/2122864872291749967",
+     "summary": "Fed policy error incoming. Have a great night. GS: We Expect Core PCE Inflation to Fall to 2.4% by End-2027 'We Are Confident That the Combined Impact of Tariffs, the Energy…",
+     "timestamp": "2026-11-18T01:30:01+00:00"
+    },
     {
      "account": "jameslavish",
      "tweet_id": "2122087646667428248",
@@ -329,11 +343,32 @@
      "timestamp": "2026-11-15T22:01:36+00:00"
     },
     {
+     "account": "osint613",
+     "tweet_id": "2122811164052914404",
+     "url": "https://x.com/osint613/status/2122811164052914404",
+     "summary": "Iran’s IRGC Navy claims 3 vessels, including a supertanker carrying over 2 million barrels of oil and an LPG carrier, struck “naval mines” and caught fire in the Strait of Hormuz…",
+     "timestamp": "2026-11-17T21:56:36+00:00"
+    },
+    {
+     "account": "osint613",
+     "tweet_id": "2122859731278774641",
+     "url": "https://x.com/osint613/status/2122859731278774641",
+     "summary": "US Acting Navy Sec: Hung Cao stated to the Senate that Hormuz transits now costs $64M each, up from $54K prior to the war. Media",
+     "timestamp": "2026-11-18T01:09:35+00:00"
+    },
+    {
      "account": "tedpillows",
      "tweet_id": "2122633010302394579",
      "url": "https://x.com/tedpillows/status/2122633010302394579",
      "summary": "Oil is creeping up. Looks like the war is escalating again. I see some footages ships being hit in the strait of hormuz. Not again.",
      "timestamp": "2026-11-17T10:08:40+00:00"
+    },
+    {
+     "account": "osint613",
+     "tweet_id": "2122768400166289644",
+     "url": "https://x.com/osint613/status/2122768400166289644",
+     "summary": "The Mossad provided intelligence to Greece and North Macedonia on an Iranian plot to carry out an assassination on Greek soil. Israel assesses that Iran is increasingly driven to…",
+     "timestamp": "2026-11-17T19:06:40+00:00"
     },
     {
      "account": "zerohedge",
@@ -348,52 +383,46 @@
      "url": "https://x.com/zerohedge/status/2122034507662389486",
      "summary": "Oil's $27 War Premium Is Gone: Goldman Says That's Exactly Why You Should Own Commodities In 2027",
      "timestamp": "2026-11-15T18:30:26+00:00"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2121954008193532363",
-     "url": "https://x.com/osint613/status/2121954008193532363",
-     "summary": "A tanker heading east through the Arabian Gulf toward the Strait of Hormuz was attacked near Khasab, Oman, on November 15. All crew members are safe. The extent of damage and any…",
-     "timestamp": "2026-11-15T13:10:34+00:00"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2122360939538522351",
-     "url": "https://x.com/zerohedge/status/2122360939538522351",
-     "summary": "One pager Key Events This Busy Week: NVDA Eernings, Anthropic IPO, Retail Sales, US-China Summit, Fed Speakers Galore And Much More",
-     "timestamp": "2026-11-16T16:07:34+00:00"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2122359403579912430",
-     "url": "https://x.com/zerohedge/status/2122359403579912430",
-     "summary": "Key Events This Busy Week: NVDA Eernings, Anthropic IPO, Retail Sales, US-China Summit, Fed Speakers Galore And Much More",
-     "timestamp": "2026-11-16T16:01:28+00:00"
-    },
-    {
-     "account": "zerohedge",
-     "tweet_id": "2122434651167855074",
-     "url": "https://x.com/zerohedge/status/2122434651167855074",
-     "summary": "Huang-Over & Hormuz Headlines Hammer Stocks; Spoos Lose As Bonds Snooze",
-     "timestamp": "2026-11-16T21:00:28+00:00"
     }
    ],
    "impact_kind": "Typisches Marktmuster (Systemeinschätzung, keine Prognose)"
   }
  },
  "changed": {
-  "since": "2026-11-17T11:05:53.734985+00:00",
-  "new": [],
+  "since": "2026-11-17T17:08:52.243613+00:00",
+  "new": [
+   {
+    "account": "jameslavish",
+    "text": "Fed policy error incoming. Have a great night. GS: We Expect Core PCE Inflation to Fall to 2.4% by End-2027 'We Are Confident That the Combined Impact of Tariffs, the Energy…",
+    "url": "https://x.com/jameslavish/status/2122864872291749967"
+   },
+   {
+    "account": "killaxbt",
+    "text": "I think this is the most important chart you’ll see. Despite the bearish narratives, the bearish macro, and a heavily inflated stock market where everything seems significantly…",
+    "url": "https://x.com/killaxbt/status/2122799808100421650"
+   }
+  ],
   "changed": [],
   "new_consensus": [
-   "Bitcoin: bärisch → leicht bärisch"
+   "Makro: leicht Risk-Off → neutral / gemischt"
   ],
   "no_change": [
-   "Makro bleibt leicht Risk-Off",
+   "Bitcoin bleibt leicht bärisch",
    "Liquidität bleibt expandierend"
   ]
  },
  "important_posts": [
+  {
+   "account": "jameslavish",
+   "tweet_id": "2122864872291749967",
+   "url": "https://x.com/jameslavish/status/2122864872291749967",
+   "summary": "Fed policy error incoming. Have a great night. GS: We Expect Core PCE Inflation to Fall to 2.4% by End-2027 'We Are Confident That the Combined Impact of Tariffs, the Energy…",
+   "timestamp": "2026-11-18T01:30:01+00:00",
+   "category": "FED",
+   "relevance": 100,
+   "text": "Fed policy error incoming. \n\n\n\nHave a great night.\nGS: We Expect Core PCE Inflation to Fall to 2.4% by End-2027 'We Are Confident That the Combined Impact of Tariffs, the Energy Shock, and AI Price Pressures Will Fall Sharply by End-2027'",
+   "why": "Mögliche Wirkung auf Öl, Gold, Risiko-Assets"
+  },
   {
    "account": "killaxbt",
    "tweet_id": "2122425461439598758",
@@ -461,17 +490,6 @@
    "why": "BTC bärisch"
   },
   {
-   "account": "jameslavish",
-   "tweet_id": "2122087646667428248",
-   "url": "https://x.com/jameslavish/status/2122087646667428248",
-   "summary": "This is exactly what is making the US Treasury and Scott Bessent so nervous, and what we talked all about in this morning's full free version of The Informationist. The national…",
-   "timestamp": "2026-11-15T22:01:36+00:00",
-   "category": "US_TREASURIES",
-   "relevance": 91,
-   "text": "This is exactly what is making the US Treasury and Scott Bessent so nervous, and what we talked all about in this morning's full free version of The Informationist.\nThe national debt is growing at an unprecedented pace, and almost no one in Washington is prepared to stop it, per the WSJ. Debt held by the public is now larger than the entire US economy for the first time since World War II, and interest payments alone",
-   "why": "geopolitisches Risiko steigt"
-  },
-  {
    "account": "zerohedge",
    "tweet_id": "2122405163948544085",
    "url": "https://x.com/zerohedge/status/2122405163948544085",
@@ -491,7 +509,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-16T14:03:00+00:00",
-   "distance_pct": -6.5,
+   "distance_pct": -7.5,
    "conditions": "If this repeats",
    "evidence": "If this repeats, BTC will bottom around $59K-$60K, while Nasdaq will drop below 24,500."
   },
@@ -502,7 +520,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-15T10:21:31+00:00",
-   "distance_pct": -5.7,
+   "distance_pct": -6.7,
    "conditions": "If Bitcoin loses $60K from here",
    "evidence": "If Bitcoin loses $60K from here, things could get even more ugly."
   },
@@ -513,7 +531,7 @@
    "deadline": "2026-12-31T23:59:59+00:00",
    "time_horizon": "next year",
    "prediction_date": "2026-11-16T20:23:57+00:00",
-   "distance_pct": 98.5,
+   "distance_pct": 96.3,
    "conditions": null,
    "evidence": "Bitcoin will create a ATH between next year October & February 2028."
   },
@@ -524,7 +542,7 @@
    "deadline": null,
    "time_horizon": "vor dem nächsten Ziel",
    "prediction_date": "2026-11-10T19:08:37+00:00",
-   "distance_pct": 528.9,
+   "distance_pct": 521.8,
    "conditions": null,
    "evidence": "Bitcoin Opportunity Fund's James Lavish on whether his bitcoin cycle call still holds: \"Bitcoin typically will trough and then about three years later, it will find a top.\" \"[In mid-2029] that would get you to somewhere between $400,000 and $500,000 bitcoin.\""
   },
@@ -535,7 +553,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-10T19:08:37+00:00",
-   "distance_pct": 686.1,
+   "distance_pct": 677.2,
    "conditions": null,
    "evidence": "Bitcoin Opportunity Fund's James Lavish on whether his bitcoin cycle call still holds: \"Bitcoin typically will trough and then about three years later, it will find a top.\" \"[In mid-2029] that would get you to somewhere between $400,000 and $500,000 bitcoin.\""
   }
@@ -547,8 +565,8 @@
    "main_share": 75,
    "account": "killaxbt",
    "stance": "bullish",
-   "text": "This cycle is not the same as others. \n\n\n\nIt is infact the longest $BTC bear cycle we have ever had in history.",
-   "url": "https://x.com/killaxbt/status/2122346591420092483"
+   "text": "I think this is the most important chart you’ll see. \n\n\n\nDespite the bearish narratives, the bearish macro, and a heavily inflated stock market where everything seems significantly overvalued, $BTC is",
+   "url": "https://x.com/killaxbt/status/2122799808100421650"
   },
   {
    "topic": "BTC",
@@ -595,15 +613,16 @@
   "LIQUIDITY": {
    "majority": "expanding",
    "score": 100,
-   "n": 5,
+   "n": 6,
    "counts": {
-    "expanding": 5,
+    "expanding": 6,
     "neutral": 0,
     "contracting": 0
    },
    "supporting": [
     "killaxbt",
     "xapa03",
+    "osint613",
     "zerohedge",
     "jameslavish",
     "danheld"
@@ -660,11 +679,11 @@
  },
  "daily": {
   "report_date": "2026-11-17",
-  "generated_at": "2026-11-17T17:01:43.017641+00:00",
+  "generated_at": "2026-11-18T05:01:46.188493+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-11-16T17:01:42.991608+00:00",
-   "to": "2026-11-17T17:01:43.017641+00:00"
+   "from": "2026-11-17T05:01:46.161577+00:00",
+   "to": "2026-11-18T05:01:46.188493+00:00"
   },
   "key_points": [
    {
@@ -674,15 +693,15 @@
     ]
    },
    {
-    "text": "@tedpillows ändert Prognose: BTC DOWN $62.000 → BTC DOWN $59.000–60.000",
+    "text": "@jameslavish: Fed policy error incoming. Have a great night. GS: We Expect Core PCE Inflation to Fall to 2.4% by End-2027 'We Are Confident That the Combined Impact of Tariffs, the Energy…",
     "ids": [
-     "2122329592161608069"
+     "2122864872291749967"
     ]
    },
    {
-    "text": "Neue BTC-Prognose von @killaxbt: BTC UP $126.270 (next year)",
+    "text": "@killaxbt: I think this is the most important chart you’ll see. Despite the bearish narratives, the bearish macro, and a heavily inflated stock market where everything seems significantly…",
     "ids": [
-     "2122425461439598758"
+     "2122799808100421650"
     ]
    },
    {
@@ -699,61 +718,18 @@
    }
   ],
   "sections": {
-   "TOP_DEVELOPMENTS": "@killaxbt: Despite this recent drop on $BTC, I am still very confident in my prediction. Meaning BTC could increase 100% from current prices. I doubt any other asset is going to give you a… · @tedpillows: $BTC long liquidations are sitting around $61,000 and $62,000. Bitcoin short liquidations are from $65,000 to $75,000. Max pain is to the upside. Media · @zerohedge: Warsh is about to figure out why the AI trade refused to respond to rate hikes.",
-   "BTC_OUTLOOK": "Stimmung 75 % bärisch (8/12 Accounts mit Meinung). Median offener Kursziele $400.000. @killaxbt: Despite this recent drop on $BTC, I am still very confident in my prediction. Meaning BTC could increase 100% from current prices. I doubt any other asset is going to give you a… · @tedpillows: $BTC long liquidations are sitting around $61,000 and $62,000. Bitcoin short liquidations are from $65,000 to $75,000. Max pain is to the upside. Media · @danheld: Bitcoin has a 99.98% uptime: Higher than Google Higher than Amazon Higher than Facebook Higher than the US Government Good luck trying to stop it.",
-   "MACRO_OUTLOOK": "@tedpillows: $1,200,000,000,000 has now been wiped out from the US stock market today. Reason? - Nvidia board is not considering bringing Jensen Huang back as CEO. - Fed chair says AI could… · @nolimitgains: UNITED AIRLINES JUST GROUNDED ITS FLIGHTS. THIS IS THE SECOND TIME US AIR TRAVEL HAS STOPPED IN 4 DAYS. Yesterday, United had a \"widespread system outage\" that held every…",
-   "GLOBAL_LIQUIDITY": "Keine relevanten Aussagen.",
-   "FED_RATES": "@zerohedge: Warsh is about to figure out why the AI trade refused to respond to rate hikes. · @tedpillows: $1,200,000,000,000 has now been wiped out from the US stock market today. Reason? - Nvidia board is not considering bringing Jensen Huang back as CEO. - Fed chair says AI could…",
-   "DXY_TREASURIES": "Keine relevanten Aussagen.",
+   "TOP_DEVELOPMENTS": "@jameslavish: Fed policy error incoming. Have a great night. GS: We Expect Core PCE Inflation to Fall to 2.4% by End-2027 'We Are Confident That the Combined Impact of Tariffs, the Energy… · @killaxbt: I think this is the most important chart you’ll see. Despite the bearish narratives, the bearish macro, and a heavily inflated stock market where everything seems significantly… · @tedpillows: $BTC long liquidations are sitting around $61,000 and $62,000. Bitcoin short liquidations are from $65,000 to $75,000. Max pain is to the upside. Media",
+   "BTC_OUTLOOK": "Stimmung 75 % bärisch (8/12 Accounts mit Meinung). Median offener Kursziele $400.000. @killaxbt: I think this is the most important chart you’ll see. Despite the bearish narratives, the bearish macro, and a heavily inflated stock market where everything seems significantly… · @tedpillows: $BTC long liquidations are sitting around $61,000 and $62,000. Bitcoin short liquidations are from $65,000 to $75,000. Max pain is to the upside. Media · @danheld: Bitcoin has a 99.98% uptime: Higher than Google Higher than Amazon Higher than Facebook Higher than the US Government Good luck trying to stop it.",
+   "MACRO_OUTLOOK": "@jameslavish: Fed policy error incoming. Have a great night. GS: We Expect Core PCE Inflation to Fall to 2.4% by End-2027 'We Are Confident That the Combined Impact of Tariffs, the Energy… · @killaxbt: I think this is the most important chart you’ll see. Despite the bearish narratives, the bearish macro, and a heavily inflated stock market where everything seems significantly… · @osint613: US Acting Navy Sec: Hung Cao stated to the Senate that Hormuz transits now costs $64M each, up from $54K prior to the war. Media",
+   "GLOBAL_LIQUIDITY": "@killaxbt: I think this is the most important chart you’ll see. Despite the bearish narratives, the bearish macro, and a heavily inflated stock market where everything seems significantly…",
+   "FED_RATES": "@jameslavish: Fed policy error incoming. Have a great night. GS: We Expect Core PCE Inflation to Fall to 2.4% by End-2027 'We Are Confident That the Combined Impact of Tariffs, the Energy…",
+   "DXY_TREASURIES": "@jameslavish: The Fed is playing with fire again. The market knows it. The Treasury knows it. Even the Fed itself knows it. But they'll keep playing until someone gets burned. It's what they…",
    "GOLD": "Keine relevanten Aussagen.",
-   "GEOPOLITICS": "@tedpillows: Oil is creeping up. Looks like the war is escalating again. I see some footages ships being hit in the strait of hormuz. Not again. · @zerohedge: Goldman Warns Of Massive Oil Glut In 2027 As Gulf Barrels Flood Back Around Hormuz · @nolimitgains: UNITED AIRLINES JUST GROUNDED ITS FLIGHTS. THIS IS THE SECOND TIME US AIR TRAVEL HAS STOPPED IN 4 DAYS. Yesterday, United had a \"widespread system outage\" that held every…",
-   "CONSENSUS": "BTC: 75 % bärisch (6/8) · Liquidität: 100 % expandierend (5/5) · Fed: 50 % lockernd (3/6) · Geopolitik-Risiko: 100 % erhöht (8/8)",
-   "CONTRARIAN": "@killaxbt (BTC bullisch): This cycle is not the same as others. \n\n\n\nIt is infact the longest $BTC bear cycle we have ever had in history. · @danheld (BTC bullisch): Bitcoin has a 99.98% uptime:\n\n\n\nHigher than Google\n\nHigher than Amazon\n\nHigher than Facebook\n\nHigher than the US Governm · @tedpillows (Fed straffend): The Fed is now projected to hike rates next month.\n\n🇺🇸 US PPI came in at 0.3% vs 0.4% expected. · @jameslavish (Fed straffend): The Fed is about to fight inflation with a weapon that could break the economy.\n\n\n\n@jameslavish warns that raising rates"
+   "GEOPOLITICS": "@jameslavish: Fed policy error incoming. Have a great night. GS: We Expect Core PCE Inflation to Fall to 2.4% by End-2027 'We Are Confident That the Combined Impact of Tariffs, the Energy… · @osint613: Iran’s IRGC Navy claims 3 vessels, including a supertanker carrying over 2 million barrels of oil and an LPG carrier, struck “naval mines” and caught fire in the Strait of Hormuz… · @tedpillows: Oil is creeping up. Looks like the war is escalating again. I see some footages ships being hit in the strait of hormuz. Not again.",
+   "CONSENSUS": "BTC: 75 % bärisch (6/8) · Liquidität: 100 % expandierend (6/6) · Fed: 50 % lockernd (3/6) · Geopolitik-Risiko: 100 % erhöht (8/8)",
+   "CONTRARIAN": "@killaxbt (BTC bullisch): I think this is the most important chart you’ll see. \n\n\n\nDespite the bearish narratives, the bearish macro, and a heavil · @danheld (BTC bullisch): Bitcoin has a 99.98% uptime:\n\n\n\nHigher than Google\n\nHigher than Amazon\n\nHigher than Facebook\n\nHigher than the US Governm · @tedpillows (Fed straffend): The Fed is now projected to hike rates next month.\n\n🇺🇸 US PPI came in at 0.3% vs 0.4% expected. · @jameslavish (Fed straffend): The Fed is about to fight inflation with a weapon that could break the economy.\n\n\n\n@jameslavish warns that raising rates"
   },
-  "new_predictions": [
-   {
-    "id": 158,
-    "account": "killaxbt",
-    "tweet_id": "2122425461439598758",
-    "prediction_date": "2026-11-16T20:23:57+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "UP",
-    "target": 126270.0,
-    "target_low": null,
-    "target_high": null,
-    "deadline": "2026-12-31T23:59:59+00:00",
-    "time_horizon": "next year",
-    "conditions": null,
-    "status": "OPEN",
-    "status_note": null,
-    "btc_price_when_prediction_made": 64810.6,
-    "evidence": "Bitcoin will create a ATH between next year October & February 2028.",
-    "label": "BTC UP $126.270 (next year)",
-    "url": "https://x.com/killaxbt/status/2122425461439598758"
-   },
-   {
-    "id": 157,
-    "account": "zerohedge",
-    "tweet_id": "2122405163948544085",
-    "prediction_date": "2026-11-16T19:03:18+00:00",
-    "asset_or_metric": "FED_FUNDS",
-    "prediction_type": "RATE_FORECAST",
-    "direction": "HIKE",
-    "target": null,
-    "target_low": null,
-    "target_high": null,
-    "deadline": null,
-    "time_horizon": null,
-    "conditions": null,
-    "status": "OPEN",
-    "status_note": null,
-    "btc_price_when_prediction_made": 64810.6,
-    "evidence": "Warsh is about to figure out why the AI trade refused to respond to rate hikes.",
-    "label": "FED_FUNDS HIKE",
-    "url": "https://x.com/zerohedge/status/2122405163948544085"
-   }
-  ],
+  "new_predictions": [],
   "updated_predictions": [
    {
     "account": "zerohedge",
@@ -762,24 +738,118 @@
     "tweet_id": "2122405163948544085",
     "url": "https://x.com/zerohedge/status/2122405163948544085",
     "detected_at": "2026-11-17T11:01:48.469434+00:00"
-   },
-   {
-    "account": "tedpillows",
-    "change": "TARGET_CHANGED,CONDITION_CHANGED",
-    "note": "BTC DOWN $62.000 → BTC DOWN $59.000–60.000",
-    "tweet_id": "2122329592161608069",
-    "url": "https://x.com/tedpillows/status/2122329592161608069",
-    "detected_at": "2026-11-16T17:01:44.990912+00:00"
    }
   ],
   "invalidated_predictions": [],
   "thesis_changes": [],
   "since_morning": {
    "since": "2026-11-17T06:00:00+00:00",
-   "relevant_posts": 11,
+   "relevant_posts": 19,
    "consensus_shifts": [],
    "new_predictions": 0,
    "posts": [
+    {
+     "account": "jameslavish",
+     "tweet_id": "2122864872291749967",
+     "timestamp": "2026-11-18T01:30:01+00:00",
+     "relevance": 100,
+     "summary": "Fed policy error incoming. Have a great night. GS: We Expect Core PCE Inflation to Fall to 2.4% by End-2027 'We Are Confident That the Combined Impact of Tariffs, the Energy…",
+     "categories": [
+      "FED",
+      "INFLATION",
+      "ENERGY",
+      "GEOPOLITICS"
+     ],
+     "url": "https://x.com/jameslavish/status/2122864872291749967"
+    },
+    {
+     "account": "osint613",
+     "tweet_id": "2122859731278774641",
+     "timestamp": "2026-11-18T01:09:35+00:00",
+     "relevance": 68,
+     "summary": "US Acting Navy Sec: Hung Cao stated to the Senate that Hormuz transits now costs $64M each, up from $54K prior to the war. Media",
+     "categories": [
+      "GEOPOLITICS",
+      "WAR",
+      "REGULATION"
+     ],
+     "url": "https://x.com/osint613/status/2122859731278774641"
+    },
+    {
+     "account": "jameslavish",
+     "tweet_id": "2122812663470362894",
+     "timestamp": "2026-11-17T22:02:33+00:00",
+     "relevance": 79,
+     "summary": "The Fed is playing with fire again. The market knows it. The Treasury knows it. Even the Fed itself knows it. But they'll keep playing until someone gets burned. It's what they…",
+     "categories": [
+      "FED",
+      "US_TREASURIES"
+     ],
+     "url": "https://x.com/jameslavish/status/2122812663470362894"
+    },
+    {
+     "account": "osint613",
+     "tweet_id": "2122811164052914404",
+     "timestamp": "2026-11-17T21:56:36+00:00",
+     "relevance": 72,
+     "summary": "Iran’s IRGC Navy claims 3 vessels, including a supertanker carrying over 2 million barrels of oil and an LPG carrier, struck “naval mines” and caught fire in the Strait of Hormuz…",
+     "categories": [
+      "ENERGY",
+      "GEOPOLITICS",
+      "WAR"
+     ],
+     "url": "https://x.com/osint613/status/2122811164052914404"
+    },
+    {
+     "account": "killaxbt",
+     "tweet_id": "2122799808100421650",
+     "timestamp": "2026-11-17T21:11:28+00:00",
+     "relevance": 94,
+     "summary": "I think this is the most important chart you’ll see. Despite the bearish narratives, the bearish macro, and a heavily inflated stock market where everything seems significantly…",
+     "categories": [
+      "BITCOIN",
+      "BTC_PRICE",
+      "BTC_TECHNICAL",
+      "LIQUIDITY",
+      "EQUITIES"
+     ],
+     "url": "https://x.com/killaxbt/status/2122799808100421650"
+    },
+    {
+     "account": "osint613",
+     "tweet_id": "2122768400166289644",
+     "timestamp": "2026-11-17T19:06:40+00:00",
+     "relevance": 65,
+     "summary": "The Mossad provided intelligence to Greece and North Macedonia on an Iranian plot to carry out an assassination on Greek soil. Israel assesses that Iran is increasingly driven to…",
+     "categories": [
+      "GEOPOLITICS",
+      "WAR"
+     ],
+     "url": "https://x.com/osint613/status/2122768400166289644"
+    },
+    {
+     "account": "killaxbt",
+     "tweet_id": "2122768386161844612",
+     "timestamp": "2026-11-17T19:06:37+00:00",
+     "relevance": 74,
+     "summary": "In 2015, BTC bottomed Jan 12th. In 2018, BTC bottomed Dec 10th. In 2022, BTC bottomed Nov 21st. $BTC put in its first low on July 1st, but we’re still within the 5 window for a…",
+     "categories": [
+      "BITCOIN"
+     ],
+     "url": "https://x.com/killaxbt/status/2122768386161844612"
+    },
+    {
+     "account": "killaxbt",
+     "tweet_id": "2122747397537517882",
+     "timestamp": "2026-11-17T17:43:12+00:00",
+     "relevance": 62,
+     "summary": "$BTC miners are still operating in a loss. If you know... you know. 😉",
+     "categories": [
+      "BITCOIN",
+      "MINING"
+     ],
+     "url": "https://x.com/killaxbt/status/2122747397537517882"
+    },
     {
      "account": "danheld",
      "tweet_id": "2122706543510475260",
@@ -915,12 +985,12 @@
    ]
   },
   "stats": {
-   "posts_new": 7,
-   "posts_relevant": 1,
+   "posts_new": 51,
+   "posts_relevant": 8,
    "predictions_new": 0,
    "predictions_updated": 0,
    "invalidated": 0,
-   "posts_analysed": 7,
+   "posts_analysed": 51,
    "evaluated": 0
   }
  }
