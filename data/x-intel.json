@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-11-22T05:27:02.755274+00:00",
- "btc_price": 58805.2,
+ "generated_at": "2026-11-22T11:12:00.391516+00:00",
+ "btc_price": 60872.4,
  "outlook": {
   "BTC": {
    "horizons": {
     "24h": {
-     "label": "leicht bärisch",
+     "label": "bärisch",
      "counts": {
       "pos": 0,
-      "neu": 2,
-      "neg": 2
+      "neu": 1,
+      "neg": 3
      },
      "accounts": 4
     },
@@ -32,8 +32,8 @@
      "accounts": 8
     }
    },
-   "scenario": "Mehrheit (7 T): leicht bärisch. Wahrscheinlichste Zone laut Quellen: $57k bis $60k; Ausbruch über $60k wäre das nächste Signal.",
-   "risk": "Bruch unter $57k (genannt von @killaxbt, @tedpillows, @xapa03)",
+   "scenario": "Mehrheit (7 T): leicht bärisch. Wahrscheinlichste Zone laut Quellen: $59k–60k bis $62k; Ausbruch über $62k wäre das nächste Signal.",
+   "risk": "Bruch unter $59k–60k (genannt von @killaxbt, @tedpillows, @timevalueofbtc, @xapa03, @zerohedge)",
    "consensus": {
     "pos": 2,
     "neu": 1,
@@ -41,8 +41,8 @@
    },
    "confidence": "Mittel",
    "levels": {
-    "support": "$57k",
-    "resistance": "$60k"
+    "support": "$59k–60k",
+    "resistance": "$62k"
    },
    "n_posts": 56,
    "sources": [
@@ -308,7 +308,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 39,
+     "posts": 40,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -318,7 +318,7 @@
     },
     {
      "name": "Russland / Ukraine",
-     "posts": 23,
+     "posts": 24,
      "impact": [
       "Energie ↑",
       "Europa-Risiko ↑",
@@ -326,7 +326,7 @@
      ]
     }
    ],
-   "n_posts": 81,
+   "n_posts": 83,
    "sources": [
     {
      "account": "killaxbt",
@@ -389,77 +389,15 @@
   }
  },
  "changed": {
-  "since": "2026-11-18T17:11:17.348482+00:00",
-  "new": [
-   {
-    "account": "xapa03",
-    "text": "BTC DOWN (soon)",
-    "url": "https://x.com/xapa03/status/2124275717701779679"
-   },
-   {
-    "account": "killaxbt",
-    "text": "BTC DOWN $46.000",
-    "url": "https://x.com/killaxbt/status/2124223253019332708"
-   },
-   {
-    "account": "nolimitgains",
-    "text": "FED_FUNDS HIKE (in December)",
-    "url": "https://x.com/nolimitgains/status/2124202077228318914"
-   },
-   {
-    "account": "nolimitgains",
-    "text": "BTC RANGE $50.000–60.000",
-    "url": "https://x.com/nolimitgains/status/2124051890338206065"
-   },
-   {
-    "account": "tedpillows",
-    "text": "BTC RANGE $57.000",
-    "url": "https://x.com/tedpillows/status/2123866415245795784"
-   },
-   {
-    "account": "xapa03",
-    "text": "Good morning ☕️ Exactly 3 days ago I explained why we need 3 days and should expect another sweep and it played out exactly as expected. The logic is simple. In this pattern, the…",
-    "url": "https://x.com/xapa03/status/2123291553313464513"
-   }
-  ],
-  "changed": [
-   {
-    "account": "killaxbt",
-    "text": "vorher BTC UP $126.270 (next year), jetzt BTC DOWN $60.000",
-    "url": "https://x.com/killaxbt/status/2123544690343510223"
-   },
-   {
-    "account": "jameslavish",
-    "text": "vorher BTC UP $400.000 (vor dem nächsten Ziel), jetzt BTC RANGE $60.000 (vor dem nächsten Ziel)",
-    "url": "https://x.com/jameslavish/status/2123805021037044095"
-   },
-   {
-    "account": "jameslavish",
-    "text": "vorher BTC UP $500.000, jetzt BTC DOWN $57.700",
-    "url": "https://x.com/jameslavish/status/2123805021037044095"
-   },
-   {
-    "account": "jameslavish",
-    "text": "vorher FED_FUNDS HIKE, jetzt FED_FUNDS HIKE (in December)",
-    "url": "https://x.com/jameslavish/status/2123808941960569024"
-   },
-   {
-    "account": "tedpillows",
-    "text": "vorher BTC RANGE $65.500, jetzt BTC DOWN $55.000 (this year)",
-    "url": "https://x.com/tedpillows/status/2123816457922322731"
-   },
-   {
-    "account": "tedpillows",
-    "text": "vorher BTC DOWN $55.000 (this year), jetzt BTC RANGE $57.000",
-    "url": "https://x.com/tedpillows/status/2123866415245795784"
-   }
-  ],
-  "new_consensus": [
-   "Makro: neutral / gemischt → leicht Risk-On"
-  ],
+  "since": "2026-11-22T05:27:13.277673+00:00",
+  "new": [],
+  "changed": [],
+  "new_consensus": [],
   "no_change": [
    "Bitcoin bleibt leicht bärisch",
-   "Liquidität bleibt neutral / gemischt"
+   "Makro bleibt leicht Risk-On",
+   "Liquidität bleibt neutral / gemischt",
+   "Geopolitisches Risiko bleibt Hoch"
   ]
  },
  "important_posts": [
@@ -505,7 +443,7 @@
    "category": "BITCOIN",
    "relevance": 100,
    "text": "2013 to 2015, Bitcoin dropped -86% and the massive breakout happend 413 days after it\n\n2017 to 2019, Bitcoin dropped -84% and the massive breakout happend 413 days after it\n\n2021 to 2022, Bitcoin dropped -77% and the massive breakout happend 413 days after it\n\n2025 to 2026, Bitcoin dropped -55% and the massive breakout ...?\n\n\n\nOn the monthly chart, BTC touched the yellow zone of the TEM.\n\nIt could happen, that we wic",
-   "why": "Gegenposition zum aktuellen X-Konsens"
+   "why": "Neue Makro- oder Marktdaten"
   },
   {
    "account": "nolimitgains",
@@ -560,7 +498,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-20T19:49:47+00:00",
-   "distance_pct": 8.1,
+   "distance_pct": 5.3,
    "conditions": null,
    "evidence": "Bitcoin was trading at $64K at that time, and since then it's been going down only."
   },
@@ -571,7 +509,7 @@
    "deadline": "2026-12-31T23:59:59+00:00",
    "time_horizon": "this year",
    "prediction_date": "2026-11-20T16:31:16+00:00",
-   "distance_pct": -7.1,
+   "distance_pct": -9.5,
    "conditions": null,
    "evidence": "BREAKING: Our traders forecast Bitcoin will crash to $55,000 this year"
   },
@@ -593,7 +531,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-21T19:27:44+00:00",
-   "distance_pct": -22.3,
+   "distance_pct": -24.3,
    "conditions": null,
    "evidence": "I don't see BTC going lower than 46K personally, meaning that the bear market true bottom should be relatively close."
   },
@@ -604,7 +542,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-21T08:06:48+00:00",
-   "distance_pct": -7.1,
+   "distance_pct": -9.5,
    "conditions": null,
    "evidence": "Bitcoin will go down to $50k - $60k One capitulation candle to ~$40k ETH will make a low of $1200 XRP?"
   }
@@ -613,16 +551,7 @@
   {
    "topic": "BTC",
    "main": "bearish",
-   "main_share": 62,
-   "account": "xapa03",
-   "stance": "bullish",
-   "text": "BTC/M2 has opened our eyes.\n\nMeasuring Bitcoin against its monetary expansion metric is far more accurate that measuring BTC against a highly implied volatile USD fiat currency. \n\n\n\nSheriff's put a pe",
-   "url": "https://x.com/xapa03/status/2124275717701779679"
-  },
-  {
-   "topic": "BTC",
-   "main": "bearish",
-   "main_share": 62,
+   "main_share": 75,
    "account": "danheld",
    "stance": "bullish",
    "text": "Bitcoin has a 99.98% uptime:\n\n\n\nHigher than Google\n\nHigher than Amazon\n\nHigher than Facebook\n\nHigher than the US Government\n\n\n\nGood luck trying to stop it.",
@@ -636,19 +565,29 @@
    "stance": "contracting",
    "text": "I know this sounds strange, but I'm hoping the stock market will dump further (and yes I own a lot of stocks so I also feel this pain).\n\n\n\nNot a crash, just enough pressure.\n\n\n\nRight now the market is",
    "url": "https://x.com/tedpillows/status/2123767128666812437"
+  },
+  {
+   "topic": "LIQUIDITY",
+   "main": "expanding",
+   "main_share": 67,
+   "account": "timevalueofbtc",
+   "stance": "contracting",
+   "text": "Here is the paradox about bitcoin.\n\n\n\nIt looks like the worst asset in the world when liquidity falls. But when stocks really start to dump, those in power get SCARED, because everything can fall apar",
+   "url": "https://x.com/timevalueofbtc/status/2123612981376536636"
   }
  ],
  "consensus_21d": {
   "BTC": {
    "majority": "bearish",
-   "score": 62,
+   "score": 75,
    "n": 8,
    "counts": {
-    "bullish": 2,
+    "bullish": 1,
     "neutral": 1,
-    "bearish": 5
+    "bearish": 6
    },
    "supporting": [
+    "killaxbt",
     "tylerdurden",
     "tedpillows",
     "jameslavish",
@@ -656,7 +595,6 @@
     "nolimitgains"
    ],
    "contrarians": [
-    "xapa03",
     "danheld"
    ]
   },
@@ -731,12 +669,12 @@
   "high": 1000000.0
  },
  "daily": {
-  "report_date": "2026-11-21",
-  "generated_at": "2026-11-22T05:02:08.018985+00:00",
+  "report_date": "2026-11-22",
+  "generated_at": "2026-11-22T11:01:51.653409+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-11-21T05:02:07.994970+00:00",
-   "to": "2026-11-22T05:02:08.018985+00:00"
+   "from": "2026-11-21T11:01:51.627488+00:00",
+   "to": "2026-11-22T11:01:51.653409+00:00"
   },
   "key_points": [
    {
@@ -758,29 +696,29 @@
     ]
    },
    {
-    "text": "@xapa03: 2013 to 2015, Bitcoin dropped -86% and the massive breakout happend 413 days after it 2017 to 2019, Bitcoin dropped -84% and the massive breakout happend 413 days after it 2021 to…",
+    "text": "@nolimitgains: How long every Bitcoin bear market lasted, from the top to the bottom: 2014: about 13 months 2018: about 12 months 2022: about 12 months 2026: 13.5 months and still going Bitcoin…",
     "ids": [
-     "2124089975897514164"
+     "2124163705461960715"
     ]
    },
    {
-    "text": "@nolimitgains: I was right again. It's coming. The only question is: are you prepared for it? Bitcoin will go down to $50k - $60k One capitulation candle to ~$40k ETH will make a low of $1200…",
+    "text": "@killaxbt: I haven’t seen sentiment this bad in a long time, and this pretty much explains why. We’ve been trending down for 411 days. Around the 400-day mark in previous cycles, we usually…",
     "ids": [
-     "2124051890338206065"
+     "2124160405626925116"
     ]
    }
   ],
   "sections": {
    "TOP_DEVELOPMENTS": "@xapa03: BTC/M2 has opened our eyes. Measuring Bitcoin against its monetary expansion metric is far more accurate that measuring BTC against a highly implied volatile USD fiat currency.… · @killaxbt: $BTC has reclaimed the 57.7K low. However, we are not out the woods yet on the LTF. We were bound to get some buyers step in around this area. Below the range is usually where you… · @nolimitgains: The S&P 500 just had its worst week since April 2025. The Nasdaq had its worst week since March 2020. Nvidia fell 14% in a single day. And I'm not panicking. Here's what's really…",
-   "BTC_OUTLOOK": "Stimmung 62 % bärisch (8/12 Accounts mit Meinung). Median offener Kursziele $64.000. @xapa03: BTC/M2 has opened our eyes. Measuring Bitcoin against its monetary expansion metric is far more accurate that measuring BTC against a highly implied volatile USD fiat currency.… · @killaxbt: $BTC has reclaimed the 57.7K low. However, we are not out the woods yet on the LTF. We were bound to get some buyers step in around this area. Below the range is usually where you… · @nolimitgains: I was right again. It's coming. The only question is: are you prepared for it? Bitcoin will go down to $50k - $60k One capitulation candle to ~$40k ETH will make a low of $1200…",
+   "BTC_OUTLOOK": "Stimmung 75 % bärisch (8/12 Accounts mit Meinung). Median offener Kursziele $64.000. @xapa03: BTC/M2 has opened our eyes. Measuring Bitcoin against its monetary expansion metric is far more accurate that measuring BTC against a highly implied volatile USD fiat currency.… · @killaxbt: $BTC has reclaimed the 57.7K low. However, we are not out the woods yet on the LTF. We were bound to get some buyers step in around this area. Below the range is usually where you… · @nolimitgains: How long every Bitcoin bear market lasted, from the top to the bottom: 2014: about 13 months 2018: about 12 months 2022: about 12 months 2026: 13.5 months and still going Bitcoin…",
    "MACRO_OUTLOOK": "@nolimitgains: The S&P 500 just had its worst week since April 2025. The Nasdaq had its worst week since March 2020. Nvidia fell 14% in a single day. And I'm not panicking. Here's what's really…",
    "GLOBAL_LIQUIDITY": "@xapa03: BTC/M2 has opened our eyes. Measuring Bitcoin against its monetary expansion metric is far more accurate that measuring BTC against a highly implied volatile USD fiat currency.…",
    "FED_RATES": "@nolimitgains: The S&P 500 just had its worst week since April 2025. The Nasdaq had its worst week since March 2020. Nvidia fell 14% in a single day. And I'm not panicking. Here's what's really…",
    "DXY_TREASURIES": "@xapa03: BTC/M2 has opened our eyes. Measuring Bitcoin against its monetary expansion metric is far more accurate that measuring BTC against a highly implied volatile USD fiat currency.… · @tylerdurden: Done. Give that GitHub to your Ai agent. Security check it. Set your dollar amount. God bless Satoshi. Has anybody set up a script to DCA Bitcoin on Hyperliquid? I want to do $1k…",
    "GOLD": "Keine relevanten Aussagen.",
    "GEOPOLITICS": "@osint613: The editor of Iran's Kayhan newspaper, widely seen as a mouthpiece of the regime, called today for attacks on the oil and gas infrastructure of U.S. allies in the Persian Gulf to…",
-   "CONSENSUS": "BTC: 62 % bärisch (5/8) · Liquidität: 67 % expandierend (6/9) · Fed: 43 % lockernd (3/7) · Geopolitik-Risiko: 100 % erhöht (8/8)",
-   "CONTRARIAN": "@xapa03 (BTC bullisch): BTC/M2 has opened our eyes.\n\nMeasuring Bitcoin against its monetary expansion metric is far more accurate that measuring · @danheld (BTC bullisch): Bitcoin has a 99.98% uptime:\n\n\n\nHigher than Google\n\nHigher than Amazon\n\nHigher than Facebook\n\nHigher than the US Governm · @tedpillows (Liquidität schrumpfend): I know this sounds strange, but I'm hoping the stock market will dump further (and yes I own a lot of stocks so I also f · @timevalueofbtc (Liquidität schrumpfend): Here is the paradox about bitcoin.\n\n\n\nIt looks like the worst asset in the world when liquidity falls. But when stocks r"
+   "CONSENSUS": "BTC: 75 % bärisch (6/8) · Liquidität: 67 % expandierend (6/9) · Fed: 43 % lockernd (3/7) · Geopolitik-Risiko: 100 % erhöht (8/8)",
+   "CONTRARIAN": "@danheld (BTC bullisch): Bitcoin has a 99.98% uptime:\n\n\n\nHigher than Google\n\nHigher than Amazon\n\nHigher than Facebook\n\nHigher than the US Governm · @tedpillows (Liquidität schrumpfend): I know this sounds strange, but I'm hoping the stock market will dump further (and yes I own a lot of stocks so I also f · @timevalueofbtc (Liquidität schrumpfend): Here is the paradox about bitcoin.\n\n\n\nIt looks like the worst asset in the world when liquidity falls. But when stocks r · @tedpillows (Fed straffend): No bueno.\nFED'S COOK CALLS FOR TIGHTER MONETARY POLICY, WARNS INFLATION RISKS ARE GROWING Federal Reserve Governor Lisa "
   },
   "new_predictions": [
    {
@@ -845,27 +783,6 @@
     "evidence": "One Fed governor even said they might need to \"shock people\" with a half-point hike in December, and JPMorgan now expects hikes at the next three meetings.",
     "label": "FED_FUNDS HIKE (in December)",
     "url": "https://x.com/nolimitgains/status/2124202077228318914"
-   },
-   {
-    "id": 174,
-    "account": "nolimitgains",
-    "tweet_id": "2124051890338206065",
-    "prediction_date": "2026-11-21T08:06:48+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "RANGE",
-    "target": null,
-    "target_low": 50000.0,
-    "target_high": 60000.0,
-    "deadline": null,
-    "time_horizon": null,
-    "conditions": null,
-    "status": "OPEN",
-    "status_note": null,
-    "btc_price_when_prediction_made": 60088.6,
-    "evidence": "Bitcoin will go down to $50k - $60k One capitulation candle to ~$40k ETH will make a low of $1200 XRP?",
-    "label": "BTC RANGE $50.000–60.000",
-    "url": "https://x.com/nolimitgains/status/2124051890338206065"
    }
   ],
   "updated_predictions": [],
@@ -901,344 +818,19 @@
    }
   ],
   "since_morning": {
-   "since": "2026-11-21T06:00:00+00:00",
-   "relevant_posts": 30,
-   "consensus_shifts": [
-    {
-     "topic": "FED",
-     "from": {
-      "majority": "tightening",
-      "score": 50,
-      "n": 6
-     },
-     "to": {
-      "majority": "easing",
-      "score": 43,
-      "n": 7
-     }
-    }
-   ],
-   "new_predictions": 4,
-   "posts": [
-    {
-     "account": "xapa03",
-     "tweet_id": "2124275717701779679",
-     "timestamp": "2026-11-21T22:56:12+00:00",
-     "relevance": 100,
-     "summary": "BTC/M2 has opened our eyes. Measuring Bitcoin against its monetary expansion metric is far more accurate that measuring BTC against a highly implied volatile USD fiat currency.…",
-     "categories": [
-      "BITCOIN",
-      "DXY",
-      "M2"
-     ],
-     "url": "https://x.com/xapa03/status/2124275717701779679"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2124261068230807715",
-     "timestamp": "2026-11-21T21:58:00+00:00",
-     "relevance": 66,
-     "summary": "It's literally never been a bad time to load up $BTC in extreme fear. If you have capital on hand, setup a DCA bot from here down to 48K You will most likely outperform everyone.…",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/killaxbt/status/2124261068230807715"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2124246220843474988",
-     "timestamp": "2026-11-21T20:59:00+00:00",
-     "relevance": 74,
-     "summary": "After every major leg down, the next few weekly candles are key. As you can see: Candle 1: The leg down. (What we have seen) Candle 2: The first boundaries of a range begin to…",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/killaxbt/status/2124246220843474988"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2124223253019332708",
-     "timestamp": "2026-11-21T19:27:44+00:00",
-     "relevance": 100,
-     "summary": "$BTC has reclaimed the 57.7K low. However, we are not out the woods yet on the LTF. We were bound to get some buyers step in around this area. Below the range is usually where you…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/killaxbt/status/2124223253019332708"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2124216859721416813",
-     "timestamp": "2026-11-21T19:02:20+00:00",
-     "relevance": 76,
-     "summary": "$BTC made a new low. But major Alt/BTC pairs made a higher low. This is something we saw during Nov 2022 bottom too, and we all know what happened next.",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/tedpillows/status/2124216859721416813"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2124215181962358905",
-     "timestamp": "2026-11-21T18:55:40+00:00",
-     "relevance": 72,
-     "summary": "The editor of Iran's Kayhan newspaper, widely seen as a mouthpiece of the regime, called today for attacks on the oil and gas infrastructure of U.S. allies in the Persian Gulf to…",
-     "categories": [
-      "BTC_TECHNICAL",
-      "ENERGY",
-      "GEOPOLITICS",
-      "WAR"
-     ],
-     "url": "https://x.com/osint613/status/2124215181962358905"
-    },
-    {
-     "account": "nolimitgains",
-     "tweet_id": "2124202077228318914",
-     "timestamp": "2026-11-21T18:03:35+00:00",
-     "relevance": 100,
-     "summary": "The S&P 500 just had its worst week since April 2025. The Nasdaq had its worst week since March 2020. Nvidia fell 14% in a single day. And I'm not panicking. Here's what's really…",
-     "categories": [
-      "FED",
-      "INTEREST_RATES",
-      "EQUITIES",
-      "REGULATION"
-     ],
-     "url": "https://x.com/nolimitgains/status/2124202077228318914"
-    },
-    {
-     "account": "nolimitgains",
-     "tweet_id": "2124163705461960715",
-     "timestamp": "2026-11-21T15:31:07+00:00",
-     "relevance": 92,
-     "summary": "How long every Bitcoin bear market lasted, from the top to the bottom: 2014: about 13 months 2018: about 12 months 2022: about 12 months 2026: 13.5 months and still going Bitcoin…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE"
-     ],
-     "url": "https://x.com/nolimitgains/status/2124163705461960715"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2124160405626925116",
-     "timestamp": "2026-11-21T15:18:00+00:00",
-     "relevance": 92,
-     "summary": "I haven’t seen sentiment this bad in a long time, and this pretty much explains why. We’ve been trending down for 411 days. Around the 400-day mark in previous cycles, we usually…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE"
-     ],
-     "url": "https://x.com/killaxbt/status/2124160405626925116"
-    },
-    {
-     "account": "tylerdurden",
-     "tweet_id": "2124151310241177685",
-     "timestamp": "2026-11-21T14:41:51+00:00",
-     "relevance": 70,
-     "summary": "Done. Give that GitHub to your Ai agent. Security check it. Set your dollar amount. God bless Satoshi. Has anybody set up a script to DCA Bitcoin on Hyperliquid? I want to do $1k…",
-     "categories": [
-      "BITCOIN",
-      "DXY"
-     ],
-     "url": "https://x.com/tylerdurden/status/2124151310241177685"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2124124715673440687",
-     "timestamp": "2026-11-21T12:56:11+00:00",
-     "relevance": 74,
-     "summary": "$BTC has dropped 37% from its Q3 highs. Yet, OI is almost near its local peak. There are too many shorts sitting comfortably, and they'll get hunted too.",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/tedpillows/status/2124124715673440687"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2124110073345544568",
-     "timestamp": "2026-11-21T11:58:00+00:00",
-     "relevance": 74,
-     "summary": "Given that we’re still following the 4 year cycle despite this cycle being longer, It’s worth noting that 81% of historical cycle metrics are signalling that $BTC is close to a…",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/killaxbt/status/2124110073345544568"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2124108563413147805",
-     "timestamp": "2026-11-21T11:52:00+00:00",
-     "relevance": 78,
-     "summary": "$8,900,000,000 in short liquidations $490,000,000 in long liquidations MMs literally went for max capitulation for $BTC Media",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/tedpillows/status/2124108563413147805"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2124095394753778165",
-     "timestamp": "2026-11-21T10:59:40+00:00",
-     "relevance": 74,
-     "summary": "$ETH lost its $1,700 support zone and dropped straight below $1,550. Now, the weekly close is very important. A close below $1,700 means ETH will likely hit a new cycle low just…",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/tedpillows/status/2124095394753778165"
-    },
-    {
-     "account": "xapa03",
-     "tweet_id": "2124089975897514164",
-     "timestamp": "2026-11-21T10:38:08+00:00",
-     "relevance": 100,
-     "summary": "2013 to 2015, Bitcoin dropped -86% and the massive breakout happend 413 days after it 2017 to 2019, Bitcoin dropped -84% and the massive breakout happend 413 days after it 2021 to…",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL",
-      "BTC_ONCHAIN"
-     ],
-     "url": "https://x.com/xapa03/status/2124089975897514164"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2124066618787389783",
-     "timestamp": "2026-11-21T09:05:19+00:00",
-     "relevance": 68,
-     "summary": "We are now in the capitulation zone. I can't believe Bitcoin made a higher high and reclaimed all key levels, only to hit a new cycle low. Media",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/tedpillows/status/2124066618787389783"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2124057446012387718",
-     "timestamp": "2026-11-21T08:28:52+00:00",
-     "relevance": 62,
-     "summary": "We are now officially in the longest Bitcoin bear market in history.",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/tedpillows/status/2124057446012387718"
-    },
-    {
-     "account": "nolimitgains",
-     "tweet_id": "2124051890338206065",
-     "timestamp": "2026-11-21T08:06:48+00:00",
-     "relevance": 100,
-     "summary": "I was right again. It's coming. The only question is: are you prepared for it? Bitcoin will go down to $50k - $60k One capitulation candle to ~$40k ETH will make a low of $1200…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE"
-     ],
-     "url": "https://x.com/nolimitgains/status/2124051890338206065"
-    },
-    {
-     "account": "xapa03",
-     "tweet_id": "2124039822688096310",
-     "timestamp": "2026-11-21T07:18:51+00:00",
-     "relevance": 84,
-     "summary": "This perspective is likely new to many, very strong work! #ShortTermSaturday Episode 9 (11/21/26) \"A change in perspective - BTC measured against money supply expansion\" 🔁 ✒️My…",
-     "categories": [
-      "BITCOIN",
-      "M2"
-     ],
-     "url": "https://x.com/xapa03/status/2124039822688096310"
-    },
-    {
-     "account": "jameslavish",
-     "tweet_id": "2123992563501916663",
-     "timestamp": "2026-11-21T04:11:03+00:00",
-     "relevance": 74,
-     "summary": "Friday night flush in Bitcoin while the entire global market is closed and now awaits its Monday fate.",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/jameslavish/status/2123992563501916663"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2123986837769474444",
-     "timestamp": "2026-11-21T03:48:18+00:00",
-     "relevance": 92,
-     "summary": "$BTC Either we form a three drive of the lows or we range between 40K and 52K for a while. Pick your poison. Inverse H&S looks like it's close to being invalidated. Which leaves…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/killaxbt/status/2123986837769474444"
-    },
-    {
-     "account": "timevalueofbtc",
-     "tweet_id": "2123957575503003876",
-     "timestamp": "2026-11-21T01:52:01+00:00",
-     "relevance": 100,
-     "summary": "The Nvidia accounting scandal developing has opened up the potential for incredibly dark times in risk markets. Are you listening to the signals being sent by bitcoin, stocks,…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "INTEREST_RATES",
-      "US_TREASURIES",
-      "DXY",
-      "CREDIT",
-      "EQUITIES",
-      "GOLD"
-     ],
-     "url": "https://x.com/timevalueofbtc/status/2123957575503003876"
-    },
-    {
-     "account": "tylerdurden",
-     "tweet_id": "2123935631252574447",
-     "timestamp": "2026-11-21T00:24:49+00:00",
-     "relevance": 67,
-     "summary": "If you believe in hard money you should be praying you see 20k and 30k again. For those who don’t hold enough bitcoin, 99% of you, why are you sad lol",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/tylerdurden/status/2123935631252574447"
-    },
-    {
-     "account": "tylerdurden",
-     "tweet_id": "2123932647047196877",
-     "timestamp": "2026-11-21T00:12:58+00:00",
-     "relevance": 70,
-     "summary": "November 2018 Bitcoin crashes 37%, ending the bear market. November 2026 Bitcoin crashes 29% (thus far)…",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/tylerdurden/status/2123932647047196877"
-    },
-    {
-     "account": "xapa03",
-     "tweet_id": "2123914338482196833",
-     "timestamp": "2026-11-20T23:00:13+00:00",
-     "relevance": 86,
-     "summary": "#ShortTermSaturday Episode 9 (11/21/26) \"A change in perspective - BTC measured against money supply expansion\" 🔁 ✒️My dear followers, Sheriff's exploring Vice-Dale County and the…",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL",
-      "INFLATION",
-      "US_TREASURIES",
-      "DXY",
-      "M2",
-      "EQUITIES"
-     ],
-     "url": "https://x.com/thebtcfrontierx/status/2123914338482196833"
-    }
-   ]
+   "since": "2026-11-22T06:00:00+00:00",
+   "relevant_posts": 0,
+   "consensus_shifts": [],
+   "new_predictions": 0,
+   "posts": []
   },
   "stats": {
-   "posts_new": 77,
-   "posts_relevant": 11,
-   "predictions_new": 4,
+   "posts_new": 25,
+   "posts_relevant": 0,
+   "predictions_new": 0,
    "predictions_updated": 0,
    "invalidated": 0,
-   "posts_analysed": 77,
+   "posts_analysed": 25,
    "evaluated": 0
   }
  }
