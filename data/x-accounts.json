@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-22T11:12:00.391516+00:00",
+ "generated_at": "2026-11-22T17:09:44.437311+00:00",
  "accounts": [
   {
    "handle": "killaxbt",
    "display_name": "Killa",
    "status": {
-    "ok": true,
+    "ok": false,
     "last_ok_at": "2026-11-22T11:01:51.485245+00:00",
-    "error": null
+    "error": "Account nicht verfügbar (HTTP 404)"
    },
    "bias": {
     "BTC": {
@@ -143,7 +143,7 @@
      "url": "https://x.com/killaxbt/status/2123822628162974124",
      "verifiable": true,
      "resolved_at": "2026-11-20T17:38:28+00:00",
-     "distance_to_target_pct": 107.0,
+     "distance_to_target_pct": 107.1,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -197,7 +197,7 @@
      "url": "https://x.com/killaxbt/status/2122425461439598758",
      "verifiable": true,
      "resolved_at": "2026-11-19T22:31:22+00:00",
-     "distance_to_target_pct": 107.4,
+     "distance_to_target_pct": 107.6,
      "updated_by": 161,
      "updates": null,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -251,7 +251,7 @@
      "url": "https://x.com/killaxbt/status/2120889950556061803",
      "verifiable": true,
      "resolved_at": "2026-11-12T19:38:05+00:00",
-     "distance_to_target_pct": 24.0,
+     "distance_to_target_pct": 24.1,
      "updated_by": null,
      "updates": 145,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED,CONDITION_CHANGED"
@@ -278,7 +278,7 @@
      "url": "https://x.com/killaxbt/status/2120667900235419859",
      "verifiable": true,
      "resolved_at": "2026-11-12T14:42:23+00:00",
-     "distance_to_target_pct": -17.9,
+     "distance_to_target_pct": -17.8,
      "updated_by": null,
      "updates": 143,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -403,7 +403,7 @@
    },
    "bias": {
     "BTC": {
-     "stance": "neutral",
+     "stance": "bullish",
      "posts": 25,
      "last": {
       "tweet_id": "2124275717701779679",
@@ -582,7 +582,7 @@
      "url": "https://x.com/xapa03/status/2121140335363735669",
      "verifiable": true,
      "resolved_at": "2026-11-13T10:19:39+00:00",
-     "distance_to_target_pct": 9.4,
+     "distance_to_target_pct": 9.5,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -609,7 +609,7 @@
      "url": "https://x.com/xapa03/status/2121096144319308138",
      "verifiable": true,
      "resolved_at": "2026-11-13T07:17:19+00:00",
-     "distance_to_target_pct": 9.4,
+     "distance_to_target_pct": 9.5,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -744,7 +744,7 @@
      "url": "https://x.com/xapa03/status/2118644786601054609",
      "verifiable": true,
      "resolved_at": "2026-11-06T23:05:23+00:00",
-     "distance_to_target_pct": 23.2,
+     "distance_to_target_pct": 23.3,
      "updated_by": 136,
      "updates": 134,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -810,9 +810,9 @@
    "handle": "osint613",
    "display_name": "Open Source Intel",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-11-22T05:02:07.631892+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-11-22T17:01:43.002511+00:00",
+    "error": null
    },
    "bias": {
     "LIQUIDITY": {
@@ -827,12 +827,12 @@
     },
     "GEO": {
      "stance": "elevated",
-     "posts": 59,
+     "posts": 63,
      "last": {
-      "tweet_id": "2124286473470120324",
-      "text": "NEW: An Iranian oil tanker named KHAT SHEKAN, which means \"line-breaker\" in Farsi, is heading toward the Gulf of Oman in an attempt to break the U.S. naval blockade.\n\n\n\nContributed by @MoloWarMonitor",
-      "url": "https://x.com/osint613/status/2124286473470120324",
-      "timestamp": "2026-11-21T23:38:57+00:00"
+      "tweet_id": "2124533626763145602",
+      "text": "Highly possible this is a U.S. strike on an Iranian vessel attempting to break the U.S. blockade. \n\n\n\nWaiting for CENTCOM confirmation. \n\n\n\nIran promised a retaliation on gulf infrastructure, if their ships are attacked.",
+      "url": "https://x.com/osint613/status/2124533626763145602",
+      "timestamp": "2026-11-22T16:01:03+00:00"
      }
     }
    },
@@ -873,7 +873,7 @@
    "display_name": "Tuur Demeester",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-11-22T11:01:51.485245+00:00",
+    "last_ok_at": "2026-11-22T17:01:43.002511+00:00",
     "error": null
    },
    "bias": {},
@@ -973,9 +973,9 @@
    "handle": "zerohedge",
    "display_name": "zerohedge",
    "status": {
-    "ok": true,
+    "ok": false,
     "last_ok_at": "2026-11-22T11:01:51.485245+00:00",
-    "error": null
+    "error": "Account nicht verfügbar (HTTP 404)"
    },
    "bias": {
     "LIQUIDITY": {
@@ -1160,9 +1160,9 @@
    "handle": "e_boeminghaus",
    "display_name": "Emanuel Boeminghaus",
    "status": {
-    "ok": true,
+    "ok": false,
     "last_ok_at": "2026-11-22T11:01:51.485245+00:00",
-    "error": null
+    "error": "Account nicht verfügbar (HTTP 404)"
    },
    "bias": {
     "GEO": {
@@ -1212,19 +1212,19 @@
    "handle": "tedpillows",
    "display_name": "Ted",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-11-22T05:02:07.631892+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-11-22T17:01:43.002511+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
      "stance": "bearish",
-     "posts": 43,
+     "posts": 49,
      "last": {
-      "tweet_id": "2124216859721416813",
-      "text": "$BTC made a new low.\n\n\n\nBut major Alt/BTC pairs made a higher low.\n\n\n\nThis is something we saw during Nov 2022 bottom too, and we all know what happened next.",
-      "url": "https://x.com/tedpillows/status/2124216859721416813",
-      "timestamp": "2026-11-21T19:02:20+00:00"
+      "tweet_id": "2124529336011411520",
+      "text": "Bitcoin supply in loss is now at its highest level in history.\n\n\n\nPeak Capitulation.",
+      "url": "https://x.com/tedpillows/status/2124529336011411520",
+      "timestamp": "2026-11-22T15:44:00+00:00"
      }
     },
     "LIQUIDITY": {
@@ -1311,7 +1311,7 @@
      "url": "https://x.com/tedpillows/status/2123866415245795784",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": 5.1,
+     "distance_to_target_pct": 5.2,
      "updated_by": null,
      "updates": 169,
      "change_type": "TARGET_CHANGED"
@@ -1419,7 +1419,7 @@
      "url": "https://x.com/tedpillows/status/2123866415245795784",
      "verifiable": true,
      "resolved_at": "2026-11-21T05:01:36.410444+00:00",
-     "distance_to_target_pct": -6.4,
+     "distance_to_target_pct": -6.3,
      "updated_by": null,
      "updates": 168,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -1500,7 +1500,7 @@
      "url": "https://x.com/tedpillows/status/2122976560919789979",
      "verifiable": true,
      "resolved_at": "2026-11-20T16:31:16+00:00",
-     "distance_to_target_pct": 7.6,
+     "distance_to_target_pct": 7.7,
      "updated_by": 168,
      "updates": 156,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -1527,7 +1527,7 @@
      "url": "https://x.com/tedpillows/status/2122329592161608069",
      "verifiable": true,
      "resolved_at": "2026-11-18T08:53:49+00:00",
-     "distance_to_target_pct": -2.3,
+     "distance_to_target_pct": -2.2,
      "updated_by": 159,
      "updates": 153,
      "change_type": "TARGET_CHANGED"
@@ -1635,7 +1635,7 @@
      "url": "https://x.com/tedpillows/status/2121627019704226066",
      "verifiable": true,
      "resolved_at": "2026-11-14T16:39:01+00:00",
-     "distance_to_target_pct": 31.4,
+     "distance_to_target_pct": 31.5,
      "updated_by": 152,
      "updates": null,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -1662,7 +1662,7 @@
      "url": "https://x.com/tedpillows/status/2113546864893083997",
      "verifiable": true,
      "resolved_at": "2026-10-24T05:02:12.728208+00:00",
-     "distance_to_target_pct": 34.7,
+     "distance_to_target_pct": 34.8,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -1702,7 +1702,7 @@
    "display_name": "James Lavish",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-11-22T11:01:51.485245+00:00",
+    "last_ok_at": "2026-11-22T17:01:43.002511+00:00",
     "error": null
    },
    "bias": {
@@ -1887,7 +1887,7 @@
      "url": "https://x.com/jameslavish/status/2120232177422201068",
      "verifiable": true,
      "resolved_at": "2026-11-20T15:45:50+00:00",
-     "distance_to_target_pct": 557.1,
+     "distance_to_target_pct": 557.5,
      "updated_by": 164,
      "updates": 132,
      "change_type": "TARGET_CHANGED"
@@ -1914,7 +1914,7 @@
      "url": "https://x.com/jameslavish/status/2120232177422201068",
      "verifiable": true,
      "resolved_at": "2026-11-20T15:45:50+00:00",
-     "distance_to_target_pct": 721.4,
+     "distance_to_target_pct": 721.9,
      "updated_by": 165,
      "updates": null,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -2059,9 +2059,9 @@
    "handle": "timevalueofbtc",
    "display_name": "Nik Bhatia",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-11-21T17:01:38.412236+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-11-22T17:01:43.002511+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
@@ -2159,7 +2159,7 @@
      "url": "https://x.com/timevalueofbtc/status/2120302441929507097",
      "verifiable": true,
      "resolved_at": "2026-11-12T17:01:55.060313+00:00",
-     "distance_to_target_pct": 21.2,
+     "distance_to_target_pct": 21.3,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -2198,9 +2198,9 @@
    "handle": "danheld",
    "display_name": "Dan Held",
    "status": {
-    "ok": true,
+    "ok": false,
     "last_ok_at": "2026-11-22T11:01:51.485245+00:00",
-    "error": null
+    "error": "Account nicht verfügbar (HTTP 404)"
    },
    "bias": {
     "BTC": {
@@ -2273,7 +2273,7 @@
      "url": "https://x.com/danheld/status/2117298145818186002",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": 1542.8,
+     "distance_to_target_pct": 1543.7,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -2313,9 +2313,9 @@
    "handle": "nolimitgains",
    "display_name": "NoLimit",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-11-22T05:02:07.631892+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-11-22T17:01:43.002511+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
