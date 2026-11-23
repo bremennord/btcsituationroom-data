@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-23T05:09:27.100674+00:00",
- "btc_price": 61078.9,
+ "generated_at": "2026-11-23T11:08:11.976794+00:00",
+ "btc_price": 61328.3,
  "outlook": {
   "BTC": {
    "horizons": {
@@ -14,10 +14,10 @@
      "accounts": 1
     },
     "3d": {
-     "label": "leicht bärisch",
+     "label": "bärisch",
      "counts": {
-      "pos": 2,
-      "neu": 0,
+      "pos": 0,
+      "neu": 2,
       "neg": 4
      },
      "accounts": 6
@@ -44,7 +44,7 @@
     "support": "$59k–60k",
     "resistance": "$62k"
    },
-   "n_posts": 57,
+   "n_posts": 54,
    "sources": [
     {
      "account": "xapa03",
@@ -126,13 +126,13 @@
      "accounts": 6
     },
     "7d": {
-     "label": "neutral / gemischt",
+     "label": "leicht Risk-On",
      "counts": {
       "pos": 4,
       "neu": 1,
-      "neg": 3
+      "neg": 2
      },
-     "accounts": 8
+     "accounts": 7
     }
    },
    "drivers": [
@@ -144,10 +144,10 @@
    "consensus": {
     "pos": 4,
     "neu": 1,
-    "neg": 3
+    "neg": 2
    },
-   "confidence": "Niedrig",
-   "n_posts": 26,
+   "confidence": "Mittel",
+   "n_posts": 25,
    "sources": [
     {
      "account": "jameslavish",
@@ -308,7 +308,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 41,
+     "posts": 39,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -318,7 +318,7 @@
     },
     {
      "name": "Russland / Ukraine",
-     "posts": 16,
+     "posts": 18,
      "impact": [
       "Energie ↑",
       "Europa-Risiko ↑",
@@ -326,7 +326,7 @@
      ]
     }
    ],
-   "n_posts": 67,
+   "n_posts": 66,
    "sources": [
     {
      "account": "killaxbt",
@@ -344,6 +344,13 @@
     },
     {
      "account": "osint613",
+     "tweet_id": "2124814211683430495",
+     "url": "https://x.com/osint613/status/2124814211683430495",
+     "summary": "Novoshakhtinsk refinery in Russia's Rostov region knocked offline by Ukrainian drones and missiles. Media Novoshakhtinsk oil refinery in Rostov, Russia, is burning after an…",
+     "timestamp": "2026-11-23T10:35:59+00:00"
+    },
+    {
+     "account": "osint613",
      "tweet_id": "2124215181962358905",
      "url": "https://x.com/osint613/status/2124215181962358905",
      "summary": "The editor of Iran's Kayhan newspaper, widely seen as a mouthpiece of the regime, called today for attacks on the oil and gas infrastructure of U.S. allies in the Persian Gulf to…",
@@ -355,6 +362,13 @@
      "url": "https://x.com/zerohedge/status/2124618032748089594",
      "summary": "Watch: Second Ship Explodes In Suspected Ukrainian Sea Drone Attack On Libyan Port",
      "timestamp": "2026-11-22T21:36:27+00:00"
+    },
+    {
+     "account": "osint613",
+     "tweet_id": "2124779169599180928",
+     "url": "https://x.com/osint613/status/2124779169599180928",
+     "summary": "Russian oil facility were hit by Ukrainian drones: The LUKOIL-Permnefteorgsintez refinery in Perm Krai ranks among the largest in Russia. It processes over 13 million tons of…",
+     "timestamp": "2026-11-23T08:16:45+00:00"
     },
     {
      "account": "nolimitgains",
@@ -369,37 +383,17 @@
      "url": "https://x.com/osint613/status/2123803161471132052",
      "summary": "Treasury Secretary Scott Bessent told CNBC he continues to live on a military base. He added that if Iranians are pursuing him, it shows they are being squeezed.",
      "timestamp": "2026-11-20T15:38:26+00:00"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2124533626763145602",
-     "url": "https://x.com/osint613/status/2124533626763145602",
-     "summary": "Highly possible this is a U.S. strike on an Iranian vessel attempting to break the U.S. blockade. Waiting for CENTCOM confirmation. Iran promised a retaliation on gulf…",
-     "timestamp": "2026-11-22T16:01:03+00:00"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2124286473470120324",
-     "url": "https://x.com/osint613/status/2124286473470120324",
-     "summary": "NEW: An Iranian oil tanker named KHAT SHEKAN, which means \"line-breaker\" in Farsi, is heading toward the Gulf of Oman in an attempt to break the U.S. naval blockade. Contributed…",
-     "timestamp": "2026-11-21T23:38:57+00:00"
     }
    ],
    "impact_kind": "Typisches Marktmuster (Systemeinschätzung, keine Prognose)"
   }
  },
  "changed": {
-  "since": "2026-11-22T17:09:54.300551+00:00",
-  "new": [
-   {
-    "account": "jameslavish",
-    "text": "What is “fiscal dominance?” *TREASURY SECRETARY BESSENT WARNED THAT THE FEDERAL RESERVE RISKS JEOPARDIZING THE US ECONOMY BY OVERTIGHTENING IN RESPONSE TO LATEST INFLATION DATA:…",
-    "url": "https://x.com/jameslavish/status/2124613254337192153"
-   }
-  ],
+  "since": "2026-11-23T05:09:36.584673+00:00",
+  "new": [],
   "changed": [],
   "new_consensus": [
-   "Makro: leicht Risk-On → neutral / gemischt"
+   "Makro: neutral / gemischt → leicht Risk-On"
   ],
   "no_change": [
    "Bitcoin bleibt leicht bärisch",
@@ -460,7 +454,7 @@
    "category": "BITCOIN",
    "relevance": 100,
    "text": "2013 to 2015, Bitcoin dropped -86% and the massive breakout happend 413 days after it\n\n2017 to 2019, Bitcoin dropped -84% and the massive breakout happend 413 days after it\n\n2021 to 2022, Bitcoin dropped -77% and the massive breakout happend 413 days after it\n\n2025 to 2026, Bitcoin dropped -55% and the massive breakout ...?\n\n\n\nOn the monthly chart, BTC touched the yellow zone of the TEM.\n\nIt could happen, that we wic",
-   "why": "Gegenposition zum aktuellen X-Konsens"
+   "why": "Neue Makro- oder Marktdaten"
   },
   {
    "account": "nolimitgains",
@@ -504,7 +498,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-20T19:49:47+00:00",
-   "distance_pct": 4.6,
+   "distance_pct": 4.3,
    "conditions": null,
    "evidence": "Bitcoin was trading at $64K at that time, and since then it's been going down only."
   },
@@ -515,7 +509,7 @@
    "deadline": "2026-12-31T23:59:59+00:00",
    "time_horizon": "this year",
    "prediction_date": "2026-11-20T16:31:16+00:00",
-   "distance_pct": -10.1,
+   "distance_pct": -10.4,
    "conditions": null,
    "evidence": "BREAKING: Our traders forecast Bitcoin will crash to $55,000 this year"
   },
@@ -537,7 +531,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-21T19:27:44+00:00",
-   "distance_pct": -24.8,
+   "distance_pct": -25.0,
    "conditions": null,
    "evidence": "I don't see BTC going lower than 46K personally, meaning that the bear market true bottom should be relatively close."
   },
@@ -548,7 +542,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-02T16:49:50+00:00",
-   "distance_pct": 1534.8,
+   "distance_pct": 1529.4,
    "conditions": "If everyone in the world understood Bitcoin",
    "evidence": "If everyone in the world understood Bitcoin, and the current macro environment, then the price would be $1M-$10M per Bitcoin."
   }
@@ -557,16 +551,7 @@
   {
    "topic": "BTC",
    "main": "bearish",
-   "main_share": 62,
-   "account": "xapa03",
-   "stance": "bullish",
-   "text": "BTC/M2 has opened our eyes.\n\nMeasuring Bitcoin against its monetary expansion metric is far more accurate that measuring BTC against a highly implied volatile USD fiat currency. \n\n\n\nSheriff's put a pe",
-   "url": "https://x.com/xapa03/status/2124275717701779679"
-  },
-  {
-   "topic": "BTC",
-   "main": "bearish",
-   "main_share": 62,
+   "main_share": 75,
    "account": "danheld",
    "stance": "bullish",
    "text": "Bitcoin has a 99.98% uptime:\n\n\n\nHigher than Google\n\nHigher than Amazon\n\nHigher than Facebook\n\nHigher than the US Government\n\n\n\nGood luck trying to stop it.",
@@ -580,19 +565,29 @@
    "stance": "contracting",
    "text": "I know this sounds strange, but I'm hoping the stock market will dump further (and yes I own a lot of stocks so I also feel this pain).\n\n\n\nNot a crash, just enough pressure.\n\n\n\nRight now the market is",
    "url": "https://x.com/tedpillows/status/2123767128666812437"
+  },
+  {
+   "topic": "LIQUIDITY",
+   "main": "expanding",
+   "main_share": 67,
+   "account": "timevalueofbtc",
+   "stance": "contracting",
+   "text": "Here is the paradox about bitcoin.\n\n\n\nIt looks like the worst asset in the world when liquidity falls. But when stocks really start to dump, those in power get SCARED, because everything can fall apar",
+   "url": "https://x.com/timevalueofbtc/status/2123612981376536636"
   }
  ],
  "consensus_21d": {
   "BTC": {
    "majority": "bearish",
-   "score": 62,
+   "score": 75,
    "n": 8,
    "counts": {
-    "bullish": 2,
+    "bullish": 1,
     "neutral": 1,
-    "bearish": 5
+    "bearish": 6
    },
    "supporting": [
+    "killaxbt",
     "tylerdurden",
     "tedpillows",
     "jameslavish",
@@ -600,7 +595,6 @@
     "nolimitgains"
    ],
    "contrarians": [
-    "xapa03",
     "danheld"
    ]
   },
@@ -675,12 +669,12 @@
   "high": 1000000.0
  },
  "daily": {
-  "report_date": "2026-11-22",
-  "generated_at": "2026-11-23T05:02:02.215772+00:00",
+  "report_date": "2026-11-23",
+  "generated_at": "2026-11-23T11:01:37.805970+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-11-22T05:02:02.196157+00:00",
-   "to": "2026-11-23T05:02:02.215772+00:00"
+   "from": "2026-11-22T11:01:37.782081+00:00",
+   "to": "2026-11-23T11:01:37.805970+00:00"
   },
   "key_points": [
    {
@@ -702,29 +696,29 @@
     ]
    },
    {
+    "text": "@tedpillows: $BTC closed the week above the Feb 2026 and July 2026 lows. This looks like a classic liquidity sweep to hunt the last remaining longs.",
+    "ids": [
+     "2124786292928241724"
+    ]
+   },
+   {
     "text": "@tedpillows: $ETH needs to reclaim the $1,750 support zone soon. Otherwise, Ethereum could also drop to a new low just like Bitcoin.",
     "ids": [
      "2124459768391647572"
     ]
-   },
-   {
-    "text": "@tedpillows: Bitcoin is about to confirm its 2W bullish divergence. Last time it happened was in November 2022, right around the Bitcoin cycle bottom.",
-    "ids": [
-     "2124437963698319586"
-    ]
    }
   ],
   "sections": {
-   "TOP_DEVELOPMENTS": "@jameslavish: What is “fiscal dominance?” *TREASURY SECRETARY BESSENT WARNED THAT THE FEDERAL RESERVE RISKS JEOPARDIZING THE US ECONOMY BY OVERTIGHTENING IN RESPONSE TO LATEST INFLATION DATA:… · @tedpillows: $BTC is back above $60,000. A weekly close above $60K would start forming a similar structure like June 2026. In that case, the likelihood of a cycle bottom will go up. · @zerohedge: Watch: Second Ship Explodes In Suspected Ukrainian Sea Drone Attack On Libyan Port",
-   "BTC_OUTLOOK": "Stimmung 62 % bärisch (8/12 Accounts mit Meinung). Median offener Kursziele $64.000. @tedpillows: $BTC is back above $60,000. A weekly close above $60K would start forming a similar structure like June 2026. In that case, the likelihood of a cycle bottom will go up.",
+   "TOP_DEVELOPMENTS": "@jameslavish: What is “fiscal dominance?” *TREASURY SECRETARY BESSENT WARNED THAT THE FEDERAL RESERVE RISKS JEOPARDIZING THE US ECONOMY BY OVERTIGHTENING IN RESPONSE TO LATEST INFLATION DATA:… · @tedpillows: $BTC is back above $60,000. A weekly close above $60K would start forming a similar structure like June 2026. In that case, the likelihood of a cycle bottom will go up. · @osint613: Novoshakhtinsk refinery in Russia's Rostov region knocked offline by Ukrainian drones and missiles. Media Novoshakhtinsk oil refinery in Rostov, Russia, is burning after an…",
+   "BTC_OUTLOOK": "Stimmung 75 % bärisch (8/12 Accounts mit Meinung). Median offener Kursziele $64.000. @tedpillows: $BTC is back above $60,000. A weekly close above $60K would start forming a similar structure like June 2026. In that case, the likelihood of a cycle bottom will go up.",
    "MACRO_OUTLOOK": "@jameslavish: What is “fiscal dominance?” *TREASURY SECRETARY BESSENT WARNED THAT THE FEDERAL RESERVE RISKS JEOPARDIZING THE US ECONOMY BY OVERTIGHTENING IN RESPONSE TO LATEST INFLATION DATA:… · @nolimitgains: January: everyone buying gold because \"the dollar is dying\" November: the dollar is at its highest level in over a year and gold just hit a 13-month low lol",
-   "GLOBAL_LIQUIDITY": "Keine relevanten Aussagen.",
+   "GLOBAL_LIQUIDITY": "@tedpillows: $BTC closed the week above the Feb 2026 and July 2026 lows. This looks like a classic liquidity sweep to hunt the last remaining longs.",
    "FED_RATES": "@jameslavish: What is “fiscal dominance?” *TREASURY SECRETARY BESSENT WARNED THAT THE FEDERAL RESERVE RISKS JEOPARDIZING THE US ECONOMY BY OVERTIGHTENING IN RESPONSE TO LATEST INFLATION DATA:… · @zerohedge: Watch: Second Ship Explodes In Suspected Ukrainian Sea Drone Attack On Libyan Port",
    "DXY_TREASURIES": "@jameslavish: What is “fiscal dominance?” *TREASURY SECRETARY BESSENT WARNED THAT THE FEDERAL RESERVE RISKS JEOPARDIZING THE US ECONOMY BY OVERTIGHTENING IN RESPONSE TO LATEST INFLATION DATA:… · @nolimitgains: January: everyone buying gold because \"the dollar is dying\" November: the dollar is at its highest level in over a year and gold just hit a 13-month low lol",
    "GOLD": "@nolimitgains: January: everyone buying gold because \"the dollar is dying\" November: the dollar is at its highest level in over a year and gold just hit a 13-month low lol",
-   "GEOPOLITICS": "@zerohedge: Watch: Second Ship Explodes In Suspected Ukrainian Sea Drone Attack On Libyan Port",
-   "CONSENSUS": "BTC: 62 % bärisch (5/8) · Liquidität: 67 % expandierend (6/9) · Fed: 43 % lockernd (3/7) · Geopolitik-Risiko: 100 % erhöht (8/8)",
-   "CONTRARIAN": "@xapa03 (BTC bullisch): BTC/M2 has opened our eyes.\n\nMeasuring Bitcoin against its monetary expansion metric is far more accurate that measuring · @danheld (BTC bullisch): Bitcoin has a 99.98% uptime:\n\n\n\nHigher than Google\n\nHigher than Amazon\n\nHigher than Facebook\n\nHigher than the US Governm · @tedpillows (Liquidität schrumpfend): I know this sounds strange, but I'm hoping the stock market will dump further (and yes I own a lot of stocks so I also f · @timevalueofbtc (Liquidität schrumpfend): Here is the paradox about bitcoin.\n\n\n\nIt looks like the worst asset in the world when liquidity falls. But when stocks r"
+   "GEOPOLITICS": "@osint613: Novoshakhtinsk refinery in Russia's Rostov region knocked offline by Ukrainian drones and missiles. Media Novoshakhtinsk oil refinery in Rostov, Russia, is burning after an… · @zerohedge: Watch: Second Ship Explodes In Suspected Ukrainian Sea Drone Attack On Libyan Port",
+   "CONSENSUS": "BTC: 75 % bärisch (6/8) · Liquidität: 67 % expandierend (6/9) · Fed: 43 % lockernd (3/7) · Geopolitik-Risiko: 100 % erhöht (8/8)",
+   "CONTRARIAN": "@danheld (BTC bullisch): Bitcoin has a 99.98% uptime:\n\n\n\nHigher than Google\n\nHigher than Amazon\n\nHigher than Facebook\n\nHigher than the US Governm · @tedpillows (Liquidität schrumpfend): I know this sounds strange, but I'm hoping the stock market will dump further (and yes I own a lot of stocks so I also f · @timevalueofbtc (Liquidität schrumpfend): Here is the paradox about bitcoin.\n\n\n\nIt looks like the worst asset in the world when liquidity falls. But when stocks r · @tedpillows (Fed straffend): No bueno.\nFED'S COOK CALLS FOR TIGHTER MONETARY POLICY, WARNS INFLATION RISKS ARE GROWING Federal Reserve Governor Lisa "
   },
   "new_predictions": [],
   "updated_predictions": [],
@@ -746,152 +740,59 @@
    }
   ],
   "since_morning": {
-   "since": "2026-11-22T06:00:00+00:00",
-   "relevant_posts": 11,
+   "since": "2026-11-23T06:00:00+00:00",
+   "relevant_posts": 3,
    "consensus_shifts": [],
    "new_predictions": 0,
    "posts": [
     {
-     "account": "zerohedge",
-     "tweet_id": "2124618032748089594",
-     "timestamp": "2026-11-22T21:36:27+00:00",
-     "relevance": 70,
-     "summary": "Watch: Second Ship Explodes In Suspected Ukrainian Sea Drone Attack On Libyan Port",
+     "account": "osint613",
+     "tweet_id": "2124814211683430495",
+     "timestamp": "2026-11-23T10:35:59+00:00",
+     "relevance": 72,
+     "summary": "Novoshakhtinsk refinery in Russia's Rostov region knocked offline by Ukrainian drones and missiles. Media Novoshakhtinsk oil refinery in Rostov, Russia, is burning after an…",
      "categories": [
-      "FED",
+      "ENERGY",
       "GEOPOLITICS",
       "WAR"
      ],
-     "url": "https://x.com/zerohedge/status/2124618032748089594"
-    },
-    {
-     "account": "jameslavish",
-     "tweet_id": "2124613254337192153",
-     "timestamp": "2026-11-22T21:17:27+00:00",
-     "relevance": 100,
-     "summary": "What is “fiscal dominance?” *TREASURY SECRETARY BESSENT WARNED THAT THE FEDERAL RESERVE RISKS JEOPARDIZING THE US ECONOMY BY OVERTIGHTENING IN RESPONSE TO LATEST INFLATION DATA:…",
-     "categories": [
-      "FED",
-      "INFLATION",
-      "US_TREASURIES"
-     ],
-     "url": "https://x.com/jameslavish/status/2124613254337192153"
+     "url": "https://x.com/osint613/status/2124814211683430495"
     },
     {
      "account": "tedpillows",
-     "tweet_id": "2124556857746575549",
-     "timestamp": "2026-11-22T17:33:21+00:00",
-     "relevance": 70,
-     "summary": "Monday has been the 2nd best performing day for Bitcoin over the last 3 months. Is a pump coming tomorrow?",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/tedpillows/status/2124556857746575549"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2124529336011411520",
-     "timestamp": "2026-11-22T15:44:00+00:00",
-     "relevance": 62,
-     "summary": "Bitcoin supply in loss is now at its highest level in history. Peak Capitulation.",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/tedpillows/status/2124529336011411520"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2124516463000043843",
-     "timestamp": "2026-11-22T14:52:51+00:00",
-     "relevance": 70,
-     "summary": "Will you long or short this $BTC chart?",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/tedpillows/status/2124516463000043843"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2124496423131516979",
-     "timestamp": "2026-11-22T13:33:13+00:00",
-     "relevance": 70,
-     "summary": "Abraxas Capital has bought $1,000,000,000 in $BTC over the past 48 hours. Huge Accumulation.",
-     "categories": [
-      "BITCOIN"
-     ],
-     "url": "https://x.com/tedpillows/status/2124496423131516979"
-    },
-    {
-     "account": "nolimitgains",
-     "tweet_id": "2124472983947252132",
-     "timestamp": "2026-11-22T12:00:04+00:00",
-     "relevance": 64,
-     "summary": "January: everyone buying gold because \"the dollar is dying\" November: the dollar is at its highest level in over a year and gold just hit a 13-month low lol",
-     "categories": [
-      "DXY",
-      "GOLD"
-     ],
-     "url": "https://x.com/nolimitgains/status/2124472983947252132"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2124465666787024933",
-     "timestamp": "2026-11-22T11:31:00+00:00",
-     "relevance": 84,
-     "summary": "$BTC is back above $60,000. A weekly close above $60K would start forming a similar structure like June 2026. In that case, the likelihood of a cycle bottom will go up.",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/tedpillows/status/2124465666787024933"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2124459768391647572",
-     "timestamp": "2026-11-22T11:07:33+00:00",
+     "tweet_id": "2124786292928241724",
+     "timestamp": "2026-11-23T08:45:03+00:00",
      "relevance": 78,
-     "summary": "$ETH needs to reclaim the $1,750 support zone soon. Otherwise, Ethereum could also drop to a new low just like Bitcoin.",
+     "summary": "$BTC closed the week above the Feb 2026 and July 2026 lows. This looks like a classic liquidity sweep to hunt the last remaining longs.",
      "categories": [
       "BITCOIN",
-      "BTC_TECHNICAL"
+      "LIQUIDITY"
      ],
-     "url": "https://x.com/tedpillows/status/2124459768391647572"
+     "url": "https://x.com/tedpillows/status/2124786292928241724"
     },
     {
-     "account": "tedpillows",
-     "tweet_id": "2124444692247179565",
-     "timestamp": "2026-11-22T10:07:39+00:00",
-     "relevance": 62,
-     "summary": "$BTC buying happening on Coinbase and Binance now. Let's see if this continues into tomorrow's market open.",
+     "account": "osint613",
+     "tweet_id": "2124779169599180928",
+     "timestamp": "2026-11-23T08:16:45+00:00",
+     "relevance": 63,
+     "summary": "Russian oil facility were hit by Ukrainian drones: The LUKOIL-Permnefteorgsintez refinery in Perm Krai ranks among the largest in Russia. It processes over 13 million tons of…",
      "categories": [
-      "BITCOIN"
+      "ENERGY",
+      "GEOPOLITICS",
+      "WAR"
      ],
-     "url": "https://x.com/tedpillows/status/2124444692247179565"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2124437963698319586",
-     "timestamp": "2026-11-22T09:40:55+00:00",
-     "relevance": 78,
-     "summary": "Bitcoin is about to confirm its 2W bullish divergence. Last time it happened was in November 2022, right around the Bitcoin cycle bottom.",
-     "categories": [
-      "BITCOIN",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/tedpillows/status/2124437963698319586"
+     "url": "https://x.com/osint613/status/2124779169599180928"
     }
    ]
   },
   "stats": {
-   "posts_new": 48,
+   "posts_new": 24,
    "posts_relevant": 3,
    "predictions_new": 0,
    "predictions_updated": 0,
    "invalidated": 0,
-   "posts_analysed": 48,
-   "evaluated": 1
+   "posts_analysed": 24,
+   "evaluated": 0
   }
  }
 }
