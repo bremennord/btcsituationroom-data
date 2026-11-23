@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-11-22T17:09:44.437311+00:00",
- "btc_price": 60837.6,
+ "generated_at": "2026-11-23T05:09:27.100674+00:00",
+ "btc_price": 61078.9,
  "outlook": {
   "BTC": {
    "horizons": {
     "24h": {
-     "label": "neutral / gemischt",
+     "label": "zu wenige Aussagen",
      "counts": {
       "pos": 1,
       "neu": 0,
-      "neg": 1
+      "neg": 0
      },
-     "accounts": 2
+     "accounts": 1
     },
     "3d": {
-     "label": "bärisch",
+     "label": "leicht bärisch",
      "counts": {
-      "pos": 1,
-      "neu": 1,
-      "neg": 5
+      "pos": 2,
+      "neu": 0,
+      "neg": 4
      },
-     "accounts": 7
+     "accounts": 6
     },
     "7d": {
      "label": "leicht bärisch",
@@ -110,45 +110,52 @@
     "24h": {
      "label": "zu wenige Aussagen",
      "counts": {
-      "pos": 1,
+      "pos": 0,
       "neu": 0,
-      "neg": 0
+      "neg": 1
      },
      "accounts": 1
     },
     "3d": {
-     "label": "leicht Risk-On",
+     "label": "neutral / gemischt",
      "counts": {
       "pos": 3,
-      "neu": 1,
-      "neg": 2
+      "neu": 0,
+      "neg": 3
      },
      "accounts": 6
     },
     "7d": {
-     "label": "leicht Risk-On",
+     "label": "neutral / gemischt",
      "counts": {
-      "pos": 5,
-      "neu": 0,
+      "pos": 4,
+      "neu": 1,
       "neg": 3
      },
      "accounts": 8
     }
    },
    "drivers": [
+    "schrumpfende Liquidität (7)",
     "wachsende Liquidität (7)",
-    "Fed restriktiv (7)",
-    "schrumpfende Liquidität (6)"
+    "Fed restriktiv (7)"
    ],
-   "risk": "Anstehende Termine in den Posts: EARNINGS (15×), PCE (1×)",
+   "risk": "Anstehende Termine in den Posts: EARNINGS (17×), PCE (1×)",
    "consensus": {
-    "pos": 5,
-    "neu": 0,
+    "pos": 4,
+    "neu": 1,
     "neg": 3
    },
-   "confidence": "Mittel",
-   "n_posts": 25,
+   "confidence": "Niedrig",
+   "n_posts": 26,
    "sources": [
+    {
+     "account": "jameslavish",
+     "tweet_id": "2124613254337192153",
+     "url": "https://x.com/jameslavish/status/2124613254337192153",
+     "summary": "What is “fiscal dominance?” *TREASURY SECRETARY BESSENT WARNED THAT THE FEDERAL RESERVE RISKS JEOPARDIZING THE US ECONOMY BY OVERTIGHTENING IN RESPONSE TO LATEST INFLATION DATA:…",
+     "timestamp": "2026-11-22T21:17:27+00:00"
+    },
     {
      "account": "nolimitgains",
      "tweet_id": "2124202077228318914",
@@ -197,13 +204,6 @@
      "url": "https://x.com/timevalueofbtc/status/2123217408970330124",
      "summary": "- S&P new lows, below 200 dma - oil new lows, breaking trend - HY ETF new lows - EUR new lows - gold in freefall, new lows markets are in mayhem I noticed after recording this…",
      "timestamp": "2026-11-19T00:50:52+00:00"
-    },
-    {
-     "account": "xapa03",
-     "tweet_id": "2122230623091724537",
-     "url": "https://x.com/xapa03/status/2122230623091724537",
-     "summary": "Good morning. ☕️ If that pattern repeats exactly, we still have one last sweep ahead of us before price heads back toward $70,000 or the bottom is in, the next 3 days will show…",
-     "timestamp": "2026-11-16T07:29:44+00:00"
     }
    ]
   },
@@ -212,20 +212,20 @@
     "24h": {
      "label": "zu wenige Aussagen",
      "counts": {
-      "pos": 1,
+      "pos": 0,
       "neu": 0,
-      "neg": 0
+      "neg": 1
      },
      "accounts": 1
     },
     "3d": {
      "label": "leicht expandierend",
      "counts": {
-      "pos": 3,
-      "neu": 0,
-      "neg": 2
+      "pos": 2,
+      "neu": 1,
+      "neg": 1
      },
-     "accounts": 5
+     "accounts": 4
     },
     "7d": {
      "label": "neutral / gemischt",
@@ -243,8 +243,15 @@
     "neg": 3
    },
    "confidence": "Mittel",
-   "n_posts": 13,
+   "n_posts": 14,
    "sources": [
+    {
+     "account": "jameslavish",
+     "tweet_id": "2124613254337192153",
+     "url": "https://x.com/jameslavish/status/2124613254337192153",
+     "summary": "What is “fiscal dominance?” *TREASURY SECRETARY BESSENT WARNED THAT THE FEDERAL RESERVE RISKS JEOPARDIZING THE US ECONOMY BY OVERTIGHTENING IN RESPONSE TO LATEST INFLATION DATA:…",
+     "timestamp": "2026-11-22T21:17:27+00:00"
+    },
     {
      "account": "nolimitgains",
      "tweet_id": "2124202077228318914",
@@ -293,13 +300,6 @@
      "url": "https://x.com/tedpillows/status/2123650943367500194",
      "summary": "Capitulation. Gold and silver are selling off, alongside $ANT and AI stocks, with seemingly indiscriminate selling across the board. This is starting to look less like a sector…",
      "timestamp": "2026-11-20T05:33:35+00:00"
-    },
-    {
-     "account": "timevalueofbtc",
-     "tweet_id": "2123612981376536636",
-     "url": "https://x.com/timevalueofbtc/status/2123612981376536636",
-     "summary": "Here is the paradox about bitcoin. It looks like the worst asset in the world when liquidity falls. But when stocks really start to dump, those in power get SCARED, because…",
-     "timestamp": "2026-11-20T03:02:44+00:00"
     }
    ]
   },
@@ -308,7 +308,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 40,
+     "posts": 41,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -318,7 +318,7 @@
     },
     {
      "name": "Russland / Ukraine",
-     "posts": 15,
+     "posts": 16,
      "impact": [
       "Energie ↑",
       "Europa-Risiko ↑",
@@ -326,7 +326,7 @@
      ]
     }
    ],
-   "n_posts": 70,
+   "n_posts": 67,
    "sources": [
     {
      "account": "killaxbt",
@@ -334,13 +334,6 @@
      "url": "https://x.com/killaxbt/status/2123822628162974124",
      "summary": "You’ve got mfs going around claiming this drop was predictable and expected. Fuck off, was it? You’re telling me Bitcoin rallied 50% from what looked like a textbook bottoming…",
      "timestamp": "2026-11-20T16:55:47+00:00"
-    },
-    {
-     "account": "timevalueofbtc",
-     "tweet_id": "2123612981376536636",
-     "url": "https://x.com/timevalueofbtc/status/2123612981376536636",
-     "summary": "Here is the paradox about bitcoin. It looks like the worst asset in the world when liquidity falls. But when stocks really start to dump, those in power get SCARED, because…",
-     "timestamp": "2026-11-20T03:02:44+00:00"
     },
     {
      "account": "osint613",
@@ -355,6 +348,13 @@
      "url": "https://x.com/osint613/status/2124215181962358905",
      "summary": "The editor of Iran's Kayhan newspaper, widely seen as a mouthpiece of the regime, called today for attacks on the oil and gas infrastructure of U.S. allies in the Persian Gulf to…",
      "timestamp": "2026-11-21T18:55:40+00:00"
+    },
+    {
+     "account": "zerohedge",
+     "tweet_id": "2124618032748089594",
+     "url": "https://x.com/zerohedge/status/2124618032748089594",
+     "summary": "Watch: Second Ship Explodes In Suspected Ukrainian Sea Drone Attack On Libyan Port",
+     "timestamp": "2026-11-22T21:36:27+00:00"
     },
     {
      "account": "nolimitgains",
@@ -389,18 +389,35 @@
   }
  },
  "changed": {
-  "since": "2026-11-22T11:12:09.017942+00:00",
-  "new": [],
+  "since": "2026-11-22T17:09:54.300551+00:00",
+  "new": [
+   {
+    "account": "jameslavish",
+    "text": "What is “fiscal dominance?” *TREASURY SECRETARY BESSENT WARNED THAT THE FEDERAL RESERVE RISKS JEOPARDIZING THE US ECONOMY BY OVERTIGHTENING IN RESPONSE TO LATEST INFLATION DATA:…",
+    "url": "https://x.com/jameslavish/status/2124613254337192153"
+   }
+  ],
   "changed": [],
-  "new_consensus": [],
+  "new_consensus": [
+   "Makro: leicht Risk-On → neutral / gemischt"
+  ],
   "no_change": [
    "Bitcoin bleibt leicht bärisch",
-   "Makro bleibt leicht Risk-On",
-   "Liquidität bleibt neutral / gemischt",
-   "Geopolitisches Risiko bleibt Hoch"
+   "Liquidität bleibt neutral / gemischt"
   ]
  },
  "important_posts": [
+  {
+   "account": "jameslavish",
+   "tweet_id": "2124613254337192153",
+   "url": "https://x.com/jameslavish/status/2124613254337192153",
+   "summary": "What is “fiscal dominance?” *TREASURY SECRETARY BESSENT WARNED THAT THE FEDERAL RESERVE RISKS JEOPARDIZING THE US ECONOMY BY OVERTIGHTENING IN RESPONSE TO LATEST INFLATION DATA:…",
+   "timestamp": "2026-11-22T21:17:27+00:00",
+   "category": "FED",
+   "relevance": 100,
+   "text": "What is “fiscal dominance?”\n*TREASURY SECRETARY BESSENT WARNED THAT THE FEDERAL RESERVE RISKS JEOPARDIZING THE US ECONOMY BY OVERTIGHTENING IN RESPONSE TO LATEST INFLATION DATA: BBG",
+   "why": "Liquidität schrumpft"
+  },
   {
    "account": "xapa03",
    "tweet_id": "2124275717701779679",
@@ -477,17 +494,6 @@
    "relevance": 100,
    "text": "How the hell is this possible?\n\n\n\nOn 19th November, CoinmarketCap, which is owned by Binance, sent a notification of $57,000 BTC.\n\n\n\nBitcoin was trading at $64K at that time, and since then it's been going down only.\n\n\n\nJust a few minutes ago, $BTC also hit sub-$57K, exactly like the CMC alert.\n\n\n\nWe are really in a simulation.",
    "why": "Ändert eine frühere Prognose dieses Accounts"
-  },
-  {
-   "account": "killaxbt",
-   "tweet_id": "2123849425499939091",
-   "url": "https://x.com/killaxbt/status/2123849425499939091",
-   "summary": "Honestly, it’s starting to look like $BTC didn’t retrace the entire move from 87K just to bounce from 57K again. The 3 drive pattern is still possible, but beyond that, it’s hard…",
-   "timestamp": "2026-11-20T18:42:16+00:00",
-   "category": "BITCOIN",
-   "relevance": 100,
-   "text": "Honestly, it’s starting to look like $BTC didn’t retrace the entire move from 87K just to bounce from 57K again.\n\n\n\nThe 3 drive pattern is still possible, but beyond that, it’s hard to look at this chart and expect the same lows to hold again.\n\n\n\nWe might finally get that liquidation wick to 48-52s. \n\n\n\nPainful to admit as I'm in spot from 68K & I still have my 2x long from 62.6K, but it is what it is.\n\nBREAKING: Our",
-   "why": "Konkrete Prognose: BTC DOWN $55.000 (this year)"
   }
  ],
  "top_predictions": [
@@ -536,22 +542,22 @@
    "evidence": "I don't see BTC going lower than 46K personally, meaning that the bear market true bottom should be relatively close."
   },
   {
-   "account": "nolimitgains",
-   "label": "BTC RANGE $50.000–60.000",
-   "url": "https://x.com/nolimitgains/status/2124051890338206065",
+   "account": "danheld",
+   "label": "BTC UP $1.000.000",
+   "url": "https://x.com/danheld/status/2117298145818186002",
    "deadline": null,
    "time_horizon": null,
-   "prediction_date": "2026-11-21T08:06:48+00:00",
-   "distance_pct": -10.1,
-   "conditions": null,
-   "evidence": "Bitcoin will go down to $50k - $60k One capitulation candle to ~$40k ETH will make a low of $1200 XRP?"
+   "prediction_date": "2026-11-02T16:49:50+00:00",
+   "distance_pct": 1534.8,
+   "conditions": "If everyone in the world understood Bitcoin",
+   "evidence": "If everyone in the world understood Bitcoin, and the current macro environment, then the price would be $1M-$10M per Bitcoin."
   }
  ],
  "contrarian": [
   {
    "topic": "BTC",
    "main": "bearish",
-   "main_share": 75,
+   "main_share": 62,
    "account": "xapa03",
    "stance": "bullish",
    "text": "BTC/M2 has opened our eyes.\n\nMeasuring Bitcoin against its monetary expansion metric is far more accurate that measuring BTC against a highly implied volatile USD fiat currency. \n\n\n\nSheriff's put a pe",
@@ -560,7 +566,7 @@
   {
    "topic": "BTC",
    "main": "bearish",
-   "main_share": 75,
+   "main_share": 62,
    "account": "danheld",
    "stance": "bullish",
    "text": "Bitcoin has a 99.98% uptime:\n\n\n\nHigher than Google\n\nHigher than Amazon\n\nHigher than Facebook\n\nHigher than the US Government\n\n\n\nGood luck trying to stop it.",
@@ -579,15 +585,14 @@
  "consensus_21d": {
   "BTC": {
    "majority": "bearish",
-   "score": 75,
+   "score": 62,
    "n": 8,
    "counts": {
     "bullish": 2,
-    "neutral": 0,
-    "bearish": 6
+    "neutral": 1,
+    "bearish": 5
    },
    "supporting": [
-    "killaxbt",
     "tylerdurden",
     "tedpillows",
     "jameslavish",
@@ -664,18 +669,18 @@
   }
  },
  "btc_targets": {
-  "count": 4,
+  "count": 3,
   "median": 64000.0,
   "low": 46000.0,
   "high": 1000000.0
  },
  "daily": {
   "report_date": "2026-11-22",
-  "generated_at": "2026-11-22T17:01:43.313897+00:00",
+  "generated_at": "2026-11-23T05:02:02.215772+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-11-21T17:01:43.158682+00:00",
-   "to": "2026-11-22T17:01:43.313897+00:00"
+   "from": "2026-11-22T05:02:02.196157+00:00",
+   "to": "2026-11-23T05:02:02.215772+00:00"
   },
   "key_points": [
    {
@@ -685,15 +690,9 @@
     ]
    },
    {
-    "text": "Neue BTC-Prognose von @xapa03: BTC DOWN (soon)",
+    "text": "@jameslavish: What is “fiscal dominance?” *TREASURY SECRETARY BESSENT WARNED THAT THE FEDERAL RESERVE RISKS JEOPARDIZING THE US ECONOMY BY OVERTIGHTENING IN RESPONSE TO LATEST INFLATION DATA:…",
     "ids": [
-     "2124275717701779679"
-    ]
-   },
-   {
-    "text": "@killaxbt: $BTC has reclaimed the 57.7K low. However, we are not out the woods yet on the LTF. We were bound to get some buyers step in around this area. Below the range is usually where you…",
-    "ids": [
-     "2124223253019332708"
+     "2124613254337192153"
     ]
    },
    {
@@ -707,85 +706,27 @@
     "ids": [
      "2124459768391647572"
     ]
+   },
+   {
+    "text": "@tedpillows: Bitcoin is about to confirm its 2W bullish divergence. Last time it happened was in November 2022, right around the Bitcoin cycle bottom.",
+    "ids": [
+     "2124437963698319586"
+    ]
    }
   ],
   "sections": {
-   "TOP_DEVELOPMENTS": "@xapa03: BTC/M2 has opened our eyes. Measuring Bitcoin against its monetary expansion metric is far more accurate that measuring BTC against a highly implied volatile USD fiat currency.… · @killaxbt: $BTC has reclaimed the 57.7K low. However, we are not out the woods yet on the LTF. We were bound to get some buyers step in around this area. Below the range is usually where you… · @nolimitgains: The S&P 500 just had its worst week since April 2025. The Nasdaq had its worst week since March 2020. Nvidia fell 14% in a single day. And I'm not panicking. Here's what's really…",
-   "BTC_OUTLOOK": "Stimmung 75 % bärisch (8/12 Accounts mit Meinung). Median offener Kursziele $64.000. @xapa03: BTC/M2 has opened our eyes. Measuring Bitcoin against its monetary expansion metric is far more accurate that measuring BTC against a highly implied volatile USD fiat currency.… · @killaxbt: $BTC has reclaimed the 57.7K low. However, we are not out the woods yet on the LTF. We were bound to get some buyers step in around this area. Below the range is usually where you… · @tedpillows: $BTC is back above $60,000. A weekly close above $60K would start forming a similar structure like June 2026. In that case, the likelihood of a cycle bottom will go up.",
-   "MACRO_OUTLOOK": "@nolimitgains: The S&P 500 just had its worst week since April 2025. The Nasdaq had its worst week since March 2020. Nvidia fell 14% in a single day. And I'm not panicking. Here's what's really…",
-   "GLOBAL_LIQUIDITY": "@xapa03: BTC/M2 has opened our eyes. Measuring Bitcoin against its monetary expansion metric is far more accurate that measuring BTC against a highly implied volatile USD fiat currency.…",
-   "FED_RATES": "@nolimitgains: The S&P 500 just had its worst week since April 2025. The Nasdaq had its worst week since March 2020. Nvidia fell 14% in a single day. And I'm not panicking. Here's what's really…",
-   "DXY_TREASURIES": "@xapa03: BTC/M2 has opened our eyes. Measuring Bitcoin against its monetary expansion metric is far more accurate that measuring BTC against a highly implied volatile USD fiat currency.… · @nolimitgains: January: everyone buying gold because \"the dollar is dying\" November: the dollar is at its highest level in over a year and gold just hit a 13-month low lol",
+   "TOP_DEVELOPMENTS": "@jameslavish: What is “fiscal dominance?” *TREASURY SECRETARY BESSENT WARNED THAT THE FEDERAL RESERVE RISKS JEOPARDIZING THE US ECONOMY BY OVERTIGHTENING IN RESPONSE TO LATEST INFLATION DATA:… · @tedpillows: $BTC is back above $60,000. A weekly close above $60K would start forming a similar structure like June 2026. In that case, the likelihood of a cycle bottom will go up. · @zerohedge: Watch: Second Ship Explodes In Suspected Ukrainian Sea Drone Attack On Libyan Port",
+   "BTC_OUTLOOK": "Stimmung 62 % bärisch (8/12 Accounts mit Meinung). Median offener Kursziele $64.000. @tedpillows: $BTC is back above $60,000. A weekly close above $60K would start forming a similar structure like June 2026. In that case, the likelihood of a cycle bottom will go up.",
+   "MACRO_OUTLOOK": "@jameslavish: What is “fiscal dominance?” *TREASURY SECRETARY BESSENT WARNED THAT THE FEDERAL RESERVE RISKS JEOPARDIZING THE US ECONOMY BY OVERTIGHTENING IN RESPONSE TO LATEST INFLATION DATA:… · @nolimitgains: January: everyone buying gold because \"the dollar is dying\" November: the dollar is at its highest level in over a year and gold just hit a 13-month low lol",
+   "GLOBAL_LIQUIDITY": "Keine relevanten Aussagen.",
+   "FED_RATES": "@jameslavish: What is “fiscal dominance?” *TREASURY SECRETARY BESSENT WARNED THAT THE FEDERAL RESERVE RISKS JEOPARDIZING THE US ECONOMY BY OVERTIGHTENING IN RESPONSE TO LATEST INFLATION DATA:… · @zerohedge: Watch: Second Ship Explodes In Suspected Ukrainian Sea Drone Attack On Libyan Port",
+   "DXY_TREASURIES": "@jameslavish: What is “fiscal dominance?” *TREASURY SECRETARY BESSENT WARNED THAT THE FEDERAL RESERVE RISKS JEOPARDIZING THE US ECONOMY BY OVERTIGHTENING IN RESPONSE TO LATEST INFLATION DATA:… · @nolimitgains: January: everyone buying gold because \"the dollar is dying\" November: the dollar is at its highest level in over a year and gold just hit a 13-month low lol",
    "GOLD": "@nolimitgains: January: everyone buying gold because \"the dollar is dying\" November: the dollar is at its highest level in over a year and gold just hit a 13-month low lol",
-   "GEOPOLITICS": "@osint613: The editor of Iran's Kayhan newspaper, widely seen as a mouthpiece of the regime, called today for attacks on the oil and gas infrastructure of U.S. allies in the Persian Gulf to…",
-   "CONSENSUS": "BTC: 75 % bärisch (6/8) · Liquidität: 67 % expandierend (6/9) · Fed: 43 % lockernd (3/7) · Geopolitik-Risiko: 100 % erhöht (8/8)",
+   "GEOPOLITICS": "@zerohedge: Watch: Second Ship Explodes In Suspected Ukrainian Sea Drone Attack On Libyan Port",
+   "CONSENSUS": "BTC: 62 % bärisch (5/8) · Liquidität: 67 % expandierend (6/9) · Fed: 43 % lockernd (3/7) · Geopolitik-Risiko: 100 % erhöht (8/8)",
    "CONTRARIAN": "@xapa03 (BTC bullisch): BTC/M2 has opened our eyes.\n\nMeasuring Bitcoin against its monetary expansion metric is far more accurate that measuring · @danheld (BTC bullisch): Bitcoin has a 99.98% uptime:\n\n\n\nHigher than Google\n\nHigher than Amazon\n\nHigher than Facebook\n\nHigher than the US Governm · @tedpillows (Liquidität schrumpfend): I know this sounds strange, but I'm hoping the stock market will dump further (and yes I own a lot of stocks so I also f · @timevalueofbtc (Liquidität schrumpfend): Here is the paradox about bitcoin.\n\n\n\nIt looks like the worst asset in the world when liquidity falls. But when stocks r"
   },
-  "new_predictions": [
-   {
-    "id": 177,
-    "account": "xapa03",
-    "tweet_id": "2124275717701779679",
-    "prediction_date": "2026-11-21T22:56:12+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "DIRECTION",
-    "direction": "DOWN",
-    "target": null,
-    "target_low": null,
-    "target_high": null,
-    "deadline": null,
-    "time_horizon": "soon",
-    "conditions": null,
-    "status": "OPEN",
-    "status_note": null,
-    "btc_price_when_prediction_made": 60088.6,
-    "evidence": "It won't last forever\n🚨BREAKING NEWS: The Bitcoin Cycle Bottom phase comes to an end - we are in the final stage of the bear market and we will soon enter into a regime change in $BTC.🚨 On June 29th I predicted that the bear market bottom was in and the switch to the bull market might just be aroun…",
-    "label": "BTC DOWN (soon)",
-    "url": "https://x.com/xapa03/status/2124275717701779679"
-   },
-   {
-    "id": 176,
-    "account": "killaxbt",
-    "tweet_id": "2124223253019332708",
-    "prediction_date": "2026-11-21T19:27:44+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "DOWN",
-    "target": 46000.0,
-    "target_low": null,
-    "target_high": null,
-    "deadline": null,
-    "time_horizon": null,
-    "conditions": null,
-    "status": "OPEN",
-    "status_note": null,
-    "btc_price_when_prediction_made": 60088.6,
-    "evidence": "I don't see BTC going lower than 46K personally, meaning that the bear market true bottom should be relatively close.",
-    "label": "BTC DOWN $46.000",
-    "url": "https://x.com/killaxbt/status/2124223253019332708"
-   },
-   {
-    "id": 175,
-    "account": "nolimitgains",
-    "tweet_id": "2124202077228318914",
-    "prediction_date": "2026-11-21T18:03:35+00:00",
-    "asset_or_metric": "FED_FUNDS",
-    "prediction_type": "RATE_FORECAST",
-    "direction": "HIKE",
-    "target": null,
-    "target_low": null,
-    "target_high": null,
-    "deadline": "2026-12-31T23:59:59+00:00",
-    "time_horizon": "in December",
-    "conditions": null,
-    "status": "OPEN",
-    "status_note": null,
-    "btc_price_when_prediction_made": 60088.6,
-    "evidence": "One Fed governor even said they might need to \"shock people\" with a half-point hike in December, and JPMorgan now expects hikes at the next three meetings.",
-    "label": "FED_FUNDS HIKE (in December)",
-    "url": "https://x.com/nolimitgains/status/2124202077228318914"
-   }
-  ],
+  "new_predictions": [],
   "updated_predictions": [],
   "invalidated_predictions": [],
   "thesis_changes": [
@@ -806,10 +747,47 @@
   ],
   "since_morning": {
    "since": "2026-11-22T06:00:00+00:00",
-   "relevant_posts": 8,
+   "relevant_posts": 11,
    "consensus_shifts": [],
    "new_predictions": 0,
    "posts": [
+    {
+     "account": "zerohedge",
+     "tweet_id": "2124618032748089594",
+     "timestamp": "2026-11-22T21:36:27+00:00",
+     "relevance": 70,
+     "summary": "Watch: Second Ship Explodes In Suspected Ukrainian Sea Drone Attack On Libyan Port",
+     "categories": [
+      "FED",
+      "GEOPOLITICS",
+      "WAR"
+     ],
+     "url": "https://x.com/zerohedge/status/2124618032748089594"
+    },
+    {
+     "account": "jameslavish",
+     "tweet_id": "2124613254337192153",
+     "timestamp": "2026-11-22T21:17:27+00:00",
+     "relevance": 100,
+     "summary": "What is “fiscal dominance?” *TREASURY SECRETARY BESSENT WARNED THAT THE FEDERAL RESERVE RISKS JEOPARDIZING THE US ECONOMY BY OVERTIGHTENING IN RESPONSE TO LATEST INFLATION DATA:…",
+     "categories": [
+      "FED",
+      "INFLATION",
+      "US_TREASURIES"
+     ],
+     "url": "https://x.com/jameslavish/status/2124613254337192153"
+    },
+    {
+     "account": "tedpillows",
+     "tweet_id": "2124556857746575549",
+     "timestamp": "2026-11-22T17:33:21+00:00",
+     "relevance": 70,
+     "summary": "Monday has been the 2nd best performing day for Bitcoin over the last 3 months. Is a pump coming tomorrow?",
+     "categories": [
+      "BITCOIN"
+     ],
+     "url": "https://x.com/tedpillows/status/2124556857746575549"
+    },
     {
      "account": "tedpillows",
      "tweet_id": "2124529336011411520",
@@ -907,13 +885,13 @@
    ]
   },
   "stats": {
-   "posts_new": 29,
-   "posts_relevant": 8,
+   "posts_new": 48,
+   "posts_relevant": 3,
    "predictions_new": 0,
    "predictions_updated": 0,
    "invalidated": 0,
-   "posts_analysed": 29,
-   "evaluated": 0
+   "posts_analysed": 48,
+   "evaluated": 1
   }
  }
 }
