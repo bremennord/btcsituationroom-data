@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-11-24T11:06:08.046815+00:00",
+ "generated_at": "2026-11-24T17:02:08.063575+00:00",
  "accounts": [
   {
    "handle": "killaxbt",
    "display_name": "Killa",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-11-24T05:01:47.444580+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-11-24T17:01:46.751754+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
      "stance": "bullish",
-     "posts": 38,
+     "posts": 40,
      "last": {
-      "tweet_id": "2125009364272517363",
-      "text": "Literally the same thing happening again, shorts piling in near the lows.\n\n\n\nWouldn’t be surprised to see $BTC wick fill to hunt liquidity and force some of these bottom shorters to capitulate.\n\n$BTC shorts aped into the",
-      "url": "https://x.com/killaxbt/status/2125009364272517363",
-      "timestamp": "2026-11-23T23:31:27+00:00"
+      "tweet_id": "2125194037254594590",
+      "text": "Unfortunately, $BTC is too weak to punish shorts right now.\n\n\n\nThe move up was driven largely by short covering/perps.\n\n\n\nNow, after this recent 7% drop, shorts are aggressively adding as price falls. The lack of spot bi",
+      "url": "https://x.com/killaxbt/status/2125194037254594590",
+      "timestamp": "2026-11-24T11:45:17+00:00"
      }
     },
     "LIQUIDITY": {
@@ -94,7 +94,7 @@
      "url": "https://x.com/killaxbt/status/2124934757826048087",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": 111.0,
+     "distance_to_target_pct": 112.3,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -123,7 +123,7 @@
      "url": "https://x.com/killaxbt/status/2124862531764445202",
      "verifiable": true,
      "resolved_at": "2026-11-23T18:35:00+00:00",
-     "distance_to_target_pct": 6.3,
+     "distance_to_target_pct": 7.0,
      "updated_by": null,
      "updates": 178,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -150,7 +150,7 @@
      "url": "https://x.com/killaxbt/status/2124576899401748506",
      "verifiable": true,
      "resolved_at": "2026-11-23T13:48:00+00:00",
-     "distance_to_target_pct": 17.2,
+     "distance_to_target_pct": 17.9,
      "updated_by": 184,
      "updates": 176,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -177,7 +177,7 @@
      "url": "https://x.com/killaxbt/status/2124223253019332708",
      "verifiable": true,
      "resolved_at": "2026-11-22T18:53:00+00:00",
-     "distance_to_target_pct": -23.0,
+     "distance_to_target_pct": -22.5,
      "updated_by": 178,
      "updates": null,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED,CONDITION_CHANGED"
@@ -204,7 +204,7 @@
      "url": "https://x.com/killaxbt/status/2123849425499939091",
      "verifiable": true,
      "resolved_at": "2026-11-21T03:48:18+00:00",
-     "distance_to_target_pct": -7.9,
+     "distance_to_target_pct": -7.3,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -231,7 +231,7 @@
      "url": "https://x.com/killaxbt/status/2123822628162974124",
      "verifiable": true,
      "resolved_at": "2026-11-20T17:38:28+00:00",
-     "distance_to_target_pct": 111.0,
+     "distance_to_target_pct": 112.3,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -258,7 +258,7 @@
      "url": "https://x.com/killaxbt/status/2123544690343510223",
      "verifiable": true,
      "resolved_at": "2026-11-20T16:55:47+00:00",
-     "distance_to_target_pct": 0.5,
+     "distance_to_target_pct": 1.1,
      "updated_by": null,
      "updates": 158,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -285,7 +285,7 @@
      "url": "https://x.com/killaxbt/status/2122425461439598758",
      "verifiable": true,
      "resolved_at": "2026-11-19T22:31:22+00:00",
-     "distance_to_target_pct": 111.5,
+     "distance_to_target_pct": 112.8,
      "updated_by": 161,
      "updates": null,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -312,7 +312,7 @@
      "url": "https://x.com/killaxbt/status/2121729604805185566",
      "verifiable": true,
      "resolved_at": "2026-11-15T17:02:03.755731+00:00",
-     "distance_to_target_pct": -6.2,
+     "distance_to_target_pct": -5.6,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -339,7 +339,7 @@
      "url": "https://x.com/killaxbt/status/2120889950556061803",
      "verifiable": true,
      "resolved_at": "2026-11-12T19:38:05+00:00",
-     "distance_to_target_pct": 26.4,
+     "distance_to_target_pct": 27.2,
      "updated_by": null,
      "updates": 145,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED,CONDITION_CHANGED"
@@ -366,7 +366,7 @@
      "url": "https://x.com/killaxbt/status/2120667900235419859",
      "verifiable": true,
      "resolved_at": "2026-11-12T14:42:23+00:00",
-     "distance_to_target_pct": -16.3,
+     "distance_to_target_pct": -15.8,
      "updated_by": null,
      "updates": 143,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -405,19 +405,19 @@
    "handle": "xapa03",
    "display_name": "XAPA",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-11-23T17:01:54.133315+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-11-24T17:01:46.751754+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
      "stance": "bullish",
-     "posts": 28,
+     "posts": 30,
      "last": {
-      "tweet_id": "2124887288706736465",
-      "text": "If Bitcoin is able to reclaim Tenkan-Sen, we are about to see a huge pump.\n\nWill the history repeat?\n\nActually it feels like the Bull Run is back.\n\nI am prepared for the bull run, are you?\n\nIchimoku Cycle Engine called t",
-      "url": "https://x.com/xapa03/status/2124887288706736465",
-      "timestamp": "2026-11-23T15:26:22+00:00"
+      "tweet_id": "2125180517544808959",
+      "text": "Good morning ☕️\n\n\n\nIn 2017, Bitcoin reached its peak and subsequently entered the bear market.\n\nBitcoin found its bottom, pumped nearly 30% below the previous all-time high, and then in 2020 fell rapidly due to the COVID",
+      "url": "https://x.com/xapa03/status/2125180517544808959",
+      "timestamp": "2026-11-24T10:51:33+00:00"
      }
     },
     "LIQUIDITY": {
@@ -487,31 +487,31 @@
    ],
    "open_predictions": [
     {
-     "id": 185,
+     "id": 188,
      "account": "xapa03",
-     "tweet_id": "2124887288706736465",
-     "prediction_date": "2026-11-23T15:26:22+00:00",
+     "tweet_id": "2125180517544808959",
+     "prediction_date": "2026-11-24T10:51:33+00:00",
      "asset_or_metric": "BTC",
      "prediction_type": "PRICE_TARGET",
      "direction": "UP",
      "target": null,
-     "target_low": 73000.0,
-     "target_high": 74500.0,
+     "target_low": 68000.0,
+     "target_high": 69000.0,
      "deadline": null,
      "time_horizon": null,
      "conditions": null,
      "status": "OPEN",
      "status_note": null,
-     "btc_price_when_prediction_made": 62187.3,
-     "evidence": "In this video, you are looking at the Ichimoku Cycle Engine, coded by @thebtcfrontierX There is a good chance that Bitcoin could reject around $73,000 to $74,500.",
-     "label": "BTC UP $73.000–74.500",
-     "url": "https://x.com/xapa03/status/2124887288706736465",
+     "btc_price_when_prediction_made": 59327.5,
+     "evidence": "Bitcoin dropped below the 350 weekly EMA, rose rapidly, then fell again within a week and caught itself above the 350 weekly EMA before pumping hard toward 68-69k.",
+     "label": "BTC UP $68.000–69.000",
+     "url": "https://x.com/xapa03/status/2125180517544808959",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": 23.5,
+     "distance_to_target_pct": 15.4,
      "updated_by": null,
-     "updates": 179,
-     "change_type": "TARGET_CHANGED"
+     "updates": 187,
+     "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
     },
     {
      "id": 180,
@@ -535,7 +535,7 @@
      "url": "https://x.com/xapa03/status/2124775574732448111",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": 3.8,
+     "distance_to_target_pct": 4.5,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -562,7 +562,7 @@
      "url": "https://x.com/xapa03/status/2124775574732448111",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": 8.9,
+     "distance_to_target_pct": 9.5,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -589,7 +589,7 @@
      "url": "https://x.com/xapa03/status/2124775574732448111",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": -2.9,
+     "distance_to_target_pct": -2.3,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -616,13 +616,67 @@
      "url": "https://x.com/xapa03/status/2124775574732448111",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": -4.5,
+     "distance_to_target_pct": -4.0,
      "updated_by": null,
      "updates": null,
      "change_type": null
     }
    ],
    "previous_predictions": [
+    {
+     "id": 187,
+     "account": "xapa03",
+     "tweet_id": "2124913172146782525",
+     "prediction_date": "2026-11-23T17:09:13+00:00",
+     "asset_or_metric": "BTC",
+     "prediction_type": "PRICE_TARGET",
+     "direction": "DOWN",
+     "target": 57300.0,
+     "target_low": null,
+     "target_high": null,
+     "deadline": null,
+     "time_horizon": null,
+     "conditions": "If Bitcoin goes below 61",
+     "status": "UPDATED",
+     "status_note": "BTC DOWN $57.300 → BTC UP $68.000–69.000",
+     "btc_price_when_prediction_made": 61214.3,
+     "evidence": "If Bitcoin goes below 61,3k, i am aiming for the max target of 57.3k",
+     "label": "BTC DOWN $57.300",
+     "url": "https://x.com/xapa03/status/2124913172146782525",
+     "verifiable": true,
+     "resolved_at": "2026-11-24T10:51:33+00:00",
+     "distance_to_target_pct": -3.5,
+     "updated_by": 188,
+     "updates": 185,
+     "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
+    },
+    {
+     "id": 185,
+     "account": "xapa03",
+     "tweet_id": "2124887288706736465",
+     "prediction_date": "2026-11-23T15:26:22+00:00",
+     "asset_or_metric": "BTC",
+     "prediction_type": "PRICE_TARGET",
+     "direction": "UP",
+     "target": null,
+     "target_low": 73000.0,
+     "target_high": 74500.0,
+     "deadline": null,
+     "time_horizon": null,
+     "conditions": null,
+     "status": "UPDATED",
+     "status_note": "BTC UP $73.000–74.500 → BTC DOWN $57.300",
+     "btc_price_when_prediction_made": 62187.3,
+     "evidence": "In this video, you are looking at the Ichimoku Cycle Engine, coded by @thebtcfrontierX There is a good chance that Bitcoin could reject around $73,000 to $74,500.",
+     "label": "BTC UP $73.000–74.500",
+     "url": "https://x.com/xapa03/status/2124887288706736465",
+     "verifiable": true,
+     "resolved_at": "2026-11-23T17:09:13+00:00",
+     "distance_to_target_pct": 24.3,
+     "updated_by": 187,
+     "updates": 179,
+     "change_type": "DIRECTION_FLIP,TARGET_CHANGED,CONDITION_CHANGED"
+    },
     {
      "id": 179,
      "account": "xapa03",
@@ -645,7 +699,7 @@
      "url": "https://x.com/xapa03/status/2124775574732448111",
      "verifiable": true,
      "resolved_at": "2026-11-23T15:26:22+00:00",
-     "distance_to_target_pct": 3.8,
+     "distance_to_target_pct": 4.5,
      "updated_by": 185,
      "updates": null,
      "change_type": "TARGET_CHANGED"
@@ -698,7 +752,7 @@
      "url": "https://x.com/xapa03/status/2123712429851062581",
      "verifiable": true,
      "resolved_at": "2026-11-21T05:01:36.410444+00:00",
-     "distance_to_target_pct": 0.5,
+     "distance_to_target_pct": 1.1,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -725,7 +779,7 @@
      "url": "https://x.com/xapa03/status/2123291553313464513",
      "verifiable": true,
      "resolved_at": "2026-11-20T09:37:54+00:00",
-     "distance_to_target_pct": -49.8,
+     "distance_to_target_pct": -49.5,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -752,7 +806,7 @@
      "url": "https://x.com/xapa03/status/2121140335363735669",
      "verifiable": true,
      "resolved_at": "2026-11-13T10:19:39+00:00",
-     "distance_to_target_pct": 11.5,
+     "distance_to_target_pct": 12.2,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -779,7 +833,7 @@
      "url": "https://x.com/xapa03/status/2121096144319308138",
      "verifiable": true,
      "resolved_at": "2026-11-13T07:17:19+00:00",
-     "distance_to_target_pct": 11.5,
+     "distance_to_target_pct": 12.2,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -806,7 +860,7 @@
      "url": "https://x.com/xapa03/status/2119765538427621508",
      "verifiable": true,
      "resolved_at": "2026-11-12T15:20:26+00:00",
-     "distance_to_target_pct": 47.4,
+     "distance_to_target_pct": 48.3,
      "updated_by": null,
      "updates": 137,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -833,74 +887,20 @@
      "url": "https://x.com/xapa03/status/2119765538427621508",
      "verifiable": true,
      "resolved_at": "2026-11-12T17:01:55.060313+00:00",
-     "distance_to_target_pct": 20.6,
+     "distance_to_target_pct": 21.3,
      "updated_by": null,
      "updates": 136,
-     "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
-    },
-    {
-     "id": 137,
-     "account": "xapa03",
-     "tweet_id": "2118842757787914314",
-     "prediction_date": "2026-11-06T23:07:34+00:00",
-     "asset_or_metric": "BTC",
-     "prediction_type": "PRICE_TARGET",
-     "direction": "UP",
-     "target": null,
-     "target_low": 78000.0,
-     "target_high": 79000.0,
-     "deadline": "2026-11-09T23:07:34+00:00",
-     "time_horizon": "this week",
-     "conditions": null,
-     "status": "UPDATED",
-     "status_note": "BTC UP $78.000–79.000 (this week) → BTC UP $88.000 (end of November)",
-     "btc_price_when_prediction_made": 75741.6,
-     "evidence": "I expect Bitcoin to still tap the 78k–79k zone this week.",
-     "label": "BTC UP $78.000–79.000 (this week)",
-     "url": "https://x.com/xapa03/status/2118842757787914314",
-     "verifiable": true,
-     "resolved_at": "2026-11-09T12:14:22+00:00",
-     "distance_to_target_pct": 31.5,
-     "updated_by": 138,
-     "updates": null,
-     "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
-    },
-    {
-     "id": 136,
-     "account": "xapa03",
-     "tweet_id": "2118842207759413639",
-     "prediction_date": "2026-11-06T23:05:23+00:00",
-     "asset_or_metric": "BTC",
-     "prediction_type": "PRICE_TARGET",
-     "direction": "UP",
-     "target": null,
-     "target_low": 78000.0,
-     "target_high": 79000.0,
-     "deadline": "2026-11-09T23:05:23+00:00",
-     "time_horizon": "this week",
-     "conditions": null,
-     "status": "UPDATED",
-     "status_note": "BTC UP $78.000–79.000 (this week) → BTC RANGE $72.000",
-     "btc_price_when_prediction_made": 75741.6,
-     "evidence": "I expect Bitcoin to still tap the 78k–79k zone this week.",
-     "label": "BTC UP $78.000–79.000 (this week)",
-     "url": "https://x.com/xapa03/status/2118842207759413639",
-     "verifiable": true,
-     "resolved_at": "2026-11-09T12:14:22+00:00",
-     "distance_to_target_pct": 31.5,
-     "updated_by": 139,
-     "updates": 135,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
     }
    ],
    "track_record": {
-    "total": 54,
+    "total": 56,
     "open": 5,
     "correct": 3,
     "partially_correct": 0,
     "wrong": 1,
     "expired": 0,
-    "updated": 32,
+    "updated": 34,
     "invalidated": 13,
     "closed": 4,
     "hit_30d": {
@@ -919,16 +919,16 @@
      "label": "INSUFFICIENT SAMPLE SIZE"
     }
    },
-   "last_prediction": "BTC UP $73.000–74.500",
-   "last_prediction_date": "2026-11-23T15:26:22+00:00"
+   "last_prediction": "BTC UP $68.000–69.000",
+   "last_prediction_date": "2026-11-24T10:51:33+00:00"
   },
   {
    "handle": "osint613",
    "display_name": "Open Source Intel",
    "status": {
-    "ok": true,
+    "ok": false,
     "last_ok_at": "2026-11-24T11:01:39.886553+00:00",
-    "error": null
+    "error": "Account nicht verfügbar (HTTP 404)"
    },
    "bias": {
     "LIQUIDITY": {
@@ -988,9 +988,9 @@
    "handle": "tuurdemeester",
    "display_name": "Tuur Demeester",
    "status": {
-    "ok": true,
+    "ok": false,
     "last_ok_at": "2026-11-24T11:01:39.886553+00:00",
-    "error": null
+    "error": "Account nicht verfügbar (HTTP 404)"
    },
    "bias": {},
    "thesis_changes": [],
@@ -1029,9 +1029,9 @@
    "handle": "tylerdurden",
    "display_name": "Tyler",
    "status": {
-    "ok": true,
+    "ok": false,
     "last_ok_at": "2026-11-24T11:01:39.886553+00:00",
-    "error": null
+    "error": "Account nicht verfügbar (HTTP 404)"
    },
    "bias": {
     "BTC": {
@@ -1185,7 +1185,7 @@
      "url": "https://x.com/zerohedge/status/2123804407326208071",
      "verifiable": true,
      "resolved_at": "2026-11-21T17:01:38.655094+00:00",
-     "distance_to_target_pct": 0.5,
+     "distance_to_target_pct": 1.1,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -1276,19 +1276,19 @@
    "handle": "e_boeminghaus",
    "display_name": "Emanuel Boeminghaus",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-11-22T11:01:51.485245+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-11-24T17:01:46.751754+00:00",
+    "error": null
    },
    "bias": {
     "GEO": {
      "stance": "elevated",
-     "posts": 4,
+     "posts": 6,
      "last": {
-      "tweet_id": "2123478320176300478",
-      "text": "BILD meldet und ich korrigiere! \n\n\n\nDas Messer hat Berlin mit seinem irrsinnigen Ideologiewahn den Volkswagen-Mitarbeitern in den Rücken gerammt. \n\n\n\nEin richtig fettes Messer, das am Ende tödlich sein könnte. Klimawahn ",
-      "url": "https://x.com/e_boeminghaus/status/2123478320176300478",
-      "timestamp": "2026-11-19T18:07:38+00:00"
+      "tweet_id": "2125235832307241058",
+      "text": "„Das Wachstum kommt zurück!“\n\n\n\nEs war für ein Schnäppchen zu haben. Wir mussten dafür nur läppische 209 Milliarden Euro neue Schulden aufnehmen.\n\n\n\nDanke Lars! Danke Friedrich! Danke Berlin\n„Das Wachstum kommt zurück.“ ",
+      "url": "https://x.com/e_boeminghaus/status/2125235832307241058",
+      "timestamp": "2026-11-24T14:31:22+00:00"
      }
     }
    },
@@ -1328,9 +1328,9 @@
    "handle": "tedpillows",
    "display_name": "Ted",
    "status": {
-    "ok": true,
+    "ok": false,
     "last_ok_at": "2026-11-24T11:01:39.886553+00:00",
-    "error": null
+    "error": "Account nicht verfügbar (HTTP 404)"
    },
    "bias": {
     "BTC": {
@@ -1427,7 +1427,7 @@
      "url": "https://x.com/tedpillows/status/2123816457922322731",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": -7.9,
+     "distance_to_target_pct": -7.3,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -1508,7 +1508,7 @@
      "url": "https://x.com/tedpillows/status/2123866415245795784",
      "verifiable": true,
      "resolved_at": "2026-11-21T05:01:36.410444+00:00",
-     "distance_to_target_pct": -4.5,
+     "distance_to_target_pct": -4.0,
      "updated_by": null,
      "updates": 168,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -1535,7 +1535,7 @@
      "url": "https://x.com/tedpillows/status/2123866415245795784",
      "verifiable": true,
      "resolved_at": "2026-11-23T17:01:54.714372+00:00",
-     "distance_to_target_pct": 7.2,
+     "distance_to_target_pct": 7.8,
      "updated_by": null,
      "updates": 169,
      "change_type": "TARGET_CHANGED"
@@ -1562,7 +1562,7 @@
      "url": "https://x.com/tedpillows/status/2123816457922322731",
      "verifiable": true,
      "resolved_at": "2026-11-20T19:49:47+00:00",
-     "distance_to_target_pct": -7.9,
+     "distance_to_target_pct": -7.3,
      "updated_by": 171,
      "updates": 159,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -1589,7 +1589,7 @@
      "url": "https://x.com/tedpillows/status/2123816457922322731",
      "verifiable": true,
      "resolved_at": "2026-11-20T19:49:47+00:00",
-     "distance_to_target_pct": 0.5,
+     "distance_to_target_pct": 1.1,
      "updated_by": 172,
      "updates": null,
      "change_type": "TARGET_CHANGED"
@@ -1616,7 +1616,7 @@
      "url": "https://x.com/tedpillows/status/2122976560919789979",
      "verifiable": true,
      "resolved_at": "2026-11-20T16:31:16+00:00",
-     "distance_to_target_pct": 9.7,
+     "distance_to_target_pct": 10.4,
      "updated_by": 168,
      "updates": 156,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -1643,7 +1643,7 @@
      "url": "https://x.com/tedpillows/status/2122329592161608069",
      "verifiable": true,
      "resolved_at": "2026-11-18T08:53:49+00:00",
-     "distance_to_target_pct": -0.4,
+     "distance_to_target_pct": 0.3,
      "updated_by": 159,
      "updates": 153,
      "change_type": "TARGET_CHANGED"
@@ -1670,7 +1670,7 @@
      "url": "https://x.com/tedpillows/status/2121911466798252483",
      "verifiable": true,
      "resolved_at": "2026-11-16T14:03:00+00:00",
-     "distance_to_target_pct": 3.8,
+     "distance_to_target_pct": 4.5,
      "updated_by": 156,
      "updates": 152,
      "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -1697,7 +1697,7 @@
      "url": "https://x.com/tedpillows/status/2121911466798252483",
      "verifiable": true,
      "resolved_at": "2026-11-20T17:01:42.343678+00:00",
-     "distance_to_target_pct": 0.5,
+     "distance_to_target_pct": 1.1,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -1724,7 +1724,7 @@
      "url": "https://x.com/tedpillows/status/2121644080992333953",
      "verifiable": true,
      "resolved_at": "2026-11-15T10:21:31+00:00",
-     "distance_to_target_pct": -71.5,
+     "distance_to_target_pct": -71.4,
      "updated_by": 153,
      "updates": 151,
      "change_type": "TARGET_CHANGED"
@@ -1751,7 +1751,7 @@
      "url": "https://x.com/tedpillows/status/2121627019704226066",
      "verifiable": true,
      "resolved_at": "2026-11-14T16:39:01+00:00",
-     "distance_to_target_pct": 34.0,
+     "distance_to_target_pct": 34.8,
      "updated_by": 152,
      "updates": null,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -1790,9 +1790,9 @@
    "handle": "jameslavish",
    "display_name": "James Lavish",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-11-24T05:01:47.444580+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-11-24T17:01:46.751754+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
@@ -1896,7 +1896,7 @@
      "url": "https://x.com/jameslavish/status/2123805021037044095",
      "verifiable": true,
      "resolved_at": "2026-11-21T17:01:38.655094+00:00",
-     "distance_to_target_pct": 0.5,
+     "distance_to_target_pct": 1.1,
      "updated_by": null,
      "updates": 140,
      "change_type": "TARGET_CHANGED"
@@ -1923,7 +1923,7 @@
      "url": "https://x.com/jameslavish/status/2123805021037044095",
      "verifiable": true,
      "resolved_at": "2026-11-21T05:01:36.410444+00:00",
-     "distance_to_target_pct": -3.4,
+     "distance_to_target_pct": -2.8,
      "updated_by": null,
      "updates": 141,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -1976,7 +1976,7 @@
      "url": "https://x.com/jameslavish/status/2120232177422201068",
      "verifiable": true,
      "resolved_at": "2026-11-20T15:45:50+00:00",
-     "distance_to_target_pct": 569.9,
+     "distance_to_target_pct": 574.0,
      "updated_by": 164,
      "updates": 132,
      "change_type": "TARGET_CHANGED"
@@ -2003,7 +2003,7 @@
      "url": "https://x.com/jameslavish/status/2120232177422201068",
      "verifiable": true,
      "resolved_at": "2026-11-20T15:45:50+00:00",
-     "distance_to_target_pct": 737.4,
+     "distance_to_target_pct": 742.5,
      "updated_by": 165,
      "updates": null,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -2030,7 +2030,7 @@
      "url": "https://x.com/jameslavish/status/2116219137177550962",
      "verifiable": true,
      "resolved_at": "2026-11-10T19:08:37+00:00",
-     "distance_to_target_pct": -69.4,
+     "distance_to_target_pct": -69.2,
      "updated_by": 140,
      "updates": 128,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -2083,7 +2083,7 @@
      "url": "https://x.com/jameslavish/status/2111171141364817941",
      "verifiable": true,
      "resolved_at": "2026-10-22T18:48:33+00:00",
-     "distance_to_target_pct": -83.3,
+     "distance_to_target_pct": -83.2,
      "updated_by": 128,
      "updates": null,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -2149,7 +2149,7 @@
    "display_name": "Nik Bhatia",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-11-24T11:01:39.886553+00:00",
+    "last_ok_at": "2026-11-24T17:01:46.751754+00:00",
     "error": null
    },
    "bias": {
@@ -2248,7 +2248,7 @@
      "url": "https://x.com/timevalueofbtc/status/2120302441929507097",
      "verifiable": true,
      "resolved_at": "2026-11-12T17:01:55.060313+00:00",
-     "distance_to_target_pct": 23.6,
+     "distance_to_target_pct": 24.3,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -2288,18 +2288,18 @@
    "display_name": "Dan Held",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-11-24T11:01:39.886553+00:00",
+    "last_ok_at": "2026-11-24T17:01:46.751754+00:00",
     "error": null
    },
    "bias": {
     "BTC": {
      "stance": "bullish",
-     "posts": 2,
+     "posts": 3,
      "last": {
-      "tweet_id": "2122706543510475260",
-      "text": "Bitcoin has a 99.98% uptime:\n\n\n\nHigher than Google\n\nHigher than Amazon\n\nHigher than Facebook\n\nHigher than the US Government\n\n\n\nGood luck trying to stop it.",
-      "url": "https://x.com/danheld/status/2122706543510475260",
-      "timestamp": "2026-11-17T15:00:52+00:00"
+      "tweet_id": "2125254058303000728",
+      "text": "About 11 years ago today was the absolute bottom of the 2014/2015 cycle. \n\n\n\nLater that day it would hit $155.   \n\n\n\nI always believed in Bitcoin even at its absolute lows. And I’m still bullish now.\nBitcoin selloff cont",
+      "url": "https://x.com/danheld/status/2125254058303000728",
+      "timestamp": "2026-11-24T15:43:47+00:00"
      }
     },
     "LIQUIDITY": {
@@ -2362,7 +2362,7 @@
      "url": "https://x.com/danheld/status/2117298145818186002",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": 1574.7,
+     "distance_to_target_pct": 1584.9,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -2402,19 +2402,19 @@
    "handle": "nolimitgains",
    "display_name": "NoLimit",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-11-23T05:02:01.993777+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-11-24T17:01:46.751754+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
      "stance": "bearish",
-     "posts": 3,
+     "posts": 4,
      "last": {
-      "tweet_id": "2124163705461960715",
-      "text": "How long every Bitcoin bear market lasted, from the top to the bottom:\n\n\n\n2014: about 13 months\n\n2018: about 12 months\n\n2022: about 12 months\n\n2026: 13.5 months and still going\n\n\n\nBitcoin just hit around $57,000, its low",
-      "url": "https://x.com/nolimitgains/status/2124163705461960715",
-      "timestamp": "2026-11-21T15:31:07+00:00"
+      "tweet_id": "2125123023418089611",
+      "text": "I went through 30 years of research on the people who beat the S&P 500 and the ones who didn't.\n\n\n\nThe ones who won did way less than you'd think. The ones who lost almost all made the same few mistakes.\n\n\n\nBookmark this",
+      "url": "https://x.com/nolimitgains/status/2125123023418089611",
+      "timestamp": "2026-11-24T07:03:06+00:00"
      }
     },
     "LIQUIDITY": {
@@ -2429,12 +2429,12 @@
     },
     "FED": {
      "stance": "easing",
-     "posts": 1,
+     "posts": 2,
      "last": {
-      "tweet_id": "2124202077228318914",
-      "text": "The S&P 500 just had its worst week since April 2025. The Nasdaq had its worst week since March 2020. Nvidia fell 14% in a single day.\n\n\n\nAnd I'm not panicking. Here's what's really going on, and why.\n\n\n\nIt's a few thing",
-      "url": "https://x.com/nolimitgains/status/2124202077228318914",
-      "timestamp": "2026-11-21T18:03:35+00:00"
+      "tweet_id": "2125091859542192340",
+      "text": "THE NVIDIA INVESTIGATION\n\n\n\nEverybody thinks Jensen Huang got cleared yesterday and it's over.\n\n\n\nI read what Nvidia actually put out. It doesn't say he's cleared. There are still 5 investigations open and Hakeem Jeffrie",
+      "url": "https://x.com/nolimitgains/status/2125091859542192340",
+      "timestamp": "2026-11-24T04:59:16+00:00"
      }
     },
     "GEO": {
@@ -2515,7 +2515,7 @@
      "url": "https://x.com/nolimitgains/status/2124051890338206065",
      "verifiable": true,
      "resolved_at": "2026-11-23T05:02:02.134489+00:00",
-     "distance_to_target_pct": -7.9,
+     "distance_to_target_pct": -7.3,
      "updated_by": null,
      "updates": null,
      "change_type": null
