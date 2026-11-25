@@ -1,50 +1,50 @@
 {
- "generated_at": "2026-11-24T17:02:08.063575+00:00",
- "btc_price": 59349.4,
+ "generated_at": "2026-11-25T05:16:33.203550+00:00",
+ "btc_price": 59047.0,
  "outlook": {
   "BTC": {
    "horizons": {
     "24h": {
-     "label": "neutral / gemischt",
+     "label": "leicht bärisch",
      "counts": {
       "pos": 2,
-      "neu": 2,
-      "neg": 2
+      "neu": 1,
+      "neg": 3
      },
      "accounts": 6
     },
     "3d": {
      "label": "leicht bullisch",
      "counts": {
-      "pos": 4,
+      "pos": 5,
       "neu": 0,
       "neg": 2
      },
-     "accounts": 6
+     "accounts": 7
     },
     "7d": {
-     "label": "leicht bärisch",
+     "label": "neutral / gemischt",
      "counts": {
-      "pos": 2,
+      "pos": 3,
       "neu": 1,
-      "neg": 5
+      "neg": 4
      },
      "accounts": 8
     }
    },
-   "scenario": "Mehrheit (7 T): leicht bärisch. Wahrscheinlichste Zone laut Quellen: $57k bis $60k–62k; Ausbruch über $60k–62k wäre das nächste Signal.",
+   "scenario": "Mehrheit (7 T): neutral / gemischt. Wahrscheinlichste Zone laut Quellen: $57k bis $60k–62k; Ausbruch über $60k–62k wäre das nächste Signal.",
    "risk": "Bruch unter $57k (genannt von @killaxbt, @tedpillows, @xapa03)",
    "consensus": {
-    "pos": 2,
+    "pos": 3,
     "neu": 1,
-    "neg": 5
+    "neg": 4
    },
-   "confidence": "Mittel",
+   "confidence": "Niedrig",
    "levels": {
     "support": "$57k",
     "resistance": "$60k–62k"
    },
-   "n_posts": 63,
+   "n_posts": 62,
    "sources": [
     {
      "account": "xapa03",
@@ -108,19 +108,19 @@
   "MACRO": {
    "horizons": {
     "24h": {
-     "label": "Risk-On",
+     "label": "neutral / gemischt",
      "counts": {
-      "pos": 2,
+      "pos": 1,
       "neu": 0,
-      "neg": 0
+      "neg": 1
      },
      "accounts": 2
     },
     "3d": {
-     "label": "leicht Risk-On",
+     "label": "neutral / gemischt",
      "counts": {
-      "pos": 2,
-      "neu": 0,
+      "pos": 1,
+      "neu": 1,
       "neg": 1
      },
      "accounts": 3
@@ -136,11 +136,11 @@
     }
    },
    "drivers": [
-    "wachsende Liquidität (6)",
     "schrumpfende Liquidität (6)",
-    "Fed restriktiv (6)"
+    "Fed restriktiv (6)",
+    "wachsende Liquidität (5)"
    ],
-   "risk": "Anstehende Termine in den Posts: EARNINGS (12×), PCE (6×)",
+   "risk": "Anstehende Termine in den Posts: EARNINGS (7×), PCE (5×)",
    "consensus": {
     "pos": 4,
     "neu": 0,
@@ -149,6 +149,13 @@
    "confidence": "Mittel",
    "n_posts": 20,
    "sources": [
+    {
+     "account": "nolimitgains",
+     "tweet_id": "2125451125088272555",
+     "url": "https://x.com/nolimitgains/status/2125451125088272555",
+     "summary": "Carl Icahn was worth $26.1 BILLION in 2013. Today he's worth about $1.3 billion, per Bloomberg. That's 95% gone. He's 90, and his company just warned it might not be able to…",
+     "timestamp": "2026-11-25T04:46:51+00:00"
+    },
     {
      "account": "nolimitgains",
      "tweet_id": "2125091859542192340",
@@ -197,13 +204,6 @@
      "url": "https://x.com/tedpillows/status/2123767128666812437",
      "summary": "I know this sounds strange, but I'm hoping the stock market will dump further (and yes I own a lot of stocks so I also feel this pain). Not a crash, just enough pressure. Right…",
      "timestamp": "2026-11-20T13:15:15+00:00"
-    },
-    {
-     "account": "timevalueofbtc",
-     "tweet_id": "2123217408970330124",
-     "url": "https://x.com/timevalueofbtc/status/2123217408970330124",
-     "summary": "- S&P new lows, below 200 dma - oil new lows, breaking trend - HY ETF new lows - EUR new lows - gold in freefall, new lows markets are in mayhem I noticed after recording this…",
-     "timestamp": "2026-11-19T00:50:52+00:00"
     }
    ]
   },
@@ -219,13 +219,13 @@
      "accounts": 1
     },
     "3d": {
-     "label": "leicht expandierend",
+     "label": "neutral / gemischt",
      "counts": {
-      "pos": 2,
+      "pos": 1,
       "neu": 0,
       "neg": 1
      },
-     "accounts": 3
+     "accounts": 2
     },
     "7d": {
      "label": "neutral / gemischt",
@@ -243,7 +243,7 @@
     "neg": 3
    },
    "confidence": "Niedrig",
-   "n_posts": 12,
+   "n_posts": 11,
    "sources": [
     {
      "account": "jameslavish",
@@ -308,7 +308,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 46,
+     "posts": 32,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -326,8 +326,15 @@
      ]
     }
    ],
-   "n_posts": 88,
+   "n_posts": 74,
    "sources": [
+    {
+     "account": "nolimitgains",
+     "tweet_id": "2125451125088272555",
+     "url": "https://x.com/nolimitgains/status/2125451125088272555",
+     "summary": "Carl Icahn was worth $26.1 BILLION in 2013. Today he's worth about $1.3 billion, per Bloomberg. That's 95% gone. He's 90, and his company just warned it might not be able to…",
+     "timestamp": "2026-11-25T04:46:51+00:00"
+    },
     {
      "account": "nolimitgains",
      "tweet_id": "2125091859542192340",
@@ -365,13 +372,6 @@
     },
     {
      "account": "osint613",
-     "tweet_id": "2124215181962358905",
-     "url": "https://x.com/osint613/status/2124215181962358905",
-     "summary": "The editor of Iran's Kayhan newspaper, widely seen as a mouthpiece of the regime, called today for attacks on the oil and gas infrastructure of U.S. allies in the Persian Gulf to…",
-     "timestamp": "2026-11-21T18:55:40+00:00"
-    },
-    {
-     "account": "osint613",
      "tweet_id": "2124924125638426835",
      "url": "https://x.com/osint613/status/2124924125638426835",
      "summary": "The Trump administration has rolled out a fresh round of sanctions linked to Iran. Dozens of individuals and entities fall under the measures. The U.S. Treasury Department listed…",
@@ -389,55 +389,51 @@
   }
  },
  "changed": {
-  "since": "2026-11-24T11:06:17.094494+00:00",
+  "since": "2026-11-24T17:02:17.830398+00:00",
   "new": [
    {
-    "account": "xapa03",
-    "text": "BTC UP $68.000–69.000",
-    "url": "https://x.com/xapa03/status/2125180517544808959"
-   },
-   {
-    "account": "xapa03",
-    "text": "BTC DOWN $57.300",
-    "url": "https://x.com/xapa03/status/2124913172146782525"
-   },
-   {
-    "account": "xapa03",
-    "text": "Paranoia Indicator is always right. If Bitcoin goes below 61,3k, i am aiming for the max target of 57.3k bitcoin:native Bitcoin is almost in the overheated zone, but only on the…",
-    "url": "https://x.com/xapa03/status/2124913172146782525"
+    "account": "timevalueofbtc",
+    "text": "🚨 NEW VIDEO 🚨 Why Bitcoin May Not Crash 80% This Time with James Seyffart @JSeyff on why no blow-off top could mean a milder bear market, why bitcoin still won't dodge a stock…",
+    "url": "https://x.com/thebitcoinlayer/status/2125327185523126597"
    },
    {
     "account": "nolimitgains",
-    "text": "THE NVIDIA INVESTIGATION Everybody thinks Jensen Huang got cleared yesterday and it's over. I read what Nvidia actually put out. It doesn't say he's cleared. There are still 5…",
-    "url": "https://x.com/nolimitgains/status/2125091859542192340"
+    "text": "Carl Icahn was worth $26.1 BILLION in 2013. Today he's worth about $1.3 billion, per Bloomberg. That's 95% gone. He's 90, and his company just warned it might not be able to…",
+    "url": "https://x.com/nolimitgains/status/2125451125088272555"
    },
    {
-    "account": "nolimitgains",
-    "text": "I went through 30 years of research on the people who beat the S&P 500 and the ones who didn't. The ones who won did way less than you'd think. The ones who lost almost all made…",
-    "url": "https://x.com/nolimitgains/status/2125123023418089611"
+    "account": "timevalueofbtc",
+    "text": "Bitcoin/gold trend watchers, good afternoon the ratio hugs the 200-day moving average and is possibly carving out a higher low versus June and August the same cannot be said for…",
+    "url": "https://x.com/timevalueofbtc/status/2125338290656342494"
    }
   ],
   "changed": [
    {
     "account": "xapa03",
-    "text": "vorher BTC UP $73.000–74.500, jetzt BTC DOWN $57.300",
-    "url": "https://x.com/xapa03/status/2124913172146782525"
-   },
-   {
-    "account": "xapa03",
-    "text": "vorher BTC DOWN $57.300, jetzt BTC UP $68.000–69.000",
+    "text": "nimmt zurück: BTC UP $68.000–69.000",
     "url": "https://x.com/xapa03/status/2125180517544808959"
    }
   ],
-  "new_consensus": [],
+  "new_consensus": [
+   "Bitcoin: leicht bärisch → neutral / gemischt"
+  ],
   "no_change": [
-   "Bitcoin bleibt leicht bärisch",
    "Makro bleibt neutral / gemischt",
-   "Liquidität bleibt neutral / gemischt",
-   "Geopolitisches Risiko bleibt Hoch"
+   "Liquidität bleibt neutral / gemischt"
   ]
  },
  "important_posts": [
+  {
+   "account": "nolimitgains",
+   "tweet_id": "2125451125088272555",
+   "url": "https://x.com/nolimitgains/status/2125451125088272555",
+   "summary": "Carl Icahn was worth $26.1 BILLION in 2013. Today he's worth about $1.3 billion, per Bloomberg. That's 95% gone. He's 90, and his company just warned it might not be able to…",
+   "timestamp": "2026-11-25T04:46:51+00:00",
+   "category": "US_TREASURIES",
+   "relevance": 100,
+   "text": "Carl Icahn was worth $26.1 BILLION in 2013.\n\n\n\nToday he's worth about $1.3 billion, per Bloomberg. That's 95% gone. He's 90, and his company just warned it might not be able to refinance $1.4 billion of debt due in May…\n\n\n\nThis is how it happened, in order:\n\n\n\n2013: Icahn peaks at $26.1B, one of the 25 richest people in the world. Almost all of it is one stock, Icahn Enterprises (IEP). He owns about 87% of it.\n\n\n\n201",
+   "why": "Neue Makro- oder Marktdaten"
+  },
   {
    "account": "xapa03",
    "tweet_id": "2125180517544808959",
@@ -458,17 +454,6 @@
    "category": "BITCOIN",
    "relevance": 100,
    "text": "I went through 30 years of research on the people who beat the S&P 500 and the ones who didn't.\n\n\n\nThe ones who won did way less than you'd think. The ones who lost almost all made the same few mistakes.\n\n\n\nBookmark this and read it before you make your next trade:\n\n\n\nA finance professor named Hendrik Bessembinder tracked every US stock since 1926. 58% of them did worse than just holding treasury bills over their who",
-   "why": "Neue Makro- oder Marktdaten"
-  },
-  {
-   "account": "nolimitgains",
-   "tweet_id": "2125091859542192340",
-   "url": "https://x.com/nolimitgains/status/2125091859542192340",
-   "summary": "THE NVIDIA INVESTIGATION Everybody thinks Jensen Huang got cleared yesterday and it's over. I read what Nvidia actually put out. It doesn't say he's cleared. There are still 5…",
-   "timestamp": "2026-11-24T04:59:16+00:00",
-   "category": "US_TREASURIES",
-   "relevance": 100,
-   "text": "THE NVIDIA INVESTIGATION\n\n\n\nEverybody thinks Jensen Huang got cleared yesterday and it's over.\n\n\n\nI read what Nvidia actually put out. It doesn't say he's cleared. There are still 5 investigations open and Hakeem Jeffries just promised another one.\n\n\n\nAnd nobody is talking about Dec 1 to Dec 4.\n\n\n\nIf you missed it: Jensen quit as Nvidia CEO on Nov 12 after he admitted an affair with a woman US intelligence thinks wor",
    "why": "Neue Makro- oder Marktdaten"
   },
   {
@@ -516,15 +501,15 @@
    "why": "Liquidität schrumpft"
   },
   {
-   "account": "tedpillows",
-   "tweet_id": "2124836762250072327",
-   "url": "https://x.com/tedpillows/status/2124836762250072327",
-   "summary": "$BTC is holding above the $61,000 level. US stock futures are up big, while oil is going down. Pre-market stock trading insights: ▫️Nasdaq futures is up 3.5% 🟠 ▫️S&P futures is up…",
-   "timestamp": "2026-11-23T12:05:36+00:00",
+   "account": "timevalueofbtc",
+   "tweet_id": "2125338290656342494",
+   "url": "https://x.com/timevalueofbtc/status/2125338290656342494",
+   "summary": "Bitcoin/gold trend watchers, good afternoon the ratio hugs the 200-day moving average and is possibly carving out a higher low versus June and August the same cannot be said for…",
+   "timestamp": "2026-11-24T21:18:30+00:00",
    "category": "BITCOIN",
-   "relevance": 92,
-   "text": "$BTC is holding above the $61,000 level.\n\n\n\nUS stock futures are up big, while oil is going down.\n\n\n\nPre-market stock trading insights:\n\n\n\n▫️Nasdaq futures is up 3.5% 🟠\n\n\n\n▫️S&P futures is up 2.81% 🟠",
-   "why": "Neue Makro- oder Marktdaten"
+   "relevance": 94,
+   "text": "Bitcoin/gold trend watchers, good afternoon\n\n\n\nthe ratio hugs the 200-day moving average and is possibly carving out a higher low versus June and August\n\n\n\nthe same cannot be said for bitcoin/USD",
+   "why": "BTC bullisch"
   }
  ],
  "top_predictions": [
@@ -535,20 +520,9 @@
    "deadline": "2026-12-31T23:59:59+00:00",
    "time_horizon": "this year",
    "prediction_date": "2026-11-20T16:31:16+00:00",
-   "distance_pct": -7.3,
+   "distance_pct": -7.1,
    "conditions": null,
    "evidence": "BREAKING: Our traders forecast Bitcoin will crash to $55,000 this year"
-  },
-  {
-   "account": "xapa03",
-   "label": "BTC UP $68.000–69.000",
-   "url": "https://x.com/xapa03/status/2125180517544808959",
-   "deadline": null,
-   "time_horizon": null,
-   "prediction_date": "2026-11-24T10:51:33+00:00",
-   "distance_pct": 15.5,
-   "conditions": null,
-   "evidence": "Bitcoin dropped below the 350 weekly EMA, rose rapidly, then fell again within a week and caught itself above the 350 weekly EMA before pumping hard toward 68-69k."
   },
   {
    "account": "killaxbt",
@@ -557,7 +531,7 @@
    "deadline": "2027-12-31T23:59:59+00:00",
    "time_horizon": "Q4 2027",
    "prediction_date": "2026-11-23T18:35:00+00:00",
-   "distance_pct": 112.5,
+   "distance_pct": 112.8,
    "conditions": null,
    "evidence": "That would mean I expect $BTC to reach 126K around Q4 2027 (Oct-Dec), with Q1 2028 as the latest."
   },
@@ -568,7 +542,7 @@
    "deadline": null,
    "time_horizon": "vor dem nächsten Ziel",
    "prediction_date": "2026-11-23T08:02:28+00:00",
-   "distance_pct": 4.6,
+   "distance_pct": 4.7,
    "conditions": "Once the area around 62k is secured as support",
    "evidence": "Once the area around 62k is secured as support, even if only temporarily, 65k would be the next target, before Bitcoin could potentially fall back toward $58,000 / $57,000."
   },
@@ -579,7 +553,18 @@
    "deadline": null,
    "time_horizon": "vor dem nächsten Ziel",
    "prediction_date": "2026-11-23T08:02:28+00:00",
-   "distance_pct": 9.6,
+   "distance_pct": 9.8,
+   "conditions": "Once the area around 62k is secured as support",
+   "evidence": "Once the area around 62k is secured as support, even if only temporarily, 65k would be the next target, before Bitcoin could potentially fall back toward $58,000 / $57,000."
+  },
+  {
+   "account": "xapa03",
+   "label": "BTC DOWN $58.000 (vor dem nächsten Ziel)",
+   "url": "https://x.com/xapa03/status/2124775574732448111",
+   "deadline": null,
+   "time_horizon": "vor dem nächsten Ziel",
+   "prediction_date": "2026-11-23T08:02:28+00:00",
+   "distance_pct": -2.0,
    "conditions": "Once the area around 62k is secured as support",
    "evidence": "Once the area around 62k is secured as support, even if only temporarily, 65k would be the next target, before Bitcoin could potentially fall back toward $58,000 / $57,000."
   }
@@ -701,18 +686,18 @@
   }
  },
  "btc_targets": {
-  "count": 4,
-  "median": 126000.0,
+  "count": 7,
+  "median": 62000.0,
   "low": 55000.0,
   "high": 1000000.0
  },
  "daily": {
   "report_date": "2026-11-24",
-  "generated_at": "2026-11-24T17:01:47.131685+00:00",
+  "generated_at": "2026-11-25T05:01:56.727271+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-11-23T17:01:47.099699+00:00",
-   "to": "2026-11-24T17:01:47.131685+00:00"
+   "from": "2026-11-24T05:01:56.552998+00:00",
+   "to": "2026-11-25T05:01:56.727271+00:00"
   },
   "key_points": [
    {
@@ -740,21 +725,21 @@
     ]
    },
    {
-    "text": "@nolimitgains: I went through 30 years of research on the people who beat the S&P 500 and the ones who didn't. The ones who won did way less than you'd think. The ones who lost almost all made…",
+    "text": "@nolimitgains: Carl Icahn was worth $26.1 BILLION in 2013. Today he's worth about $1.3 billion, per Bloomberg. That's 95% gone. He's 90, and his company just warned it might not be able to…",
     "ids": [
-     "2125123023418089611"
+     "2125451125088272555"
     ]
    }
   ],
   "sections": {
-   "TOP_DEVELOPMENTS": "@xapa03: Good morning ☕️ In 2017, Bitcoin reached its peak and subsequently entered the bear market. Bitcoin found its bottom, pumped nearly 30% below the previous all-time high, and then… · @nolimitgains: I went through 30 years of research on the people who beat the S&P 500 and the ones who didn't. The ones who won did way less than you'd think. The ones who lost almost all made… · @killaxbt: I’m still in my long. Despite roundtripping a 40% move to the upside, I want to make it clear that my overall HTF plan and bias haven’t changed. I see this move down as a gift in…",
-   "BTC_OUTLOOK": "Stimmung 62 % bärisch (8/12 Accounts mit Meinung). Median offener Kursziele $126.000. @xapa03: Good morning ☕️ In 2017, Bitcoin reached its peak and subsequently entered the bear market. Bitcoin found its bottom, pumped nearly 30% below the previous all-time high, and then… · @nolimitgains: I went through 30 years of research on the people who beat the S&P 500 and the ones who didn't. The ones who won did way less than you'd think. The ones who lost almost all made… · @killaxbt: I’m still in my long. Despite roundtripping a 40% move to the upside, I want to make it clear that my overall HTF plan and bias haven’t changed. I see this move down as a gift in…",
-   "MACRO_OUTLOOK": "@nolimitgains: I went through 30 years of research on the people who beat the S&P 500 and the ones who didn't. The ones who won did way less than you'd think. The ones who lost almost all made… · @tedpillows: BTC, ETH, Gold and Silver have fully erased the Nvidia pump. Not a good sign, as these assets are most sensitive to global liquidity, and the selling indicates that the worst may…",
-   "GLOBAL_LIQUIDITY": "@killaxbt: Literally the same thing happening again, shorts piling in near the lows. Wouldn’t be surprised to see $BTC wick fill to hunt liquidity and force some of these bottom shorters to… · @tedpillows: BTC, ETH, Gold and Silver have fully erased the Nvidia pump. Not a good sign, as these assets are most sensitive to global liquidity, and the selling indicates that the worst may…",
+   "TOP_DEVELOPMENTS": "@nolimitgains: Carl Icahn was worth $26.1 BILLION in 2013. Today he's worth about $1.3 billion, per Bloomberg. That's 95% gone. He's 90, and his company just warned it might not be able to… · @timevalueofbtc: 🚨 NEW VIDEO 🚨 Why Bitcoin May Not Crash 80% This Time with James Seyffart @JSeyff on why no blow-off top could mean a milder bear market, why bitcoin still won't dodge a stock… · @xapa03: Good morning ☕️ In 2017, Bitcoin reached its peak and subsequently entered the bear market. Bitcoin found its bottom, pumped nearly 30% below the previous all-time high, and then…",
+   "BTC_OUTLOOK": "Stimmung 62 % bärisch (8/12 Accounts mit Meinung). Median offener Kursziele $62.000. @timevalueofbtc: 🚨 NEW VIDEO 🚨 Why Bitcoin May Not Crash 80% This Time with James Seyffart @JSeyff on why no blow-off top could mean a milder bear market, why bitcoin still won't dodge a stock… · @xapa03: Good morning ☕️ In 2017, Bitcoin reached its peak and subsequently entered the bear market. Bitcoin found its bottom, pumped nearly 30% below the previous all-time high, and then… · @nolimitgains: I went through 30 years of research on the people who beat the S&P 500 and the ones who didn't. The ones who won did way less than you'd think. The ones who lost almost all made…",
+   "MACRO_OUTLOOK": "@nolimitgains: Carl Icahn was worth $26.1 BILLION in 2013. Today he's worth about $1.3 billion, per Bloomberg. That's 95% gone. He's 90, and his company just warned it might not be able to… · @timevalueofbtc: 🚨 NEW VIDEO 🚨 Why Bitcoin May Not Crash 80% This Time with James Seyffart @JSeyff on why no blow-off top could mean a milder bear market, why bitcoin still won't dodge a stock… · @tedpillows: BTC, ETH, Gold and Silver have fully erased the Nvidia pump. Not a good sign, as these assets are most sensitive to global liquidity, and the selling indicates that the worst may…",
+   "GLOBAL_LIQUIDITY": "@tedpillows: BTC, ETH, Gold and Silver have fully erased the Nvidia pump. Not a good sign, as these assets are most sensitive to global liquidity, and the selling indicates that the worst may…",
    "FED_RATES": "Keine relevanten Aussagen.",
-   "DXY_TREASURIES": "@nolimitgains: I went through 30 years of research on the people who beat the S&P 500 and the ones who didn't. The ones who won did way less than you'd think. The ones who lost almost all made… · @osint613: The Trump administration has rolled out a fresh round of sanctions linked to Iran. Dozens of individuals and entities fall under the measures. The U.S. Treasury Department listed…",
-   "GOLD": "@tedpillows: BTC, ETH, Gold and Silver have fully erased the Nvidia pump. Not a good sign, as these assets are most sensitive to global liquidity, and the selling indicates that the worst may…",
-   "GEOPOLITICS": "@nolimitgains: THE NVIDIA INVESTIGATION Everybody thinks Jensen Huang got cleared yesterday and it's over. I read what Nvidia actually put out. It doesn't say he's cleared. There are still 5… · @osint613: U.S. authorities are investigating whether Iran was responsible for cyberattacks on up to 50 ships carrying oil, liquefied petroleum, chemicals and other explosive cargo, U.S.…",
+   "DXY_TREASURIES": "@nolimitgains: Carl Icahn was worth $26.1 BILLION in 2013. Today he's worth about $1.3 billion, per Bloomberg. That's 95% gone. He's 90, and his company just warned it might not be able to… · @timevalueofbtc: Bitcoin/gold trend watchers, good afternoon the ratio hugs the 200-day moving average and is possibly carving out a higher low versus June and August the same cannot be said for…",
+   "GOLD": "@timevalueofbtc: Bitcoin/gold trend watchers, good afternoon the ratio hugs the 200-day moving average and is possibly carving out a higher low versus June and August the same cannot be said for… · @tedpillows: BTC, ETH, Gold and Silver have fully erased the Nvidia pump. Not a good sign, as these assets are most sensitive to global liquidity, and the selling indicates that the worst may…",
+   "GEOPOLITICS": "@nolimitgains: Carl Icahn was worth $26.1 BILLION in 2013. Today he's worth about $1.3 billion, per Bloomberg. That's 95% gone. He's 90, and his company just warned it might not be able to… · @osint613: U.S. authorities are investigating whether Iran was responsible for cyberattacks on up to 50 ships carrying oil, liquefied petroleum, chemicals and other explosive cargo, U.S.…",
    "CONSENSUS": "BTC: 62 % bärisch (5/8) · Liquidität: 67 % expandierend (6/9) · Fed: 43 % lockernd (3/7) · Geopolitik-Risiko: 100 % erhöht (8/8)",
    "CONTRARIAN": "@killaxbt (BTC bullisch): Unfortunately, $BTC is too weak to punish shorts right now.\n\n\n\nThe move up was driven largely by short covering/perps.\n\n · @xapa03 (BTC bullisch): Good morning ☕️\n\n\n\nIn 2017, Bitcoin reached its peak and subsequently entered the bear market.\n\nBitcoin found its bottom · @tedpillows (Liquidität schrumpfend): I know this sounds strange, but I'm hoping the stock market will dump further (and yes I own a lot of stocks so I also f · @timevalueofbtc (Liquidität schrumpfend): Here is the paradox about bitcoin.\n\n\n\nIt looks like the worst asset in the world when liquidity falls. But when stocks r"
   },
@@ -773,54 +758,12 @@
     "deadline": null,
     "time_horizon": null,
     "conditions": null,
-    "status": "OPEN",
-    "status_note": null,
+    "status": "INVALIDATED",
+    "status_note": "Vom Autor zurückgenommen: https://x.com/xapa03/status/2125281323380244700",
     "btc_price_when_prediction_made": 59327.5,
     "evidence": "Bitcoin dropped below the 350 weekly EMA, rose rapidly, then fell again within a week and caught itself above the 350 weekly EMA before pumping hard toward 68-69k.",
     "label": "BTC UP $68.000–69.000",
     "url": "https://x.com/xapa03/status/2125180517544808959"
-   },
-   {
-    "id": 186,
-    "account": "killaxbt",
-    "tweet_id": "2124934757826048087",
-    "prediction_date": "2026-11-23T18:35:00+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "UP",
-    "target": 126000.0,
-    "target_low": null,
-    "target_high": null,
-    "deadline": "2027-12-31T23:59:59+00:00",
-    "time_horizon": "Q4 2027",
-    "conditions": null,
-    "status": "OPEN",
-    "status_note": null,
-    "btc_price_when_prediction_made": 61214.3,
-    "evidence": "That would mean I expect $BTC to reach 126K around Q4 2027 (Oct-Dec), with Q1 2028 as the latest.",
-    "label": "BTC UP $126.000 (Q4 2027)",
-    "url": "https://x.com/killaxbt/status/2124934757826048087"
-   },
-   {
-    "id": 187,
-    "account": "xapa03",
-    "tweet_id": "2124913172146782525",
-    "prediction_date": "2026-11-23T17:09:13+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "DOWN",
-    "target": 57300.0,
-    "target_low": null,
-    "target_high": null,
-    "deadline": null,
-    "time_horizon": null,
-    "conditions": "If Bitcoin goes below 61",
-    "status": "UPDATED",
-    "status_note": "BTC DOWN $57.300 → BTC UP $68.000–69.000",
-    "btc_price_when_prediction_made": 61214.3,
-    "evidence": "If Bitcoin goes below 61,3k, i am aiming for the max target of 57.3k",
-    "label": "BTC DOWN $57.300",
-    "url": "https://x.com/xapa03/status/2124913172146782525"
    }
   ],
   "updated_predictions": [
@@ -839,53 +782,29 @@
     "tweet_id": "2124913172146782525",
     "url": "https://x.com/xapa03/status/2124913172146782525",
     "detected_at": "2026-11-24T17:01:47.020260+00:00"
-   },
-   {
-    "account": "xapa03",
-    "change": "TARGET_CHANGED",
-    "note": "BTC RANGE $62.000 → BTC UP $73.000–74.500",
-    "tweet_id": "2124887288706736465",
-    "url": "https://x.com/xapa03/status/2124887288706736465",
-    "detected_at": "2026-11-23T17:01:54.529672+00:00"
-   },
-   {
-    "account": "killaxbt",
-    "change": "TARGET_CHANGED,TIMEFRAME_CHANGED",
-    "note": "BTC UP $70.000 (this year) → BTC RANGE $63.000–64.000",
-    "tweet_id": "2124862531764445202",
-    "url": "https://x.com/killaxbt/status/2124862531764445202",
-    "detected_at": "2026-11-23T17:01:54.526656+00:00"
-   },
-   {
-    "account": "killaxbt",
-    "change": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED,CONDITION_CHANGED",
-    "note": "BTC DOWN $46.000 → BTC UP $70.000 (this year)",
-    "tweet_id": "2124576899401748506",
-    "url": "https://x.com/killaxbt/status/2124576899401748506",
-    "detected_at": "2026-11-23T17:01:54.520671+00:00"
    }
   ],
   "invalidated_predictions": [
    {
-    "id": 184,
-    "account": "killaxbt",
-    "tweet_id": "2124862531764445202",
-    "prediction_date": "2026-11-23T13:48:00+00:00",
+    "id": 188,
+    "account": "xapa03",
+    "tweet_id": "2125180517544808959",
+    "prediction_date": "2026-11-24T10:51:33+00:00",
     "asset_or_metric": "BTC",
     "prediction_type": "PRICE_TARGET",
-    "direction": "RANGE",
+    "direction": "UP",
     "target": null,
-    "target_low": 63000.0,
-    "target_high": 64000.0,
+    "target_low": 68000.0,
+    "target_high": 69000.0,
     "deadline": null,
     "time_horizon": null,
     "conditions": null,
     "status": "INVALIDATED",
-    "status_note": "Vom Autor zurückgenommen: https://x.com/killaxbt/status/2124934757826048087",
-    "btc_price_when_prediction_made": 62187.3,
-    "evidence": "First main barrier for $BTC is around the 63-64K region.",
-    "label": "BTC RANGE $63.000–64.000",
-    "url": "https://x.com/killaxbt/status/2124862531764445202"
+    "status_note": "Vom Autor zurückgenommen: https://x.com/xapa03/status/2125281323380244700",
+    "btc_price_when_prediction_made": 59327.5,
+    "evidence": "Bitcoin dropped below the 350 weekly EMA, rose rapidly, then fell again within a week and caught itself above the 350 weekly EMA before pumping hard toward 68-69k.",
+    "label": "BTC UP $68.000–69.000",
+    "url": "https://x.com/xapa03/status/2125180517544808959"
    }
   ],
   "thesis_changes": [
@@ -899,10 +818,62 @@
   ],
   "since_morning": {
    "since": "2026-11-24T06:00:00+00:00",
-   "relevant_posts": 19,
+   "relevant_posts": 23,
    "consensus_shifts": [],
    "new_predictions": 1,
    "posts": [
+    {
+     "account": "nolimitgains",
+     "tweet_id": "2125451125088272555",
+     "timestamp": "2026-11-25T04:46:51+00:00",
+     "relevance": 100,
+     "summary": "Carl Icahn was worth $26.1 BILLION in 2013. Today he's worth about $1.3 billion, per Bloomberg. That's 95% gone. He's 90, and his company just warned it might not be able to…",
+     "categories": [
+      "US_TREASURIES",
+      "ENERGY",
+      "EQUITIES",
+      "REGULATION"
+     ],
+     "url": "https://x.com/nolimitgains/status/2125451125088272555"
+    },
+    {
+     "account": "jameslavish",
+     "tweet_id": "2125365186408206518",
+     "timestamp": "2026-11-24T23:05:22+00:00",
+     "relevance": 77,
+     "summary": "The Nasdaq had its worst week since 2020 on AI fears. A blue tsunami is shaking up Washington. What's next for bitcoin: Doom, or domination? @1MarkMoss hosts and weighs in w/…",
+     "categories": [
+      "BITCOIN",
+      "EQUITIES"
+     ],
+     "url": "https://x.com/unchained/status/2125365186408206518"
+    },
+    {
+     "account": "timevalueofbtc",
+     "tweet_id": "2125338290656342494",
+     "timestamp": "2026-11-24T21:18:30+00:00",
+     "relevance": 94,
+     "summary": "Bitcoin/gold trend watchers, good afternoon the ratio hugs the 200-day moving average and is possibly carving out a higher low versus June and August the same cannot be said for…",
+     "categories": [
+      "BITCOIN",
+      "DXY",
+      "GOLD"
+     ],
+     "url": "https://x.com/timevalueofbtc/status/2125338290656342494"
+    },
+    {
+     "account": "timevalueofbtc",
+     "tweet_id": "2125327185523126597",
+     "timestamp": "2026-11-24T20:34:22+00:00",
+     "relevance": 100,
+     "summary": "🚨 NEW VIDEO 🚨 Why Bitcoin May Not Crash 80% This Time with James Seyffart @JSeyff on why no blow-off top could mean a milder bear market, why bitcoin still won't dodge a stock…",
+     "categories": [
+      "BITCOIN",
+      "BTC_ETF",
+      "EQUITIES"
+     ],
+     "url": "https://x.com/thebitcoinlayer/status/2125327185523126597"
+    },
     {
      "account": "danheld",
      "tweet_id": "2125254058303000728",
@@ -1139,12 +1110,12 @@
    ]
   },
   "stats": {
-   "posts_new": 41,
-   "posts_relevant": 7,
-   "predictions_new": 2,
-   "predictions_updated": 2,
-   "invalidated": 0,
-   "posts_analysed": 42,
+   "posts_new": 31,
+   "posts_relevant": 4,
+   "predictions_new": 0,
+   "predictions_updated": 0,
+   "invalidated": 1,
+   "posts_analysed": 31,
    "evaluated": 0
   }
  }
