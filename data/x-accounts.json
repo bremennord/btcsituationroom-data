@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-26T11:08:28.498422+00:00",
+ "generated_at": "2026-11-26T17:11:28.952627+00:00",
  "accounts": [
   {
    "handle": "killaxbt",
    "display_name": "Killa",
    "status": {
-    "ok": true,
+    "ok": false,
     "last_ok_at": "2026-11-26T11:01:37.022334+00:00",
-    "error": null
+    "error": "Account nicht verfügbar (HTTP 404)"
    },
    "bias": {
     "BTC": {
@@ -101,7 +101,7 @@
      "url": "https://x.com/killaxbt/status/2125706218706522593",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": -1.1,
+     "distance_to_target_pct": -1.3,
      "updated_by": null,
      "updates": 191,
      "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -130,7 +130,7 @@
      "url": "https://x.com/killaxbt/status/2125501850661363999",
      "verifiable": true,
      "resolved_at": "2026-11-25T15:53:36+00:00",
-     "distance_to_target_pct": -1.1,
+     "distance_to_target_pct": -1.3,
      "updated_by": null,
      "updates": 190,
      "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -157,7 +157,7 @@
      "url": "https://x.com/killaxbt/status/2125331284688068834",
      "verifiable": true,
      "resolved_at": "2026-11-25T08:08:25+00:00",
-     "distance_to_target_pct": 6.7,
+     "distance_to_target_pct": 6.6,
      "updated_by": 192,
      "updates": 186,
      "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -184,7 +184,7 @@
      "url": "https://x.com/killaxbt/status/2125331284688068834",
      "verifiable": true,
      "resolved_at": "2026-11-25T21:40:30+00:00",
-     "distance_to_target_pct": 5.1,
+     "distance_to_target_pct": 4.9,
      "updated_by": 198,
      "updates": null,
      "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -211,7 +211,7 @@
      "url": "https://x.com/killaxbt/status/2124934757826048087",
      "verifiable": true,
      "resolved_at": "2026-11-24T20:50:39+00:00",
-     "distance_to_target_pct": 108.5,
+     "distance_to_target_pct": 108.2,
      "updated_by": 190,
      "updates": null,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED,CONDITION_CHANGED"
@@ -238,7 +238,7 @@
      "url": "https://x.com/killaxbt/status/2124862531764445202",
      "verifiable": true,
      "resolved_at": "2026-11-23T18:35:00+00:00",
-     "distance_to_target_pct": 5.1,
+     "distance_to_target_pct": 4.9,
      "updated_by": null,
      "updates": 178,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -265,7 +265,7 @@
      "url": "https://x.com/killaxbt/status/2124576899401748506",
      "verifiable": true,
      "resolved_at": "2026-11-23T13:48:00+00:00",
-     "distance_to_target_pct": 15.8,
+     "distance_to_target_pct": 15.7,
      "updated_by": 184,
      "updates": 176,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -292,7 +292,7 @@
      "url": "https://x.com/killaxbt/status/2124223253019332708",
      "verifiable": true,
      "resolved_at": "2026-11-22T18:53:00+00:00",
-     "distance_to_target_pct": -23.9,
+     "distance_to_target_pct": -24.0,
      "updated_by": 178,
      "updates": null,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED,CONDITION_CHANGED"
@@ -319,7 +319,7 @@
      "url": "https://x.com/killaxbt/status/2123849425499939091",
      "verifiable": true,
      "resolved_at": "2026-11-21T03:48:18+00:00",
-     "distance_to_target_pct": -9.0,
+     "distance_to_target_pct": -9.1,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -346,7 +346,7 @@
      "url": "https://x.com/killaxbt/status/2123822628162974124",
      "verifiable": true,
      "resolved_at": "2026-11-20T17:38:28+00:00",
-     "distance_to_target_pct": 108.5,
+     "distance_to_target_pct": 108.2,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -373,7 +373,7 @@
      "url": "https://x.com/killaxbt/status/2123544690343510223",
      "verifiable": true,
      "resolved_at": "2026-11-20T16:55:47+00:00",
-     "distance_to_target_pct": -0.7,
+     "distance_to_target_pct": -0.9,
      "updated_by": null,
      "updates": 158,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -419,7 +419,7 @@
    "bias": {
     "BTC": {
      "stance": "bullish",
-     "posts": 28,
+     "posts": 26,
      "last": {
       "tweet_id": "2125673286734672145",
       "text": "Paranoia Indicator is always right, it nails every local top.\n\nBitcoin hit 57,3k, the max target, as i said! 🎯\n\nYou saw what happened, when the black bar goes to the red zone, Bitcoin dumps hard.\n\nBut whenever the black ",
@@ -515,7 +515,7 @@
      "url": "https://x.com/xapa03/status/2125673286734672145",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": -5.2,
+     "distance_to_target_pct": -5.3,
      "updated_by": null,
      "updates": 181,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED,CONDITION_CHANGED"
@@ -542,7 +542,7 @@
      "url": "https://x.com/xapa03/status/2124775574732448111",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": -5.7,
+     "distance_to_target_pct": -5.8,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -571,7 +571,7 @@
      "url": "https://x.com/xapa03/status/2125673286734672145",
      "verifiable": true,
      "resolved_at": "2026-11-26T05:01:52.383049+00:00",
-     "distance_to_target_pct": 0.1,
+     "distance_to_target_pct": -0.0,
      "updated_by": null,
      "updates": 180,
      "change_type": "CONDITION_CHANGED"
@@ -598,7 +598,7 @@
      "url": "https://x.com/xapa03/status/2125180517544808959",
      "verifiable": true,
      "resolved_at": "2026-11-24T17:32:07+00:00",
-     "distance_to_target_pct": 13.4,
+     "distance_to_target_pct": 13.2,
      "updated_by": null,
      "updates": 187,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -625,7 +625,7 @@
      "url": "https://x.com/xapa03/status/2124913172146782525",
      "verifiable": true,
      "resolved_at": "2026-11-24T10:51:33+00:00",
-     "distance_to_target_pct": -5.2,
+     "distance_to_target_pct": -5.3,
      "updated_by": 188,
      "updates": 185,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -652,7 +652,7 @@
      "url": "https://x.com/xapa03/status/2124887288706736465",
      "verifiable": true,
      "resolved_at": "2026-11-23T17:09:13+00:00",
-     "distance_to_target_pct": 22.0,
+     "distance_to_target_pct": 21.9,
      "updated_by": 187,
      "updates": 179,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED,CONDITION_CHANGED"
@@ -679,7 +679,7 @@
      "url": "https://x.com/xapa03/status/2124775574732448111",
      "verifiable": true,
      "resolved_at": "2026-11-23T15:26:22+00:00",
-     "distance_to_target_pct": 2.6,
+     "distance_to_target_pct": 2.5,
      "updated_by": 185,
      "updates": null,
      "change_type": "TARGET_CHANGED"
@@ -706,7 +706,7 @@
      "url": "https://x.com/xapa03/status/2124775574732448111",
      "verifiable": true,
      "resolved_at": "2026-11-25T19:29:39+00:00",
-     "distance_to_target_pct": 2.6,
+     "distance_to_target_pct": 2.5,
      "updated_by": 196,
      "updates": null,
      "change_type": "CONDITION_CHANGED"
@@ -733,7 +733,7 @@
      "url": "https://x.com/xapa03/status/2124775574732448111",
      "verifiable": true,
      "resolved_at": "2026-11-25T19:29:39+00:00",
-     "distance_to_target_pct": 7.6,
+     "distance_to_target_pct": 7.4,
      "updated_by": 197,
      "updates": null,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED,CONDITION_CHANGED"
@@ -760,7 +760,7 @@
      "url": "https://x.com/xapa03/status/2124775574732448111",
      "verifiable": true,
      "resolved_at": "2026-11-25T17:01:55.143368+00:00",
-     "distance_to_target_pct": -4.0,
+     "distance_to_target_pct": -4.2,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -813,7 +813,7 @@
      "url": "https://x.com/xapa03/status/2123712429851062581",
      "verifiable": true,
      "resolved_at": "2026-11-21T05:01:36.410444+00:00",
-     "distance_to_target_pct": -0.7,
+     "distance_to_target_pct": -0.9,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -853,7 +853,7 @@
    "display_name": "Open Source Intel",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-11-26T11:01:37.022334+00:00",
+    "last_ok_at": "2026-11-26T17:01:51.106824+00:00",
     "error": null
    },
    "bias": {
@@ -879,12 +879,12 @@
     },
     "GEO": {
      "stance": "elevated",
-     "posts": 110,
+     "posts": 119,
      "last": {
-      "tweet_id": "2125902195438526505",
-      "text": "IRGC Navy claims 2 tankers hit sea mines north of Khasab in the Strait of Hormuz today.\n\n\n\nOne is a supertanker carrying over 2 million barrels of crude. It was abandoned and is still burning.\n\n\n\nThe report remains unver",
-      "url": "https://x.com/osint613/status/2125902195438526505",
-      "timestamp": "2026-11-26T10:39:15+00:00"
+      "tweet_id": "2125995044846948576",
+      "text": "Iran's Marandi:\n\n\n\nIt is widely believed in Iran that the attack on Kuwait was a false flag operation, likely carried out by the Ukrainian regime, because its operatives are now present across the region, including in no",
+      "url": "https://x.com/osint613/status/2125995044846948576",
+      "timestamp": "2026-11-26T16:48:12+00:00"
      }
     }
    },
@@ -924,9 +924,9 @@
    "handle": "tuurdemeester",
    "display_name": "Tuur Demeester",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-11-26T05:01:52.155451+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-11-26T17:01:51.106824+00:00",
+    "error": null
    },
    "bias": {},
    "thesis_changes": [],
@@ -966,7 +966,7 @@
    "display_name": "Tyler",
    "status": {
     "ok": true,
-    "last_ok_at": "2026-11-26T11:01:37.022334+00:00",
+    "last_ok_at": "2026-11-26T17:01:51.106824+00:00",
     "error": null
    },
    "bias": {
@@ -1025,9 +1025,9 @@
    "handle": "zerohedge",
    "display_name": "zerohedge",
    "status": {
-    "ok": true,
+    "ok": false,
     "last_ok_at": "2026-11-26T11:01:37.022334+00:00",
-    "error": null
+    "error": "Account nicht verfügbar (HTTP 404)"
    },
    "bias": {
     "LIQUIDITY": {
@@ -1121,7 +1121,7 @@
      "url": "https://x.com/zerohedge/status/2123804407326208071",
      "verifiable": true,
      "resolved_at": "2026-11-21T17:01:38.655094+00:00",
-     "distance_to_target_pct": -0.7,
+     "distance_to_target_pct": -0.9,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -1212,19 +1212,19 @@
    "handle": "e_boeminghaus",
    "display_name": "Emanuel Boeminghaus",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-11-26T05:01:52.155451+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-11-26T17:01:51.106824+00:00",
+    "error": null
    },
    "bias": {
     "GEO": {
      "stance": "elevated",
-     "posts": 8,
+     "posts": 10,
      "last": {
-      "tweet_id": "2125580319164146045",
-      "text": "Gibt Gründe warum die SPD mausetot ist. Hier z.B. ...\nRede @bundeskanzler Merz heute war gut. Trotzdem gehört zur Wahrheit auch dazu, dass wir nicht 200 Mrd. Schulden machen müssten, wenn Erbschaftssteuer, Vermögenssteue",
-      "url": "https://x.com/e_boeminghaus/status/2125580319164146045",
-      "timestamp": "2026-11-25T13:20:14+00:00"
+      "tweet_id": "2125998313673543902",
+      "text": "Riesiger Knall aus Walldorf - SAP erwägt den Abbau von mindestens 10.000 Arbeitsplätzen.\n\n\n\nEs war nur eine Frage der Zeit! Tippe darauf, dass die Hälfte in Deutschland abgebaut wird. \n\n\n\n#SAP #Stellenabbau #Software #KI",
+      "url": "https://x.com/e_boeminghaus/status/2125998313673543902",
+      "timestamp": "2026-11-26T17:01:11+00:00"
      }
     }
    },
@@ -1264,9 +1264,9 @@
    "handle": "tedpillows",
    "display_name": "Ted",
    "status": {
-    "ok": true,
+    "ok": false,
     "last_ok_at": "2026-11-26T11:01:37.022334+00:00",
-    "error": null
+    "error": "Account nicht verfügbar (HTTP 404)"
    },
    "bias": {
     "BTC": {
@@ -1370,7 +1370,7 @@
      "url": "https://x.com/tedpillows/status/2125886684281881066",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": 7.6,
+     "distance_to_target_pct": 7.4,
      "updated_by": null,
      "updates": 189,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -1397,7 +1397,7 @@
      "url": "https://x.com/tedpillows/status/2125886684281881066",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": -4.0,
+     "distance_to_target_pct": -4.2,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -1504,7 +1504,7 @@
      "url": "https://x.com/tedpillows/status/2125299043278418375",
      "verifiable": true,
      "resolved_at": "2026-11-26T09:37:37+00:00",
-     "distance_to_target_pct": -13.1,
+     "distance_to_target_pct": -13.2,
      "updated_by": 201,
      "updates": 170,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -1531,7 +1531,7 @@
      "url": "https://x.com/tedpillows/status/2123866415245795784",
      "verifiable": true,
      "resolved_at": "2026-11-21T05:01:36.410444+00:00",
-     "distance_to_target_pct": -5.7,
+     "distance_to_target_pct": -5.8,
      "updated_by": null,
      "updates": 168,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -1558,7 +1558,7 @@
      "url": "https://x.com/tedpillows/status/2123866415245795784",
      "verifiable": true,
      "resolved_at": "2026-11-23T17:01:54.714372+00:00",
-     "distance_to_target_pct": 5.9,
+     "distance_to_target_pct": 5.8,
      "updated_by": null,
      "updates": 169,
      "change_type": "TARGET_CHANGED"
@@ -1585,7 +1585,7 @@
      "url": "https://x.com/tedpillows/status/2123816457922322731",
      "verifiable": true,
      "resolved_at": "2026-11-20T19:49:47+00:00",
-     "distance_to_target_pct": -9.0,
+     "distance_to_target_pct": -9.1,
      "updated_by": 171,
      "updates": 159,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -1612,7 +1612,7 @@
      "url": "https://x.com/tedpillows/status/2123816457922322731",
      "verifiable": true,
      "resolved_at": "2026-11-20T19:49:47+00:00",
-     "distance_to_target_pct": -0.7,
+     "distance_to_target_pct": -0.9,
      "updated_by": 172,
      "updates": null,
      "change_type": "TARGET_CHANGED"
@@ -1639,7 +1639,7 @@
      "url": "https://x.com/tedpillows/status/2123816457922322731",
      "verifiable": true,
      "resolved_at": "2026-11-24T18:42:32+00:00",
-     "distance_to_target_pct": -9.0,
+     "distance_to_target_pct": -9.1,
      "updated_by": 189,
      "updates": null,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -1666,7 +1666,7 @@
      "url": "https://x.com/tedpillows/status/2122976560919789979",
      "verifiable": true,
      "resolved_at": "2026-11-20T16:31:16+00:00",
-     "distance_to_target_pct": 8.4,
+     "distance_to_target_pct": 8.2,
      "updated_by": 168,
      "updates": 156,
      "change_type": "TARGET_CHANGED,TIMEFRAME_CHANGED"
@@ -1693,7 +1693,7 @@
      "url": "https://x.com/tedpillows/status/2122329592161608069",
      "verifiable": true,
      "resolved_at": "2026-11-18T08:53:49+00:00",
-     "distance_to_target_pct": -1.5,
+     "distance_to_target_pct": -1.7,
      "updated_by": 159,
      "updates": 153,
      "change_type": "TARGET_CHANGED"
@@ -1720,7 +1720,7 @@
      "url": "https://x.com/tedpillows/status/2121911466798252483",
      "verifiable": true,
      "resolved_at": "2026-11-16T14:03:00+00:00",
-     "distance_to_target_pct": 2.6,
+     "distance_to_target_pct": 2.5,
      "updated_by": 156,
      "updates": 152,
      "change_type": "TARGET_CHANGED,CONDITION_CHANGED"
@@ -1759,9 +1759,9 @@
    "handle": "jameslavish",
    "display_name": "James Lavish",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-11-26T05:01:52.155451+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-11-26T17:01:51.106824+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
@@ -1917,7 +1917,7 @@
      "url": "https://x.com/jameslavish/status/2123805021037044095",
      "verifiable": true,
      "resolved_at": "2026-11-21T17:01:38.655094+00:00",
-     "distance_to_target_pct": -0.7,
+     "distance_to_target_pct": -0.9,
      "updated_by": null,
      "updates": 140,
      "change_type": "TARGET_CHANGED"
@@ -1944,7 +1944,7 @@
      "url": "https://x.com/jameslavish/status/2123805021037044095",
      "verifiable": true,
      "resolved_at": "2026-11-21T05:01:36.410444+00:00",
-     "distance_to_target_pct": -4.5,
+     "distance_to_target_pct": -4.7,
      "updated_by": null,
      "updates": 141,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -1997,7 +1997,7 @@
      "url": "https://x.com/jameslavish/status/2120232177422201068",
      "verifiable": true,
      "resolved_at": "2026-11-20T15:45:50+00:00",
-     "distance_to_target_pct": 561.9,
+     "distance_to_target_pct": 561.0,
      "updated_by": 164,
      "updates": 132,
      "change_type": "TARGET_CHANGED"
@@ -2024,7 +2024,7 @@
      "url": "https://x.com/jameslavish/status/2120232177422201068",
      "verifiable": true,
      "resolved_at": "2026-11-20T15:45:50+00:00",
-     "distance_to_target_pct": 727.4,
+     "distance_to_target_pct": 726.2,
      "updated_by": 165,
      "updates": null,
      "change_type": "DIRECTION_FLIP,TARGET_CHANGED"
@@ -2169,9 +2169,9 @@
    "handle": "timevalueofbtc",
    "display_name": "Nik Bhatia",
    "status": {
-    "ok": true,
+    "ok": false,
     "last_ok_at": "2026-11-26T11:01:37.022334+00:00",
-    "error": null
+    "error": "Account nicht verfügbar (HTTP 404)"
    },
    "bias": {
     "BTC": {
@@ -2276,7 +2276,7 @@
      "url": "https://x.com/timevalueofbtc/status/2120302441929507097",
      "verifiable": true,
      "resolved_at": "2026-11-12T17:01:55.060313+00:00",
-     "distance_to_target_pct": 22.1,
+     "distance_to_target_pct": 21.9,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -2315,9 +2315,9 @@
    "handle": "danheld",
    "display_name": "Dan Held",
    "status": {
-    "ok": false,
-    "last_ok_at": "2026-11-26T05:01:52.155451+00:00",
-    "error": "Account nicht verfügbar (HTTP 404)"
+    "ok": true,
+    "last_ok_at": "2026-11-26T17:01:51.106824+00:00",
+    "error": null
    },
    "bias": {
     "BTC": {
@@ -2390,7 +2390,7 @@
      "url": "https://x.com/danheld/status/2117298145818186002",
      "verifiable": true,
      "resolved_at": null,
-     "distance_to_target_pct": 1554.8,
+     "distance_to_target_pct": 1552.4,
      "updated_by": null,
      "updates": null,
      "change_type": null
@@ -2569,7 +2569,7 @@
      "url": "https://x.com/nolimitgains/status/2124051890338206065",
      "verifiable": true,
      "resolved_at": "2026-11-23T05:02:02.134489+00:00",
-     "distance_to_target_pct": -9.0,
+     "distance_to_target_pct": -9.1,
      "updated_by": null,
      "updates": null,
      "change_type": null
