@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-27T11:11:41.926655+00:00",
- "btc_price": 61531.5,
+ "generated_at": "2026-11-27T17:10:27.222337+00:00",
+ "btc_price": 59915.4,
  "outlook": {
   "BTC": {
    "horizons": {
@@ -18,33 +18,33 @@
      "counts": {
       "pos": 4,
       "neu": 0,
-      "neg": 1
+      "neg": 0
      },
-     "accounts": 5
+     "accounts": 4
     },
     "7d": {
-     "label": "neutral / gemischt",
+     "label": "leicht bullisch",
      "counts": {
-      "pos": 4,
+      "pos": 5,
       "neu": 0,
-      "neg": 4
+      "neg": 3
      },
      "accounts": 8
     }
    },
-   "scenario": "Mehrheit (7 T): neutral / gemischt. Wahrscheinlichste Zone laut Quellen: $57k–61k bis $62k–65k; Ausbruch über $62k–65k wäre das nächste Signal.",
-   "risk": "Bruch unter $57k–61k (genannt von @killaxbt, @tedpillows, @timevalueofbtc, @xapa03, @zerohedge)",
+   "scenario": "Mehrheit (7 T): leicht bullisch. Wahrscheinlichste Zone laut Quellen: $57k–59k bis $60k–65k; Ausbruch über $60k–65k wäre das nächste Signal.",
+   "risk": "Bruch unter $57k–59k (genannt von @killaxbt, @tedpillows, @xapa03)",
    "consensus": {
-    "pos": 4,
+    "pos": 5,
     "neu": 0,
-    "neg": 4
+    "neg": 3
    },
-   "confidence": "Niedrig",
+   "confidence": "Mittel",
    "levels": {
-    "support": "$57k–61k",
-    "resistance": "$62k–65k"
+    "support": "$57k–59k",
+    "resistance": "$60k–65k"
    },
-   "n_posts": 67,
+   "n_posts": 61,
    "sources": [
     {
      "account": "xapa03",
@@ -117,37 +117,37 @@
      "accounts": 1
     },
     "3d": {
-     "label": "neutral / gemischt",
+     "label": "leicht Risk-On",
      "counts": {
       "pos": 3,
-      "neu": 0,
-      "neg": 3
+      "neu": 1,
+      "neg": 2
      },
      "accounts": 6
     },
     "7d": {
      "label": "leicht Risk-On",
      "counts": {
-      "pos": 4,
+      "pos": 3,
       "neu": 1,
       "neg": 2
      },
-     "accounts": 7
+     "accounts": 6
     }
    },
    "drivers": [
-    "Fed restriktiv (10)",
-    "wachsende Liquidität (8)",
-    "Risk-Off-Stimmung (5)"
+    "Fed restriktiv (8)",
+    "wachsende Liquidität (6)",
+    "Fed-Lockerung (4)"
    ],
    "risk": "Anstehende Termine in den Posts: PCE (11×), EARNINGS (5×), CPI (1×)",
    "consensus": {
-    "pos": 4,
+    "pos": 3,
     "neu": 1,
     "neg": 2
    },
-   "confidence": "Mittel",
-   "n_posts": 27,
+   "confidence": "Niedrig",
+   "n_posts": 22,
    "sources": [
     {
      "account": "tedpillows",
@@ -228,22 +228,22 @@
      "accounts": 2
     },
     "7d": {
-     "label": "expandierend",
+     "label": "leicht expandierend",
      "counts": {
-      "pos": 4,
-      "neu": 1,
-      "neg": 0
+      "pos": 3,
+      "neu": 0,
+      "neg": 1
      },
-     "accounts": 5
+     "accounts": 4
     }
    },
    "consensus": {
-    "pos": 4,
-    "neu": 1,
-    "neg": 0
+    "pos": 3,
+    "neu": 0,
+    "neg": 1
    },
-   "confidence": "Hoch",
-   "n_posts": 10,
+   "confidence": "Mittel",
+   "n_posts": 7,
    "sources": [
     {
      "account": "jameslavish",
@@ -258,27 +258,6 @@
      "url": "https://x.com/nolimitgains/status/2124202077228318914",
      "summary": "The S&P 500 just had its worst week since April 2025. The Nasdaq had its worst week since March 2020. Nvidia fell 14% in a single day. And I'm not panicking. Here's what's really…",
      "timestamp": "2026-11-21T18:03:35+00:00"
-    },
-    {
-     "account": "killaxbt",
-     "tweet_id": "2123822628162974124",
-     "url": "https://x.com/killaxbt/status/2123822628162974124",
-     "summary": "You’ve got mfs going around claiming this drop was predictable and expected. Fuck off, was it? You’re telling me Bitcoin rallied 50% from what looked like a textbook bottoming…",
-     "timestamp": "2026-11-20T16:55:47+00:00"
-    },
-    {
-     "account": "jameslavish",
-     "tweet_id": "2123808941960569024",
-     "url": "https://x.com/jameslavish/status/2123808941960569024",
-     "summary": "I now attach a 0% probability that the Fed will raise rates by 50 basis points in December. But they are still loudly declaring that they must raise at least one more time in…",
-     "timestamp": "2026-11-20T16:01:24+00:00"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2123767128666812437",
-     "url": "https://x.com/tedpillows/status/2123767128666812437",
-     "summary": "I know this sounds strange, but I'm hoping the stock market will dump further (and yes I own a lot of stocks so I also feel this pain). Not a crash, just enough pressure. Right…",
-     "timestamp": "2026-11-20T13:15:15+00:00"
     },
     {
      "account": "tedpillows",
@@ -300,6 +279,20 @@
      "url": "https://x.com/tedpillows/status/2125899162642469303",
      "summary": "If you quit here, you’ll regret it forever. When the printer goes back on the market will go to new ATHs and we are now close to a bottom.",
      "timestamp": "2026-11-26T10:27:12+00:00"
+    },
+    {
+     "account": "osint613",
+     "tweet_id": "2125177400082178404",
+     "url": "https://x.com/osint613/status/2125177400082178404",
+     "summary": "On orders from Tehran, the IRGC has begun moving its operatives and logistical equipment out of its headquarters in Beirut's Dahiya and the surrounding area to the Beqaa Valley.…",
+     "timestamp": "2026-11-24T10:39:10+00:00"
+    },
+    {
+     "account": "osint613",
+     "tweet_id": "2125871509675672000",
+     "url": "https://x.com/osint613/status/2125871509675672000",
+     "summary": "IRGC Spokesperson: The IRGC’s missile production has not stopped at all. In terms of missiles, offensive weapons and air defense systems, we are in a much better position than the…",
+     "timestamp": "2026-11-26T08:37:19+00:00"
     }
    ]
   },
@@ -308,7 +301,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 42,
+     "posts": 48,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -326,7 +319,7 @@
      ]
     }
    ],
-   "n_posts": 90,
+   "n_posts": 93,
    "sources": [
     {
      "account": "jameslavish",
@@ -389,76 +382,15 @@
   }
  },
  "changed": {
-  "since": "2026-11-27T05:12:23.622988+00:00",
-  "new": [
-   {
-    "account": "xapa03",
-    "text": "BTC RANGE $60.600",
-    "url": "https://x.com/xapa03/status/2126221294329020562"
-   },
-   {
-    "account": "xapa03",
-    "text": "BTC RANGE $62.000",
-    "url": "https://x.com/xapa03/status/2126221294329020562"
-   },
-   {
-    "account": "xapa03",
-    "text": "BTC UP $64.000–65.000",
-    "url": "https://x.com/xapa03/status/2126221294329020562"
-   },
-   {
-    "account": "xapa03",
-    "text": "BTC DOWN $57.300",
-    "url": "https://x.com/xapa03/status/2125896964332232981"
-   },
-   {
-    "account": "xapa03",
-    "text": "BTC UP $64.000 (this week)",
-    "url": "https://x.com/xapa03/status/2125896964332232981"
-   },
-   {
-    "account": "xapa03",
-    "text": "1. picture is 1W View: A few days ago I already showed you this pattern here, and it still seems to be valid. Bitcoin hit the maximum target I mentioned in advance exactly:…",
-    "url": "https://x.com/xapa03/status/2125896964332232981"
-   }
+  "since": "2026-11-27T11:11:51.113900+00:00",
+  "new": [],
+  "changed": [],
+  "new_consensus": [
+   "Bitcoin: neutral / gemischt → leicht bullisch",
+   "Liquidität: expandierend → leicht expandierend"
   ],
-  "changed": [
-   {
-    "account": "xapa03",
-    "text": "vorher BTC DOWN $57.300, jetzt BTC UP $64.000 (this week)",
-    "url": "https://x.com/xapa03/status/2125896964332232981"
-   },
-   {
-    "account": "xapa03",
-    "text": "vorher BTC DOWN $57.000, jetzt BTC UP $65.000",
-    "url": "https://x.com/xapa03/status/2125896964332232981"
-   },
-   {
-    "account": "xapa03",
-    "text": "vorher BTC DOWN $58.000 (vor dem nächsten Ziel), jetzt BTC RANGE $60.600",
-    "url": "https://x.com/xapa03/status/2126221294329020562"
-   },
-   {
-    "account": "xapa03",
-    "text": "vorher BTC UP $65.000, jetzt BTC RANGE $62.000",
-    "url": "https://x.com/xapa03/status/2126221294329020562"
-   },
-   {
-    "account": "xapa03",
-    "text": "vorher BTC UP $68.000–69.000, jetzt BTC UP $64.000–65.000",
-    "url": "https://x.com/xapa03/status/2126221294329020562"
-   },
-   {
-    "account": "xapa03",
-    "text": "nimmt zurück: BTC UP $64.000 (this week)",
-    "url": "https://x.com/xapa03/status/2125896964332232981"
-   }
-  ],
-  "new_consensus": [],
   "no_change": [
-   "Bitcoin bleibt neutral / gemischt",
    "Makro bleibt leicht Risk-On",
-   "Liquidität bleibt expandierend",
    "Geopolitisches Risiko bleibt Hoch"
   ]
  },
@@ -560,7 +492,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-26T09:37:37+00:00",
-   "distance_pct": 5.6,
+   "distance_pct": 8.5,
    "conditions": null,
    "evidence": "A reclaim of this could push Bitcoin to $65,000."
   },
@@ -571,7 +503,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-26T09:37:37+00:00",
-   "distance_pct": -5.8,
+   "distance_pct": -3.2,
    "conditions": null,
    "evidence": "A rejection here means BTC will likely drop below $58,000."
   },
@@ -582,7 +514,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-27T07:47:14+00:00",
-   "distance_pct": -1.6,
+   "distance_pct": 1.1,
    "conditions": null,
    "evidence": "It is possible for Bitcoin to revisit 60,600$ and then go up another time or rangebound here, jump out of the overheated zone and re enter it, happens sometimes."
   },
@@ -593,7 +525,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-27T07:47:14+00:00",
-   "distance_pct": 0.7,
+   "distance_pct": 3.5,
    "conditions": null,
    "evidence": "Bitcoin has managed to reclaim this area, which suggests that the $62,000 level will serve as the first major resistance zone."
   },
@@ -604,7 +536,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-27T07:47:14+00:00",
-   "distance_pct": 4.8,
+   "distance_pct": 7.7,
    "conditions": "Once the area around 62k is secured as support",
    "evidence": "Once the area around 62k is secured as support, even if only temporarily, $64,000 to $65,000 would be the next target, before Bitcoin could potentially fall back toward $58,000."
   }
@@ -735,11 +667,11 @@
  },
  "daily": {
   "report_date": "2026-11-27",
-  "generated_at": "2026-11-27T11:01:41.288220+00:00",
+  "generated_at": "2026-11-27T17:01:43.587392+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-11-26T11:01:41.121745+00:00",
-   "to": "2026-11-27T11:01:41.288220+00:00"
+   "from": "2026-11-26T17:01:43.559528+00:00",
+   "to": "2026-11-27T17:01:43.587392+00:00"
   },
   "key_points": [
    {
@@ -774,13 +706,13 @@
    }
   ],
   "sections": {
-   "TOP_DEVELOPMENTS": "@xapa03: The paranoia indicator captured the high with pinpoint accuracy and signaled us to enter a long position when the black bar returned to the green zone at $57,300. I gave you the… · @killaxbt: When $BTC was at 126K, 0-7 of the most reliable top flashing indicators never flashed. In every single cycle before hand, 95% of them flashed. Not long after, the top was in. I… · @danheld: Thanksgiving dinner for 10 cost $46.90 in 2020. Today it's $58.63. Up 25% in six years, with turkey up 10% since last year. And the Fed target rate of inflation is supposedly 2% 🙄",
-   "BTC_OUTLOOK": "Stimmung 50 % bullisch (8/12 Accounts mit Meinung). Median offener Kursziele $64.500. @xapa03: The paranoia indicator captured the high with pinpoint accuracy and signaled us to enter a long position when the black bar returned to the green zone at $57,300. I gave you the… · @killaxbt: When $BTC was at 126K, 0-7 of the most reliable top flashing indicators never flashed. In every single cycle before hand, 95% of them flashed. Not long after, the top was in. I… · @tedpillows: If you had invested $10,000 at the start of Q4 2026, you would have: S&P 500: $9,369 Nasdaq: $8,590 Gold: $8,577 Bitcoin: $7,147 Silver: $6,786 Nvidia: $6,467 XRP: $6,356…",
-   "MACRO_OUTLOOK": "@danheld: Thanksgiving dinner for 10 cost $46.90 in 2020. Today it's $58.63. Up 25% in six years, with turkey up 10% since last year. And the Fed target rate of inflation is supposedly 2% 🙄 · @tedpillows: If you had invested $10,000 at the start of Q4 2026, you would have: S&P 500: $9,369 Nasdaq: $8,590 Gold: $8,577 Bitcoin: $7,147 Silver: $6,786 Nvidia: $6,467 XRP: $6,356… · @nolimitgains: Silver hit almost $50 an ounce in January 1980. Today it's around $41. So if you bought the top and held for 46 years, you're down 17%. And that's BEFORE inflation. Adjust for…",
-   "GLOBAL_LIQUIDITY": "@xapa03: Happy Thanksgiving to each and everyone of you out there celebrating! As a sign of my gratitude, I have prepared a detailed update on $BTC and BTC/USM2 for you, my dear fellas.🦃… · @tedpillows: Stablecoin MCap has dropped $31,000,000,000 in the past 6 months. For a strong reversal, we need fresh liquidity.",
-   "FED_RATES": "@danheld: Thanksgiving dinner for 10 cost $46.90 in 2020. Today it's $58.63. Up 25% in six years, with turkey up 10% since last year. And the Fed target rate of inflation is supposedly 2% 🙄",
+   "TOP_DEVELOPMENTS": "@xapa03: The paranoia indicator captured the high with pinpoint accuracy and signaled us to enter a long position when the black bar returned to the green zone at $57,300. I gave you the… · @killaxbt: A lot of $BTC has been accumulated throughout this entire move down, With the strongest concentration of bids between $56K and $64K. There are also scattered bids sitting below… · @timevalueofbtc: Bitcoin has finally crawled back to its 200- *checks notes* -hour moving average",
+   "BTC_OUTLOOK": "Stimmung 50 % bullisch (8/12 Accounts mit Meinung). Median offener Kursziele $64.500. @xapa03: The paranoia indicator captured the high with pinpoint accuracy and signaled us to enter a long position when the black bar returned to the green zone at $57,300. I gave you the… · @killaxbt: A lot of $BTC has been accumulated throughout this entire move down, With the strongest concentration of bids between $56K and $64K. There are also scattered bids sitting below… · @timevalueofbtc: Bitcoin has finally crawled back to its 200- *checks notes* -hour moving average",
+   "MACRO_OUTLOOK": "Keine relevanten Aussagen.",
+   "GLOBAL_LIQUIDITY": "@xapa03: Happy Thanksgiving to each and everyone of you out there celebrating! As a sign of my gratitude, I have prepared a detailed update on $BTC and BTC/USM2 for you, my dear fellas.🦃…",
+   "FED_RATES": "Keine relevanten Aussagen.",
    "DXY_TREASURIES": "@tedpillows: $DXY is forming a bearish divergence while MACD is close to flipping bearish. A dump in the DXY here could give relief to risk-on assets.",
-   "GOLD": "@tedpillows: If you had invested $10,000 at the start of Q4 2026, you would have: S&P 500: $9,369 Nasdaq: $8,590 Gold: $8,577 Bitcoin: $7,147 Silver: $6,786 Nvidia: $6,467 XRP: $6,356… · @nolimitgains: Silver hit almost $50 an ounce in January 1980. Today it's around $41. So if you bought the top and held for 46 years, you're down 17%. And that's BEFORE inflation. Adjust for…",
+   "GOLD": "Keine relevanten Aussagen.",
    "GEOPOLITICS": "Keine relevanten Aussagen.",
    "CONSENSUS": "BTC: 50 % bullisch (4/8) · Liquidität: 78 % expandierend (7/9) · Fed: 62 % lockernd (5/8) · Geopolitik-Risiko: 100 % erhöht (8/8)",
    "CONTRARIAN": "@tylerdurden (BTC bärisch): Bitcoin bottom $50k ish.\n\n\n\nTail risk and capitulation then you’ll see $40-45k.\n\n\n\nStart your DCA. · @tedpillows (BTC bärisch): $BTC has massive spot bids sitting between $50K and $58K.\n\n\n\nThis is something we saw during July bottom, when buy order · @timevalueofbtc (Liquidität schrumpfend): Here is the paradox about bitcoin.\n\n\n\nIt looks like the worst asset in the world when liquidity falls. But when stocks r · @tedpillows (Fed straffend): Silver, gold, stocks, crypto, everything’s crashing like there’s no tomorrow.\n\n\n\nAnd if the Fed hikes rates in December,"
@@ -848,27 +780,6 @@
     "evidence": "Once the area around 62k is secured as support, even if only temporarily, $64,000 to $65,000 would be the next target, before Bitcoin could potentially fall back toward $58,000.",
     "label": "BTC UP $64.000–65.000",
     "url": "https://x.com/xapa03/status/2126221294329020562"
-   },
-   {
-    "id": 203,
-    "account": "killaxbt",
-    "tweet_id": "2125923307845222515",
-    "prediction_date": "2026-11-26T12:03:08+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "UP",
-    "target": 126000.0,
-    "target_low": null,
-    "target_high": null,
-    "deadline": null,
-    "time_horizon": null,
-    "conditions": null,
-    "status": "OPEN",
-    "status_note": null,
-    "btc_price_when_prediction_made": 60499.2,
-    "evidence": "At 126K, many of the most reliable top indicators never flashed before BTC topped.",
-    "label": "BTC UP $126.000",
-    "url": "https://x.com/killaxbt/status/2125923307845222515"
    }
   ],
   "updated_predictions": [
@@ -922,27 +833,6 @@
    }
   ],
   "invalidated_predictions": [
-   {
-    "id": 204,
-    "account": "xapa03",
-    "tweet_id": "2125896964332232981",
-    "prediction_date": "2026-11-26T10:18:28+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "DOWN",
-    "target": 57300.0,
-    "target_low": null,
-    "target_high": null,
-    "deadline": null,
-    "time_horizon": null,
-    "conditions": null,
-    "status": "INVALIDATED",
-    "status_note": "Vom Autor zurückgenommen: https://x.com/xapa03/status/2125912750706561172",
-    "btc_price_when_prediction_made": 60499.2,
-    "evidence": "Bitcoin hit the maximum target I mentioned in advance exactly: $57,300.",
-    "label": "BTC DOWN $57.300",
-    "url": "https://x.com/xapa03/status/2125896964332232981"
-   },
    {
     "id": 205,
     "account": "xapa03",
@@ -1030,12 +920,12 @@
    ]
   },
   "stats": {
-   "posts_new": 37,
-   "posts_relevant": 3,
-   "predictions_new": 8,
-   "predictions_updated": 5,
-   "invalidated": 2,
-   "posts_analysed": 37,
+   "posts_new": 27,
+   "posts_relevant": 0,
+   "predictions_new": 0,
+   "predictions_updated": 0,
+   "invalidated": 0,
+   "posts_analysed": 27,
    "evaluated": 0
   }
  }
