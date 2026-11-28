@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-27T17:10:27.222337+00:00",
- "btc_price": 59915.4,
+ "generated_at": "2026-11-28T05:25:53.823047+00:00",
+ "btc_price": 59770.5,
  "outlook": {
   "BTC": {
    "horizons": {
     "24h": {
-     "label": "bullisch",
+     "label": "zu wenige Aussagen",
      "counts": {
-      "pos": 2,
+      "pos": 1,
       "neu": 0,
       "neg": 0
      },
-     "accounts": 2
+     "accounts": 1
     },
     "3d": {
      "label": "bullisch",
@@ -27,24 +27,24 @@
      "counts": {
       "pos": 5,
       "neu": 0,
-      "neg": 3
+      "neg": 2
      },
-     "accounts": 8
+     "accounts": 7
     }
    },
-   "scenario": "Mehrheit (7 T): leicht bullisch. Wahrscheinlichste Zone laut Quellen: $57k–59k bis $60k–65k; Ausbruch über $60k–65k wäre das nächste Signal.",
+   "scenario": "Mehrheit (7 T): leicht bullisch. Wahrscheinlichste Zone laut Quellen: $57k–59k bis $60k–61k; Ausbruch über $60k–61k wäre das nächste Signal.",
    "risk": "Bruch unter $57k–59k (genannt von @killaxbt, @tedpillows, @xapa03)",
    "consensus": {
     "pos": 5,
     "neu": 0,
-    "neg": 3
+    "neg": 2
    },
-   "confidence": "Mittel",
+   "confidence": "Hoch",
    "levels": {
     "support": "$57k–59k",
-    "resistance": "$60k–65k"
+    "resistance": "$60k–61k"
    },
-   "n_posts": 61,
+   "n_posts": 57,
    "sources": [
     {
      "account": "xapa03",
@@ -110,11 +110,11 @@
     "24h": {
      "label": "zu wenige Aussagen",
      "counts": {
-      "pos": 1,
+      "pos": 0,
       "neu": 0,
       "neg": 0
      },
-     "accounts": 1
+     "accounts": 0
     },
     "3d": {
      "label": "leicht Risk-On",
@@ -128,26 +128,26 @@
     "7d": {
      "label": "leicht Risk-On",
      "counts": {
-      "pos": 3,
-      "neu": 1,
+      "pos": 4,
+      "neu": 0,
       "neg": 2
      },
      "accounts": 6
     }
    },
    "drivers": [
-    "Fed restriktiv (8)",
     "wachsende Liquidität (6)",
+    "Fed restriktiv (6)",
     "Fed-Lockerung (4)"
    ],
    "risk": "Anstehende Termine in den Posts: PCE (11×), EARNINGS (5×), CPI (1×)",
    "consensus": {
-    "pos": 3,
-    "neu": 1,
+    "pos": 4,
+    "neu": 0,
     "neg": 2
    },
-   "confidence": "Niedrig",
-   "n_posts": 22,
+   "confidence": "Mittel",
+   "n_posts": 20,
    "sources": [
     {
      "account": "tedpillows",
@@ -301,7 +301,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 48,
+     "posts": 46,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -319,7 +319,7 @@
      ]
     }
    ],
-   "n_posts": 93,
+   "n_posts": 94,
    "sources": [
     {
      "account": "jameslavish",
@@ -334,20 +334,6 @@
      "url": "https://x.com/nolimitgains/status/2125601172828336274",
      "summary": "🚨 THE MARKET IS CRASHING The Nasdaq is down over 3%, the S&P 500 over 2% and Nvidia about 8%, all within minutes of the open. The VIX is back above 30. Here's why: 1. New tariffs…",
      "timestamp": "2026-11-25T14:43:06+00:00"
-    },
-    {
-     "account": "nolimitgains",
-     "tweet_id": "2125451125088272555",
-     "url": "https://x.com/nolimitgains/status/2125451125088272555",
-     "summary": "Carl Icahn was worth $26.1 BILLION in 2013. Today he's worth about $1.3 billion, per Bloomberg. That's 95% gone. He's 90, and his company just warned it might not be able to…",
-     "timestamp": "2026-11-25T04:46:51+00:00"
-    },
-    {
-     "account": "tedpillows",
-     "tweet_id": "2125299043278418375",
-     "url": "https://x.com/tedpillows/status/2125299043278418375",
-     "summary": "$BTC is struggling to hold above the $60,000 level. Precious metals are selling off, and AI stocks are down too. Yesterday's pump was more like a short squeeze, and now slow bleed…",
-     "timestamp": "2026-11-24T18:42:32+00:00"
     },
     {
      "account": "timevalueofbtc",
@@ -376,21 +362,40 @@
      "url": "https://x.com/osint613/status/2125496398208725111",
      "summary": "Saudi-led coalition: 4 drones intercepted over Ras Tanura. Debris fell in the area. The Houthis claim they went after the Ras Tanura refinery and Riyadh's King Abdullah Financial…",
      "timestamp": "2026-11-25T07:46:45+00:00"
+    },
+    {
+     "account": "osint613",
+     "tweet_id": "2125540656068038902",
+     "url": "https://x.com/osint613/status/2125540656068038902",
+     "summary": "IRGC claims two oil tankers sailing an unauthorized route in the Strait of Hormuz broke regulations and collided with 'sea mines' earlier this morning. Both vessels caught fire,…",
+     "timestamp": "2026-11-25T10:42:37+00:00"
+    },
+    {
+     "account": "osint613",
+     "tweet_id": "2125902195438526505",
+     "url": "https://x.com/osint613/status/2125902195438526505",
+     "summary": "IRGC Navy claims 2 tankers hit sea mines north of Khasab in the Strait of Hormuz today. One is a supertanker carrying over 2 million barrels of crude. It was abandoned and is…",
+     "timestamp": "2026-11-26T10:39:15+00:00"
     }
    ],
    "impact_kind": "Typisches Marktmuster (Systemeinschätzung, keine Prognose)"
   }
  },
  "changed": {
-  "since": "2026-11-27T11:11:51.113900+00:00",
-  "new": [],
-  "changed": [],
-  "new_consensus": [
-   "Bitcoin: neutral / gemischt → leicht bullisch",
-   "Liquidität: expandierend → leicht expandierend"
+  "since": "2026-11-27T17:10:36.173174+00:00",
+  "new": [
+   {
+    "account": "nolimitgains",
+    "text": "BREAKING: Regulators just shut down Indiana's United Fidelity Bank, which had $5.9 billion in assets. It's the biggest US bank failure since April 2024. First Citizens, the same…",
+    "url": "https://x.com/nolimitgains/status/2126540566791942553"
+   }
   ],
+  "changed": [],
+  "new_consensus": [],
   "no_change": [
+   "Bitcoin bleibt leicht bullisch",
    "Makro bleibt leicht Risk-On",
+   "Liquidität bleibt leicht expandierend",
    "Geopolitisches Risiko bleibt Hoch"
   ]
  },
@@ -667,11 +672,11 @@
  },
  "daily": {
   "report_date": "2026-11-27",
-  "generated_at": "2026-11-27T17:01:43.587392+00:00",
+  "generated_at": "2026-11-28T05:01:37.002777+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-11-26T17:01:43.559528+00:00",
-   "to": "2026-11-27T17:01:43.587392+00:00"
+   "from": "2026-11-27T05:01:36.970638+00:00",
+   "to": "2026-11-28T05:01:37.002777+00:00"
   },
   "key_points": [
    {
@@ -687,9 +692,9 @@
     ]
    },
    {
-    "text": "@timevalueofbtc wechselt BTC-These: bärisch → bullisch",
+    "text": "@tedpillows wechselt Liquidität-These: schrumpfend → expandierend",
     "ids": [
-     "2125700140568858989"
+     "2125899162642469303"
     ]
    },
    {
@@ -699,21 +704,21 @@
     ]
    },
    {
-    "text": "@xapa03: Happy Thanksgiving to each and everyone of you out there celebrating! As a sign of my gratitude, I have prepared a detailed update on $BTC and BTC/USM2 for you, my dear fellas.🦃…",
+    "text": "@nolimitgains: BREAKING: Regulators just shut down Indiana's United Fidelity Bank, which had $5.9 billion in assets. It's the biggest US bank failure since April 2024. First Citizens, the same…",
     "ids": [
-     "2126055259168760238"
+     "2126540566791942553"
     ]
    }
   ],
   "sections": {
-   "TOP_DEVELOPMENTS": "@xapa03: The paranoia indicator captured the high with pinpoint accuracy and signaled us to enter a long position when the black bar returned to the green zone at $57,300. I gave you the… · @killaxbt: A lot of $BTC has been accumulated throughout this entire move down, With the strongest concentration of bids between $56K and $64K. There are also scattered bids sitting below… · @timevalueofbtc: Bitcoin has finally crawled back to its 200- *checks notes* -hour moving average",
-   "BTC_OUTLOOK": "Stimmung 50 % bullisch (8/12 Accounts mit Meinung). Median offener Kursziele $64.500. @xapa03: The paranoia indicator captured the high with pinpoint accuracy and signaled us to enter a long position when the black bar returned to the green zone at $57,300. I gave you the… · @killaxbt: A lot of $BTC has been accumulated throughout this entire move down, With the strongest concentration of bids between $56K and $64K. There are also scattered bids sitting below… · @timevalueofbtc: Bitcoin has finally crawled back to its 200- *checks notes* -hour moving average",
-   "MACRO_OUTLOOK": "Keine relevanten Aussagen.",
-   "GLOBAL_LIQUIDITY": "@xapa03: Happy Thanksgiving to each and everyone of you out there celebrating! As a sign of my gratitude, I have prepared a detailed update on $BTC and BTC/USM2 for you, my dear fellas.🦃…",
+   "TOP_DEVELOPMENTS": "@xapa03: The paranoia indicator captured the high with pinpoint accuracy and signaled us to enter a long position when the black bar returned to the green zone at $57,300. I gave you the… · @nolimitgains: BREAKING: Regulators just shut down Indiana's United Fidelity Bank, which had $5.9 billion in assets. It's the biggest US bank failure since April 2024. First Citizens, the same…",
+   "BTC_OUTLOOK": "Stimmung 50 % bullisch (8/12 Accounts mit Meinung). Median offener Kursziele $64.500. @xapa03: The paranoia indicator captured the high with pinpoint accuracy and signaled us to enter a long position when the black bar returned to the green zone at $57,300. I gave you the… · @nolimitgains: BREAKING: Regulators just shut down Indiana's United Fidelity Bank, which had $5.9 billion in assets. It's the biggest US bank failure since April 2024. First Citizens, the same…",
+   "MACRO_OUTLOOK": "@nolimitgains: BREAKING: Regulators just shut down Indiana's United Fidelity Bank, which had $5.9 billion in assets. It's the biggest US bank failure since April 2024. First Citizens, the same…",
+   "GLOBAL_LIQUIDITY": "Keine relevanten Aussagen.",
    "FED_RATES": "Keine relevanten Aussagen.",
-   "DXY_TREASURIES": "@tedpillows: $DXY is forming a bearish divergence while MACD is close to flipping bearish. A dump in the DXY here could give relief to risk-on assets.",
+   "DXY_TREASURIES": "Keine relevanten Aussagen.",
    "GOLD": "Keine relevanten Aussagen.",
-   "GEOPOLITICS": "Keine relevanten Aussagen.",
+   "GEOPOLITICS": "@nolimitgains: The way Bloomberg found Nvidia chips in China is actually insane. A Chinese company used an Nvidia Blackwell rack as COLLATERAL for a loan and listed it in filings to regulators.…",
    "CONSENSUS": "BTC: 50 % bullisch (4/8) · Liquidität: 78 % expandierend (7/9) · Fed: 62 % lockernd (5/8) · Geopolitik-Risiko: 100 % erhöht (8/8)",
    "CONTRARIAN": "@tylerdurden (BTC bärisch): Bitcoin bottom $50k ish.\n\n\n\nTail risk and capitulation then you’ll see $40-45k.\n\n\n\nStart your DCA. · @tedpillows (BTC bärisch): $BTC has massive spot bids sitting between $50K and $58K.\n\n\n\nThis is something we saw during July bottom, when buy order · @timevalueofbtc (Liquidität schrumpfend): Here is the paradox about bitcoin.\n\n\n\nIt looks like the worst asset in the world when liquidity falls. But when stocks r · @tedpillows (Fed straffend): Silver, gold, stocks, crypto, everything’s crashing like there’s no tomorrow.\n\n\n\nAnd if the Fed hikes rates in December,"
   },
@@ -857,13 +862,6 @@
   ],
   "thesis_changes": [
    {
-    "account": "timevalueofbtc",
-    "topic": "BTC",
-    "from": "bearish",
-    "to": "bullish",
-    "tweet_id": "2125700140568858989"
-   },
-   {
     "account": "tedpillows",
     "topic": "LIQUIDITY",
     "from": "contracting",
@@ -873,10 +871,36 @@
   ],
   "since_morning": {
    "since": "2026-11-27T06:00:00+00:00",
-   "relevant_posts": 3,
+   "relevant_posts": 5,
    "consensus_shifts": [],
    "new_predictions": 3,
    "posts": [
+    {
+     "account": "nolimitgains",
+     "tweet_id": "2126540566791942553",
+     "timestamp": "2026-11-28T04:55:54+00:00",
+     "relevance": 86,
+     "summary": "BREAKING: Regulators just shut down Indiana's United Fidelity Bank, which had $5.9 billion in assets. It's the biggest US bank failure since April 2024. First Citizens, the same…",
+     "categories": [
+      "BTC_ETF",
+      "BANKING",
+      "REGULATION"
+     ],
+     "url": "https://x.com/nolimitgains/status/2126540566791942553"
+    },
+    {
+     "account": "nolimitgains",
+     "tweet_id": "2126374946091987417",
+     "timestamp": "2026-11-27T17:57:47+00:00",
+     "relevance": 62,
+     "summary": "The way Bloomberg found Nvidia chips in China is actually insane. A Chinese company used an Nvidia Blackwell rack as COLLATERAL for a loan and listed it in filings to regulators.…",
+     "categories": [
+      "EQUITIES",
+      "GEOPOLITICS",
+      "REGULATION"
+     ],
+     "url": "https://x.com/nolimitgains/status/2126374946091987417"
+    },
     {
      "account": "xapa03",
      "tweet_id": "2126221294329020562",
@@ -920,12 +944,12 @@
    ]
   },
   "stats": {
-   "posts_new": 27,
-   "posts_relevant": 0,
+   "posts_new": 42,
+   "posts_relevant": 2,
    "predictions_new": 0,
    "predictions_updated": 0,
    "invalidated": 0,
-   "posts_analysed": 27,
+   "posts_analysed": 42,
    "evaluated": 0
   }
  }
