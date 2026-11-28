@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-28T05:25:53.823047+00:00",
- "btc_price": 59770.5,
+ "generated_at": "2026-11-28T11:15:39.529773+00:00",
+ "btc_price": 59207.4,
  "outlook": {
   "BTC": {
    "horizons": {
@@ -32,8 +32,8 @@
      "accounts": 7
     }
    },
-   "scenario": "Mehrheit (7 T): leicht bullisch. Wahrscheinlichste Zone laut Quellen: $57k–59k bis $60k–61k; Ausbruch über $60k–61k wäre das nächste Signal.",
-   "risk": "Bruch unter $57k–59k (genannt von @killaxbt, @tedpillows, @xapa03)",
+   "scenario": "Mehrheit (7 T): leicht bullisch. Wahrscheinlichste Zone laut Quellen: $57k–58k bis $60k–61k; Ausbruch über $60k–61k wäre das nächste Signal.",
+   "risk": "Bruch unter $57k–58k (genannt von @killaxbt, @tedpillows, @xapa03)",
    "consensus": {
     "pos": 5,
     "neu": 0,
@@ -41,10 +41,10 @@
    },
    "confidence": "Hoch",
    "levels": {
-    "support": "$57k–59k",
+    "support": "$57k–58k",
     "resistance": "$60k–61k"
    },
-   "n_posts": 57,
+   "n_posts": 54,
    "sources": [
     {
      "account": "xapa03",
@@ -301,7 +301,7 @@
    "themes": [
     {
      "name": "Nahost",
-     "posts": 46,
+     "posts": 40,
      "impact": [
       "Öl ↑",
       "Gold ↑",
@@ -311,7 +311,7 @@
     },
     {
      "name": "Russland / Ukraine",
-     "posts": 25,
+     "posts": 19,
      "impact": [
       "Energie ↑",
       "Europa-Risiko ↑",
@@ -319,7 +319,7 @@
      ]
     }
    ],
-   "n_posts": 94,
+   "n_posts": 80,
    "sources": [
     {
      "account": "jameslavish",
@@ -358,36 +358,41 @@
     },
     {
      "account": "osint613",
-     "tweet_id": "2125496398208725111",
-     "url": "https://x.com/osint613/status/2125496398208725111",
-     "summary": "Saudi-led coalition: 4 drones intercepted over Ras Tanura. Debris fell in the area. The Houthis claim they went after the Ras Tanura refinery and Riyadh's King Abdullah Financial…",
-     "timestamp": "2026-11-25T07:46:45+00:00"
-    },
-    {
-     "account": "osint613",
-     "tweet_id": "2125540656068038902",
-     "url": "https://x.com/osint613/status/2125540656068038902",
-     "summary": "IRGC claims two oil tankers sailing an unauthorized route in the Strait of Hormuz broke regulations and collided with 'sea mines' earlier this morning. Both vessels caught fire,…",
-     "timestamp": "2026-11-25T10:42:37+00:00"
-    },
-    {
-     "account": "osint613",
      "tweet_id": "2125902195438526505",
      "url": "https://x.com/osint613/status/2125902195438526505",
      "summary": "IRGC Navy claims 2 tankers hit sea mines north of Khasab in the Strait of Hormuz today. One is a supertanker carrying over 2 million barrels of crude. It was abandoned and is…",
      "timestamp": "2026-11-26T10:39:15+00:00"
+    },
+    {
+     "account": "nolimitgains",
+     "tweet_id": "2126374946091987417",
+     "url": "https://x.com/nolimitgains/status/2126374946091987417",
+     "summary": "The way Bloomberg found Nvidia chips in China is actually insane. A Chinese company used an Nvidia Blackwell rack as COLLATERAL for a loan and listed it in filings to regulators.…",
+     "timestamp": "2026-11-27T17:57:47+00:00"
+    },
+    {
+     "account": "osint613",
+     "tweet_id": "2126387343246393709",
+     "url": "https://x.com/osint613/status/2126387343246393709",
+     "summary": "CENTCOM disabled a commercial vessel in the Gulf of Oman, Nov. 26, after the crew attempted to run the U.S. naval blockade, despite multiple warnings, following departure from…",
+     "timestamp": "2026-11-27T18:47:03+00:00"
     }
    ],
    "impact_kind": "Typisches Marktmuster (Systemeinschätzung, keine Prognose)"
   }
  },
  "changed": {
-  "since": "2026-11-27T17:10:36.173174+00:00",
+  "since": "2026-11-28T05:26:03.477677+00:00",
   "new": [
    {
-    "account": "nolimitgains",
-    "text": "BREAKING: Regulators just shut down Indiana's United Fidelity Bank, which had $5.9 billion in assets. It's the biggest US bank failure since April 2024. First Citizens, the same…",
-    "url": "https://x.com/nolimitgains/status/2126540566791942553"
+    "account": "xapa03",
+    "text": "#ShortTermSaturday Episode 10 (11/28/26) \"Force and physics - Hammers and Magnets\"🧲 ✒️My dear followers, heading into my already 10th session of STS feels truly amazing and…",
+    "url": "https://x.com/thebtcfrontierx/status/2126481190953603215"
+   },
+   {
+    "account": "xapa03",
+    "text": "The Paranoia Indicator once again nailed the top and the price level of 58,000$ has been hitted. When Bitcoin touched 62,000$ the Paranoia Indicator went in to the overheated…",
+    "url": "https://x.com/xapa03/status/2126353064596525528"
    }
   ],
   "changed": [],
@@ -497,7 +502,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-26T09:37:37+00:00",
-   "distance_pct": 8.5,
+   "distance_pct": 9.8,
    "conditions": null,
    "evidence": "A reclaim of this could push Bitcoin to $65,000."
   },
@@ -508,7 +513,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-26T09:37:37+00:00",
-   "distance_pct": -3.2,
+   "distance_pct": -2.0,
    "conditions": null,
    "evidence": "A rejection here means BTC will likely drop below $58,000."
   },
@@ -519,7 +524,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-27T07:47:14+00:00",
-   "distance_pct": 1.1,
+   "distance_pct": 2.4,
    "conditions": null,
    "evidence": "It is possible for Bitcoin to revisit 60,600$ and then go up another time or rangebound here, jump out of the overheated zone and re enter it, happens sometimes."
   },
@@ -530,7 +535,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-27T07:47:14+00:00",
-   "distance_pct": 3.5,
+   "distance_pct": 4.7,
    "conditions": null,
    "evidence": "Bitcoin has managed to reclaim this area, which suggests that the $62,000 level will serve as the first major resistance zone."
   },
@@ -541,7 +546,7 @@
    "deadline": null,
    "time_horizon": null,
    "prediction_date": "2026-11-27T07:47:14+00:00",
-   "distance_pct": 7.7,
+   "distance_pct": 9.0,
    "conditions": "Once the area around 62k is secured as support",
    "evidence": "Once the area around 62k is secured as support, even if only temporarily, $64,000 to $65,000 would be the next target, before Bitcoin could potentially fall back toward $58,000."
   }
@@ -671,12 +676,12 @@
   "high": 1000000.0
  },
  "daily": {
-  "report_date": "2026-11-27",
-  "generated_at": "2026-11-28T05:01:37.002777+00:00",
+  "report_date": "2026-11-28",
+  "generated_at": "2026-11-28T11:01:35.810026+00:00",
   "written_by": "rules",
   "window": {
-   "from": "2026-11-27T05:01:36.970638+00:00",
-   "to": "2026-11-28T05:01:37.002777+00:00"
+   "from": "2026-11-27T11:01:35.785773+00:00",
+   "to": "2026-11-28T11:01:35.810026+00:00"
   },
   "key_points": [
    {
@@ -692,15 +697,15 @@
     ]
    },
    {
-    "text": "@tedpillows wechselt Liquidität-These: schrumpfend → expandierend",
+    "text": "@xapa03: #ShortTermSaturday Episode 10 (11/28/26) \"Force and physics - Hammers and Magnets\"🧲 ✒️My dear followers, heading into my already 10th session of STS feels truly amazing and…",
     "ids": [
-     "2125899162642469303"
+     "2126481190953603215"
     ]
    },
    {
-    "text": "Neue BTC-Prognose von @xapa03: BTC RANGE $60.600",
+    "text": "@xapa03: The Paranoia Indicator once again nailed the top and the price level of 58,000$ has been hitted. When Bitcoin touched 62,000$ the Paranoia Indicator went in to the overheated…",
     "ids": [
-     "2126221294329020562"
+     "2126353064596525528"
     ]
    },
    {
@@ -711,82 +716,18 @@
    }
   ],
   "sections": {
-   "TOP_DEVELOPMENTS": "@xapa03: The paranoia indicator captured the high with pinpoint accuracy and signaled us to enter a long position when the black bar returned to the green zone at $57,300. I gave you the… · @nolimitgains: BREAKING: Regulators just shut down Indiana's United Fidelity Bank, which had $5.9 billion in assets. It's the biggest US bank failure since April 2024. First Citizens, the same…",
-   "BTC_OUTLOOK": "Stimmung 50 % bullisch (8/12 Accounts mit Meinung). Median offener Kursziele $64.500. @xapa03: The paranoia indicator captured the high with pinpoint accuracy and signaled us to enter a long position when the black bar returned to the green zone at $57,300. I gave you the… · @nolimitgains: BREAKING: Regulators just shut down Indiana's United Fidelity Bank, which had $5.9 billion in assets. It's the biggest US bank failure since April 2024. First Citizens, the same…",
-   "MACRO_OUTLOOK": "@nolimitgains: BREAKING: Regulators just shut down Indiana's United Fidelity Bank, which had $5.9 billion in assets. It's the biggest US bank failure since April 2024. First Citizens, the same…",
-   "GLOBAL_LIQUIDITY": "Keine relevanten Aussagen.",
+   "TOP_DEVELOPMENTS": "@xapa03: #ShortTermSaturday Episode 10 (11/28/26) \"Force and physics - Hammers and Magnets\"🧲 ✒️My dear followers, heading into my already 10th session of STS feels truly amazing and… · @nolimitgains: BREAKING: Regulators just shut down Indiana's United Fidelity Bank, which had $5.9 billion in assets. It's the biggest US bank failure since April 2024. First Citizens, the same…",
+   "BTC_OUTLOOK": "Stimmung 50 % bullisch (8/12 Accounts mit Meinung). Median offener Kursziele $64.500. @xapa03: #ShortTermSaturday Episode 10 (11/28/26) \"Force and physics - Hammers and Magnets\"🧲 ✒️My dear followers, heading into my already 10th session of STS feels truly amazing and… · @nolimitgains: BREAKING: Regulators just shut down Indiana's United Fidelity Bank, which had $5.9 billion in assets. It's the biggest US bank failure since April 2024. First Citizens, the same…",
+   "MACRO_OUTLOOK": "@xapa03: #ShortTermSaturday Episode 10 (11/28/26) \"Force and physics - Hammers and Magnets\"🧲 ✒️My dear followers, heading into my already 10th session of STS feels truly amazing and… · @nolimitgains: BREAKING: Regulators just shut down Indiana's United Fidelity Bank, which had $5.9 billion in assets. It's the biggest US bank failure since April 2024. First Citizens, the same…",
+   "GLOBAL_LIQUIDITY": "@xapa03: #ShortTermSaturday Episode 10 (11/28/26) \"Force and physics - Hammers and Magnets\"🧲 ✒️My dear followers, heading into my already 10th session of STS feels truly amazing and…",
    "FED_RATES": "Keine relevanten Aussagen.",
-   "DXY_TREASURIES": "Keine relevanten Aussagen.",
-   "GOLD": "Keine relevanten Aussagen.",
-   "GEOPOLITICS": "@nolimitgains: The way Bloomberg found Nvidia chips in China is actually insane. A Chinese company used an Nvidia Blackwell rack as COLLATERAL for a loan and listed it in filings to regulators.…",
+   "DXY_TREASURIES": "@xapa03: #ShortTermSaturday Episode 10 (11/28/26) \"Force and physics - Hammers and Magnets\"🧲 ✒️My dear followers, heading into my already 10th session of STS feels truly amazing and…",
+   "GOLD": "@xapa03: #ShortTermSaturday Episode 10 (11/28/26) \"Force and physics - Hammers and Magnets\"🧲 ✒️My dear followers, heading into my already 10th session of STS feels truly amazing and…",
+   "GEOPOLITICS": "@xapa03: #ShortTermSaturday Episode 10 (11/28/26) \"Force and physics - Hammers and Magnets\"🧲 ✒️My dear followers, heading into my already 10th session of STS feels truly amazing and… · @nolimitgains: The way Bloomberg found Nvidia chips in China is actually insane. A Chinese company used an Nvidia Blackwell rack as COLLATERAL for a loan and listed it in filings to regulators.…",
    "CONSENSUS": "BTC: 50 % bullisch (4/8) · Liquidität: 78 % expandierend (7/9) · Fed: 62 % lockernd (5/8) · Geopolitik-Risiko: 100 % erhöht (8/8)",
    "CONTRARIAN": "@tylerdurden (BTC bärisch): Bitcoin bottom $50k ish.\n\n\n\nTail risk and capitulation then you’ll see $40-45k.\n\n\n\nStart your DCA. · @tedpillows (BTC bärisch): $BTC has massive spot bids sitting between $50K and $58K.\n\n\n\nThis is something we saw during July bottom, when buy order · @timevalueofbtc (Liquidität schrumpfend): Here is the paradox about bitcoin.\n\n\n\nIt looks like the worst asset in the world when liquidity falls. But when stocks r · @tedpillows (Fed straffend): Silver, gold, stocks, crypto, everything’s crashing like there’s no tomorrow.\n\n\n\nAnd if the Fed hikes rates in December,"
   },
-  "new_predictions": [
-   {
-    "id": 209,
-    "account": "xapa03",
-    "tweet_id": "2126221294329020562",
-    "prediction_date": "2026-11-27T07:47:14+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "RANGE",
-    "target": 60600.0,
-    "target_low": null,
-    "target_high": null,
-    "deadline": null,
-    "time_horizon": null,
-    "conditions": null,
-    "status": "OPEN",
-    "status_note": null,
-    "btc_price_when_prediction_made": 61564.0,
-    "evidence": "It is possible for Bitcoin to revisit 60,600$ and then go up another time or rangebound here, jump out of the overheated zone and re enter it, happens sometimes.",
-    "label": "BTC RANGE $60.600",
-    "url": "https://x.com/xapa03/status/2126221294329020562"
-   },
-   {
-    "id": 210,
-    "account": "xapa03",
-    "tweet_id": "2126221294329020562",
-    "prediction_date": "2026-11-27T07:47:14+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "RANGE",
-    "target": 62000.0,
-    "target_low": null,
-    "target_high": null,
-    "deadline": null,
-    "time_horizon": null,
-    "conditions": null,
-    "status": "OPEN",
-    "status_note": null,
-    "btc_price_when_prediction_made": 61564.0,
-    "evidence": "Bitcoin has managed to reclaim this area, which suggests that the $62,000 level will serve as the first major resistance zone.",
-    "label": "BTC RANGE $62.000",
-    "url": "https://x.com/xapa03/status/2126221294329020562"
-   },
-   {
-    "id": 211,
-    "account": "xapa03",
-    "tweet_id": "2126221294329020562",
-    "prediction_date": "2026-11-27T07:47:14+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "UP",
-    "target": null,
-    "target_low": 64000.0,
-    "target_high": 65000.0,
-    "deadline": null,
-    "time_horizon": null,
-    "conditions": "Once the area around 62k is secured as support",
-    "status": "OPEN",
-    "status_note": null,
-    "btc_price_when_prediction_made": 61564.0,
-    "evidence": "Once the area around 62k is secured as support, even if only temporarily, $64,000 to $65,000 would be the next target, before Bitcoin could potentially fall back toward $58,000.",
-    "label": "BTC UP $64.000–65.000",
-    "url": "https://x.com/xapa03/status/2126221294329020562"
-   }
-  ],
+  "new_predictions": [],
   "updated_predictions": [
    {
     "account": "xapa03",
@@ -827,129 +768,54 @@
     "tweet_id": "2125896964332232981",
     "url": "https://x.com/xapa03/status/2125896964332232981",
     "detected_at": "2026-11-27T11:01:40.933883+00:00"
-   },
-   {
-    "account": "killaxbt",
-    "change": "TARGET_CHANGED",
-    "note": "BTC RANGE $55.000–64.500 → BTC UP $126.000",
-    "tweet_id": "2125923307845222515",
-    "url": "https://x.com/killaxbt/status/2125923307845222515",
-    "detected_at": "2026-11-27T05:01:48.575135+00:00"
    }
   ],
-  "invalidated_predictions": [
-   {
-    "id": 205,
-    "account": "xapa03",
-    "tweet_id": "2125896964332232981",
-    "prediction_date": "2026-11-26T10:18:28+00:00",
-    "asset_or_metric": "BTC",
-    "prediction_type": "PRICE_TARGET",
-    "direction": "UP",
-    "target": 64000.0,
-    "target_low": null,
-    "target_high": null,
-    "deadline": "2026-11-30T10:18:28+00:00",
-    "time_horizon": "this week",
-    "conditions": null,
-    "status": "INVALIDATED",
-    "status_note": "Vom Autor zurückgenommen: https://x.com/xapa03/status/2126221294329020562",
-    "btc_price_when_prediction_made": 60499.2,
-    "evidence": "Bitcoin could reach $64,000 this week, with a potential peak of up to $66,000, though I consider the latter somewhat far-fetched.",
-    "label": "BTC UP $64.000 (this week)",
-    "url": "https://x.com/xapa03/status/2125896964332232981"
-   }
-  ],
-  "thesis_changes": [
-   {
-    "account": "tedpillows",
-    "topic": "LIQUIDITY",
-    "from": "contracting",
-    "to": "expanding",
-    "tweet_id": "2125899162642469303"
-   }
-  ],
+  "invalidated_predictions": [],
+  "thesis_changes": [],
   "since_morning": {
-   "since": "2026-11-27T06:00:00+00:00",
-   "relevant_posts": 5,
+   "since": "2026-11-28T06:00:00+00:00",
+   "relevant_posts": 2,
    "consensus_shifts": [],
-   "new_predictions": 3,
+   "new_predictions": 0,
    "posts": [
     {
-     "account": "nolimitgains",
-     "tweet_id": "2126540566791942553",
-     "timestamp": "2026-11-28T04:55:54+00:00",
-     "relevance": 86,
-     "summary": "BREAKING: Regulators just shut down Indiana's United Fidelity Bank, which had $5.9 billion in assets. It's the biggest US bank failure since April 2024. First Citizens, the same…",
-     "categories": [
-      "BTC_ETF",
-      "BANKING",
-      "REGULATION"
-     ],
-     "url": "https://x.com/nolimitgains/status/2126540566791942553"
-    },
-    {
-     "account": "nolimitgains",
-     "tweet_id": "2126374946091987417",
-     "timestamp": "2026-11-27T17:57:47+00:00",
-     "relevance": 62,
-     "summary": "The way Bloomberg found Nvidia chips in China is actually insane. A Chinese company used an Nvidia Blackwell rack as COLLATERAL for a loan and listed it in filings to regulators.…",
-     "categories": [
-      "EQUITIES",
-      "GEOPOLITICS",
-      "REGULATION"
-     ],
-     "url": "https://x.com/nolimitgains/status/2126374946091987417"
-    },
-    {
      "account": "xapa03",
-     "tweet_id": "2126221294329020562",
-     "timestamp": "2026-11-27T07:47:14+00:00",
+     "tweet_id": "2126481190953603215",
+     "timestamp": "2026-11-28T00:59:58+00:00",
      "relevance": 100,
-     "summary": "The paranoia indicator captured the high with pinpoint accuracy and signaled us to enter a long position when the black bar returned to the green zone at $57,300. I gave you the…",
-     "categories": [
-      "BITCOIN",
-      "BTC_PRICE",
-      "BTC_TECHNICAL"
-     ],
-     "url": "https://x.com/xapa03/status/2126221294329020562"
-    },
-    {
-     "account": "xapa03",
-     "tweet_id": "2126055259168760238",
-     "timestamp": "2026-11-26T20:47:28+00:00",
-     "relevance": 100,
-     "summary": "Happy Thanksgiving to each and everyone of you out there celebrating! As a sign of my gratitude, I have prepared a detailed update on $BTC and BTC/USM2 for you, my dear fellas.🦃…",
+     "summary": "#ShortTermSaturday Episode 10 (11/28/26) \"Force and physics - Hammers and Magnets\"🧲 ✒️My dear followers, heading into my already 10th session of STS feels truly amazing and…",
      "categories": [
       "BITCOIN",
       "BTC_PRICE",
       "BTC_TECHNICAL",
-      "M2"
+      "DXY",
+      "M2",
+      "GOLD",
+      "WAR"
      ],
-     "url": "https://x.com/thebtcfrontierx/status/2126055259168760238"
+     "url": "https://x.com/thebtcfrontierx/status/2126481190953603215"
     },
     {
      "account": "xapa03",
-     "tweet_id": "2125896964332232981",
-     "timestamp": "2026-11-26T10:18:28+00:00",
-     "relevance": 100,
-     "summary": "1. picture is 1W View: A few days ago I already showed you this pattern here, and it still seems to be valid. Bitcoin hit the maximum target I mentioned in advance exactly:…",
+     "tweet_id": "2126353064596525528",
+     "timestamp": "2026-11-27T16:30:50+00:00",
+     "relevance": 92,
+     "summary": "The Paranoia Indicator once again nailed the top and the price level of 58,000$ has been hitted. When Bitcoin touched 62,000$ the Paranoia Indicator went in to the overheated…",
      "categories": [
       "BITCOIN",
-      "BTC_PRICE",
       "BTC_TECHNICAL"
      ],
-     "url": "https://x.com/xapa03/status/2125896964332232981"
+     "url": "https://x.com/xapa03/status/2126353064596525528"
     }
    ]
   },
   "stats": {
-   "posts_new": 42,
+   "posts_new": 22,
    "posts_relevant": 2,
    "predictions_new": 0,
    "predictions_updated": 0,
    "invalidated": 0,
-   "posts_analysed": 42,
+   "posts_analysed": 22,
    "evaluated": 0
   }
  }
